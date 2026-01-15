@@ -1,0 +1,948 @@
+{
+  "query": "birth gestation weeks authors",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02983513",
+          "briefTitle": "Early Intervention in Preterm Infants: Short and Long Term Developmental Outcome After a Parental Training Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2023-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Weeks",
+          "maximumAge": "29 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06613386",
+          "briefTitle": "Effects of an Information-Based Discharge Service on Preterm Infants, Parents, and Hospitals"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Patient Discharge", "Infant, Premature"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "37 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04506541",
+          "briefTitle": "The Effects Of KC On Exclusively Breastfeeding And Baby's Growth And Development According To Attachment Theory"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breastfeeding, Exclusive", "Growth Acceleration", "Development, Infant", "Attachment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05990582",
+          "briefTitle": "The Alkmaar MLPTI Cohort Study: Outcomes at 9 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Developmental Delay", "Growth Delay"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03906435",
+          "briefTitle": "Preventing Vulnerable Child Syndrome in the NICU With Cognitive Behavioral Therapy (PreVNT Trial)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Premature Infant", "Mental Health Issue (E.G., Depression, Psychosis, Personality Disorder, Substance Abuse)", "Development, Child", "Parent-Child Relations"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05029778",
+          "briefTitle": "Arginine + Citrulline as a Supplement for Weight Gain in Fetus With a Decrease in Their Growth Curve"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Retardation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04006743",
+          "briefTitle": "The Nonpharmacological Methods in Reducing the Pain Caused by Orogastric Tube Insertion in Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Preterm", "Premature"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 187,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "32 Weeks",
+          "maximumAge": "34 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04759118",
+          "briefTitle": "The Effectiveness of Modified Childbirth Education Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nursing Caries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01388439",
+          "briefTitle": "Pharmacokinetics of Oseltamivir in Newborns and Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prematurity of Fetus"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03740568",
+          "briefTitle": "Effect of Intervention on Progesterone Levels Before Euploid Embryo Transfer in Pregnancy Outcomes."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infertility", "Progesterone", "Frozen Embryo Transfer", "Euploid Embryo Transfer", "Pregnancy Outcome", "Artificial Cycle", "Ongoing Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 598,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06876090",
+          "briefTitle": "Sarcopenia in Gestational Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sarcopenia", "Gestational Diabetes Mellitus (GDM)", "Pregnancy Complications", "Adverse Maternal and Neonatal Outcomes", "Cognitive Function"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05334264",
+          "briefTitle": "Prophylactic Cervical Cerclage in Twin Pregnancies With Non-shortened Cervix"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Twin Pregnancy, Antepartum Condition or Complication", "Cervical Cerclage"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 170,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06443736",
+          "briefTitle": "TRESPASS Clinical Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-19",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perineal Laceration, Tear, or Rupture During Delivery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06512025",
+          "briefTitle": "Implementation of a Psychoeducational Intervention in New Mothers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression, Postpartum", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02582567",
+          "briefTitle": "Effects of Exercise During Gestation on Maternal and Foetal Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "25 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04503915",
+          "briefTitle": "Estrogen Supplementation Mode in HRT-FET Cycle: a RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hormone Replacement Therapy", "Estrogen", "Live Birth Rate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 784,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "42 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06894446",
+          "briefTitle": "Efficacy and Safety of Numeta G13%E Compared to Compounded Parenteral Nutrition in Preterm Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malnutrition, Infant", "Enteral Feeding Intolerance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Hours",
+          "maximumAge": "24 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05910346",
+          "briefTitle": "The Effect of Training and Counseling Based on Mercer Maternal Role Theory on Maternal Attachment and Maternal Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Maternal-Fetal Relations", "Maternal Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04869007",
+          "briefTitle": "The Impact of Cesarean Scar Defects on the Success of Assisted Human Reproduction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean Section; Dehiscence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "43 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01989871",
+          "briefTitle": "Adjusted Individual Oral Feeding for Improving Short and Long Term Outcomes of Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Body Weight Changes", "Feeding and Eating Disorders of Childhood", "Breast Feeding", "Evoked Response Audiometry"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Weeks",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03219931",
+          "briefTitle": "NEOBIFI: Clinical Trial for the Prevention and/or Reduction of the Incidence of Colics in Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colic, Infantile", "Probiotic", "Gut Microbiome", "Bifidobacterium Breve"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Days",
+          "maximumAge": "15 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02357095",
+          "briefTitle": "UACE Followed by Uterine Suction Curettage for the Treatment of Caesarean Scar Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Caesarean Scar Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "22 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04729166",
+          "briefTitle": "The Management of Perceived Breastmilk Insufficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Milk Expression", "Breast Feeding, Exclusive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06922682",
+          "briefTitle": "Training About Sudden Infant Death Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sudden Infant Death"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05338164",
+          "briefTitle": "Prophylactic Cerclage for Twin Pregnancy With Shortened Cervix"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Twin Pregnancy With Antenatal Problem", "Cervical Shortening"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03626454",
+          "briefTitle": "Norepinephrine Addition in Spinal Anesthesia of Caesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypotension Drug-Induced"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07127601",
+          "briefTitle": "Comparative Study Between US Guided Erector Spinae and US Guided Cudal Epidural Block"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anesthesia", "Hernia, Inguinal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00634530",
+          "briefTitle": "Impact of a Nutritional Intervention Program for Weight Control During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Complications", "Weight Gain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 318,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06160037",
+          "briefTitle": "Influence of Prenatal and Early Childhood Home-Visiting by Nurses on Development of Chronic Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1138,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01462487",
+          "briefTitle": "Safety of Inhaled Zanamivir in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza, Human"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      }
+    ]
+  }
+}

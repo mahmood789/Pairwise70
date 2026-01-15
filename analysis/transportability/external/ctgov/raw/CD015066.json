@@ -1,0 +1,134 @@
+{
+  "query": "immediate attenuation personal rating",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05313529",
+          "briefTitle": "LIGHT-MCI Trial: GLP-1 Agonist, SGLT2 Inhibitor, and DPP-4 Inhibitor for MCI Remission in Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes Mellitus", "Mild Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 396,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06042530",
+          "briefTitle": "Cognitive Impairment and Fatigue After Mild to Moderate COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post COVID-19 Condition", "Cognitive Impairment", "Fatigue, Mental"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02359006",
+          "briefTitle": "The Effects of Minocycline in Opioid-maintained Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Opioid Dependence", "Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04652869",
+          "briefTitle": "Mindfulness + tDCS to Reduce Urgency Incontinence in Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence, Urge"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years"
+        }
+      }
+    ]
+  }
+}

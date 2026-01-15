@@ -1,0 +1,384 @@
+{
+  "query": "adverse dropouts response antidepressant",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06689254",
+          "briefTitle": "REVERSE: Improving Treatment-resistant Post Traumatic Stress Disorder (PTSD) with Glucocorticoid Receptor (GR) Antagonism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Treatment-resistant PTSD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06299319",
+          "briefTitle": "Feasibility, Clinical Effects, and Safety of Psilocybin-assisted Psychotherapy for Treatment-resistant OCD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obsessive-Compulsive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06922812",
+          "briefTitle": "IWLS for Major Depressive Disorder: An Open-Label Study of Safety, Tolerability, and Efficacy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder (MDD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07014241",
+          "briefTitle": "Assessment of Whether Telehealth Family Psychoeducation for Major Depressive Disorder is Doable"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder (MDD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07247006",
+          "briefTitle": "Ketamine-Assisted Psychotherapy for Treatment-Resistant Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Treatment Resistant Depression (TRD)", "Chronic Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06713616",
+          "briefTitle": "PCORI Comparative Effectiveness Study-Esketamine (Spravato) vs. Ketamine-Equivalence Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02191124",
+          "briefTitle": "The Measurement-based Care in Patients With Depressive Disorder: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 164,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05701345",
+          "briefTitle": "Study of Virtual Reality-based Medical Device for Patients with Depressive Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depressive Disorder", "Major Depressive Disorder", "Depressive Episode"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06443242",
+          "briefTitle": "Efficacy and Safety of Low-dose Laser Acupuncture on Treating Insomnia Associated With Major Depressive Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Major Depressive Disorder", "Insomnia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07110831",
+          "briefTitle": "Disposition Kinetics of Dolutegravir Among People Living With HIV With Major Depression in Nigeria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-14",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "HIV"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05046405",
+          "briefTitle": "Home-based Transcranial Direct Current Stimulation in Postpartum Depression: the Feasibility Study and Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postnatal Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01852383",
+          "briefTitle": "Duloxetine Treatment in Elderly With Dysthymia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Dysthymic Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "95 Years"
+        }
+      }
+    ]
+  }
+}

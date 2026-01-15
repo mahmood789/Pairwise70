@@ -1,0 +1,38 @@
+{
+  "query": "dialysis syndrome dysequilibrium adverse",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06987604",
+          "briefTitle": "Continuous Renal Replacement Therapy Intensity in Hyperammonemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-05-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Liver Failure", "Acute on Chronic Liver Failure (ACLF)", "Acute Kidney Injury", "Ammonia Metabolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

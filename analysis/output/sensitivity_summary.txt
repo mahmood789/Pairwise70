@@ -1,0 +1,35 @@
+Sensitivity analysis (fixed vs random, influence, leave-one-out)
+Analyses limited to those with pre-2005 data and k_post >= 2
+
+  min_k_post n_analyses n_with_influential prop_delta_i2_gt0 median_delta_i2
+1          2       2957               1045         0.2286101               0
+2          5       1601                634         0.2479700               0
+3         10        837                356         0.2473118               0
+  mean_delta_i2 prop_delta_tau2_gt0 median_delta_tau2 mean_delta_tau2
+1    -1.1293223           0.2343591                 0      0.85117684
+2    -0.1791242           0.2517177                 0      0.55823523
+3    -0.1899520           0.2616487                 0      0.04070056
+  median_delta_effect_re median_delta_effect_fe
+1           -0.001743821           -0.001515460
+2           -0.002557244           -0.002227756
+3           -0.003055489           -0.002771637
+  median_max_abs_delta_effect_loo_all median_max_abs_delta_effect_loo_post
+1                          0.07004917                           0.07204291
+2                          0.04943519                           0.06001447
+3                          0.03794747                           0.04631567
+  median_max_abs_delta_i2_loo_all median_max_abs_delta_i2_loo_post
+1                               0                                0
+2                               0                                0
+3                               0                                0
+  mean_mean_cook_pre mean_mean_cook_post mean_mean_cook_delta
+1         0.20029904          0.33275079          -0.13245175
+2         0.07561273          0.06197419           0.01363854
+3         0.02383267          0.02982732          -0.00599465
+  mean_prop_influ_pre mean_prop_pre_overall mean_prop_influ_minus_overall
+1           0.3499586             0.3536464                  -0.003687805
+2           0.2281314             0.2577947                  -0.029663253
+3           0.1776741             0.2169219                  -0.039247812
+  prop_influ_pre_gt_overall
+1                 0.3856459
+2                 0.2917981
+3                 0.2752809

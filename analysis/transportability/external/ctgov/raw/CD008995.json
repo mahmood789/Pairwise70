@@ -1,0 +1,128 @@
+{
+  "query": "birth clinical colonization genital",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03211156",
+          "briefTitle": "Treatment of Gardnerella Vaginalis Vaginal Colonization With Amoxicillin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vaginitis Gardnerella"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06336148",
+          "briefTitle": "A Phase 1a/1b Study of ACTM-838 in Patients With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Solid Tumor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00136370",
+          "briefTitle": "Prevention of Perinatal Sepsis (PoPS): Evaluation of Chlorhexidine Wipes of Birth Canal and Newborn"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-04"
+          },
+          "completionDateStruct": {
+            "date": "2007-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant, Newborn, Diseases", "Sepsis", "Puerperal Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00197691",
+          "briefTitle": "Botswana Pediatric Respiratory Disease and Bloodstream Infection Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-03"
+          },
+          "completionDateStruct": {
+            "date": "2005-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Respiratory Tract Diseases", "Sepsis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      }
+    ]
+  }
+}

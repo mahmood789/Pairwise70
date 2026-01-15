@@ -1,0 +1,196 @@
+{
+  "query": "analysis subgroup stratified statin",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02344290",
+          "briefTitle": "Evaluating the Use of Pitavastatin to Reduce the Risk of Cardiovascular Disease in HIV-Infected Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7769,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00404599",
+          "briefTitle": "Oxidative Stress Lowering Effect of Simvastatin and Atorvastatin."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04078737",
+          "briefTitle": "Clopidogrel With Aspirin in High-risk Patients With Acute Non-disabling Cerebrovascular Events II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Transient Ischemic Attack"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6412,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00996645",
+          "briefTitle": "Optimizing Audit and Feedback for Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07301372",
+          "briefTitle": "Evaluation Study of Early Administration of Evolocumab After Thrombolysis in Patients With Atherosclerotic Acute Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05175651",
+          "briefTitle": "Prospective Electronic Polygenic Risk Study - Second Phase"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Glaucoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "query": "uptake vaccine years reception",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02883972",
+          "briefTitle": "Childhood Influenza Immunisation Invitation Trial in Schools"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza, Human"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "11 Years"
+        }
+      }
+    ]
+  }
+}

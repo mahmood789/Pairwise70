@@ -1,0 +1,2238 @@
+{
+  "query": "analysis subgroup death egfr",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01250119",
+          "briefTitle": "A Study to Assess the Incidence of EGFR Mutation in Patients With Newly Diagnosed Locally Advanced or Metastatic Non-Small Cell Lung Cancer in the UK, And of Tarceva (Erlotinib) as First-Line Therapy in EGFR Mutation Positive Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Squamous Non-Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 688,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07179445",
+          "briefTitle": "Analysis of Deoxyribonucleic Acid and Ribonucleic Acid Next-Generation Sequencing in Non-Small Cell Lung Cancer Patients Without Pathological Complete Response Following Neoadjuvant Immunotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "NSCLC"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07191405",
+          "briefTitle": "Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-18",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Immunotherapy", "Chemotherapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 156,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02474355",
+          "briefTitle": "Real World Treatment Study of AZD9291 for Advanced/Metastatic EGFR T790M Mutation NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3017,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "130 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03721120",
+          "briefTitle": "Evaluation of the Feasibility and Clinical Relevance of Liquid Biopsy in Patients With Suspicious Metastatic Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 319,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07303218",
+          "briefTitle": "The HER Project: HRD in EGFR-mutated NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["EGFR", "Non Small Cell Lung Cancer", "Homologous Recombination Deficiency", "PARP Inhibitor"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01288560",
+          "briefTitle": "IMAGE-HF Project I-A: Cardiac Imaging in Ischemic Heart Failure (AIMI-HF)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Coronary Artery Disease", "Ischemic Cardiomyopathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1390,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00265317",
+          "briefTitle": "A Study In Patients With Non-Small Cell Lung Cancer Testing If Erlotinib Plus SU011248 (Sunitinib) Is Better Than Erlotinib Alone"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03130790",
+          "briefTitle": "Varlitinib in Combination With mFOLFOX6 for Advanced or Metastatic Gastric Cancer (First Line)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastric Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05380063",
+          "briefTitle": "Ticagrelor-based De-escalation of Dual Antiplatelet Therapy After Coronary Artery Bypass Grafting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Coronary Artery Bypass Grafting", "Dual Antiplatelet Therapy", "Bleeding", "Myocardial Infarction", "Myocardial Ischemia", "Angina Pectoris"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02741323",
+          "briefTitle": "Impact of CCR5 Blockade in HIV+ Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Kidney Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03376009",
+          "briefTitle": "A Study of Novel Biomarkers of Kidney Dysfunction at Liver Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-09-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Transplantation", "Liver Transplant; Complications", "Kidney Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06055881",
+          "briefTitle": "Primary Breast Oligoprogressive Sites Treated With Radiotherapy to Obviate the Need to Change Systemic Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Carcinoma", "Anatomic Stage IV Breast Cancer AJCC v8", "Metastatic Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01775943",
+          "briefTitle": "Efficacy of EGFR TKIs in Patients With Rare EGFR-mutated NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Neoplasms"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02513394",
+          "briefTitle": "PALbociclib CoLlaborative Adjuvant Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5796,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05214872",
+          "briefTitle": "The Impact of Selected Factors on the Cardiovascular System in Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atherosclerosis of Artery", "Inflammation", "Chronic Kidney Diseases", "Dialysis; Complications", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03439345",
+          "briefTitle": "Lowering Events in Non-proliferative Retinopathy in Scotland"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Retinopathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00452244",
+          "briefTitle": "Gefitinib With or Without Simvastatin in Non-Small Cell Lung Cancer (NSCLC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06369285",
+          "briefTitle": "A Study of Alisertib in Combination With Endocrine Therapy in Patients With HR-positive, HER2-negative Recurrent or Metastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hormone Receptor Positive HER-2 Negative Breast Cancer", "Metastatic Breast Cancer", "Recurrent Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03280563",
+          "briefTitle": "A Study of Multiple Immunotherapy-Based Treatment Combinations in Hormone Receptor (HR)-Positive Human Epidermal Growth Factor Receptor 2 (HER2)-Negative Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01532089",
+          "briefTitle": "Erlotinib Hydrochloride With or Without Bevacizumab in Treating Patients With Stage IV Non-small Cell Lung Cancer With Epidermal Growth Factor Receptor Mutations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["EGFR Exon 19 Deletion Mutation", "EGFR NP_005219.2:p.L858R", "Lung Non-Squamous Non-Small Cell Carcinoma", "Stage IV Lung Non-Small Cell Cancer AJCC v7"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04402190",
+          "briefTitle": "Hypotonic Hyponatremia: Criteria for the Correct Classification of Its Etiology and of Patient Volume Status"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hyponatremia", "Hyponatremia With Extracellular Fluid Depletion", "Hyponatremia With Normal Extracellular Fluid Volume", "Hyponatremia With Excess Extracellular Fluid Volume"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 123,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04105374",
+          "briefTitle": "Testing the Addition of an Anti-cancer Viral Gene Therapy, Toca 511/Toca FC, to the Usual Treatment (Temozolomide and Radiation Therapy) for Newly Diagnosed Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anaplastic Astrocytoma", "Glioblastoma", "Oligodendroglioma", "Supratentorial Glioblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03744910",
+          "briefTitle": "Clazakizumab for the Treatment of Chronic Active Antibody Mediated Rejection in Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Antibody-mediated Rejection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 194,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01985360",
+          "briefTitle": "ISCHEMIA-Chronic Kidney Disease Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2020-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Diseases", "Coronary Artery Disease", "Heart Diseases", "Myocardial Ischemia", "Kidney Disease", "End Stage Renal Failure on Dialysis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 777,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01858389",
+          "briefTitle": "A Study Of Dacomitinib (PF-00299804) In Patients With Advanced Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03594110",
+          "briefTitle": "EMPA-KIDNEY (The Study of Heart and Kidney Protection With Empagliflozin)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Kidney Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6609,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05845450",
+          "briefTitle": "Pre-operative Targeted Treatments in Molecularly Selected Resectable Colorectal Cancer (UNICORN)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Resectable Colorectal Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00075270",
+          "briefTitle": "Paclitaxel With / Without GW572016 (Lapatinib) As First Line Therapy For Women With Advanced Or Metastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-01"
+          },
+          "completionDateStruct": {
+            "date": "2012-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasms, Breast"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 580,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07257653",
+          "briefTitle": "The Safety and Efficacy of Cetuximab Beta Plus Fruquintinib With or Without Immune Checkpoint Inhibitorrs in First-line Treatment of RAS/BRAF Wild Type Unresectable Metastatic Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Neoplasms", "RAS", "BRAF", "Cetuximabβ", "Fruquintinib"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05640180",
+          "briefTitle": "An Observational Study Called FLAMINgO to Learn More About the Treatment Combination of Finerenone and SGLT2 Inhibitors in People With Long-term Kidney Disease (Chronic Kidney Disease) Together With Type 2 Diabetes by Using Routine Medical Care Data and Past Clinical Study Results"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Kidney Disease", "Type 2 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 17847,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00769067",
+          "briefTitle": "A Randomized Trial Of PF-00299804 Taken Orally Versus Erlotinib Taken Orally For Treatment Of Advanced Non-Small Cell Lung Cancer That Has Progressed After One Or Two Prior Chemotherapy Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-11"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02369549",
+          "briefTitle": "Micro-Particle Curcumin for the Treatment of Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Kidney Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 518,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01526928",
+          "briefTitle": "Study to Evaluate Safety, Pharmacokinetics, and Efficacy of Rociletinib (CO-1686) in Previously Treated Mutant Epidermal Growth Factor Receptor (EGFR) in Non-Small Cell Lung Cancer (NSCLC) Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Locally Advanced or Metastatic Non Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 612,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00855894",
+          "briefTitle": "A Study of the Combination of Erlotinib and Pertuzumab in Patients With Relapsed Non-small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02343406",
+          "briefTitle": "Adult Study: ABT-414 Alone or ABT-414 Plus Temozolomide vs. Lomustine or Temozolomide for Recurrent Glioblastoma Pediatric Study: Evaluation of ABT-414 in Children With High Grade Gliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 266,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01045421",
+          "briefTitle": "Alisertib in Adults With Nonhematological Malignancies, Followed by Alisertib in Lung, Breast, Head and Neck or Gastroesophageal Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Nonhematological Malignancies", "Non-Small Cell Lung Cancer", "Small Cell Lung Cancer", "Metastatic Breast Cancer", "Head and Neck Squamous Cell Carcinoma", "Gastroesophageal Adenocarcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 273,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06597084",
+          "briefTitle": "Anti-epileptogenic Effects of Eslicarbazepine Acetate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post Stroke Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 129,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07077616",
+          "briefTitle": "Clinical Study for the Safety and Therapeutic Efficacy of the AI-QMMM Designed TamavaqTM Personalised Vaccine in Patients With Newly Diagnosed Glioma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02195518",
+          "briefTitle": "Tenofovir Disoproxil Fumarate (TDF) 300mg 3 Years RD Therapy Chinese Chronic Hepatitis B (CHN) CHB Multiple Nucleos(t)Ide Analogues (NAs) Failure Points Pts PH4 PMS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatitis B, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 213,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02443155",
+          "briefTitle": "A Clinical Proof-of-principle Trial in Adult Subjects With Newly Diagnosed Type 1 Diabetes Mellitus Investigating the Effect of NNC0114-0006 and Liraglutide on Preservation of Beta-cell Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 308,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07077447",
+          "briefTitle": "The Danish Bladder Cancer Group 23 Study - A European Study on Cancer in the Upper Urinary Tract"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2040-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Upper Urinary Tract Urothelial Carcinoma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03981419",
+          "briefTitle": "A Study to Evaluate the Effect of GRF6021 on Postoperative Recovery Following Primary Hip or Knee Arthroplasty"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Recovery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01950819",
+          "briefTitle": "Advancing Renal TRANSplant eFficacy and Safety Outcomes With an eveRolimus-based regiMen (TRANSFORM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Renal Disease (ESRD)", "Chronic Kidney Disease (CKD)", "Hemodialysis", "Renal Replacement Therapy", "Renal Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2037,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00946712",
+          "briefTitle": "S0819: Carboplatin and Paclitaxel With or Without Bevacizumab and/or Cetuximab in Treating Patients With Stage IV or Recurrent Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07-15"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Recurrent Large Cell Lung Carcinoma", "Recurrent Lung Adenocarcinoma", "Recurrent Squamous Cell Lung Carcinoma", "Stage IV Large Cell Lung Carcinoma", "Stage IV Lung Adenocarcinoma", "Stage IV Squamous Cell Lung Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1333,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00883779",
+          "briefTitle": "A Study of Tarceva (Erlotinib) or Placebo in Combination With Platinum-Based Therapy as First Line Treatment in Patients With Advanced or Recurrent Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Squamous Non-Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 451,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06382948",
+          "briefTitle": "Elacestrant + Everolimus in Patients ER+/HER2-, ESR1mut, Advanced Breast Cancer Progressing to ET and CDK4/6i."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Breast Cancer", "ER-positive Breast Cancer", "HER2-negative Breast Cancer", "ESR1 Gene Mutation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04035486",
+          "briefTitle": "A Study of Osimertinib With or Without Chemotherapy as 1st Line Treatment in Patients With Mutated Epidermal Growth Factor Receptor Non-Small Cell Lung Cancer (FLAURA2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 587,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "110 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06065748",
+          "briefTitle": "A Study to Evaluate Efficacy and Safety of Giredestrant Compared With Fulvestrant (Plus a CDK4/6 Inhibitor), in Participants With ER-Positive, HER2-Negative Advanced Breast Cancer Resistant to Adjuvant Endocrine Therapy (pionERA Breast Cancer)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-02-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Estrogen Receptor-Positive, HER2-Negative Advanced Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1050,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06083168",
+          "briefTitle": "Cardiovascular Disease in Patients With Chronic Kidney Disease: Polish Kidney- Heart Project"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2036-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Kidney Disease", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 6000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07042295",
+          "briefTitle": "Treatment With Amivantamab and Hyaluronidase or Cetuximab for Advanced Skin Cancer in People With a Weakened Immune System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-03-22",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Locally Recurrent Skin Squamous Cell Carcinoma", "Metastatic Skin Squamous Cell Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05399459",
+          "briefTitle": "Efficacy and Safety Study of Rimegepant for the Acute Treatment of Migraine in Japanese Subjects (Japan Only)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Migraine"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 897,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02542293",
+          "briefTitle": "Study of Durvalumab With Tremelimumab Versus SoC as 1st Line Therapy in Metastatic Non Small-Cell Lung Cancer (NSCLC) (NEPTUNE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non Small Cell Lung Carcinoma NSCLC"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 953,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "130 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04741074",
+          "briefTitle": "Effect of Subcutaneous Semaglutide on Kidney Transplant Candidacy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["CKD", "Diabetic Kidney Disease", "Type 2 Diabetes Mellitus in Obese", "Obesity", "Severe Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00320385",
+          "briefTitle": "Lapatinib In Combination With Trastuzumab Versus Lapatinib Monotherapy In Subjects With HER2-positive Metastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-11"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasms, Breast"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 296,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01714440",
+          "briefTitle": "Genomics of Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["KidneyTransplant Recipients", "Simultaneous Kidney/Pancreas Recipients", "Kidney Transplant Donor"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1552,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07093762",
+          "briefTitle": "Efficacy and Safety Analysis of First-Line ABCP Therapy in Advanced SMARCA4-Mutated NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04413617",
+          "briefTitle": "TO ASSESS THE EFFICACY AND SAFETY OF PF-06650833, PF-06651600, AND TOFACITINIB ALONE AND IN COMBINATION IN PARTICIPANTS WITH ACTIVE RHEUMATOID ARTHRITIS WITH AN INADEQUATE RESPONSE TO METHOTREXATE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatoid Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 460,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00553254",
+          "briefTitle": "Trial Of PF-00299804 In Patients With Advanced Refractory Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-07-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non Small Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01035255",
+          "briefTitle": "This Study Will Evaluate the Efficacy and Safety of LCZ696 Compared to Enalapril on Morbidity and Mortality of Patients With Chronic Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Failure With Reduced Ejection Fraction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8442,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03847545",
+          "briefTitle": "Muscle Strain in Multiple Sclerosis Patients Measured by Ultrasound Speckle Tracking Technique"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02083653",
+          "briefTitle": "Sym004 vs Standard of Care in Subjects With Metastatic Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 254,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02338167",
+          "briefTitle": "Praegnant Breast Cancer: Early/Advanced/Metastatic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2030-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced/Metastatic Breast Cancer", "Breast Cancer (Early Breast Cancer)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 13500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05051592",
+          "briefTitle": "Role of Circulating Tumour DNA Testing in Assessing for Alterations of Primary Anti-EGFR Resistance in RAS/RAF Wild-type Metastatic Colorectal Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07287800",
+          "briefTitle": "TRT as an Adjunctive ERAS Therapy in ESRD Patients Undergoing Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypogonadism, Male", "End Stage Renal Disease (ESRD)", "Kidney Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04576455",
+          "briefTitle": "A Study Evaluating the Efficacy and Safety of Giredestrant Compared With Physician's Choice of Endocrine Monotherapy in Participants With Previously Treated Estrogen Receptor-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer (acelERA Breast Cancer)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Estrogen Receptor-Positive, HER2-Negative, Locally Advanced or Metastatic Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 303,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03258554",
+          "briefTitle": "Radiation Therapy With Durvalumab or Cetuximab in Treating Patients With Locoregionally Advanced Head and Neck Cancer Who Cannot Take Cisplatin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8", "Head and Neck Squamous Cell Carcinoma", "Hypopharyngeal Squamous Cell Carcinoma", "Laryngeal Squamous Cell Carcinoma", "Oral Cavity Squamous Cell Carcinoma", "Oropharyngeal Squamous Cell Carcinoma", "Pathologic Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8", "Squamous Cell Carcinoma of Unknown Primary", "Stage III Hypopharyngeal Carcinoma AJCC v8", "Stage III Laryngeal Cancer AJCC v8", "Stage III Lip and Oral Cavity Cancer AJCC v8", "Stage III Oropharyngeal (p16-Negative) Carcinoma AJCC v8", "Stage IVA Hypopharyngeal Carcinoma AJCC v8", "Stage IVA Laryngeal Cancer AJCC v8", "Stage IVA Lip and Oral Cavity Cancer AJCC v8", "Stage IVA Oropharyngeal (p16-Negative) Carcinoma AJCC v8", "Stage IVB Hypopharyngeal Carcinoma AJCC v8", "Stage IVB Laryngeal Cancer AJCC v8", "Stage IVB Lip and Oral Cavity Cancer AJCC v8", "Stage IVB Oropharyngeal (p16-Negative) Carcinoma AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 196,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05431712",
+          "briefTitle": "Impact of Donor-Specific Antibodies in (Highly-) Immunized Living Donor Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Failure"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05374291",
+          "briefTitle": "The RENAL LIFECYCLE Trial: A RCT to Assess the Effect of Dapagliflozin on Renal and Cardiovascular Outcomes in Patients With Severe CKD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Disease, Chronic", "Renal Transplant Failure", "Heart Failure", "Kidney Failure", "Death"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03809988",
+          "briefTitle": "PALbociclib Rechallenge in horMone Receptor-posItive/HER2- Negative Advanced Breast Cancer (PALMIRA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Advanced Breast Cancer", "Hormone Receptor Positive Tumor", "Human Epidermal Growth Factor 2 Negative Carcinoma of Breast"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 198,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02414139",
+          "briefTitle": "Study of Oral cMET Inhibitor INC280 in Patients With EGFR Wild-type (wt), Advanced Non-small Cell Lung Cancer (NSCLC) (Geometry Mono-1)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 373,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04193007",
+          "briefTitle": "The Role of Brain Radiotherapy in Patients With Asymptomatic Brain Metastasis in the Era of Targeted Therapy for NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non Small Cell Lung Cancer", "Brain Metastases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

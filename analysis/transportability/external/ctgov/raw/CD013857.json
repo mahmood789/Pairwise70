@@ -1,0 +1,37 @@
+{
+  "query": "incidence amputation injury localised",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06631378",
+          "briefTitle": "Transverse Versus Longitudinal Groin Incision in Vascular Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Peripheral Arterial Disease(PAD)", "Aneurysmal Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 232,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      }
+    ]
+  }
+}

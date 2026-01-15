@@ -1,0 +1,3843 @@
+{
+  "query": "vitamin mixed follow levels",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04761588",
+          "briefTitle": "Evaluation of TYR Sphere in France"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tyrosinemia", "AKU"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06352749",
+          "briefTitle": "Face-to-face vs Online Physical Exercise in Seniors Living in Nursing Homes (ExerMOT-NH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Physical Function", "Cognitive Decline", "Psychological Well-Being"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07177781",
+          "briefTitle": "Effects of Wild Blueberry Consumption on Brain Function in Elderly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Insulin-sensitivity", "Brain Vascular Function", "Cerebral Blood Flow"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02529423",
+          "briefTitle": "Multi-country Project on the Role of Diet, Food-related Behavior, and Obesity in the Prevention of Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06050668",
+          "briefTitle": "Essential Amino Acid Supplementation for Femoral Fragility Fractures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Femoral Fracture", "Fragility Fracture", "Muscle Atrophy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03313076",
+          "briefTitle": "Vitamin D and n-3 Polyunsaturated Fatty Acids (PUFAs) to Prevent Chronic Pain Following Major Thermal Burn Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Pain Following Thermal Burn Injury"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00562835",
+          "briefTitle": "Steroids in Patients With Early ARDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Lung Injury", "ARDS, Human"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00887354",
+          "briefTitle": "A Study That Will Compare the Effect of Two Drugs on Participants With Low Bone Mass and a Recent Hip Fracture"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoporosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 224,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05343611",
+          "briefTitle": "Chocolate and Physical Exercise to Reduce Malnutrition in Pre-dementia Aged People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Dementia, Mild", "Dementia Moderate", "Dementia Senile", "Malnutrition", "Deficiency Nutritional", "Deficiency Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06465602",
+          "briefTitle": "Nicotinamide Supplementation Improves Physical Performance in Older Adults at Risk of Falls"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Frailty", "Fall", "Frailty Syndrome", "Falls"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06301737",
+          "briefTitle": "Lidocaine Injection: A Nove Block Therapy for Stroke-related Dysphagia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dysphagia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03148483",
+          "briefTitle": "Calcium-vitamin D & Periodontal Therapy for Improving Metabolic and Inflammatory Profile Among Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Periodontitis", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07292610",
+          "briefTitle": "Impact of Nut Consumption on Mental Health in Young Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression Disorder", "Anxiety", "Mental Health", "Stress", "Cognition", "BDNF", "General Wellbeing"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 135,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03410823",
+          "briefTitle": "PUSH Plus Protein Pilot for Hip Fracture Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hip Fracture"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05619289",
+          "briefTitle": "Immune Mechanisms of Vitamin D to Reduce Chronic Pain After Burn"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Burn Injury", "Chronic Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07030738",
+          "briefTitle": "Plant vs Animal-based Protein Sources as an Anabolic and Metabolic-protective Options for SO in Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sarcopenic Obesity", "Obesity and Obesity-related Medical Conditions", "Obesity (Body Mass Index &gt;30 kg/m2)", "Sarcopenia", "Muscle Loss", "Aging"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06347250",
+          "briefTitle": "A Nerve Block Therapy for Bulbar Palsy Pharyngeal Dysphagia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bulbar Palsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01561508",
+          "briefTitle": "Effect of GABA Supplementation in the Progression of Type 1 Diabetes in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04380142",
+          "briefTitle": "Study Comparing Continuous Subcutaneous Infusion Of ABBV-951 With Oral Carbidopa/Levodopa Tablets For Treatment Of Motor Fluctuations In Adult Participants With Advanced Parkinson's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson's Disease (PD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 174,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02367287",
+          "briefTitle": "USDA Western Human Nutrition Research Center (WHNRC) Cross-Sectional Nutritional Phenotyping Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 393,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00471237",
+          "briefTitle": "A Phase II Study Evaluating SB-751689 in Post-Menopausal Women With Osteoporosis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2008-12-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoporosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 564,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06023082",
+          "briefTitle": "A Single-Group Study to Examine the Efficacy of a Gut Health Supplement to Increase Metabolism, Improve Gut Health, and Support Weight Management"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gut Health", "Metabolism", "Weight Loss", "Energy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05030129",
+          "briefTitle": "ERG/5-HTP in Fragile X Syndrome (FXS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fragile X Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04366401",
+          "briefTitle": "Efficacy of Prebiotic and Probiotic Dietary Modulation in Schizophrenic Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Schizophrenia and Related Disorders", "Diet Habit"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04612088",
+          "briefTitle": "Intervention for Multivitamin Adherence on Bariatric Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adherence, Medication"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02162498",
+          "briefTitle": "Study to Determine Impact of Feeding Buddies on Adherence to WHO PMTCT Guidelines in South Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV", "PMTCT"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 932,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06457412",
+          "briefTitle": "Programme for Intervention in Paediatric Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity, Childhood"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06569264",
+          "briefTitle": "Evaluation of Dentin Graft and I-PRF With and Without Vitamin C for Post-extraction Socket Preservation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Socket Preservation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01572090",
+          "briefTitle": "Comparison of Weight Loss Induced by Bariatric Surgery vs Conventional Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04140136",
+          "briefTitle": "The Efficacy and Safety of Vitamin E Mixed Tocotrienols In Patients With Amyotrophic Lateral Sclerosis (ALS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Amyotrophic Lateral Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06465810",
+          "briefTitle": "Non-interventional Study of Patients With Transthyretin (ATTR) Amyloidosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Transthyretin Amyloidosis", "ATTR-CM", "ATTRv-PN", "ATTR", "ATTR-Mixed", "hATTR"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1850,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "130 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05374837",
+          "briefTitle": "Mobile Messaging for Improved Nutrition"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diet, Healthy", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 488,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "23 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03573570",
+          "briefTitle": "Reducing Anemia Through Food Fortification at Scale"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03337802",
+          "briefTitle": "Effect of Mediterranean Diet During Pregnancy on the Onset of Overweight and Obesity in the Offspring"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Food Allergy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02457247",
+          "briefTitle": "Calcichew D3 Preference Study in Participants Eligible for Calcium and Vitamin D Supplementation."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Calcium and Vitamin D Deficiencies"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 276,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03874988",
+          "briefTitle": "Building an Evidence Base for Weight Loss Strategies Among Those With Chronic SCI-The GLB-SCI+"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Spinal Cord Injuries", "Obesity", "Weight Loss", "Diet Modification"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02336087",
+          "briefTitle": "Gemcitabine Hydrochloride, Paclitaxel Albumin-Stabilized Nanoparticle Formulation, Metformin Hydrochloride, and a Standardized Dietary Supplement in Treating Patients With Pancreatic Cancer That Cannot be Removed by Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pancreatic Adenocarcinoma", "Unresectable Pancreatic Carcinoma", "Stage III Pancreatic Cancer AJCC v6 and v7", "Stage IV Pancreatic Cancer AJCC v6 and v7"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02732444",
+          "briefTitle": "Erythrocytes Membrane Stability in COPD Patients in Long-Term Home Oxygen Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Disease, Chronic Obstructive"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06729008",
+          "briefTitle": "Effect of Diabetes-Specific Nutrition Formula on the Metabolic Parameters of Filipino Adults with Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05103709",
+          "briefTitle": "Effect of Multiple Micronutrient Fortified Bread Consumption on Iron Deficiency Anemia in Women of Reproductive Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Deficiency Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 351,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06249464",
+          "briefTitle": "Effect of Stellate Ganglion Block on Pharyngeal Dysphagia After Cerebralvascular Accident"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dysphagia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00909974",
+          "briefTitle": "Effect of Prenatal Nutritional Supplementation on Birth Outcome in Hounde District, Burkina Faso"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intrauterine Growth Retardation", "Low Birth Weight"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1302,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01634009",
+          "briefTitle": "Soy-Ready to Use Therapeutic Food (RUTF) in Severely Malnourished Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Acute Malnutrition", "Severe Wasting", "Community Based Nutritional Management"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 260,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02682017",
+          "briefTitle": "Effect of Consuming Pork From Seaweed Extract Fed Animals on Antioxidant Status"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Antioxidant Status, Inflammation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05830708",
+          "briefTitle": "The Efficacy of Probiotics for the Treatment of Alcohol Use Disorder Among Adult Males"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04474626",
+          "briefTitle": "Isoquercetin in Sickle Cell Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sickle Cell Disease", "Sickle Cell-Beta0-Thalassemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05270343",
+          "briefTitle": "Early High-Dose Vitamin D and Residual β-Cell Function in Pediatric Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 198,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03324880",
+          "briefTitle": "A Study to Learn if Recombinant Human Parathyroid Hormone [rhPTH(1-84)] Can Improve Symptoms and Metabolic Control in Adults With Hypoparathyroidism (BALANCE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypoparathyroidism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06100146",
+          "briefTitle": "Effectiveness of Fortification With Folic Acid and Vitamin B12 Among Teenage Girls"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Folate Deficiency", "Vitamin B 12 Deficiency", "Anemia, Megaloblastic", "Cognitive Development", "Depressive Symptoms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 474,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06189560",
+          "briefTitle": "Stellate Ganglion Block: A Breakthrough Treatment for Post-Stroke Pharyngeal Dysphagia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dysphagia", "Stellate Ganglion Block"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03158740",
+          "briefTitle": "Watermelon Focused Dietary Inflammatory Index Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Inflammation", "Diet Modification"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06702007",
+          "briefTitle": "Electronic Harm Reduction Treatment for Alcohol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder", "Harm Reduction", "Housing First (eg. Permanent Supportive Housing)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05062044",
+          "briefTitle": "A Study to Gather Information About the Progress and Outcomes of Pregnancy in Women Using Various Vitamin Support Plans Before and During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prevention of Vitamin Deficiency During and/or Before Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04166370",
+          "briefTitle": "Bangladesh MSNP: Social Protection Mixed Methods Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stunting", "Undernutrition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06516094",
+          "briefTitle": "Efficacy and Safety in the Combination of Celecoxib / Pregabalin / Vitamin B for Low Back Chronic Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Low-back Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03133975",
+          "briefTitle": "Vitamin D Supplementation for Treatment of Dyslipidemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dyslipidemias"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "35 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06200272",
+          "briefTitle": "Effect of Carob Molasse Pose Flour and Germ On Glycemic Response and Antioxidant Capacity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Participants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00148733",
+          "briefTitle": "CHIZAP: Community- and Health Facility-Based Intervention With Zinc as Adjuvant Therapy for Childhood Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-01"
+          },
+          "completionDateStruct": {
+            "date": "2008-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pneumonia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2628,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03644355",
+          "briefTitle": "Asthma and Obesity Diet Versus Exercise"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-05-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-08-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity, Childhood", "Asthma in Children", "Inflammatory Response", "Metabolic Syndrome", "Nutrition Poor", "Physical Activity", "Behavior, Eating", "Molecular Biology, Restriction Fragment Length Polymorphisms", "Maternal Exposure", "Genetic Change"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02464033",
+          "briefTitle": "EDCR Study - Etanercept Diamyd Combination Regimen -Open Trial to Evaluate Safety in Children With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03345004",
+          "briefTitle": "Diamyd Administered Into Lymph Nodes in Combination With Vitamin D in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 1", "Diabetes Mellitus", "Autoimmune Diseases", "Metabolic Disease", "Glucose Metabolism Disorders", "Immune System Diseases", "Endocrine System Diseases", "Juvenile Diabetes", "Insulin Dependent Diabetes", "Autoimmune Diabetes", "Vitamin D", "Physiological Effects of Drugs"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 109,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02757508",
+          "briefTitle": "Healthy and Affordable Protein Rich Foods for African Market"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "School Feeding Programs and Nutrition Supplements"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1041,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03862833",
+          "briefTitle": "Zoledronic Acid in Combination With Interleukin-2 to Expand Vγ9Vδ2 T Cells After T-replete Haplo-identical Allotransplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hematopoietic Stem Cell Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02443155",
+          "briefTitle": "A Clinical Proof-of-principle Trial in Adult Subjects With Newly Diagnosed Type 1 Diabetes Mellitus Investigating the Effect of NNC0114-0006 and Liraglutide on Preservation of Beta-cell Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 308,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04293224",
+          "briefTitle": "Metabolic and Bio-behavioral Effects of Following Recommendations in the Dietary Guidelines for Americans"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Body Weight"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04679467",
+          "briefTitle": "Evaluation of PKU Sphere in Italy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Phenylketonurias", "PKU"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02582567",
+          "briefTitle": "Effects of Exercise During Gestation on Maternal and Foetal Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "25 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02407899",
+          "briefTitle": "Protective Effects of Saxagliptin (And Vitamin D3) on β Cell Function in Adult-onset Latent Autoimmune Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02175004",
+          "briefTitle": "Extension Study Assessing Long Term Safety and Efficacy of IONIS-TTR Rx in Familial Amyloid Polyneuropathy (FAP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["FAP", "Familial Amyloid Polyneuropathy", "TTR", "Transthyretin", "Amyloidosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 135,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04921189",
+          "briefTitle": "Steroid, Thiamine and Ascorbic Acid for Comatose Out-of-hospital Cardiac Arrest Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Out-Of-Hospital Cardiac Arrest", "Postcardiac Arrest Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04507867",
+          "briefTitle": "Effect of a NSS to Reduce Complications in Patients With Covid-19 and Comorbidities in Stage III"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID19", "Diabetes Mellitus", "Hypertension", "Obesity", "Overweight", "Oxygen Saturation", "Mortality", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02048501",
+          "briefTitle": "Changes in Gut Hormones, Body Composition and Energy Expenditure After Roux-en-Y"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Weight Loss"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06910475",
+          "briefTitle": "Physical Exercise and Biomolecular Analysis to Reduce Uremic Toxins in Chronic Kidney Disease: An Exploratory Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2035-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Disease, Chronic", "Kidney Failure Chronic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02768181",
+          "briefTitle": "Evaluating Bundling of Nutrition-specific Interventions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stunting in Under-2 Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2880,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03101319",
+          "briefTitle": "Role of Vitamin D Supplementation in Schizophrenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 73,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06903403",
+          "briefTitle": "Comparing Front-of-package Nutrient Labels"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nutrition Knowledge", "Perceptions", "Dietary Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15582,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01999088",
+          "briefTitle": "Health Benefits of Functional Meat (With n-3 Fatty Acids and Rosemary Extract) on Low Risk for Cardiovascular Disease People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05"
+          },
+          "completionDateStruct": {
+            "date": "2010-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Low Risk for Cardiovascular Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05900024",
+          "briefTitle": "A Study to Evaluate the Effect of Funk It Cycle Bites on PMS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premenstrual Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01660958",
+          "briefTitle": "Project Grow Smart: Intervention Trial of Multiple Micronutrients and Early Learning Among Infants in India"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nutritional Deficiencies", "Developmental Delay"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 834,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "48 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01971723",
+          "briefTitle": "Multi-ingredient Supplement for Strength and Power"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Supplement"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01488656",
+          "briefTitle": "Effects of Dietary Supplements on Response to Air Pollution"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Inflammation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06370936",
+          "briefTitle": "The EXPLAIN Study: Exploring Plant-Based Meat Analogues for Their Impact on Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Blood Pressure", "Cardiometabolic Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01859390",
+          "briefTitle": "Effects of an Antioxidant-Enriched Multivitamin Supplement on Inflammation and Oxidative Stress in Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 73,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06815315",
+          "briefTitle": "Evaluating of the Impact of Micronutrient Interventions Among Adolescents in Mozambique"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 490,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00873925",
+          "briefTitle": "Cord Blood Plus Vitamin D and Omega 3s in T1D"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01785108",
+          "briefTitle": "DIABGAD - Trial to Preserve Insulin Secretion in Type 1 Diabetes Using GAD-Alum (Diamyd) in Combination With Vitamin D and Ibuprofen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06078488",
+          "briefTitle": "Individualized Nutritional Care Bundle for Home Nursing Patients With Pressure Injuries."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Wounds and Injuries", "Malnutrition", "Nutritional Deficiency", "Wound Healing Delayed", "Nurse's Role"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 380,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07065877",
+          "briefTitle": "Effect of Vitamin D on Crestal Bone Loss Around Immediate Implant After Mandibular Premolars and Molars Extraction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crestal Bone Loss"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00395538",
+          "briefTitle": "Effects of PTH Replacement on Bone in Hypoparathyroidism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-10-30"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypoparathyroidism", "DiGeorge Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04297904",
+          "briefTitle": "Urinary Incontinence and Sedentary Behaviour in Nursing Homes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence in Old Age", "Sedentary Behavior"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06640478",
+          "briefTitle": "A 12-week Pilot Nutrition Intervention for Children With New Diagnosis of Stage 3 Type 1 Diabetes (T1D)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05955248",
+          "briefTitle": "Multimodal Prehabilitation for Lung Cancer Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Cancer", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03594877",
+          "briefTitle": "Effect of Sublimated Mare Milk Supplement on Gut Microbiome in Psoriasis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00567567",
+          "briefTitle": "Comparing Two Different Myeloablation Therapies in Treating Young Patients Who Are Undergoing a Stem Cell Transplant for High-Risk Neuroblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-11-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Localized Resectable Neuroblastoma", "Localized Unresectable Neuroblastoma", "Recurrent Neuroblastoma", "Regional Neuroblastoma", "Stage 4 Neuroblastoma", "Stage 4S Neuroblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 665,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04804631",
+          "briefTitle": "Tube Feeding in Children Having a Bone Marrow Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bone Marrow Disease", "Stem Cell Transplant Complications", "Enteral Feeding Intolerance", "Gastrostomy", "Gastrostomy Complications", "Experiences, Life"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01672372",
+          "briefTitle": "The Effect of Methylated Vitamin B Complex on Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04185597",
+          "briefTitle": "Bangladesh MSNP: Agricultural/Livelihood Mixed Methods Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stunting", "Undernutrition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4067,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04671693",
+          "briefTitle": "A Post-treatment Program to Identify and Manage Complications Related to Oncology or Hematology Treatments in Cancer Survivors."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-04-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Late Effects", "Testicular Germ Cell Tumor Mixed", "Non-Metastatic Breast Carcinoma", "Soft Tissue Sarcoma, Adult, Stage IIC", "Osteosarcoma", "Ewing's Sarcoma", "Acute Myeloid Leukemia", "Hodgkin Disease", "Non Hodgkin Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07195006",
+          "briefTitle": "Early Life Malnutrition, Environmental Enteric Dysfunction and Microbiome Trajectories"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malnutrition Pregnancy", "Malnutrition in Children", "Malnutrition (Calorie)", "Environmental Enteric Dysfunction", "Gut Dysbiosis", "Gut Permeability, Gut Inflammation", "Diarrhea Infectious", "Maternal Stress", "Child Mental Health", "Natural Killer Cell Mediated Immunity", "Mycotoxin Biomonitoring", "Environmental Exposures", "Cell-Mediated Immune Deficiency"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03892707",
+          "briefTitle": "Milgamma® and Milgamma® Compositum Step-therapy in Patients With Acute Non-specific Low Back Pain Receiving Modern NSAID"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Non-specific Low Back Pain"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03740412",
+          "briefTitle": "Study to Reduce Sitting in Older Adults Undergoing Hip or Knee Replacements"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Orthopedic Disorder", "Arthropathy of Knee", "Arthropathy of Hip", "Sedentary Lifestyle", "Physical Activity", "Osteoarthritis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06130228",
+          "briefTitle": "Nutritional Therapy in Late-onset Pompe Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pompe Disease", "Muscle Loss", "Obesity", "Nutrition Poor", "Lysosomal Storage Diseases", "Glycogen Storage Disease Type II", "Glycogen Storage Disease Type II Late Onset", "Glycogen Storage Disease Type II, Adult"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05820256",
+          "briefTitle": "The Effects of Milk Protein Versus Soy Protein on Essential Omega-3 Fatty Acid Metabolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nutrition, Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06174545",
+          "briefTitle": "Effectiveness and Safety of Pigment Solution Program (PSP) as Adjuvant Therapy in Melasma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Melasma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "30 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00636675",
+          "briefTitle": "CONNECT for Quality: A Study to Reduce Falls in Nursing Homes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Accidental Falls"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1726,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04041284",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Fremanezumab for Preventive Treatment of Migraine in Patients With Major Depressive Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Migraine", "Major Depressive Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 353,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05862363",
+          "briefTitle": "The Maternal EED Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Environmental Enteric Dysfunction (EED)", "Malnutrition", "Women of Reproductive Age", "Gut Microbiota", "Balanced Energy Protein (BEP)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02106806",
+          "briefTitle": "Zinc Supplementation on Markers of Oxidative Stress in Post Operative Colorectal Cancer During Chemotherapy Cycles"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chemotherapy", "Colorectal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06931977",
+          "briefTitle": "Natural Product System and Lifestyle Modification"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02634606",
+          "briefTitle": "Effects of a Supplement Derived From Palm Oil on Cholesterol Levels in the Blood"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-11-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypercholesterolemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02814695",
+          "briefTitle": "Yeast Cells as Antioxidant-Producing Probiotics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infertility, Male"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "22 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00228319",
+          "briefTitle": "Treatment of Newly Diagnosed Ovarian Cancer With Antioxidants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-10"
+          },
+          "completionDateStruct": {
+            "date": "2007-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ovarian Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03084484",
+          "briefTitle": "Kiwifruit Effect on Periodontal Inflammation Kiwifruit Effect on Periodontal Inflammation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Periodontitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03815617",
+          "briefTitle": "A Novel Formulation of Bifidobacterium Longum BB536 and Lactobacillus Rhamnosus HN001 With Vitamin B6 on IBS Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Irritable Bowel Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06842368",
+          "briefTitle": "Immediate Implant Placement Using Xenograft Mixed with Vitamin D Versus Hyaluronic Acid."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Immediate Implant Placement"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07278115",
+          "briefTitle": "Effects on Remission of Type 2 Diabetes Mellitus Following Gastric Bypass Alone vs Gastric Bypass Combined With Truncal Vagotomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "68 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04404387",
+          "briefTitle": "Lessening Organ Dysfunction With VITamin C in Septic ARDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Septic", "Acute Respiratory Distress Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04224142",
+          "briefTitle": "Evaluation of PKU Sphere in Maternal PKU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Maternal Phenylketonuria"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04759729",
+          "briefTitle": "The Effect of Probiotics and Vitamin D Supplementation on Sport Performance in MMA Athletes."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gut Microbiome", "Sport Performance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02202863",
+          "briefTitle": "Effects of Wine Grape Pomace Flour Used as a Dietary Supplement on Metabolic Syndrome Components"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolic Syndrome X", "Oxidative Stress"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "30 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05333315",
+          "briefTitle": "Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight and Obesity", "Inflammation", "Hypercholesterolemia", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06813274",
+          "briefTitle": "Multicenter RCT of Eye-Brain Imaging in Diabetes Neurovascular Coupling"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetic Retinopathy", "Cognitive Impairment", "Neurovascular Coupling"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      }
+    ]
+  }
+}

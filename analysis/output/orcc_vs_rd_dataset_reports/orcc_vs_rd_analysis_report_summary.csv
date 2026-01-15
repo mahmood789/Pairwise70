@@ -1,0 +1,721 @@
+"dataset_name","analysis_key","analysis_number","subgroup_number","analysis_name","mismatch_type","k_rows","k_valid","invalid_rows","double_zero_rows","all_events_rows","sparse_rows","any_zero_rows","event_rate","log_or","rd","or_sig","rd_sig","direction_match"
+"CD000028_pub4_data","1::2",1,"2","All-cause mortality","significance_only",11,11,0,1,0,1,3,0.1462,0.0932493150659765,0.0399949512151858,FALSE,TRUE,TRUE
+"CD000143_pub2_data","2::overall",2,"","Endotracheal reintubation","significance_only",23,23,0,0,0,3,3,0.2971,-0.240630952618133,-0.0692555504467284,FALSE,TRUE,TRUE
+"CD000219_pub5_data","4::overall",4,"","Tympanic membrane perforation","significance_only",7,7,0,2,0,4,3,0.023,-0.741655129157561,-0.0167414916007323,TRUE,FALSE,TRUE
+"CD000219_pub5_data","5::overall",5,"","Contralateral otitis (in unilateral cases)","significance_only",6,6,0,0,0,0,0,0.1993,-0.435430088842618,-0.0509061863009239,FALSE,TRUE,TRUE
+"CD000478_pub5_data","2::overall",2,"","Withdrawal due to adverse event","significance_only",6,6,0,2,0,5,4,0.125,0.469376506878793,0.0964145889662329,FALSE,TRUE,TRUE
+"CD000547_pub3_data","5::overall",5,"","Haemoglobin (preoperative)","significance_only",25,25,0,14,0,18,16,0.2128,-0.430563744150343,-0.0385717406780236,TRUE,FALSE,TRUE
+"CD000547_pub3_data","6::overall",6,"","Postoperative morbidity (complications)","significance_only",17,17,0,0,0,9,9,0.0581,-0.749172512053013,-0.0149074373138737,TRUE,FALSE,TRUE
+"CD001155_pub3_data","4::overall",4,"","Wrist fractures","significance_only",78,78,0,29,0,49,49,0.0312,-0.258903149160523,-0.00179715119018787,TRUE,FALSE,TRUE
+"CD001155_pub3_data","6::overall",6,"","Withdrawals due to adverse events","direction_only",40,40,0,4,0,15,7,0.0877,-0.0175221304564189,0.00138003227089727,FALSE,FALSE,FALSE
+"CD001321_pub7_data","3::overall",3,"","Microbiological UTI: positive culture without known symptoms","direction_only",8,8,0,0,0,1,1,0.2772,-0.0353187757382847,0.0143322263162177,FALSE,FALSE,FALSE
+"CD001321_pub7_data","5::overall",5,"","Gastrointestinal adverse events","significance_only",10,10,0,0,0,5,3,0.0452,0.334279996250128,0.0080710934066093,FALSE,TRUE,TRUE
+"CD001396_pub4_data","14::overall",14,"","Withdrawal due to adverse effects","significance_only",26,26,0,0,0,7,1,0.0952,0.234223902239026,0.0231949619015941,FALSE,TRUE,TRUE
+"CD001431_pub6_data","1::overall",1,"","Informed values-choice congruence - all studies","significance_only",437,437,0,249,0,256,256,0.1576,0.0878065725772917,0.0269153465455197,FALSE,TRUE,TRUE
+"CD001431_pub6_data","6::overall",6,"","Unclear values - old vs new studies","significance_only",60,60,0,56,0,56,56,0.0059,0.276397250757166,0.0757616451729043,FALSE,TRUE,TRUE
+"CD001797_pub4_data","3::overall",3,"","Improvement ? 1 point on Rankin scale","significance_only",5,5,0,2,0,3,3,0.116,0.880327102002256,0.195636338194229,FALSE,TRUE,TRUE
+"CD001797_pub4_data","9::overall",9,"","Frequency of serious side effects","direction_only",3,3,0,0,0,1,1,0.0635,-0.238350754708517,0.00342872467560969,FALSE,FALSE,FALSE
+"CD001797_pub4_data","10::overall",10,"","Frequency of any side effects","significance_only",3,3,0,0,0,1,1,0.3474,1.49683600746359,0.210141204307698,TRUE,FALSE,TRUE
+"CD001909_pub4_data","5::overall",5,"","Somnolence","significance_only",13,13,0,1,0,4,4,0.1176,0.372785959428529,0.0309194995917767,TRUE,FALSE,TRUE
+"CD001920_pub4_data","5::overall",5,"","Length of stay","significance_only",142,141,1,136,0,137,138,0.0144,-0.2182593643719,-0.0390783847551098,FALSE,TRUE,TRUE
+"CD001920_pub4_data","6::overall",6,"","Adverse events","significance_only",168,168,0,157,0,163,162,0.0064,0.14414738056305,0.0191211683220091,FALSE,TRUE,TRUE
+"CD002042_pub6_data","2::8",2,"8","Participants exposed to blood transfusion by clinical specialties","significance_only",5,5,0,0,2,0,0,0.8132,-1.23829451758935,-0.153005548634281,TRUE,FALSE,TRUE
+"CD002042_pub6_data","6::overall",6,"","30-day mortality","direction_only",44,44,0,7,0,20,11,0.0836,0.0181395361852598,-0.0012885343373158,FALSE,FALSE,FALSE
+"CD002042_pub6_data","8::1",8,"1","30-day mortality: subgroup by clinical specialties (random-effects model)","direction_only",5,5,0,1,0,2,1,0.0291,0.00193620178726427,-0.00183043165969036,FALSE,FALSE,FALSE
+"CD002042_pub6_data","9::1",9,"1","30-day mortality: subgroup by clinical specialties (fixed-effect model)","direction_only",5,5,0,1,0,2,1,0.0291,0.00193620178726427,-0.00183043165969036,FALSE,FALSE,FALSE
+"CD002042_pub6_data","13::overall",13,"","In-hospital mortality (as defined by triallists)","significance_only",19,19,0,3,0,6,6,0.1159,-0.142062167446524,-0.0110385014199588,FALSE,TRUE,TRUE
+"CD002042_pub6_data","19::overall",19,"","Morbidity: cerebrovascular accident (CVA) - stroke","direction_only",29,29,0,2,0,16,11,0.0325,0.102421574981109,-0.0021695806743043,FALSE,FALSE,FALSE
+"CD002042_pub6_data","31::overall",31,"","Morbidity: renal failure requiring dialysis/replacement therapy","direction_only",9,9,0,3,0,4,4,0.0509,0.0567319694286414,-0.00309815050326758,FALSE,FALSE,FALSE
+"CD002042_pub6_data","32::overall",32,"","Morbidity: delirium","significance_only",10,10,0,0,0,1,1,0.11,0.186229592896295,0.0101494747568422,TRUE,FALSE,TRUE
+"CD002042_pub6_data","11::overall",11,"","6-month mortality","direction_only",2,2,0,0,0,1,1,0.0528,0.272087163394509,-0.0530739469391002,FALSE,FALSE,FALSE
+"CD002042_pub6_data","15::overall",15,"","Morbidity: cerebrovascular accident (CVA)","direction_only",2,2,0,0,0,2,2,0.0025,-0.0162237138279312,5.80558234322239e-05,FALSE,FALSE,FALSE
+"CD002052_pub4_data","3::overall",3,"","All-cause mortality until hospital discharge","direction_only",6,6,0,0,0,2,1,0.46,-0.0132990438117402,0.00533895824849834,FALSE,FALSE,FALSE
+"CD002112_pub2_data","2::4",2,"4","Number of children achieving 14 consecutive dry nights by the end of treatment","significance_only",8,8,0,0,0,2,2,0.2061,0.548787418643163,0.0750577646446802,FALSE,TRUE,TRUE
+"CD002112_pub2_data","2::5",2,"5","Number of children achieving 14 consecutive dry nights by the end of treatment","direction_only",4,4,0,0,0,0,0,0.3514,-0.012158078447545,0.00794967542453284,FALSE,FALSE,FALSE
+"CD002112_pub2_data","4::1",4,"1","Number of children dry at follow-up (maintaining 14 consecutive dry nights after stopping treatment)","significance_only",12,12,0,1,0,1,2,0.3209,0.415059973430352,0.0913183354976259,FALSE,TRUE,TRUE
+"CD002112_pub2_data","2::6",2,"6","Number of children achieving 14 consecutive dry nights by the end of treatment","direction_only",4,4,0,0,0,1,0,0.4203,0.0111645307531015,-0.00645595590712058,FALSE,FALSE,FALSE
+"CD002112_pub2_data","4::3",4,"3","Number of children relapsing after cessation of treatment","direction_only",5,5,0,0,0,1,1,0.4066,0.0818321895474927,-0.0198683698688733,FALSE,FALSE,FALSE
+"CD002112_pub2_data","3::overall",3,"","Number of children dry at follow-up (maintaining 14 consecutive dry nights after stopping treatment)","significance_only",6,6,0,0,0,0,0,0.3474,-0.595262401127139,-0.121984821774187,TRUE,FALSE,TRUE
+"CD002122_pub3_data","1::3",1,"3","Pain (visual analogue scale)&nbsp;","significance_only",12,4,8,0,0,1,0,0.8149,-0.610111387508791,-0.0544526947858061,FALSE,TRUE,TRUE
+"CD002122_pub3_data","2::5",2,"5","Pain (4-point verbal rating scale)","direction_only",7,6,1,0,0,1,0,0.1237,0.029357410393524,-0.000121551167099589,FALSE,FALSE,FALSE
+"CD002122_pub3_data","3::1",3,"1","Pain (dichotomous)","direction_only",9,6,3,0,0,1,0,0.4886,-0.015417609003498,0.0198075505275724,FALSE,FALSE,FALSE
+"CD002122_pub3_data","3::2",3,"2","Pain (dichotomous)","direction_only",8,6,2,0,0,1,1,0.3439,0.0271236144041638,-0.0267778726388821,FALSE,FALSE,FALSE
+"CD002122_pub3_data","6::1",6,"1","Quality of life","direction_only",4,3,1,0,0,0,0,0.38,0.113075671418011,-0.00195832337796727,FALSE,FALSE,FALSE
+"CD002122_pub3_data","7::4",7,"4","Adverse effects","significance_only",3,3,0,0,0,0,1,0.0831,2.31853536430414,0.242336193302231,TRUE,FALSE,TRUE
+"CD002122_pub3_data","7::7",7,"7","Adverse effects","direction_only",3,3,0,0,0,1,3,0.0505,-0.219304693653294,0.0676407757235387,FALSE,FALSE,FALSE
+"CD002122_pub3_data","7::8",7,"8","Adverse effects","direction_only",3,3,0,0,0,1,0,0.1585,-0.101157303167494,0.00772346607950437,FALSE,FALSE,FALSE
+"CD002122_pub3_data","7::16",7,"16","Adverse effects","direction_only",3,3,0,0,0,3,1,0.0317,0.208390908305619,-0.00582632791533018,FALSE,FALSE,FALSE
+"CD002122_pub3_data","3::9",3,"9","Adverse effects","direction_only",2,2,0,0,0,1,0,0.2308,-0.0408224964287936,0.0219085806942628,FALSE,FALSE,FALSE
+"CD002122_pub3_data","6::5",6,"5","Adverse effects","significance_only",2,2,0,0,0,1,1,0.1507,-1.28504160280719,-0.125401728198048,TRUE,FALSE,TRUE
+"CD002122_pub3_data","6::10",6,"10","Adverse effects","significance_only",3,3,0,0,0,0,0,0.187,-1.07379142921547,-0.106427021119375,TRUE,FALSE,TRUE
+"CD002122_pub3_data","6::11",6,"11","Adverse effects","significance_only",3,3,0,0,0,2,2,0.1261,-1.87551324684182,-0.151268731614405,TRUE,FALSE,TRUE
+"CD002122_pub3_data","2::8",2,"8","Adverse effects","significance_only",4,4,0,0,0,1,0,0.1146,-0.814118000525845,-0.0804970427426799,FALSE,TRUE,TRUE
+"CD002203_pub5_data","13::overall",13,"","Acquisition of meticillin-resistant Staphylococcus aureus (MRSA)","direction_only",5,5,0,0,0,1,1,0.0609,0.0181766531826301,-0.00526263172315449,FALSE,FALSE,FALSE
+"CD002203_pub5_data","14::overall",14,"","Acquisition of Haemophilus influenzae","direction_only",4,4,0,0,0,0,0,0.1047,-0.0320884736269821,0.00196589473012878,FALSE,FALSE,FALSE
+"CD002243_pub5_data","7::2",7,"2","28-day all-cause mortality by subgroups based on age","direction_only",5,5,0,1,0,3,2,0.1007,0.0594115393912813,-0.0253460158285403,FALSE,FALSE,FALSE
+"CD002243_pub5_data","21::2",21,"2","Number of participants with adverse events","direction_only",36,36,0,3,0,10,10,0.1808,-0.047586720082244,0.000353130277469786,FALSE,FALSE,FALSE
+"CD003129_pub2_data","7::overall",7,"","Withdrawals due to adverse events","significance_only",5,5,0,0,0,5,4,0.0223,0.772829936968409,0.0273570614659632,FALSE,TRUE,TRUE
+"CD003331_pub6_data","4::overall",4,"","Hospital admissions (all-cause) more than 12 months' follow-up","significance_only",8,8,0,0,0,0,0,0.5936,-0.487857614263124,-0.0989987525236258,FALSE,TRUE,TRUE
+"CD003333_pub4_data","2::overall",2,"","Non-fatal cardiovascular events (non-fatal stroke, myocardial infarction, pulmonary embolism, peripheral arterial embolism)","significance_only",5,5,0,0,0,0,0,0.069,-0.232070922382987,-0.0134553659407466,TRUE,FALSE,TRUE
+"CD003357_pub5_data","5::overall",5,"","Miscarriage rate per woman","direction_only",3,3,0,0,0,1,0,0.1068,0.140000336412752,-0.0135118207440238,FALSE,FALSE,FALSE
+"CD003376_pub4_data","1::overall",1,"","Clinical vertebral fractures","direction_only",98,98,0,43,0,77,63,0.0471,-0.0979532814479582,0.00518956749416327,FALSE,FALSE,FALSE
+"CD003376_pub4_data","2::overall",2,"","Non-vertebral fractures","direction_only",70,70,0,18,0,33,26,0.0868,-0.031418176542453,9.18372969363503e-05,FALSE,FALSE,FALSE
+"CD003376_pub4_data","7::overall",7,"","Serious adverse events","direction_only",8,8,0,3,0,5,3,0.0604,-0.10961174207013,0.00215247660905914,FALSE,FALSE,FALSE
+"CD003414_pub4_data","1::1",1,"1","Live birth rate per woman","direction_only",8,8,0,0,0,0,0,0.2408,0.0529187781404367,-0.000983367732137148,FALSE,FALSE,FALSE
+"CD003414_pub4_data","2::1",2,"1","Miscarriage rate per woman","significance_only",14,14,0,0,0,3,3,0.0549,-0.179236006968994,-0.0168565838872494,FALSE,TRUE,TRUE
+"CD003414_pub4_data","2::3",2,"3","Miscarriage rate per woman","significance_only",5,5,0,0,0,3,3,0.0436,-0.180486080810075,-0.0234109961860165,FALSE,TRUE,TRUE
+"CD003414_pub4_data","6::1",6,"1","Multiple pregnancy rate per woman","direction_only",7,7,0,0,0,3,2,0.1233,-0.0664681693954065,0.00509539667654767,FALSE,FALSE,FALSE
+"CD003414_pub4_data","6::2",6,"2","Multiple pregnancy rate per woman","direction_only",4,4,0,0,0,1,1,0.0993,0.0640998192380396,-0.00891276676038844,FALSE,FALSE,FALSE
+"CD003414_pub4_data","6::3",6,"3","Multiple pregnancy rate per woman","direction_only",3,3,0,0,0,1,0,0.0966,0.00511885862637505,-0.0127148276599632,FALSE,FALSE,FALSE
+"CD003429_pub5_data","2::overall",2,"","Joint function protection (number of participants with no joint damage)","significance_only",2,2,0,0,0,0,0,0.7263,1.90872127253687,0.278577320015379,TRUE,FALSE,TRUE
+"CD003429_pub5_data","3::overall",3,"","Sensitivity analysis (fixed-effect model): joint function protection (number of participants with no joint damage)","significance_only",2,2,0,0,0,0,0,0.7263,1.90872127253687,0.278577320015379,TRUE,FALSE,TRUE
+"CD003429_pub5_data","10::3",10,"3","Adverse events","significance_only",2,2,0,0,0,2,2,0.0385,1.6094379124341,0.0708572276970473,FALSE,TRUE,TRUE
+"CD003594_pub7_data","1::2",1,"2","Complete remission","significance_only",15,15,0,1,0,6,4,0.2396,0.361887613119519,0.114831673147631,FALSE,TRUE,TRUE
+"CD003594_pub7_data","3::3",3,"3","Adverse events","significance_only",2,2,0,0,0,0,0,0.1806,-0.784693397917896,-0.112523103484935,FALSE,TRUE,TRUE
+"CD003594_pub7_data","2::3",2,"3","Treatment response at 12 months","direction_only",6,6,0,0,1,0,1,0.4683,0.0888953452633987,-0.00770553800396035,FALSE,FALSE,FALSE
+"CD003594_pub7_data","6::2",6,"2","Adverse events (weeks 0 to 26)","significance_only",2,2,0,0,0,0,0,0.298,-0.697399627111792,-0.128646557152905,FALSE,TRUE,TRUE
+"CD003594_pub7_data","4::4",4,"4","Adverse events","significance_only",2,2,0,0,0,2,2,0.0625,1.82901972025697,0.101569939868854,FALSE,TRUE,TRUE
+"CD003594_pub7_data","4::5",4,"5","Adverse events","significance_only",2,2,0,0,0,2,2,0.05,1.62140604006974,0.090647214607629,FALSE,TRUE,TRUE
+"CD003598_pub3_data","1::overall",1,"","All-cause death","significance_only",66,66,0,33,0,58,44,0.0779,-0.230942991272394,-0.00617800539885085,TRUE,FALSE,TRUE
+"CD003598_pub3_data","2::overall",2,"","Graft loss","significance_only",60,60,0,26,0,38,30,0.1149,-0.199730162087049,-0.00432937951389666,TRUE,FALSE,TRUE
+"CD003598_pub3_data","3::overall",3,"","Creatinine clearance [mL/min]","significance_only",56,56,0,48,0,51,51,0.0144,-0.197171237719586,-0.0231460431393347,FALSE,TRUE,TRUE
+"CD003598_pub3_data","6::overall",6,"","Cardiovascular death","direction_only",39,39,0,32,0,37,35,0.018,-0.079868171024321,0.00290247600435454,FALSE,FALSE,FALSE
+"CD003598_pub3_data","7::overall",7,"","Systolic blood pressure [mm Hg]","direction_only",20,20,0,12,0,15,16,0.1009,0.0549254138062428,-0.000746828625615281,FALSE,FALSE,FALSE
+"CD003598_pub3_data","10::overall",10,"","Any rejection","direction_only",36,36,0,20,0,23,22,0.1561,-0.0199798230453687,0.00169084727570514,FALSE,FALSE,FALSE
+"CD003598_pub3_data","11::overall",11,"","Acute rejection","direction_only",36,36,0,22,0,27,24,0.0888,0.0582727082595083,-0.00559974880647313,FALSE,FALSE,FALSE
+"CD003598_pub3_data","13::overall",13,"","Rejection rate","significance_only",19,19,0,10,0,14,12,0.0675,0.431912467927358,0.0487054920760724,FALSE,TRUE,TRUE
+"CD003598_pub3_data","14::overall",14,"","Proteinuria [g/24 hours]","direction_only",16,16,0,7,0,11,10,0.0577,-0.0193153028844573,0.0230809262236071,FALSE,FALSE,FALSE
+"CD003598_pub3_data","16::overall",16,"","Fatal myocardial infarction","significance_only",12,12,0,5,0,9,9,0.0331,0.0390026185686569,0.0228884307244063,FALSE,TRUE,TRUE
+"CD003598_pub3_data","18::overall",18,"","Any adverse event","significance_only",8,8,0,5,0,6,5,0.1668,-0.875290068506078,-0.12543240159083,TRUE,FALSE,TRUE
+"CD003598_pub3_data","28::overall",28,"","Withdrawal due to hypotension","significance_only",10,10,0,3,0,7,7,0.0192,0.732926331829942,0.0233935777371534,FALSE,TRUE,TRUE
+"CD003598_pub3_data","31::overall",31,"","Peripheral oedema","direction_only",2,2,0,0,0,1,1,0.1292,-0.213131417608965,0.00493507130323374,FALSE,FALSE,FALSE
+"CD003774_pub5_data","9::overall",9,"","All-cause death according to CMV status","direction_only",26,26,0,3,0,9,7,0.2203,-0.0272244179674384,0.00110699098526747,FALSE,FALSE,FALSE
+"CD003774_pub5_data","11::overall",11,"","All-cause death and ganciclovir duration","direction_only",41,41,0,5,0,18,13,0.1867,-0.0882563806975551,0.00157241411237282,FALSE,FALSE,FALSE
+"CD003962_pub3_data","1::overall",1,"","Kidney failure or doubling of serum creatinine","significance_only",13,13,0,4,0,8,6,0.1665,0.820182256605017,0.132258050739616,TRUE,FALSE,TRUE
+"CD003962_pub3_data","2::overall",2,"","Complete remission of proteinuria","direction_only",20,20,0,9,0,13,11,0.1244,-0.0842124768572457,0.0085167521436394,FALSE,FALSE,FALSE
+"CD003962_pub3_data","3::overall",3,"","Partial remission of proteinuria","significance_only",14,14,0,4,0,5,4,0.4053,0.786631556862284,0.1070163540605,TRUE,FALSE,TRUE
+"CD003962_pub3_data","4::overall",4,"","Proteinuria","direction_only",36,36,0,32,0,32,32,0.1126,-0.180481485612307,0.145793552055092,FALSE,FALSE,FALSE
+"CD003962_pub3_data","10::overall",10,"","> 50% increase in serum creatinine","significance_only",11,11,0,8,0,9,9,0.0467,-0.856302699582698,-0.133421181249408,TRUE,FALSE,TRUE
+"CD003962_pub3_data","15::overall",15,"","Serious adverse events","direction_only",6,6,0,1,0,3,3,0.1154,0.306424588356311,-0.00375074556237381,FALSE,FALSE,FALSE
+"CD004184_pub3_data","4::overall",4,"","Withdrawals from treatment due to adverse events","significance_only",14,14,0,0,0,6,0,0.0383,-0.294238213673217,-0.0128212394548341,FALSE,TRUE,TRUE
+"CD004376_pub4_data","5::overall",5,"","Study withdrawals at final follow-up","direction_only",179,123,56,19,0,43,31,0.1442,-0.0185544313469562,0.00774549672347173,FALSE,FALSE,FALSE
+"CD004406_pub6_data","1::overall",1,"","Resolution of symptoms post-treatment (ITT analysis)","significance_only",17,17,0,0,0,0,0,0.3138,-0.130284347592539,-0.0351578903720913,FALSE,TRUE,TRUE
+"CD004508_pub5_data","5::overall",5,"","Abdominal distension","direction_only",4,4,0,0,0,1,1,0.2361,-0.0165633998531304,0.0126463991399032,FALSE,FALSE,FALSE
+"CD004661_pub4_data","1::overall",1,"","Death (fetal, neonatal, or later (up to 2 years' corrected age))","direction_only",55,50,5,12,5,21,14,0.0491,-0.046339518921544,6.30668116141984e-05,FALSE,FALSE,FALSE
+"CD004661_pub4_data","5::overall",5,"","Death or major neurodevelopmental disability (up to 2 years' corrected age)","direction_only",31,29,2,10,2,17,15,0.0661,-0.0740864702713049,0.00121805687301906,FALSE,FALSE,FALSE
+"CD004661_pub4_data","6::overall",6,"","Death (fetal, neonatal, or later (up to school age))","significance_only",24,24,0,3,0,5,5,0.0522,0.354462207559162,0.0137041315423828,TRUE,FALSE,TRUE
+"CD004661_pub4_data","7::overall",7,"","Cerebral palsy (school age)","direction_only",23,23,0,0,0,0,0,0.1807,-0.00545331143910764,0.000400326472707336,FALSE,FALSE,FALSE
+"CD004661_pub4_data","9::overall",9,"","Major neurodevelopmental disability (school age)","significance_only",22,22,0,0,0,0,0,0.1338,0.738354633136911,0.0593302521674603,TRUE,FALSE,TRUE
+"CD004661_pub4_data","13::overall",13,"","Neonatal encephalopathy","significance_only",18,18,0,11,0,12,11,0.0864,0.696088830517675,0.0715659847488908,TRUE,FALSE,TRUE
+"CD004661_pub4_data","17::overall",17,"","Retinopathy of prematurity","direction_only",4,4,0,0,0,1,1,0.1599,-0.0095393677102157,0.00309420951365953,FALSE,FALSE,FALSE
+"CD004667_pub6_data","10::overall",10,"","Induction of labour","significance_only",14,14,0,0,0,0,0,0.2073,-0.102722121719142,-0.0169119233667792,FALSE,TRUE,TRUE
+"CD004736_pub6_data","24::overall",24,"","Maternal severe anaemia at any time during second and third trimester (Hb less than 70 g/L): SUBGROUP ANALYSIS by anaemia status at the start of supplementation","direction_only",22,22,0,11,0,15,16,0.0163,-0.170216111527597,0.000226097371665611,FALSE,FALSE,FALSE
+"CD004736_pub6_data","28::overall",28,"","Low birthweight (less than 2500 g) (ALL)","significance_only",26,26,0,5,0,8,6,0.0376,-0.183171768442347,-0.00374628619104179,TRUE,FALSE,TRUE
+"CD004736_pub6_data","31::overall",31,"","Low birthweight (less than 2500 g): SUBGROUP ANALYSIS by dose of iron","significance_only",23,23,0,3,0,7,6,0.0575,-0.230119748111369,-0.0141630951603836,TRUE,FALSE,TRUE
+"CD004736_pub6_data","35::overall",35,"","Birthweight (g): SUBGROUP ANALYSIS by anaemia status at the start of supplementation","direction_only",30,30,0,26,0,27,28,0.0022,-0.43016857970491,0.0126490430677368,FALSE,FALSE,FALSE
+"CD004736_pub6_data","36::overall",36,"","Birthweight (g): SUBGROUP ANALYSIS by dose of iron","significance_only",34,34,0,31,0,32,31,0.0024,-0.593359454389844,-0.0615334512584553,TRUE,FALSE,TRUE
+"CD004736_pub6_data","40::overall",40,"","Preterm birth (less than 37 weeks of gestation): SUBGROUP ANALYSIS by anaemia status at the start of supplementation","significance_only",23,23,0,5,0,8,8,0.0546,-0.0967272466077826,-0.00949378998145227,FALSE,TRUE,TRUE
+"CD004736_pub6_data","44::overall",44,"","Neonatal death (within 28 days after delivery): SUBGROUP ANALYSIS by gestational age at the start of supplementation","direction_only",8,8,0,1,0,2,2,0.0169,-0.0437526497407454,0.000240608375806571,FALSE,FALSE,FALSE
+"CD004736_pub6_data","52::overall",52,"","Congenital anomalies: SUBGROUP ANALYSIS by malarial status of setting","direction_only",7,7,0,2,0,4,4,0.0084,-0.145286117391261,0.000133755080313277,FALSE,FALSE,FALSE
+"CD004736_pub6_data","62::overall",62,"","Severe anaemia postpartum (Hb less than 80 g/L) (ALL)","significance_only",8,8,0,6,0,6,7,0.1332,-0.0544764838389097,-0.0318278480045122,FALSE,TRUE,TRUE
+"CD004736_pub6_data","63::overall",63,"","Puerperal infection (ALL)","significance_only",5,5,0,0,0,1,1,0.0514,-0.378920121806349,-0.010819490953763,TRUE,FALSE,TRUE
+"CD004736_pub6_data","65::overall",65,"","Postpartum haemorrhage (ALL)","direction_only",3,3,0,0,0,2,1,0.0281,-0.193571402895433,0.00130337845499445,FALSE,FALSE,FALSE
+"CD004736_pub6_data","67::overall",67,"","Diarrhoea (ALL)","significance_only",5,5,0,1,0,4,2,0.0406,-0.674173541502027,-0.0110161447011517,TRUE,FALSE,TRUE
+"CD004736_pub6_data","71::overall",71,"","Vomiting (ALL)","direction_only",4,4,0,1,0,2,2,0.1095,-0.0923277893751177,0.0166389561406103,FALSE,FALSE,FALSE
+"CD004953_pub5_data","2::overall",2,"","Death during hospitalisation","direction_only",13,13,0,3,0,5,4,0.1639,-0.063378770969754,0.0123151431852662,FALSE,FALSE,FALSE
+"CD004953_pub5_data","3::2",3,"2","Death","direction_only",12,12,0,3,0,5,4,0.1545,-0.0807929145981088,0.00930455824916111,FALSE,FALSE,FALSE
+"CD004953_pub5_data","6::overall",6,"","Pneumothorax during hospitalisation","direction_only",13,13,0,0,1,5,3,0.0752,-0.202375681961699,0.00378972371786655,FALSE,FALSE,FALSE
+"CD004953_pub5_data","13::2",13,"2","Patent ductus arteriosus (PDA)","direction_only",4,4,0,2,0,3,3,0.0307,-0.31193832717391,0.00122630306136052,FALSE,FALSE,FALSE
+"CD004953_pub5_data","1::2",1,"2","Death","direction_only",2,2,0,0,0,1,1,0.2941,-0.00363600388357654,0.0634934678840171,FALSE,FALSE,FALSE
+"CD004992_pub4_data","3::overall",3,"","Requirement for further endometrioma surgery","significance_only",2,2,0,0,0,0,0,0.1966,-1.61614048992132,-0.214690253913725,TRUE,FALSE,TRUE
+"CD005133_pub4_data","1::overall",1,"","All symptomatic CMV disease","significance_only",21,21,0,4,0,6,9,0.1195,-0.550256416915314,-0.082399938085971,FALSE,TRUE,TRUE
+"CD005133_pub4_data","2::overall",2,"","Death (any cause)","direction_only",16,16,0,2,0,9,7,0.0641,-0.0850674235903681,0.00297128076956056,FALSE,FALSE,FALSE
+"CD005133_pub4_data","4::overall",4,"","CMV-associated symptoms","direction_only",13,13,0,0,0,2,4,0.1551,0.103865514236235,-0.0320503501137118,FALSE,FALSE,FALSE
+"CD005133_pub4_data","8::overall",8,"","Adverse events","significance_only",56,56,0,0,0,22,19,0.1782,-0.178646531411703,-0.00780450238543387,TRUE,FALSE,TRUE
+"CD005187_pub6_data","4::overall",4,"","Deaths from lower respiratory tract infection ","direction_only",6,6,0,0,0,0,0,0.0217,-0.193051439968565,0.00256148920930032,FALSE,FALSE,FALSE
+"CD005495_pub5_data","8::overall",8,"","Rate of cerebral palsy","significance_only",36,36,0,0,0,5,0,0.0835,-0.182422211047714,-0.0239807973078891,FALSE,TRUE,TRUE
+"CD005566_pub4_data","2::overall",2,"","Cardiac complications, including 'no major complications'","significance_only",108,108,0,0,0,71,35,0.0633,0.172500361295016,0.00194394961143524,TRUE,FALSE,TRUE
+"CD005595_pub4_data","12::overall",12,"","Adverse events (after non-surgical fracture management)","significance_only",38,38,0,3,0,33,29,0.0237,-0.217882268505669,-0.00932011576807357,FALSE,TRUE,TRUE
+"CD005951_pub5_data","2::overall",2,"","Intracerebral haemorrhage expansion by 24 hours","significance_only",14,14,0,0,0,2,1,0.2821,-0.18016430137803,-0.0464324272194671,TRUE,FALSE,TRUE
+"CD005951_pub5_data","6::overall",6,"","Death or dependence (Extended Glasgow Outcome Scale (GOS-E) 1-4) at day 90","significance_only",4,4,0,0,0,0,0,0.2063,-0.258853401184991,-0.0327119025295902,TRUE,FALSE,TRUE
+"CD006023_pub4_data","5::overall",5,"","Constipation","significance_only",54,54,0,25,0,37,36,0.0321,0.266788792709498,0.0212961614760581,FALSE,TRUE,TRUE
+"CD006023_pub4_data","7::overall",7,"","Coronary artery calcium score","significance_only",28,28,0,11,0,21,17,0.0358,0.478749595026122,0.0189715124189477,TRUE,FALSE,TRUE
+"CD006023_pub4_data","9::overall",9,"","Stroke","significance_only",25,25,0,6,0,14,12,0.1065,-0.587083189767351,-0.0357945469907178,TRUE,FALSE,TRUE
+"CD006023_pub4_data","10::overall",10,"","Hospitalisation","direction_only",18,18,0,5,0,10,8,0.099,0.0249431377196293,-0.0012860491676118,FALSE,FALSE,FALSE
+"CD006023_pub4_data","11::overall",11,"","Fracture","direction_only",18,18,0,8,0,14,11,0.0262,-0.182258138529244,0.000193714885864489,FALSE,FALSE,FALSE
+"CD006023_pub4_data","12::overall",12,"","Pruritus","direction_only",14,14,0,4,0,13,7,0.0415,0.000647124871000849,-0.00221588563914868,FALSE,FALSE,FALSE
+"CD006023_pub4_data","19::overall",19,"","Serum calcium","significance_only",31,31,0,29,0,30,29,0.0047,0.268591967382393,0.0219003692705481,FALSE,TRUE,TRUE
+"CD006023_pub4_data","20::overall",20,"","Serum calcium-by-phosphate product","direction_only",32,32,0,30,0,30,30,0.0054,-0.0255643725247575,0.00379676000894375,FALSE,FALSE,FALSE
+"CD006023_pub4_data","2::1",2,"1","Death (all causes): CKD GFR category","significance_only",8,8,0,4,0,5,5,0.0563,-1.04078578707877,-0.0600418774394074,TRUE,FALSE,TRUE
+"CD006027_pub3_data","2::overall",2,"","Need for rescue medication","significance_only",33,33,0,0,0,2,2,0.1918,-0.387063726097364,-0.0841748265335382,FALSE,TRUE,TRUE
+"CD006124_pub3_data","2::overall",2,"","Duration of procedure","direction_only",16,16,0,11,0,14,13,0.0167,0.0216934442945353,-0.00647982677327379,FALSE,FALSE,FALSE
+"CD006182_pub3_data","3::1",3,"1","Moderate to severe CP among surviving infants","significance_only",10,10,0,0,0,2,0,0.2732,0.324646105382712,0.0224495302098105,FALSE,TRUE,TRUE
+"CD006182_pub3_data","5::1",5,"1","Mortality before 18 to 24 months","direction_only",3,3,0,0,0,0,0,0.1966,0.0776560249690618,-0.0042292727017977,FALSE,FALSE,FALSE
+"CD006182_pub3_data","7::1",7,"1","Sepsis","significance_only",2,2,0,0,0,1,1,0.1182,0.66199191682282,0.0392967083475815,FALSE,TRUE,TRUE
+"CD006185_pub6_data","7::4",7,"4","Lost to study during intervention phase, dropouts","significance_only",4,4,0,2,0,3,3,0.0698,0.558554943936061,0.107538583648112,FALSE,TRUE,TRUE
+"CD006185_pub6_data","8::overall",8,"","Death from all causes until end of intervention phase","direction_only",101,101,0,98,0,101,99,0.0014,-0.0594288517194446,0.0104413586985527,FALSE,FALSE,FALSE
+"CD006257_pub2_data","1::overall",1,"","Death: any cause","direction_only",123,123,0,61,0,79,73,0.0926,-0.102536429609375,0.00254647441952697,FALSE,FALSE,FALSE
+"CD006257_pub2_data","2::overall",2,"","Withdrawn","direction_only",80,80,0,18,0,37,31,0.0951,-0.0333495508961351,0.0206988824965803,FALSE,FALSE,FALSE
+"CD006257_pub2_data","3::overall",3,"","Cardiovascular death","direction_only",102,102,0,58,0,73,72,0.064,-0.0293341543086401,0.0133726591104857,FALSE,FALSE,FALSE
+"CD006257_pub2_data","10::overall",10,"","GFR (at end of treatment) [mL/min/1.73 m2]","significance_only",24,24,0,7,0,9,8,0.2159,-0.375434774873434,-0.0586518589040451,TRUE,FALSE,TRUE
+"CD006257_pub2_data","16::overall",16,"","Impotence","direction_only",5,5,0,3,0,3,3,0.0065,0.0129511331073739,-0.00245883687493299,FALSE,FALSE,FALSE
+"CD006273_pub4_data","1::overall",1,"","Adverse events","significance_only",4,4,0,2,0,3,4,0.0182,1.44409540847358,0.0724316587700779,FALSE,TRUE,TRUE
+"CD006404_pub5_data","1::overall",1,"","Total failure: day 28 (polymerase chain reaction-adjusted)","significance_only",23,23,0,6,0,16,13,0.0112,-0.565996737230503,-0.00302966314313063,TRUE,FALSE,TRUE
+"CD006404_pub5_data","2::overall",2,"","Total failure: day 42 (polymerase chain reaction-adjusted)","direction_only",20,20,0,5,0,13,8,0.0182,0.115084550986795,-0.00190730317119628,FALSE,FALSE,FALSE
+"CD006404_pub5_data","7::overall",7,"","Adverse events leading to withdrawal","significance_only",20,20,0,7,0,17,12,0.0114,0.485560068270137,0.00613554759856726,FALSE,TRUE,TRUE
+"CD006404_pub5_data","11::overall",11,"","Subsequent treatment(s), alanine aminotransferase increase greater than five times the upper limit of normal","direction_only",5,5,0,1,0,4,3,0.0314,-0.0650650449828455,0.00642550670515224,FALSE,FALSE,FALSE
+"CD006404_pub5_data","10::24",10,"24","Other adverse events","direction_only",2,2,0,0,0,1,1,0.0938,-0.099412307807064,0.00567481803622687,FALSE,FALSE,FALSE
+"CD006404_pub5_data","10::31",10,"31","Other adverse events","direction_only",10,10,0,0,0,2,2,0.0668,0.0853536979801662,-0.00100910128709458,FALSE,FALSE,FALSE
+"CD006404_pub5_data","10::34",10,"34","Other adverse events","direction_only",7,7,0,0,0,0,0,0.066,-0.017525451329874,0.00202345596322868,FALSE,FALSE,FALSE
+"CD006404_pub5_data","10::37",10,"37","Other adverse events","direction_only",2,2,0,0,0,2,2,0.0109,0.0540596867473971,-0.00173379828437145,FALSE,FALSE,FALSE
+"CD006475_pub3_data","5::overall",5,"","Cow's milk protein allergy by 2 years","direction_only",5,5,0,0,0,3,1,0.1535,0.0460037532774677,-0.0108066882825203,FALSE,FALSE,FALSE
+"CD006475_pub3_data","8::2",8,"2","Subgroup analysis: eczema by 2 years by risk of allergy","significance_only",9,9,0,0,0,2,2,0.3227,-0.208418983992909,-0.0375796105608911,FALSE,TRUE,TRUE
+"CD006475_pub3_data","10::2",10,"2","Subgroup analysis: eczema by 2 years by probiotic type","significance_only",16,16,0,0,0,2,2,0.336,-0.126712885073016,-0.0295234945742945,FALSE,TRUE,TRUE
+"CD006475_pub3_data","11::2",11,"2","Subgroup analysis: eczema by 2 years by period of supplementation","significance_only",12,12,0,0,0,2,2,0.2573,-0.121426684557418,-0.0289453377497302,FALSE,TRUE,TRUE
+"CD006475_pub3_data","4::2",4,"2","Subgroup analysis: eczema by 2 years of age by risk of allergy","direction_only",5,5,0,0,0,0,0,0.2411,0.00960308202462997,-0.0121969771143441,FALSE,FALSE,FALSE
+"CD006475_pub3_data","5::1",5,"1","Subgroup analysis: eczema by 2 years of age by synbiotic type","significance_only",2,2,0,0,0,0,0,0.2765,-0.884504990324911,-0.0907331200973501,FALSE,TRUE,TRUE
+"CD006536_pub5_data","1::overall",1,"","All-cause mortality","direction_only",256,256,0,5,0,232,164,0.0297,-0.245554815160856,0.00507046159392783,TRUE,TRUE,FALSE
+"CD006536_pub5_data","2::overall",2,"","Cardiovascular mortality","significance_only",152,152,0,9,0,120,89,0.044,-0.227546018311185,-0.00236376855210828,TRUE,FALSE,TRUE
+"CD006536_pub5_data","6::overall",6,"","Incidence of arrhythmias","direction_only",16,16,0,0,0,8,4,0.0666,-0.0403289619519196,0.00210497382360206,FALSE,FALSE,FALSE
+"CD006606_pub5_data","3::overall",3,"","Miscarriage - low risk of bias (odds ratio, random-effects)","significance_only",2,2,0,0,0,0,0,0.2328,0.504704692794523,0.0854478421060919,TRUE,FALSE,TRUE
+"CD006606_pub5_data","4::overall",4,"","Miscarriage - low risk of bias (risk ratio, random-effects)","significance_only",2,2,0,0,0,0,0,0.2328,0.504704692794523,0.0854478421060919,TRUE,FALSE,TRUE
+"CD006606_pub5_data","9::overall",9,"","Ovarian hyperstimulation syndrome - low risk of bias (odds ratio, random-effects)","significance_only",2,2,0,0,0,1,2,0.0176,-2.47099750788078,-0.0337777185921717,TRUE,FALSE,TRUE
+"CD006606_pub5_data","10::overall",10,"","Ovarian hyperstimulation syndrome - low risk of bias (risk ratio, random-effects)","significance_only",2,2,0,0,0,1,2,0.0176,-2.47099750788078,-0.0337777185921717,TRUE,FALSE,TRUE
+"CD006689_pub3_data","2::overall",2,"","Maternal peripheral parasitaemia at delivery (microscopy)","direction_only",16,16,0,0,0,4,4,0.1371,-0.100163048844305,0.00169558318662264,FALSE,FALSE,FALSE
+"CD006689_pub3_data","10::overall",10,"","Mean haemoglobin at delivery (in g/dL)","direction_only",14,14,0,6,0,7,6,0.0457,0.0845159962053189,-0.00274456219255169,FALSE,FALSE,FALSE
+"CD006689_pub3_data","14::overall",14,"","Cord blood parasitaemia (blood smear)","significance_only",17,17,0,4,0,9,5,0.0215,-0.219916184062995,-0.00488066238984394,FALSE,TRUE,TRUE
+"CD006689_pub3_data","17::overall",17,"","Severe adverse events during pregnancy","significance_only",14,14,0,1,0,4,4,0.059,-0.220256547864931,-0.00504995796178012,TRUE,FALSE,TRUE
+"CD006689_pub3_data","21::overall",21,"","Neonatal mortality","significance_only",8,8,0,0,0,2,0,0.0323,0.445282532134804,0.00901800904292972,TRUE,FALSE,TRUE
+"CD006742_pub3_data","1::overall",1,"","All-Cause Mortality","direction_only",5,5,0,1,0,2,2,0.0196,-0.154522745513766,0.000180519361529113,FALSE,FALSE,FALSE
+"CD006742_pub3_data","3::overall",3,"","Stroke","significance_only",4,4,0,2,0,2,3,0.0048,-0.747200201730752,-0.0215752673936395,TRUE,FALSE,TRUE
+"CD006913_pub3_data","7::2",7,"2","Quality of life (long-term), by disease activity - psychotherapy vs care-as-usual","significance_only",12,12,0,8,0,8,8,0.5119,-0.657102826383977,-0.156825786106691,FALSE,TRUE,TRUE
+"CD006913_pub3_data","8::2",8,"2","Quality of life (short-term), by comorbidity - psychotherapy vs care-as-usual","significance_only",33,33,0,29,0,29,29,0.125,-0.298473959996694,-0.16516730104143,FALSE,TRUE,TRUE
+"CD006913_pub3_data","12::1",12,"1","Quality of life (short-term), by therapy intensity - psychotherapy vs care-as-usual","significance_only",53,53,0,38,2,38,38,0.2179,-0.340665329068274,-0.0546102308215401,TRUE,FALSE,TRUE
+"CD007026_pub7_data","1::overall",1,"","All-cause death","direction_only",14,14,0,0,0,6,4,0.0592,-0.0635322314121184,0.0135677110904408,FALSE,FALSE,FALSE
+"CD007026_pub7_data","2::overall",2,"","Non-death attrition","significance_only",14,14,0,4,0,7,6,0.1433,-0.312085750766122,-0.0174150488019581,TRUE,FALSE,TRUE
+"CD007026_pub7_data","4::overall",4,"","Total number of people with fatal SAEs","direction_only",10,10,0,0,0,3,2,0.0595,-0.086144364241304,0.00733489049058759,FALSE,FALSE,FALSE
+"CD007026_pub7_data","5::overall",5,"","Total number of people with non-fatal SAEs","significance_only",3,3,0,0,0,1,1,0.021,0.940440812987686,0.00844924865575964,TRUE,FALSE,TRUE
+"CD007079_pub4_data","4::overall",4,"","Preterm birth < 37 weeks' gestation by type of calcium","significance_only",17,17,0,1,0,3,2,0.0483,-0.176063558256093,-0.00022677532838552,TRUE,FALSE,TRUE
+"CD007130_pub5_data","1::overall",1,"","Total mortality","direction_only",14,14,0,7,0,10,10,0.0243,0.183065910050036,-0.00175274054309054,FALSE,FALSE,FALSE
+"CD007310_pub3_data","15::overall",15,"","Provider assessment of difficulty of procedure","significance_only",3,3,0,0,0,1,1,0.5015,1.21027853220094,0.141160352459429,FALSE,TRUE,TRUE
+"CD007310_pub3_data","16::overall",16,"","Provider assessment of the procedure as very difficult","significance_only",3,3,0,0,0,0,0,0.2029,-0.487596754889264,-0.0575544421390149,TRUE,FALSE,TRUE
+"CD007374_pub3_data","17::overall",17,"","Glycaemic events","significance_only",2,2,0,0,0,0,1,0.3184,-1.06001083680698,-0.0707961994475536,FALSE,TRUE,TRUE
+"CD007388_pub3_data","2::overall",2,"","Maternal death","direction_only",11,11,0,2,0,5,5,0.1087,-0.129655697108189,0.000425557881605592,FALSE,FALSE,FALSE
+"CD007572_pub4_data","2::1",2,"1","Failure to induce clinical remission (subgroup analyses anti-TNF pre-treated vs anti-TNF naive participants)","significance_only",3,3,0,0,0,0,0,0.5109,-0.791190127636766,-0.164521027953021,FALSE,TRUE,TRUE
+"CD007572_pub4_data","3::2",3,"2","Failure to induce clinical remission (8 weeks, sensitivity analysis)","significance_only",3,3,0,0,0,0,0,0.633,-0.972118795710193,-0.0946709401373849,TRUE,FALSE,TRUE
+"CD007572_pub4_data","4::1",4,"1","Failure to induce clinical response (? 100 points)","significance_only",2,2,0,0,0,0,0,0.2656,-0.678419975011292,-0.0666178245978004,TRUE,FALSE,TRUE
+"CD007572_pub4_data","7::overall",7,"","Failure to induce endoscopic response","significance_only",4,4,0,0,0,0,0,0.7862,-0.556554217941361,-0.116138349050135,FALSE,TRUE,TRUE
+"CD007639_pub3_data","2::overall",2,"","Increased cough (Sidestream versus Pari LC plus)","significance_only",22,22,0,20,0,21,21,0.0075,0.367998881607187,0.0158779736050253,FALSE,TRUE,TRUE
+"CD007639_pub3_data","5::overall",5,"","FEV1 (% predicted)","significance_only",10,10,0,7,0,7,7,0.1518,-0.764158045813627,-0.141530791985058,TRUE,FALSE,TRUE
+"CD007784_pub3_data","3::overall",3,"","Rhabdomyolysis","significance_only",3,3,0,1,0,2,2,0.0313,-0.409956491981022,-0.00955737054807002,TRUE,FALSE,TRUE
+"CD007784_pub3_data","7::overall",7,"","Revascularisation procedure","significance_only",4,4,0,1,0,1,1,0.0425,-0.549279520548809,-0.0219248322924297,TRUE,FALSE,TRUE
+"CD007784_pub3_data","56::overall",56,"","Sensitivity analysis (funding): death","significance_only",5,5,0,0,0,2,1,0.0282,-0.333155073731076,-0.0113321243083082,FALSE,TRUE,TRUE
+"CD007809_pub3_data","5::overall",5,"","Number of participants withdrawing due to an adverse event at 12 weeks","direction_only",9,9,0,4,0,5,5,0.2031,-0.0174567850363667,0.000485757686014773,FALSE,FALSE,FALSE
+"CD007872_pub4_data","7::overall",7,"","Receipt of blood transfusion","direction_only",3,3,0,1,0,1,1,0.2022,0.00329447663188721,-0.000311729292843516,FALSE,FALSE,FALSE
+"CD007895_pub3_data","4::overall",4,"","Withdrawals due to adverse effects","direction_only",4,4,0,1,0,3,1,0.0136,0.196826959380934,-0.00230091056532201,FALSE,FALSE,FALSE
+"CD008176_pub3_data","1::overall",1,"","Cardiovascular death","direction_only",26,26,0,1,0,7,8,0.0595,-0.0332363247226825,0.00501834957293128,FALSE,FALSE,FALSE
+"CD008176_pub3_data","4::overall",4,"","Coronary heart disease","significance_only",42,42,0,6,0,14,12,0.0646,-0.284497042365989,-0.000574068648884369,TRUE,FALSE,TRUE
+"CD008176_pub3_data","6::overall",6,"","Cerebrovascular disease","direction_only",24,24,0,0,0,14,14,0.0811,-0.0538890516063148,0.00176188832790052,FALSE,FALSE,FALSE
+"CD008176_pub3_data","7::overall",7,"","Peripheral vascular disease","significance_only",14,14,0,0,0,4,4,0.1434,-0.310612305026753,-0.0172933706611961,FALSE,TRUE,TRUE
+"CD008176_pub3_data","19::overall",19,"","Vascular access thrombosis","direction_only",19,19,0,0,0,6,3,0.1441,-0.0745641392244401,0.0181312761329454,FALSE,FALSE,FALSE
+"CD008176_pub3_data","20::overall",20,"","Graft loss","direction_only",23,23,0,0,0,8,3,0.1351,-0.0674262005185609,0.0117520897877207,FALSE,FALSE,FALSE
+"CD008176_pub3_data","21::overall",21,"","Graft failure","direction_only",16,16,0,0,0,5,2,0.241,-0.109563733169397,0.0074112026948939,FALSE,FALSE,FALSE
+"CD008176_pub3_data","23::overall",23,"","Malignancy","direction_only",12,12,0,0,0,12,8,0.0189,-0.119905323752257,0.0121782398272486,FALSE,FALSE,FALSE
+"CD008237_pub4_data","3::1",3,"1","Independent procedure completion: level of participant endoscopy experience","significance_only",3,3,0,0,0,0,0,0.304,0.862458825519725,0.178395543044035,TRUE,FALSE,TRUE
+"CD008309_pub3_data","3::overall",3,"","Bradycardia (heart rate < 100 beats per minute) during the intervention","direction_only",20,20,0,6,0,12,10,0.1167,-0.0478374859738786,0.0209645704971793,FALSE,FALSE,FALSE
+"CD008309_pub3_data","12::overall",12,"","Pulmonary air leak, any (during first hospitalisation)","significance_only",7,7,0,2,0,3,3,0.0952,0.459389089844862,0.0605206480591759,FALSE,TRUE,TRUE
+"CD008309_pub3_data","15::overall",15,"","BPD (clinical definition) among survivors to 36 weeks' PMA","direction_only",5,5,0,2,0,3,2,0.0381,0.247459313573719,-0.00119395812295877,FALSE,FALSE,FALSE
+"CD008469_pub3_data","4::overall",4,"","Day symptoms (change in mean symptom-free days in 2 weeks)","significance_only",6,6,0,4,0,4,4,0.0168,-1.14672505310754,-0.166819589918621,TRUE,FALSE,TRUE
+"CD008469_pub3_data","6::overall",6,"","Exacerbations leading to hospitalisations: subgrouped by time frame of follow-up","significance_only",12,11,1,1,0,2,1,0.1678,0.282976800756342,0.028224411387888,TRUE,FALSE,TRUE
+"CD008493_pub5_data","1::overall",1,"","Short-term mortality","significance_only",20,20,0,6,0,14,11,0.0087,0.243592105655402,0.00276085597039042,FALSE,TRUE,TRUE
+"CD008493_pub5_data","4::overall",4,"","Atrial fibrillation","direction_only",17,17,0,0,0,1,1,0.0958,-0.0273744335751485,0.00396071067818513,FALSE,FALSE,FALSE
+"CD008564_pub3_data","1::overall",1,"","Total mortality","significance_only",56,56,0,0,0,0,0,0.0708,-0.105786796978427,-0.00545398389372223,TRUE,FALSE,TRUE
+"CD008564_pub3_data","4::overall",4,"","Cardiovascular mortality","significance_only",56,56,0,0,0,1,0,0.0333,-0.103491548743915,-0.00309463624300183,FALSE,TRUE,TRUE
+"CD008564_pub3_data","5::overall",5,"","Progression to end-stage renal disease ","significance_only",38,38,0,0,0,1,1,0.1034,-0.0709223555153477,-0.0035532583286281,FALSE,TRUE,TRUE
+"CD008564_pub3_data","7::overall",7,"","Doubling of serum creatinine level or 50% reduction in GFR at the end of study","direction_only",5,5,0,0,0,0,0,0.0394,0.0882666963133817,-0.000730799403602747,FALSE,FALSE,FALSE
+"CD008709_pub4_data","1::overall",1,"","Objective cure or improvement of urinary incontinence: between 12 and 24 months","significance_only",27,27,0,0,0,0,0,0.839,-0.195530394690797,-0.0160931330717292,TRUE,FALSE,TRUE
+"CD008709_pub4_data","4::overall",4,"","Bladder or urethral injuries: less than 30 days after surgery","significance_only",10,10,0,0,0,1,1,0.7863,-0.339545397800675,-0.0186369424413836,TRUE,FALSE,TRUE
+"CD008709_pub4_data","11::overall",11,"","Other injuries: less than 30 days after surgery","significance_only",8,8,0,0,0,6,2,0.0215,-0.970338986486536,-0.00622542925665033,TRUE,FALSE,TRUE
+"CD008709_pub4_data","12::overall",12,"","Infections (e.g. UTI, mesh infection)","direction_only",16,16,0,0,0,6,5,0.0574,-0.245406787685041,0.00404298218822112,FALSE,FALSE,FALSE
+"CD008873_pub5_data","4::overall",4,"","Preterm birth (less than 37 weeks' gestation) (ALL)","direction_only",5,5,0,1,0,2,2,0.1038,0.0879061649033196,-0.0070025358648487,FALSE,FALSE,FALSE
+"CD009022_pub4_data","9::overall",9,"","Wound infection (rate)","direction_only",5,5,0,1,0,3,2,0.0421,0.0965059476202391,-0.00907767474733215,FALSE,FALSE,FALSE
+"CD009102_pub2_data","3::overall",3,"","Chest compressions in DR","significance_only",3,3,0,0,0,0,0,0.0383,-1.15874650353003,-0.0372263102146659,TRUE,FALSE,TRUE
+"CD009235_pub4_data","13::overall",13,"","Tracheostomy","significance_only",17,17,0,3,0,4,3,0.1707,-0.368769457336328,-0.0260374478617381,TRUE,FALSE,TRUE
+"CD009235_pub4_data","16::1",16,"1","Reintubation by study population","significance_only",3,3,0,0,0,1,1,0.0808,-0.450791686585743,-0.0465646710784388,FALSE,TRUE,TRUE
+"CD009235_pub4_data","16::3",16,"3","Reintubation by study population","direction_only",11,11,0,5,0,9,7,0.0851,-0.0815664708056668,0.00784643761171311,FALSE,FALSE,FALSE
+"CD009235_pub4_data","19::5",19,"5","Reintubation by automated system","significance_only",3,3,0,0,0,0,0,0.1385,-0.636903750253323,-0.053775516241401,TRUE,FALSE,TRUE
+"CD009298_pub3_data","2::2",2,"2","Operative delivery (Subgroup analysis: occiput posterior versus occiput transverse)","direction_only",2,2,0,0,0,1,0,0.4855,0.0128415025460249,-0.00153767152139199,FALSE,FALSE,FALSE
+"CD009298_pub3_data","15::2",15,"2","Caesarean section (Subgroup analysis: nulliparous versus multiparous)","significance_only",5,5,0,2,0,5,5,0.0283,-1.15718526808336,-0.0451679560791295,FALSE,TRUE,TRUE
+"CD009298_pub3_data","26::1",26,"1","Postpartum haemorrhage ? 500 mL (Subgroup analysis: occiput posterior versus occiput transverse position)","direction_only",5,5,0,0,0,0,0,0.142,-0.00230850329454031,0.00842220213852461,FALSE,FALSE,FALSE
+"CD009508_pub2_data","4::overall",4,"","Satisfaction","significance_only",6,6,0,0,0,0,0,0.7713,0.532751809728883,0.110093772801052,TRUE,FALSE,TRUE
+"CD009531_pub3_data","2::overall",2,"","Mental state: clinically important change (binary) - 12 months ","significance_only",31,31,0,27,0,27,27,0.1032,-0.26797923241828,-0.0358121693287788,TRUE,FALSE,TRUE
+"CD009531_pub3_data","3::overall",3,"","Psychiatric hospital admissions - 12 months","significance_only",8,8,0,5,0,5,5,0.1873,-0.40710472100089,-0.0473751110394831,TRUE,FALSE,TRUE
+"CD009531_pub3_data","4::overall",4,"","Other hospital admissions","significance_only",8,8,0,5,0,5,6,0.2219,-0.432932984183495,-0.0540694357942659,TRUE,FALSE,TRUE
+"CD009531_pub3_data","14::overall",14,"","Death","direction_only",5,5,0,0,0,4,3,0.0239,0.228150255134118,-0.00313151059750426,FALSE,FALSE,FALSE
+"CD009535_pub3_data","5::overall",5,"","Kidney transplantation during study period","significance_only",6,6,0,0,0,1,1,0.1634,0.397075952617395,0.0529148879064974,FALSE,TRUE,TRUE
+"CD009679_pub3_data","3::overall",3,"","WOMAC Pain score","direction_only",9,9,0,6,0,8,8,0.0257,0.149456500225736,-0.0201699562257942,FALSE,FALSE,FALSE
+"CD009749_pub3_data","4::overall",4,"","Miscarriage rate - T","significance_only",12,12,0,2,0,11,5,0.0384,0.372000978127375,0.0278847460396823,FALSE,TRUE,TRUE
+"CD009749_pub3_data","7::overall",7,"","Multiple pregnancy","significance_only",11,11,0,6,0,11,9,0.0127,0.473065617305593,0.0251961106248765,FALSE,TRUE,TRUE
+"CD009749_pub3_data","9::overall",9,"","Pregnancy complications","significance_only",4,4,0,0,0,4,4,0.0229,1.36535002071751,0.0341416506696905,FALSE,TRUE,TRUE
+"CD009749_pub3_data","10::overall",10,"","Sensitivity analyses ","direction_only",25,25,0,0,0,8,5,0.1219,0.0593752968313192,-0.00142050005567651,FALSE,FALSE,FALSE
+"CD009752_pub3_data","6::overall",6,"","Severe adverse events: thromboembolism","direction_only",2,2,0,0,0,1,1,0.037,0.345868650387439,-0.0031131383245739,FALSE,FALSE,FALSE
+"CD009945_pub3_data","2::overall",2,"","Treatment withdrawal","direction_only",3,3,0,0,0,2,2,0.0523,-0.0390559697778393,0.0266269701173344,FALSE,FALSE,FALSE
+"CD010001_pub4_data","5::overall",5,"","Endometrial thickness","significance_only",33,33,0,28,0,28,28,0.046,0.452078687711738,0.162490138797606,TRUE,FALSE,TRUE
+"CD010145_pub2_data","11::1",11,"1","Three-year survival rate","significance_only",3,3,0,1,0,1,1,0.1078,1.77718102470643,0.28945680196051,TRUE,FALSE,TRUE
+"CD010145_pub2_data","2::2",2,"2","Adverse event (fatigue)","significance_only",2,2,0,0,0,1,0,0.1384,-1.24306295667644,-0.111077107068059,TRUE,FALSE,TRUE
+"CD010145_pub2_data","1::overall",1,"","Adverse events (related to the study treatment)","significance_only",3,3,0,0,0,1,1,0.1724,0.459724390546371,0.0987720647176997,FALSE,TRUE,TRUE
+"CD010216_pub9_data","2::overall",2,"","Adverse events","significance_only",32,32,0,5,0,5,6,0.3921,0.189886224228429,0.0370966809085067,FALSE,TRUE,TRUE
+"CD010290_pub4_data","3::overall",3,"","Multiple pregnancy per woman by urinary gonadotropins","significance_only",13,13,0,1,0,6,3,0.1874,0.432994455628157,0.0102229722651363,TRUE,FALSE,TRUE
+"CD010290_pub4_data","12::overall",12,"","Sensitivity analysis: live birth rate per woman - low risk studies","direction_only",3,3,0,0,0,0,0,0.0733,0.124490838389731,-0.000278158063669968,FALSE,FALSE,FALSE
+"CD010441_pub3_data","4::overall",4,"","Incidence of third and fourth degree perineal trauma","significance_only",6,6,0,4,0,5,5,0.02,-0.48044360826519,-0.0456308269835064,FALSE,TRUE,TRUE
+"CD010533_pub3_data","1::overall",1,"","Overall survival (OS)","direction_only",22,22,0,20,0,21,21,8e-04,-0.0222034949929907,0.023314612466805,FALSE,FALSE,FALSE
+"CD010583_pub6_data","1::2",1,"2","Mortality (30 days)","significance_only",3,3,0,1,0,3,3,0.0096,-1.65735807521803,-0.0310596513337534,FALSE,TRUE,TRUE
+"CD010583_pub6_data","2::2",2,"2","Intra-abdominal infection","significance_only",2,2,0,0,0,0,0,0.0903,-1.03901818109248,-0.0906971261981384,TRUE,FALSE,TRUE
+"CD010861_pub3_data","5::overall",5,"","Psychological wellbeing","direction_only",7,6,1,3,0,3,3,0.6284,0.509021021827719,-0.060004896292956,FALSE,FALSE,FALSE
+"CD010861_pub3_data","7::overall",7,"","Compliance to treatment","significance_only",15,14,1,4,2,7,6,0.5283,1.27357149948146,0.108703832781923,TRUE,FALSE,TRUE
+"CD010861_pub3_data","10::overall",10,"","Flushing/Fishbane reaction","significance_only",8,5,3,1,0,5,5,0.0178,1.51570181602945,0.0428582091733908,TRUE,FALSE,TRUE
+"CD010861_pub3_data","15::overall",15,"","Number of RBC transfused women","direction_only",5,5,0,0,0,5,3,0.0107,-0.28729155008957,0.00222133059189876,FALSE,FALSE,FALSE
+"CD010966_pub4_data","1::overall",1,"","FEV1 % predicted (absolute change from baseline)","significance_only",65,65,0,55,0,65,63,0.0035,-0.207750252671045,-0.0819815913269149,FALSE,TRUE,TRUE
+"CD010966_pub4_data","2::overall",2,"","Adverse effects: 100 mg and 200 mg lumacaftor groups (combined data) versus placebo at up to 1 month","direction_and_significance",141,141,0,44,0,107,86,0.0495,-0.102162499947729,0.0287492150521981,FALSE,TRUE,FALSE
+"CD010966_pub4_data","3::overall",3,"","Adverse effects: 200 mg lumacaftor group versus placebo at up to 1 month","direction_only",121,121,0,50,0,103,89,0.057,-0.156314503905124,0.00286798264544102,FALSE,FALSE,FALSE
+"CD010966_pub4_data","4::overall",4,"","Adverse effects requiring study drug discontinuation at up to 1 month","direction_and_significance",451,451,0,72,4,379,315,0.1077,-0.0778155637605283,0.0168192333958693,FALSE,TRUE,FALSE
+"CD010966_pub4_data","5::overall",5,"","Sweat chloride concentration (change from baseline at up to 1 month) [mmol/L]","direction_and_significance",112,112,0,45,0,91,75,0.0432,-0.0988757407469023,0.0237719933344068,FALSE,TRUE,FALSE
+"CD010966_pub4_data","16::overall",16,"","Most common adverse events (occurring in at least 10% of participants in either group)","significance_only",69,69,0,1,1,23,19,0.2232,-0.207976073333071,-0.000957071316611077,TRUE,FALSE,TRUE
+"CD011197_pub3_data","1::overall",1,"","Mortality","direction_only",9,9,0,6,0,8,7,0.0861,0.0642697992495557,-0.00829822415495263,FALSE,FALSE,FALSE
+"CD011204_pub3_data","9::overall",9,"","Proportion of participants experiencing agitation","significance_only",7,7,0,0,0,0,0,0.0714,0.206795376013072,0.0196147674563833,FALSE,TRUE,TRUE
+"CD011305_pub3_data","10::overall",10,"","Severe bleeding - WHO/CTCAE grade ? 3 or equivalent (0 to 3 months)","direction_only",5,5,0,0,0,3,2,0.0313,0.00272529222196641,-0.00211768333568689,FALSE,FALSE,FALSE
+"CD011381_pub3_data","11::overall",11,"","Mortality","direction_only",32,32,0,0,0,30,18,0.0021,-0.131037295500384,0.000164999111769419,FALSE,FALSE,FALSE
+"CD011468_pub2_data","1::overall",1,"","Secondary patency","significance_only",5,5,0,2,0,3,2,0.1441,-1.15170600602171,-0.166838204117639,TRUE,FALSE,TRUE
+"CD011535_pub7_data","2::overall",2,"","Ciclosporin versus methotrexate","direction_only",16,15,1,3,2,3,3,0.434,0.0793350126264886,-0.0060921389303748,FALSE,FALSE,FALSE
+"CD011535_pub7_data","6::4",6,"4","Anti-IL17 versus placebo","significance_only",10,5,5,0,0,1,3,0.3679,1.72280140027586,0.275307989831499,FALSE,TRUE,TRUE
+"CD011535_pub7_data","8::20",8,"20","Biologics versus non-targeted treatements","significance_only",5,5,0,0,0,1,0,0.5383,1.9408549201232,0.354610578139345,FALSE,TRUE,TRUE
+"CD011535_pub7_data","8::23",8,"23","Biologics versus non-targeted treatements","significance_only",5,5,0,0,0,0,0,0.5158,1.42104786138118,0.311594462310238,FALSE,TRUE,TRUE
+"CD011535_pub7_data","9::2",9,"2","Etanercept versus other anti-TNF alpha","significance_only",8,5,3,0,0,0,0,0.3657,-0.258838376628789,-0.0354876776136139,TRUE,FALSE,TRUE
+"CD011535_pub7_data","9::3",9,"3","Etanercept versus other anti-TNF alpha","significance_only",5,5,0,0,0,1,0,0.4667,-1.59171729937543,-0.20443127479707,TRUE,FALSE,TRUE
+"CD011535_pub7_data","12::6",12,"6","Anti-IL17 versus other biologics","significance_only",4,4,0,0,0,0,0,0.4725,0.469035989378385,0.0910862640635742,TRUE,FALSE,TRUE
+"CD011535_pub7_data","1::5",1,"5","Biologic 1 versus biologic 2","significance_only",2,2,0,0,0,0,0,0.8093,1.05632741436661,0.179844043011878,TRUE,FALSE,TRUE
+"CD011535_pub7_data","1::8",1,"8","Biologic 1 versus biologic 2","significance_only",2,2,0,0,0,0,0,0.6474,0.967100075280519,0.177854377075344,TRUE,FALSE,TRUE
+"CD011535_pub7_data","1::12",1,"12","Biologic 1 versus biologic 2","significance_only",2,2,0,0,0,0,0,0.8463,0.318265200615272,0.023757495680453,TRUE,FALSE,TRUE
+"CD011575_pub3_data","3::overall",3,"","Serious cardiovascular adverse events","significance_only",4,4,0,0,0,0,0,0.0431,0.238345928718493,0.00741403711656956,TRUE,FALSE,TRUE
+"CD011575_pub3_data","5::overall",5,"","Non-cardiovascular mortality","direction_only",4,4,0,0,0,0,0,0.0157,0.0183077923316055,-0.000795976710667852,FALSE,FALSE,FALSE
+"CD011575_pub3_data","15::overall",15,"","Stroke (excluding Wei)","significance_only",3,3,0,0,0,0,0,0.0152,0.22927397687031,0.00386439742521717,FALSE,TRUE,TRUE
+"CD011575_pub3_data","19::overall",19,"","Serious cardioavascular adverse events (excluding JATOS)","significance_only",3,3,0,0,0,0,0,0.0446,0.313423965207536,0.0220489484132033,TRUE,FALSE,TRUE
+"CD011575_pub3_data","21::overall",21,"","Cardiovascular mortality (excluding JATOS)","significance_only",3,3,0,0,0,0,0,0.0114,0.45533343157842,0.018129674329366,TRUE,FALSE,TRUE
+"CD011600_pub3_data","27::overall",27,"","Death, COPD-related","significance_only",2,2,0,0,0,0,0,0.0053,-0.516406130787442,-0.00291007230665563,TRUE,FALSE,TRUE
+"CD011626_pub3_data","7::overall",7,"","Adverse events","significance_only",11,11,0,0,0,8,8,0.1121,0.868656288291068,0.0463229249541619,FALSE,TRUE,TRUE
+"CD011627_pub3_data","1::3",1,"3","Number of participants with incontinence-associated dermatitis","significance_only",4,4,0,0,0,1,2,0.1358,-1.16216246026579,-0.151972651773446,FALSE,TRUE,TRUE
+"CD011670_pub3_data","2::overall",2,"","Wound infection","direction_only",8,8,0,1,0,3,3,0.0882,-0.0274699304082876,0.0173145975035861,FALSE,FALSE,FALSE
+"CD011670_pub3_data","3::overall",3,"","Abdominal abscess","significance_only",5,5,0,1,0,3,3,0.0315,-1.32757081549354,-0.0688903800760823,TRUE,FALSE,TRUE
+"CD011689_pub4_data","1::overall",1,"","Death","direction_only",51,51,0,46,0,50,49,1e-04,0.0556949225079278,-7.16282145595379e-05,FALSE,FALSE,FALSE
+"CD011689_pub4_data","2::overall",2,"","PPH >= 1000 mL","significance_only",107,107,0,16,0,36,29,0.0365,-0.134392879520958,-0.00211438765543855,TRUE,FALSE,TRUE
+"CD011689_pub4_data","4::overall",4,"","Severe maternal morbidity: intensive care admissions","direction_only",12,12,0,5,0,9,7,0.0015,0.0815797891268111,-3.52797617222894e-05,FALSE,FALSE,FALSE
+"CD011689_pub4_data","10::overall",10,"","Breastfeeding","direction_only",6,6,0,0,0,0,0,0.8007,0.0110030472136493,-0.00242822728841152,FALSE,FALSE,FALSE
+"CD011689_pub4_data","12::overall",12,"","Vomiting","significance_only",101,101,0,4,0,24,16,0.0275,0.337385532209211,0.00922786418233032,TRUE,FALSE,TRUE
+"CD011689_pub4_data","20::3",20,"3","Maternal satisfaction","significance_only",6,6,0,0,0,0,0,0.6593,0.0472545029630492,0.00776835593246569,FALSE,TRUE,TRUE
+"CD011689_pub4_data","2::1",2,"1","PPH >= 1000 mL","significance_only",188,188,0,28,0,65,52,0.04,-0.0944765544866689,-0.00143566544940996,TRUE,FALSE,TRUE
+"CD011689_pub4_data","4::1",4,"1","Severe maternal morbidity: intensive care admissions","direction_only",21,21,0,9,0,15,12,0.0015,0.0753431322464351,-4.20306436913345e-05,FALSE,FALSE,FALSE
+"CD011689_pub4_data","10::1",10,"1","Breastfeeding","direction_only",10,10,0,0,0,0,0,0.8011,0.0146526804010563,-0.00285441073581168,FALSE,FALSE,FALSE
+"CD011689_pub4_data","1::2",1,"2","Death","direction_only",11,11,0,9,0,11,11,3e-04,-0.0323658267474651,3.03786726956856e-06,FALSE,FALSE,FALSE
+"CD011689_pub4_data","15::2",15,"2","Hypertension","significance_only",3,3,0,0,0,0,0,0.0611,-0.966857365234925,-0.0464184044535596,FALSE,TRUE,TRUE
+"CD011689_pub4_data","18::2",18,"2","Diarrhoea","significance_only",5,5,0,0,0,3,2,0.0074,1.06190562152344,0.00539675643396069,TRUE,FALSE,TRUE
+"CD011762_pub2_data","1::overall",1,"","All-cause mortality","direction_only",206,206,0,12,0,123,110,0.0052,-0.191018376366804,0.000905834800751187,TRUE,TRUE,FALSE
+"CD011762_pub2_data","3::overall",3,"","Symptomatic VTE","significance_only",245,245,0,8,0,129,91,0.0083,-0.441696852959463,-0.000751154341132019,TRUE,FALSE,TRUE
+"CD011762_pub2_data","4::overall",4,"","Major bleeding","direction_and_significance",291,291,0,7,0,106,99,0.01,-0.0317517982063819,0.00253000413336572,FALSE,TRUE,FALSE
+"CD011762_pub2_data","6::overall",6,"","Major bleeding: other direct factor Xa inhibitors (excluding rivaroxaban) versus LMWH","direction_and_significance",163,163,0,3,0,60,51,0.0104,-0.298998769069644,0.000952589830967318,TRUE,FALSE,FALSE
+"CD011762_pub2_data","8::overall",8,"","Serious non-hepatic adverse events","direction_only",131,131,0,0,0,50,44,0.0387,-0.184539421798777,0.000402470338898898,TRUE,TRUE,FALSE
+"CD011762_pub2_data","9::overall",9,"","Fatal VTE","significance_only",140,140,0,37,0,83,78,0.0148,-0.440164638389827,-0.000322678138980312,TRUE,FALSE,TRUE
+"CD011762_pub2_data","11::overall",11,"","Fatal bleeding","direction_only",90,90,0,76,0,90,90,2e-04,-0.359452658593993,0.000303107243439858,FALSE,FALSE,FALSE
+"CD011793_pub3_data","1::overall",1,"","Mortality","direction_only",10,10,0,0,0,10,5,0.0234,-0.129149390380807,0.00029311626377993,FALSE,FALSE,FALSE
+"CD011806_pub2_data","3::overall",3,"","Clinical relapse (mixed IBD) - sensitivity analysis (fixed-effect)","significance_only",7,7,0,4,0,4,4,0.1435,-0.653892713379348,-0.120026605509693,TRUE,FALSE,TRUE
+"CD011841_pub3_data","1::overall",1,"","Mean change in BCVA between baseline and 12 months (? 6)","direction_only",32,32,0,29,0,30,30,0.0136,-0.413252732105548,0.0698079324065766,FALSE,FALSE,FALSE
+"CD011858_pub2_data","4::overall",4,"","Death (any cause)","direction_only",5,5,0,0,0,4,1,0.0495,-0.0277969665835258,0.00145243948638737,FALSE,FALSE,FALSE
+"CD011858_pub2_data","6::overall",6,"","Activated partial thromboplastin time","direction_only",4,4,0,1,0,4,3,0.0104,0.0469976973911156,-0.000924176819715309,FALSE,FALSE,FALSE
+"CD011858_pub2_data","7::overall",7,"","Platelet count","direction_only",3,3,0,1,0,3,3,0.0059,0.499287189351445,-7.58758237946579e-05,FALSE,FALSE,FALSE
+"CD011858_pub2_data","8::overall",8,"","Potassium","direction_only",3,3,0,1,0,3,2,0.0087,-0.0536182902448799,0.00566794987057296,FALSE,FALSE,FALSE
+"CD011866_pub3_data","5::overall",5,"","Continuous abstinence, longest follow-up","significance_only",9,9,0,5,0,5,5,0.1859,0.55804630332189,0.141009493705331,FALSE,TRUE,TRUE
+"CD011885_pub2_data","44::overall",44,"","Adverse effects: insomnia","direction_only",3,3,0,0,0,1,0,0.0631,-0.0742919994157811,8.74944980871033e-05,FALSE,FALSE,FALSE
+"CD012067_pub3_data","5::overall",5,"","Death","direction_only",29,29,0,18,0,22,21,0.011,-0.0772341865076233,0.00375482453563974,FALSE,FALSE,FALSE
+"CD012067_pub3_data","8::overall",8,"","Diastolic blood pressure [mm Hg]","direction_only",17,17,0,7,0,9,11,0.1986,-0.0514347169492515,0.0517920943309005,FALSE,FALSE,FALSE
+"CD012067_pub3_data","13::overall",13,"","Spot urine osmolality [mOsm/kg]","significance_only",16,16,0,5,0,9,6,0.1337,0.563910905079126,0.0416815336431043,TRUE,FALSE,TRUE
+"CD012067_pub3_data","15::overall",15,"","Serious adverse events","direction_only",7,7,0,3,0,3,3,0.126,0.0681440409307771,-0.00181392549603588,FALSE,FALSE,FALSE
+"CD012067_pub3_data","23::overall",23,"","Adverse events","significance_only",25,25,0,0,0,8,8,0.1331,0.871414943502289,0.0776262956595163,TRUE,FALSE,TRUE
+"CD012079_pub2_data","5::overall",5,"","Recurrent prolapse on examination (posterior compartment) ","direction_only",7,7,0,0,0,1,1,0.1354,0.0160998309585344,-0.00894713244435135,FALSE,FALSE,FALSE
+"CD012079_pub2_data","12::overall",12,"","Painful intercourse - de novo dyspareunia ","significance_only",19,19,0,0,0,8,6,0.0704,0.33182765743787,0.032651022564682,FALSE,TRUE,TRUE
+"CD012152_pub4_data","17::overall",17,"","Neonatal seizures","direction_only",2,2,0,0,0,2,2,8e-04,-0.350689289170142,5.07791569265574e-06,FALSE,FALSE,FALSE
+"CD012152_pub4_data","26::overall",26,"","Developmental delay/intellectual impairment at six to seven years of age","significance_only",2,2,0,0,0,0,0,0.112,-0.914468133708683,-0.0867052443513885,FALSE,TRUE,TRUE
+"CD012186_pub2_data","1::overall",1,"","SAEs","significance_only",91,91,0,2,0,13,9,0.1114,0.0112301123855269,0.0056856309852699,FALSE,TRUE,TRUE
+"CD012214_pub3_data","4::overall",4,"","Abnormal uterine bleeding","direction_only",4,4,0,1,0,3,2,0.0909,-0.217569067969066,0.00508375873975556,FALSE,FALSE,FALSE
+"CD012397_pub2_data","7::overall",7,"","Specific behaviours: aggression, other episode of aggression (incidents per treatment days)","direction_only",6,6,0,3,0,3,3,0.0086,0.00999689022699142,-0.00546415152468035,FALSE,FALSE,FALSE
+"CD012429_pub2_data","1::overall",1,"","Change in mental state (BPRS)","direction_only",16,16,0,9,0,10,10,0.0781,-0.148856740022046,0.0175062606168759,FALSE,FALSE,FALSE
+"CD012429_pub2_data","10::overall",10,"","Akathisia","significance_only",4,4,0,0,0,1,1,0.1419,-0.707567918772771,-0.0990279640898162,FALSE,TRUE,TRUE
+"CD012429_pub2_data","14::overall",14,"","Tremor","significance_only",3,3,0,0,0,3,1,0.0249,-1.83673170573121,-0.0544094208615337,TRUE,FALSE,TRUE
+"CD012429_pub2_data","22::overall",22,"","Toothache","direction_only",3,3,0,0,0,3,2,0.0178,-0.142657126508819,0.0131370717274816,FALSE,FALSE,FALSE
+"CD012503_pub3_data","2::1",2,"1","Subgroup analysis, recurrence of ischemic stroke at the endpoint (based on unilateral or bilateral limb RIC intervention)","direction_only",36,36,0,10,0,17,17,0.2995,0.0595779007413067,-0.00697665309962445,FALSE,FALSE,FALSE
+"CD012503_pub3_data","4::1",4,"1","Subgroup analysis, recurrence of ischemic stroke at the endpoint (based on RIC intervention timing)","direction_only",39,39,0,10,0,16,16,0.3438,0.0598548390362853,-0.00827186929862411,FALSE,FALSE,FALSE
+"CD012503_pub3_data","4::2",4,"2","Subgroup analysis, recurrence of ischemic stroke at the endpoint (based on RIC intervention timing)","significance_only",11,11,0,2,0,5,5,0.45,0.228755519837376,0.0131687262149808,TRUE,FALSE,TRUE
+"CD012503_pub3_data","5::1",5,"1","Subgroup analysis, recurrence of ischemic stroke at the endpoint (based on the duration of RIC intervention)","direction_only",39,39,0,10,0,19,19,0.332,0.0380360869996252,-0.00805366805420445,FALSE,FALSE,FALSE
+"CD012503_pub3_data","5::2",5,"2","Subgroup analysis, recurrence of ischemic stroke at the endpoint (based on the duration of RIC intervention)","significance_only",12,12,0,2,0,3,3,0.4527,0.260644234951404,0.041899961640965,TRUE,FALSE,TRUE
+"CD012586_pub2_data","2::1",2,"1","OHSS","significance_only",78,78,0,10,0,22,16,0.1071,-0.103337691902896,-0.00610671184980435,FALSE,TRUE,TRUE
+"CD012586_pub2_data","4::2",4,"2","Multiple pregnancy","direction_only",5,5,0,1,0,1,1,0.0814,-0.00206580679766546,0.00394583440937904,FALSE,FALSE,FALSE
+"CD012609_pub2_data","3::overall",3,"","Loss of clinical response in patients with exclusively fistulating disease","direction_only",5,5,0,0,0,0,1,0.2961,0.135126005808459,-0.00532956640901648,FALSE,FALSE,FALSE
+"CD012635_pub2_data","6::overall",6,"","Venous thromboembolic events in the first 30 days after injury","direction_only",3,3,0,0,0,1,1,0.0548,0.0176536122453024,-0.00988292622437542,FALSE,FALSE,FALSE
+"CD012635_pub2_data","2::1",2,"1","All-cause mortality at 24 hours ","direction_only",2,2,0,0,0,0,0,0.0647,-0.11578648787948,0.00521288944809583,FALSE,FALSE,FALSE
+"CD012635_pub2_data","8::1",8,"1","Arterial thromboembolic events in the first 30 days after injury","direction_only",2,2,0,0,0,1,1,0.0328,0.0153034675148602,-0.00188785876325321,FALSE,FALSE,FALSE
+"CD012642_pub2_data","1::overall",1,"","Mortality (latest time reported up to hospital discharge)","significance_only",21,21,0,5,0,8,8,0.1411,-0.0750312627538696,-0.0644521499939139,FALSE,TRUE,TRUE
+"CD012642_pub2_data","6::overall",6,"","Bronchopulmonary dysplasia (? 28 days age)","significance_only",4,4,0,0,0,0,0,0.3395,0.706441243735247,0.19402385505069,FALSE,TRUE,TRUE
+"CD012693_pub3_data","11::overall",11,"","Cycle cancellations for poor response","significance_only",26,26,0,2,0,11,5,0.068,-0.378273452348966,-0.0275934838629843,FALSE,TRUE,TRUE
+"CD012693_pub3_data","29::overall",29,"","Dose-response: women with at least one transferable embryo","significance_only",10,10,0,0,0,0,0,0.478,0.501563958686381,0.067716917961699,TRUE,FALSE,TRUE
+"CD012712_pub2_data","1::overall",1,"","Mortality before hospital discharge","significance_only",59,59,0,15,0,23,19,0.0305,0.159945391087405,0.00529252143417417,FALSE,TRUE,TRUE
+"CD012712_pub2_data","6::overall",6,"","Duration of oxygen therapy, days","significance_only",40,40,0,21,0,27,21,0.0563,-0.218411160476181,-0.00493971672605112,TRUE,FALSE,TRUE
+"CD012712_pub2_data","14::overall",14,"","Spontaneous intestinal perforation","direction_only",12,12,0,1,0,3,2,0.1089,0.0859029242731285,-0.00196634951236367,FALSE,FALSE,FALSE
+"CD012712_pub2_data","17::overall",17,"","Periventricular leukomalacia","significance_only",9,9,0,0,0,1,1,0.1372,-0.243340683935556,-0.0214262996748088,TRUE,FALSE,TRUE
+"CD012757_pub2_data","8::overall",8,"","Tumour response measures after treatment (partial response)","significance_only",2,2,0,0,0,0,0,0.3841,0.700727847792009,0.153386831314034,TRUE,FALSE,TRUE
+"CD012850_pub2_data","1::overall",1,"","Self-reported joint pain at rest (dichotomous data)","direction_only",6,6,0,2,0,3,3,0.1781,-0.080004173656858,0.024925383934538,FALSE,FALSE,FALSE
+"CD012850_pub2_data","5::overall",5,"","Self-reported joint pain at mastication (dichotomous data)","significance_only",4,4,0,1,0,1,1,0.2573,0.757347320082027,0.14953450336274,FALSE,TRUE,TRUE
+"CD012850_pub2_data","6::overall",6,"","Muscle pain at rest (dichotomous data)","direction_only",5,5,0,2,0,3,3,0.1818,-0.007613361180345,0.0653121233344932,FALSE,FALSE,FALSE
+"CD012850_pub2_data","20::overall",20,"","Frequency of joint noise","significance_only",4,4,0,2,0,2,2,0.3286,-1.56893159554588,-0.346666666666667,FALSE,TRUE,TRUE
+"CD012891_pub2_data","7::overall",7,"","Clinical pregnancy","significance_only",7,7,0,0,0,4,2,0.074,0.558406006945085,0.0138622675008681,TRUE,FALSE,TRUE
+"CD012905_pub2_data","1::overall",1,"","Development of AKI","significance_only",24,24,0,0,0,2,3,0.2287,-0.306565511731597,-0.0502033126346699,TRUE,FALSE,TRUE
+"CD012905_pub2_data","2::overall",2,"","Need for kidney replacement therapy","significance_only",20,20,0,2,0,11,8,0.0935,-0.218824535175179,-0.019427568627622,FALSE,TRUE,TRUE
+"CD012905_pub2_data","3::overall",3,"","Death","direction_only",16,16,0,4,0,9,4,0.1373,0.138275212644163,-0.00274947045909246,FALSE,FALSE,FALSE
+"CD012905_pub2_data","6::overall",6,"","Duration of ICU stay [days]","significance_only",7,7,0,5,0,6,6,0.0185,0.981437990385479,0.090176592797784,TRUE,FALSE,TRUE
+"CD012905_pub2_data","8::overall",8,"","Sensitivity analysis: development of AKI based on risk of attrition bias","significance_only",8,8,0,0,0,1,1,0.2598,-0.470637608297703,-0.0599633218905294,TRUE,FALSE,TRUE
+"CD012925_pub2_data","6::overall",6,"","Client utilisation of primary healthcare and/or services (risk ratio)","direction_only",9,9,0,4,0,5,6,0.2348,0.00733311061160457,-0.0110103640631667,FALSE,FALSE,FALSE
+"CD012942_pub2_data","10::overall",10,"","Comparison 10 Vortioxetine versus placebo, Outcome 2 Acceptability","significance_only",6,6,0,1,0,1,1,0.2009,0.325132809345782,0.0230806324484442,TRUE,FALSE,TRUE
+"CD012993_pub2_data","3::overall",3,"","Infusion reactions","direction_only",4,4,0,2,0,2,2,0.1049,0.00633810223089675,-0.139029820261438,FALSE,FALSE,FALSE
+"CD012993_pub2_data","8::overall",8,"","Treatment-emergent adverse events (breakdown 1)","direction_only",6,6,0,0,0,2,1,0.1809,-0.243169062123965,0.00218853491707707,FALSE,FALSE,FALSE
+"CD013023_pub2_data","2::overall",2,"","Dislodgement","significance_only",15,15,0,3,0,12,11,0.0349,-0.671323466141231,-0.0280215520853805,TRUE,FALSE,TRUE
+"CD013023_pub2_data","4::overall",4,"","Adverse events","direction_only",10,10,0,1,0,9,7,0.1244,-0.213995598447762,0.00363909058615293,FALSE,FALSE,FALSE
+"CD013042_pub2_data","5::overall",5,"","Proportion of overall withdrawals","direction_only",39,39,0,16,0,22,22,0.1084,-0.123389162613443,0.033302406640188,FALSE,FALSE,FALSE
+"CD013051_pub3_data","2::2",2,"2","Subgroup analysis: CSOM diagnosis","significance_only",2,2,0,0,0,0,0,0.8628,1.68152916330714,0.187644833977192,TRUE,FALSE,TRUE
+"CD013052_pub3_data","3::2",3,"2","Subgroup analysis: CSOM diagnosis","direction_only",6,6,0,1,0,1,1,0.5541,-0.0676360338486207,0.00576246372102791,FALSE,FALSE,FALSE
+"CD013055_pub3_data","2::overall",2,"","Resolution of ear discharge (after 4 weeks)","direction_only",2,2,0,0,0,1,1,0.2967,-0.396433195670723,0.0645489201037835,FALSE,FALSE,FALSE
+"CD013059_pub2_data","2::overall",2,"","Treatment non-acceptability","significance_only",37,37,0,32,0,35,35,0.0154,0.238009754192388,0.081916371994725,FALSE,TRUE,TRUE
+"CD013071_pub2_data","2::overall",2,"","Erectile function (IIEF)","direction_only",18,18,0,16,0,17,16,0.0101,0.00181905441002805,-0.0114530911857223,FALSE,FALSE,FALSE
+"CD013071_pub2_data","5::overall",5,"","Sexual quality of life (IIEF-overall satisfaction)","direction_only",7,7,0,4,0,5,5,0.0138,-0.00293319459167807,0.01671009501141,FALSE,FALSE,FALSE
+"CD013071_pub2_data","11::overall",11,"","Cardiovascular mortality (subgroup: age and testosterone level)","direction_only",10,10,0,5,0,10,9,0.002,-0.106240990658999,0.00107724902829346,FALSE,FALSE,FALSE
+"CD013071_pub2_data","15::overall",15,"","Cardiovascular mortality (subgroup: metabolic syndrome (MS))","direction_only",10,10,0,5,0,10,9,0.002,-0.106240990658999,0.00107724902829346,FALSE,FALSE,FALSE
+"CD013105_pub2_data","1::1",1,"1","Bladder function ","significance_only",11,11,0,2,0,5,4,0.2357,-0.434231168066537,-0.0479553025040729,FALSE,TRUE,TRUE
+"CD013111_pub2_data","1::overall",1,"","Metformin plus progestin compared to progestin. Live birth rate. RCTs","significance_only",4,4,0,0,0,1,1,0.3285,0.79410803439035,0.143803328252941,TRUE,FALSE,TRUE
+"CD013197_pub2_data","5::overall",5,"","Serious adverse events (SAEs) short-term","direction_only",16,16,0,2,0,11,6,0.0448,-0.0860046921900881,1.65916661131205e-05,FALSE,FALSE,FALSE
+"CD013232_pub2_data","1::overall",1,"","Irritability","direction_only",84,84,0,80,0,84,84,0.0015,-0.0141185523737285,0.0635466340408015,FALSE,FALSE,FALSE
+"CD013232_pub2_data","8::overall",8,"","Adverse effects: immune system","significance_only",166,166,0,2,0,70,41,0.1174,0.0516598215490113,0.0168183471558741,FALSE,TRUE,TRUE
+"CD013232_pub2_data","10::overall",10,"","Adverse effects: metabolic (continuous)","significance_only",46,46,0,2,0,19,16,0.076,0.164869113426498,0.0150073370653463,FALSE,TRUE,TRUE
+"CD013232_pub2_data","14::overall",14,"","Adverse effects: respiratory","significance_only",72,72,0,8,0,36,23,0.1017,0.195296706739857,0.0182008365664648,FALSE,TRUE,TRUE
+"CD013255_pub2_data","4::overall",4,"","30-day cardiovascular mortality","direction_only",12,12,0,8,0,12,11,0.0035,-0.110680216786482,0.00655899062912791,FALSE,FALSE,FALSE
+"CD013255_pub2_data","5::overall",5,"","Stroke or systemic embolism at 30 days","direction_only",10,10,0,7,0,10,10,0.0022,-0.0818189370215598,0.0059910481430341,FALSE,FALSE,FALSE
+"CD013278_pub3_data","5::1",5,"1","Chronic lung disease (CLD)","significance_only",3,3,0,0,0,0,0,0.2885,-0.530585902745881,-0.10763128515741,FALSE,TRUE,TRUE
+"CD013278_pub3_data","10::1",10,"1","Intraventricular hemorrhage (IVH; grades I to IV)","direction_only",4,4,0,1,0,1,2,0.0147,0.235473400605826,-0.0377415234807361,FALSE,FALSE,FALSE
+"CD013278_pub3_data","12::2",12,"2","Periventricular leukomalacia (PVL; any grade)","direction_only",2,2,0,0,0,0,0,0.0936,-0.0286322569548509,0.00393005002950707,FALSE,FALSE,FALSE
+"CD013278_pub3_data","5::3",5,"3","Receipt of rescue medical treatment for a hs-PDA","significance_only",2,2,0,0,0,0,0,0.1522,-1.40365107720791,-0.241896352166505,TRUE,FALSE,TRUE
+"CD013303_pub2_data","5::overall",5,"","Health outcomes: subjective health status (short-term: immediately post-intervention)","significance_only",8,8,0,6,0,6,6,0.2429,0.685932039733889,0.141928592675724,TRUE,FALSE,TRUE
+"CD013332_pub2_data","2::overall",2,"","All-cause mortality","significance_only",22,22,0,0,0,6,1,0.0258,-0.250201753454489,-0.00538635408104541,TRUE,FALSE,TRUE
+"CD013342_pub2_data","8::overall",8,"","Withdrawals due to adverse events","direction_only",8,8,0,5,0,7,7,0.0302,-0.147410132932788,0.0191995651094235,FALSE,FALSE,FALSE
+"CD013344_pub2_data","6::overall",6,"","BK viruria","direction_only",6,6,0,1,0,3,3,0.0861,-0.0755660688803466,0.016808388185812,FALSE,FALSE,FALSE
+"CD013355_pub2_data","3::overall",3,"","Haemodynamic outcome: arterial hypotension","significance_only",2,2,0,0,0,0,0,0.055,0.4816545028738,0.0284831902936261,FALSE,TRUE,TRUE
+"CD013366_pub2_data","1::overall",1,"","Venous thromboembolism","significance_only",13,13,0,0,0,6,5,0.0212,-0.589822656971029,-0.00504073439379699,TRUE,FALSE,TRUE
+"CD013366_pub2_data","2::overall",2,"","Venous thromboembolism (subgroup analysis - age)","direction_only",22,22,0,0,0,8,5,0.1107,-0.164390104397035,0.00436719986323987,FALSE,FALSE,FALSE
+"CD013366_pub2_data","4::overall",4,"","PICC-associated BSI","significance_only",14,14,0,1,0,7,4,0.13,-0.563327910129308,-0.0446085386145543,TRUE,FALSE,TRUE
+"CD013366_pub2_data","5::overall",5,"","Occlusion","significance_only",16,16,0,2,0,8,3,0.1638,-0.488718495286161,-0.0328047941112949,TRUE,FALSE,TRUE
+"CD013377_pub2_data","1::overall",1,"","Overall survival","significance_only",9,9,0,7,0,7,7,0.148,1.46920368119726,0.240529810915212,TRUE,FALSE,TRUE
+"CD013377_pub2_data","2::overall",2,"","Progression-free survival ","direction_only",8,8,0,5,0,6,5,0.1837,0.203076543542654,-0.0136595833701114,FALSE,FALSE,FALSE
+"CD013396_pub2_data","4::5",4,"5","Adverse events","significance_only",4,4,0,0,0,3,2,0.0135,-0.908434913530091,-0.00849426572622466,FALSE,TRUE,TRUE
+"CD013396_pub2_data","7::overall",7,"","Upper respiratory tract infection","direction_only",9,9,0,0,0,0,0,0.6661,-0.00282357335470104,0.00346866565186202,FALSE,FALSE,FALSE
+"CD013408_pub2_data","1::overall",1,"","All-cause mortality","significance_only",5,5,0,0,0,0,0,0.0542,-0.482067250149651,-0.0265513132509464,TRUE,FALSE,TRUE
+"CD013408_pub2_data","9::overall",9,"","AF-related emergency department visits","significance_only",2,2,0,0,0,0,0,0.0896,-0.633030172880905,-0.015522212799409,FALSE,TRUE,TRUE
+"CD013408_pub2_data","13::overall",13,"","Major cerebrovascular bleeding events","direction_only",3,3,0,0,0,1,1,0.0233,0.229661808204711,-0.00133106976864168,FALSE,FALSE,FALSE
+"CD013414_pub2_data","5::overall",5,"","Kidney failure","direction_only",7,7,0,1,0,3,2,0.1083,-0.0699596874475092,0.000901414306739335,FALSE,FALSE,FALSE
+"CD013414_pub2_data","12::overall",12,"","Vitamin B12 deficiency","significance_only",2,2,0,0,0,1,0,0.0766,0.908219243529396,0.0433953333971709,TRUE,FALSE,TRUE
+"CD013425_pub2_data","7::overall",7,"","Quality of life: clinically important change in quality of life (? 20% increase in QLS endpoint score)","significance_only",10,10,0,0,0,1,2,0.2563,1.06164932492176,0.133995838629191,TRUE,FALSE,TRUE
+"CD013445_pub2_data","2::overall",2,"","Major complications","direction_only",34,34,0,22,0,28,27,0.026,-0.172783851199667,0.000968570794945936,FALSE,FALSE,FALSE
+"CD013445_pub2_data","23::overall",23,"","Subgroup analysis by stone size: major complications","direction_only",25,25,0,18,0,21,21,0.0205,-0.165404385986063,0.000567243009077682,FALSE,FALSE,FALSE
+"CD013445_pub2_data","34::overall",34,"","Sensitivity analysis for secondary interventions by definition of stone freedom (? 4 mm by any imaging modality)","significance_only",9,9,0,0,0,3,2,0.1034,-0.905382168662513,-0.0865878964109879,TRUE,FALSE,TRUE
+"CD013456_pub2_data","6::overall",6,"","Psychosocial interventions versus inactive control; outcome 4: Adverse events","significance_only",11,11,0,8,0,11,10,0.0078,0.257052483996721,0.0384636900383405,FALSE,TRUE,TRUE
+"CD013462_pub3_data","3::overall",3,"","Rate of surgical reintervention","direction_only",12,12,0,0,0,7,4,0.0565,0.246790927202314,-0.00533685834823688,FALSE,FALSE,FALSE
+"CD013476_pub2_data","6::overall",6,"","Significant adverse events during maintenance therapy up to 6 months follow-up","significance_only",4,4,0,1,0,4,4,0.0543,1.15108355855598,0.0811383195204096,FALSE,TRUE,TRUE
+"CD013476_pub2_data","13::overall",13,"","Asthma exacerbations after 6 months follow-up","significance_only",2,2,0,0,0,0,0,0.3714,-1.00319178267302,-0.228698593955469,FALSE,TRUE,TRUE
+"CD013539_pub2_data","7::overall",7,"","Neutralising antibodies","significance_only",27,27,0,6,0,15,11,0.0299,-0.20634076649935,-0.00377306568100142,FALSE,TRUE,TRUE
+"CD013539_pub2_data","8::overall",8,"","Antidrug antibodies","direction_only",57,57,0,5,0,25,13,0.0434,-0.00544673462313235,0.000284535233691411,FALSE,FALSE,FALSE
+"CD013539_pub2_data","9::overall",9,"","Any adverse events","direction_only",43,43,0,5,1,17,11,0.5604,-0.00501137175435236,0.000698189907426453,FALSE,FALSE,FALSE
+"CD013539_pub2_data","11::overall",11,"","Any adverse events","significance_only",15,15,0,0,0,0,0,0.8296,0.0361739822048128,0.0103341055015968,FALSE,TRUE,TRUE
+"CD013541_pub2_data","1::overall",1,"","Relapse (? 1 month postintervention)","significance_only",61,61,0,43,0,49,48,0.0608,-0.331513741757019,-0.032812437055766,TRUE,FALSE,TRUE
+"CD013541_pub2_data","3::overall",3,"","Relapse (> 6 months postintervention)","significance_only",28,28,0,15,0,17,15,0.1208,-0.294507655486939,-0.0451418418487934,FALSE,TRUE,TRUE
+"CD013561_pub2_data","2::overall",2,"","Biochemical remission according to normalisation of IGF-1 and GH","significance_only",8,8,0,0,0,0,0,0.2871,0.713938130484974,0.170451732383516,FALSE,TRUE,TRUE
+"CD013590_pub2_data","4::overall",4,"","SCD-related complications (number of participants)","significance_only",16,16,0,11,0,14,13,0.0313,0.400447180921498,0.0404503486801235,FALSE,TRUE,TRUE
+"CD013595_pub2_data","7::overall",7,"","Lymphopenia","significance_only",3,3,0,0,0,0,0,0.1539,0.32870407690162,0.039991780078438,TRUE,FALSE,TRUE
+"CD013614_pub2_data","3::1",3,"1","Disease activity as measured by MDA-PsA criteria or by DAS 28 or by DAS at 12 weeks","significance_only",10,10,0,0,0,1,1,0.2788,0.564165969173663,0.0877043610987021,FALSE,TRUE,TRUE
+"CD013614_pub2_data","16::1",16,"1","Withdrawal due to adverse events","significance_only",11,11,0,4,0,7,4,0.0244,0.338180478289242,0.0132277902684417,FALSE,TRUE,TRUE
+"CD013614_pub2_data","16::3",16,"3","Withdrawal due to adverse events","direction_only",4,4,0,1,0,4,2,0.0194,-0.222251126524375,0.00156842413951476,FALSE,FALSE,FALSE
+"CD013614_pub2_data","25::2",25,"2","Resolution of dactylitis as no dactylitis at 52 weeks","significance_only",3,3,0,0,0,0,0,0.6909,-0.20028068559308,-0.0187286236134775,TRUE,FALSE,TRUE
+"CD013614_pub2_data","34::1",34,"1","Resolution of dactylitis as no dactylitis at 24 weeks","direction_only",3,3,0,0,0,0,0,0.7952,-0.0374346800375489,0.00569991799816089,FALSE,FALSE,FALSE
+"CD013631_pub2_data","13::overall",13,"","Withdrawals due to adverse events","significance_only",9,9,0,5,0,7,7,0.075,0.157812183620405,0.0636700760886381,FALSE,TRUE,TRUE
+"CD013643_pub2_data","14::2",14,"2","Number of minor adverse events (Clavien-Dindo I, II), short term (< 1 year) ","direction_only",4,4,0,1,0,2,3,0.084,1.19423462879618,-0.0161912070428893,FALSE,FALSE,FALSE
+"CD013672_pub2_data","3::2",3,"2","Treatment retention, subgroup analysis: single provider primary care setting versus availability of a primary care team","significance_only",8,8,0,0,0,0,0,0.57,0.655200490301867,0.140256208942558,FALSE,TRUE,TRUE
+"CD013707_pub2_data","11::overall",11,"","Renal failure requiring replacement therapy","direction_only",2,2,0,0,0,2,1,0.0377,0.162993723232163,-0.00745326679606426,FALSE,FALSE,FALSE
+"CD013715_pub2_data","12::overall",12,"","Withdrawals due to adverse events at 17 to 26 weeks","significance_only",3,3,0,1,0,3,3,0.0342,-1.50478097290391,-0.0796457554941692,FALSE,TRUE,TRUE
+"CD013715_pub2_data","13::overall",13,"","Withdrawals due to adverse events at 27 to 52 weeks","significance_only",4,4,0,1,0,1,1,0.2076,1.34573292085751,0.203036406784967,TRUE,FALSE,TRUE
+"CD013715_pub2_data","14::overall",14,"","Withdrawals due to adverse events at end of study","significance_only",7,7,0,5,0,5,5,0.0861,0.78939348658495,0.0712822790564421,FALSE,TRUE,TRUE
+"CD013715_pub2_data","15::overall",15,"","Serious adverse events at up to 16 weeks","significance_only",4,4,0,1,0,3,3,0.1963,1.58945834550521,0.128941304058646,TRUE,FALSE,TRUE
+"CD013745_pub2_data","1::overall",1,"","Rivaroxaban versus antiplatelet therapy","significance_only",9,9,0,0,0,0,0,0.0252,0.279073733595363,0.00363468738750899,TRUE,FALSE,TRUE
+"CD013748_pub2_data","2::overall",2,"","Case fatality","significance_only",16,16,0,0,0,5,1,0.1568,-0.331512175095137,-0.0427330020641296,FALSE,TRUE,TRUE
+"CD013748_pub2_data","7::overall",7,"","Hydrocephalus","significance_only",12,12,0,2,0,4,2,0.2179,-0.455160145404403,-0.100833239295597,FALSE,TRUE,TRUE
+"CD013758_pub2_data","10::overall",10,"","Obesity (formula with complementary foods): subgroup analysis by duration of treatment","significance_only",11,11,0,8,0,8,8,0.0164,0.443270012476174,0.00937816282442816,FALSE,TRUE,TRUE
+"CD013764_pub2_data","3::overall",3,"","Blood transfusion","direction_only",3,3,0,1,0,3,2,0.0022,0.000504156383803578,-0.00133353219196487,FALSE,FALSE,FALSE
+"CD013764_pub2_data","6::overall",6,"","Adherence","significance_only",2,2,0,0,0,0,0,0.8096,-0.531496418394586,-0.0630726316396297,TRUE,FALSE,TRUE
+"CD013781_pub2_data","4::overall",4,"","Secondary outcome: length of hospital stay (days)","significance_only",39,39,0,13,0,19,17,0.1781,-0.214412036394053,-0.0158542154824371,FALSE,TRUE,TRUE
+"CD013781_pub2_data","5::overall",5,"","Secondary outcome: mean arterial pressure (24 hours after surgery)","significance_only",41,41,0,18,0,26,25,0.0583,-0.139149753158268,-0.016495711848838,FALSE,TRUE,TRUE
+"CD013781_pub2_data","7::overall",7,"","Secondary outcome: number of participants requiring additional inotropic drugs - dopamine","significance_only",17,17,0,14,0,16,16,0.0156,-0.330234497568581,-0.0953007155289112,FALSE,TRUE,TRUE
+"CD013781_pub2_data","11::overall",11,"","Secondary outcome: proportion of weaning failure within 48 hours of extubation","significance_only",27,27,0,23,0,24,23,0.0365,0.597182391839146,0.142840021964682,TRUE,FALSE,TRUE
+"CD013781_pub2_data","19::overall",19,"","Secondary outcome: number of participants requiring additional inotropic drugs - dobutamine","significance_only",5,5,0,0,0,2,1,0.5012,-0.976050940168384,-0.189763270302231,FALSE,TRUE,TRUE
+"CD013781_pub2_data","22::overall",22,"","Secondary outcome: proportion of renal failure","significance_only",4,4,0,1,0,1,1,0.1404,-1.03739122521554,-0.187291251452957,TRUE,FALSE,TRUE
+"CD013800_pub2_data","5::overall",5,"","Loss of residual kidney function (number who became anuric) at approximately 12-month follow-up","significance_only",3,3,0,0,0,0,1,0.3599,-1.1968281629714,-0.163662387076993,TRUE,FALSE,TRUE
+"CD013800_pub2_data","6::overall",6,"","All-cause death","significance_only",48,48,0,0,0,0,0,0.3834,-0.195420298249235,-0.0295070853898972,TRUE,FALSE,TRUE
+"CD013800_pub2_data","7::overall",7,"","Cardiovascular death","direction_only",24,24,0,0,0,4,3,0.1478,-0.0151049795260128,0.00281448601465172,FALSE,FALSE,FALSE
+"CD013800_pub2_data","12::overall",12,"","Acute myocardial infarction","significance_only",4,4,0,0,0,0,0,0.1008,-0.107866654061649,-0.0062815856548034,FALSE,TRUE,TRUE
+"CD013800_pub2_data","15::overall",15,"","Congestive heart failure","direction_only",3,3,0,0,0,0,0,0.084,0.0799120944039535,-0.00171640217338394,FALSE,FALSE,FALSE
+"CD013801_pub2_data","17::overall",17,"","Incidence of hypotension requiring vascular expansion","significance_only",2,2,0,0,0,2,2,0.0394,-1.67183859998943,-0.0638300307098213,FALSE,TRUE,TRUE
+"CD013816_pub2_data","3::overall",3,"","Transient ischemic attack","direction_only",6,6,0,4,0,6,6,0.0011,-0.00572820837701255,0.000174014003832555,FALSE,FALSE,FALSE
+"CD013816_pub2_data","7::overall",7,"","Peripheral embolism","direction_only",6,6,0,2,0,2,2,0.0207,0.0618159043986094,-2.14057633443412e-05,FALSE,FALSE,FALSE
+"CD013816_pub2_data","11::overall",11,"","Cardiac tamponade","direction_only",4,4,0,2,0,4,3,0.0024,-0.0416106967386,0.0014687843622974,FALSE,FALSE,FALSE
+"CD013816_pub2_data","15::overall",15,"","Adverse events - Bleeding (clinically significant bleeding that does not qualify as device-pocket hematoma, hemothorax, cardiac tamponade, or non-tamponade pericardial effusion)","direction_only",4,4,0,0,0,3,3,0.0192,0.00923446058393552,-0.00248297434723806,FALSE,FALSE,FALSE
+"CD013823_pub2_data","4::overall",4,"","Preterm birth (< 37 weeks)","direction_only",2,2,0,0,0,0,0,0.1176,-0.0385459967830474,0.00442988730216055,FALSE,FALSE,FALSE
+"CD013827_pub2_data","2::overall",2,"","Oocyte pick-up cancellation","direction_only",12,12,0,1,0,1,1,0.0915,-0.025747959658746,0.00104127058393085,FALSE,FALSE,FALSE
+"CD013830_pub2_data","11::2",11,"2","Patent ductus arteriosus (PDA) requiring any treatment","significance_only",4,4,0,0,0,0,0,0.3467,-0.698997504943471,-0.0719026356293085,TRUE,FALSE,TRUE
+"CD013830_pub2_data","12::2",12,"2","Patent ductus arteriosus (PDA) requiring ligation","significance_only",4,4,0,0,0,0,0,0.149,-0.574383556891804,-0.081259391639511,FALSE,TRUE,TRUE
+"CD013830_pub2_data","13::1",13,"1","Any intraventricular hemorrhage (IVH)","significance_only",3,3,0,0,0,1,1,0.234,-0.955112874044131,-0.127030803972642,FALSE,TRUE,TRUE
+"CD013830_pub2_data","16::1",16,"1","Necrotizing enterocolitis (NEC) (Bell's stage II or greater OR any grade; requiring surgery)","direction_only",2,2,0,0,0,1,1,0.0577,0.0504702261563602,-0.0249187432286024,FALSE,FALSE,FALSE
+"CD013844_pub2_data","2::overall",2,"","Self-harm at short term (1-3 months) follow-up","significance_only",4,4,0,0,0,0,0,0.0135,-0.49486591813496,-0.0137910718595442,TRUE,FALSE,TRUE
+"CD013844_pub2_data","3::overall",3,"","Self-harm at medium-term (4-12 months) follow-up","direction_and_significance",14,14,0,2,0,4,3,0.025,0.0048297346149236,-0.00648290480869901,FALSE,TRUE,FALSE
+"CD013844_pub2_data","6::overall",6,"","Suicidal ideation postintervention: sensitivity analysis (ICC 0.01)","significance_only",18,18,0,15,0,15,15,0.0163,-0.341463822696061,-0.00465398736708861,TRUE,FALSE,TRUE
+"CD013853_pub2_data","6::overall",6,"","Exergaming vs control at the end of treatment: change in attention, processing speed, working memory","significance_only",4,4,0,2,0,4,4,0.0649,-1.02280222052412,-0.171222222222222,FALSE,TRUE,TRUE
+"CD013874_pub3_data","2::overall",2,"","Time to relapse over 24 months","direction_only",21,19,2,14,2,17,15,0.0082,-0.284164128584576,0.0129947728615662,FALSE,FALSE,FALSE
+"CD013875_pub2_data","2::overall",2,"","Live birth (or ongoing pregnancy) - all studies","significance_only",8,8,0,0,0,0,1,0.238,0.598851159303747,0.0978920487185856,FALSE,TRUE,TRUE
+"CD013875_pub2_data","4::overall",4,"","Live birth (or ongoing pregnancy) - sensitivity analysis (live birth only)","significance_only",5,5,0,0,0,0,1,0.1562,0.205093832704241,0.0632541601429094,FALSE,TRUE,TRUE
+"CD014089_data","11::overall",11,"","Adverse effects","significance_only",6,6,0,0,0,0,0,0.2357,0.624680671182923,0.10073820958375,TRUE,FALSE,TRUE
+"CD014145_pub2_data","9::overall",9,"","Side effects causing cessation of therapy","significance_only",2,2,0,0,0,2,2,0.0588,1.88963776779391,0.110047272720119,FALSE,TRUE,TRUE
+"CD014300_pub2_data","13::overall",13,"","Acceptability at study endpoint: children","direction_only",10,10,0,1,0,2,2,0.1067,-0.0761672850425809,0.00401299659421771,FALSE,FALSE,FALSE
+"CD014541_pub2_data","3::overall",3,"","Symptomatic VTE: short-term (45 days or fewer); COVID-19 sensitivity analysis","significance_only",3,3,0,0,0,0,0,0.0096,-0.626474590760202,-0.00492634055150106,FALSE,TRUE,TRUE
+"CD014541_pub2_data","13::overall",13,"","Major bleeding: short-term (45 days or fewer); same extended agent sensitivity analysis","significance_only",3,3,0,1,0,1,1,0.0041,0.90080576568107,0.00391983857102299,TRUE,FALSE,TRUE
+"CD014541_pub2_data","15::overall",15,"","Major bleeding: short-term (45 days or less); ? 75 years versus < 75 years of age subgroup analysis","significance_only",6,6,0,0,0,0,0,0.0042,0.503490843560148,0.0018403467801761,TRUE,FALSE,TRUE
+"CD014544_pub2_data","4::overall",4,"","HRQoL-EQ-5D-5L VAS","significance_only",27,27,0,4,0,10,8,0.2626,0.439291867920713,0.0978436278766945,FALSE,TRUE,TRUE
+"CD014585_pub2_data","5::overall",5,"","Ulcer complications ","significance_only",5,5,0,1,0,2,2,0.0057,-1.0154411743203,-0.00294011011080847,TRUE,FALSE,TRUE
+"CD014585_pub2_data","3::4",3,"4","Adverse events","direction_only",4,4,0,0,0,0,0,0.6578,0.0172930436878386,-0.0191899722451864,FALSE,FALSE,FALSE
+"CD014594_pub2_data","1::overall",1,"","First-pass success","direction_only",64,64,0,27,0,39,35,0.1537,-0.10067802761839,0.0205456726335507,FALSE,FALSE,FALSE
+"CD014594_pub2_data","2::overall",2,"","Sensitivity analysis: first-pass success excluding rescue U/S","direction_only",31,31,0,13,0,21,19,0.1133,-0.274417611957242,0.0083559578653462,FALSE,FALSE,FALSE
+"CD014594_pub2_data","4::overall",4,"","Time to successful CFA access: sensitivity analysis from skin penetration","significance_only",4,4,0,1,0,2,1,0.0215,-1.05054732514651,-0.0206820364645578,TRUE,FALSE,TRUE
+"CD014624_pub2_data","1::1",1,"1","Depression response (early phase)","significance_only",8,8,0,0,0,4,2,0.1291,0.538667421548954,0.0312847107645879,TRUE,FALSE,TRUE
+"CD014624_pub2_data","3::2",3,"2","Adverse events (mother)","significance_only",8,8,0,0,0,6,4,0.0861,0.530176552123768,0.0125326443986808,TRUE,FALSE,TRUE
+"CD014666_pub2_data","2::overall",2,"","Fear of falling: subgrouped according to mean age","direction_only",31,31,0,25,0,25,25,0.0796,-0.0871968590135435,0.00896114245995272,FALSE,FALSE,FALSE
+"CD014678_pub2_data","3::overall",3,"","All-cause mortality (dabigatran versus placebo)","significance_only",37,37,0,0,0,9,6,0.0094,0.436364028194179,0.00207667830939111,TRUE,FALSE,TRUE
+"CD014678_pub2_data","5::overall",5,"","Stroke","significance_only",34,34,0,3,0,19,15,0.0068,-0.165027668527689,-0.00115429279636099,FALSE,TRUE,TRUE
+"CD014736_pub2_data","2::overall",2,"","Six-minute walk test (metres)","direction_only",8,8,0,4,0,7,6,0.0698,-0.0990947515154865,0.0223328735418356,FALSE,FALSE,FALSE
+"CD014741_pub2_data","2::overall",2,"","Myocardial infarction (fatal or non-fatal)","direction_only",17,17,0,0,0,12,9,0.0788,0.075036087634085,-0.00625245952397162,FALSE,FALSE,FALSE
+"CD014741_pub2_data","6::overall",6,"","Adverse events (any infections)","direction_only",28,28,0,20,0,25,25,0.0216,-0.0942103333235199,0.00306758161368471,FALSE,FALSE,FALSE
+"CD014741_pub2_data","7::overall",7,"","Stroke (fatal or non-fatal)","direction_only",7,7,0,0,0,5,3,0.0017,-0.2042894999303,0.00106664693851623,FALSE,FALSE,FALSE
+"CD014741_pub2_data","9::overall",9,"","Heart failure","direction_only",7,7,0,0,0,3,2,0.0046,-0.146900145021642,0.00113164517221601,FALSE,FALSE,FALSE
+"CD014762_pub2_data","1::overall",1,"","Short-term resolution of symptoms (days 1 to 4 after randomisation)","significance_only",6,6,0,2,0,2,2,0.2882,-0.749081554463749,-0.155189243256213,TRUE,FALSE,TRUE
+"CD014763_pub2_data","3::overall",3,"","Participant satisfaction (unsatisfied or very unsatisfied)","significance_only",9,9,0,6,0,7,9,0.0255,-1.0941920302658,-0.140515643108377,FALSE,TRUE,TRUE
+"CD014769_pub2_data","1::overall",1,"","Any VTE","significance_only",27,27,0,0,0,7,4,0.0091,-0.167274698918384,-0.000924998172874607,TRUE,FALSE,TRUE
+"CD014769_pub2_data","2::overall",2,"","Subgroup analysis for any VTE stratified by provoked status","significance_only",27,27,0,0,0,7,4,0.0091,-0.167274698918384,-0.000924998172874607,TRUE,FALSE,TRUE
+"CD014769_pub2_data","4::overall",4,"","Subgroup analysis for any VTE stratified by sex","significance_only",2,2,0,0,0,0,0,0.0053,-0.565423274009732,-0.00263847942888921,TRUE,FALSE,TRUE
+"CD014769_pub2_data","5::overall",5,"","Subgroup analysis for any VTE stratified by disease","significance_only",27,27,0,0,0,7,4,0.0091,-0.167274698918384,-0.000924998172874607,TRUE,FALSE,TRUE
+"CD014769_pub2_data","6::overall",6,"","Subgroup analysis for any VTE stratified by type of statin","significance_only",27,27,0,0,0,7,4,0.0091,-0.167274698918384,-0.000924998172874607,TRUE,FALSE,TRUE
+"CD014769_pub2_data","7::overall",7,"","Subgroup analysis for any VTE statified by different doses of rosuvstatin","significance_only",9,9,0,0,0,3,3,0.006,-0.442123200288515,-0.00166087376279057,TRUE,FALSE,TRUE
+"CD014769_pub2_data","9::overall",9,"","Subgroup analysis for any VTE stratified by treatment duration","significance_only",27,27,0,0,0,7,4,0.0091,-0.167274698918384,-0.000924998172874607,TRUE,FALSE,TRUE
+"CD014769_pub2_data","10::overall",10,"","Sensitivity analysis for any VTE excluding unpublished data","significance_only",9,9,0,0,0,1,1,0.0075,-0.26695736366533,-0.00210638940387619,FALSE,TRUE,TRUE
+"CD014769_pub2_data","12::overall",12,"","Sensitivity analysis for any VTE excluding data from  > 15% missing outcome data","significance_only",11,11,0,0,0,1,1,0.0086,-0.209569035555901,-0.00155171790921663,FALSE,TRUE,TRUE
+"CD014769_pub2_data","13::overall",13,"","Subgroup analysis for DVT stratified by type of statin","significance_only",6,6,0,0,0,1,0,0.0042,-0.363603197133642,-0.00188133431536557,FALSE,TRUE,TRUE
+"CD014769_pub2_data","16::overall",16,"","Subgroup analysis for any serious adverse event stratified by type of statin","significance_only",13,13,0,0,0,0,1,0.2261,-0.0517943421310546,-0.00064683854826871,TRUE,FALSE,TRUE
+"CD014769_pub2_data","24::overall",24,"","Sensitivity analysis for hepatic disorders","significance_only",19,19,0,0,0,1,1,0.0169,0.113224349637353,0.00209802573935414,FALSE,TRUE,TRUE
+"CD014792_pub2_data","1::overall",1,"","Mortality (Grade V Clavien-Dindo)","direction_only",6,6,0,3,0,3,3,0.1117,0.0794082768379773,-0.00924610139194368,FALSE,FALSE,FALSE
+"CD014792_pub2_data","5::overall",5,"","Complications related to nutritional support","direction_only",12,12,0,0,0,7,5,0.0362,-0.0747793173750249,0.00433941067359837,FALSE,FALSE,FALSE
+"CD014792_pub2_data","6::overall",6,"","Postoperative pancreatic fistula","significance_only",7,7,0,0,0,2,1,0.1056,-0.406572947982363,-0.0468325023467029,FALSE,TRUE,TRUE
+"CD014802_pub2_data","9::overall",9,"","Adverse events: hypoglycaemia (88 hours after drug bolus, or up to 4 years + 11 months)","significance_only",2,2,0,0,0,0,1,0.0466,1.6644118929259,0.112931288379138,TRUE,FALSE,TRUE
+"CD014820_pub2_data","1::overall",1,"","Acute kidney injury","direction_only",138,138,0,12,0,25,18,0.1864,-0.055664782605207,0.00303281159813803,FALSE,FALSE,FALSE
+"CD014820_pub2_data","2::overall",2,"","Death (any cause)","significance_only",128,128,0,17,0,51,45,0.1205,-0.105772294109357,-0.00284567477092518,TRUE,FALSE,TRUE
+"CD014820_pub2_data","3::overall",3,"","Dialysis","significance_only",96,96,0,30,0,49,38,0.0839,0.157406194571975,0.000656382341477141,TRUE,FALSE,TRUE
+"CD014820_pub2_data","5::overall",5,"","Change in serum cystatin C [mg/L]","direction_only",44,44,0,27,0,36,31,0.0442,0.112381916664484,-0.00210176991623519,FALSE,FALSE,FALSE
+"CD014820_pub2_data","8::overall",8,"","Adverse events: stroke","significance_only",45,45,0,9,0,41,21,0.0223,-0.155566447476155,-0.00925804731197379,FALSE,TRUE,TRUE
+"CD014833_pub2_data","8::overall",8,"","Breastfeeding exclusivity short-term 1 to 3 months post-intervention","significance_only",5,5,0,0,0,0,0,0.4821,0.439593099344258,0.100578354047898,TRUE,FALSE,TRUE
+"CD014844_pub2_data","1::overall",1,"","Uterine infection","significance_only",6,6,0,0,0,1,1,0.0366,-0.271180192017009,-0.0120362318474431,FALSE,TRUE,TRUE
+"CD014844_pub2_data","7::overall",7,"","Hospitalisation for treatment of infection","direction_only",3,3,0,1,0,2,2,0.0096,-0.263701360795181,3.25314250279344e-05,FALSE,FALSE,FALSE
+"CD014844_pub2_data","8::overall",8,"","Sensitivity analysis: uterine infection - studies at low risk of bias","significance_only",3,3,0,0,0,1,1,0.0246,-0.588493078835859,-0.0221210563108462,TRUE,FALSE,TRUE
+"CD014844_pub2_data","10::1",10,"1","Subgroup: uterine infection by antibiotic class","significance_only",5,5,0,0,0,0,0,0.0368,-0.230053754595704,-0.0112813941613306,FALSE,TRUE,TRUE
+"CD014844_pub2_data","12::1",12,"1","Subgroup: uterine infection by administration route","significance_only",4,4,0,0,0,0,0,0.0353,-0.316906637291152,-0.0116931756074732,FALSE,TRUE,TRUE
+"CD014852_pub2_data","21::overall",21,"","Complication (hyper/hypoglycaemia) during intervention phase","direction_only",3,3,0,0,0,0,0,0.0179,0.107872601331298,-0.0688724062455452,FALSE,FALSE,FALSE
+"CD014855_pub2_data","2::1",2,"1","Wound infection","significance_only",8,8,0,0,0,1,1,0.201,0.723976647236185,0.0761367920563292,TRUE,FALSE,TRUE
+"CD014855_pub2_data","4::1",4,"1","Mortality","significance_only",8,8,0,4,0,7,7,0.0131,0.956461410751273,0.0462651994165581,FALSE,TRUE,TRUE
+"CD014869_pub2_data","1::overall",1,""," All-cause mortality (between  1 and 5 years)","direction_only",8,8,0,0,0,0,0,0.7148,0.00729772924796753,-0.0154469898497303,FALSE,FALSE,FALSE
+"CD014891_pub2_data","2::overall",2,"","Corrected distance visual acuity worse than 6/6 ","direction_only",2,2,0,0,0,0,0,0.3386,0.0569307321056924,-6.89255591246728e-05,FALSE,FALSE,FALSE
+"CD014914_pub2_data","8::overall",8,"","Sneezing (continuous) (prevention)","significance_only",10,2,8,0,0,1,1,0.0776,-1.94085556557813,-0.11878928426054,TRUE,FALSE,TRUE
+"CD014920_pub2_data","1::overall",1,"","Acute myocardial infarction (short term < 30 days)","significance_only",2,2,0,0,0,0,1,0.0777,-1.2643263028558,-0.0403565512456768,FALSE,TRUE,TRUE
+"CD014935_pub2_data","1::overall",1,"","All-cause mortality","direction_only",3,3,0,0,0,1,0,0.1138,0.0275873316526231,-0.00547498439854397,FALSE,FALSE,FALSE
+"CD014937_pub2_data","2::overall",2,"","Any use of kidney replacement therapy","direction_and_significance",46,46,0,13,0,24,22,0.1125,0.00164432376149952,-0.0115180189059566,FALSE,TRUE,FALSE
+"CD014937_pub2_data","6::overall",6,"","Changes in serum creatinine within 30 days (mg/dL]","significance_only",15,15,0,8,0,10,9,0.304,-0.179099250314711,-0.0452616844953493,FALSE,TRUE,TRUE
+"CD014937_pub2_data","14::overall",14,"","Subgroup analysis: acute kidney injury by definition","significance_only",14,14,0,0,0,0,0,0.3017,-0.528658483913378,-0.0682003151672229,TRUE,FALSE,TRUE
+"CD014937_pub2_data","17::overall",17,"","Sensitivity analysis: any use of KRT (only studies with ""some concerns""  or a ""low"" overall risk of bias)","significance_only",23,23,0,10,0,16,15,0.0252,-0.359757201186382,-0.0108513044423716,FALSE,TRUE,TRUE
+"CD014937_pub2_data","18::overall",18,"","Sensitivity analysis: any use of KRT (placebo-controlled studies)","significance_only",15,15,0,7,0,10,10,0.0341,-0.808714813372781,-0.0246835809313562,TRUE,FALSE,TRUE
+"CD014937_pub2_data","21::overall",21,"","Subgroup analysis: any use of KRT by type of diuretic","significance_only",44,44,0,17,0,31,29,0.0237,-0.275724014286095,-0.00978375043840675,FALSE,TRUE,TRUE
+"CD014941_pub2_data","6::overall",6,"","Withdrawal from the study due to adverse events","significance_only",2,2,0,0,0,0,0,0.0926,1.03002917820382,0.0571503741258227,TRUE,FALSE,TRUE
+"CD014941_pub2_data","18::overall",18,"","Cenobamate versus placebo - subgroup analysis, any serious adverse event","direction_only",4,4,0,0,0,0,0,0.0526,0.0798239786403203,-0.00378765022144231,FALSE,FALSE,FALSE
+"CD014959_pub2_data","4::overall",4,"","Sensitivity analysis: laboratory-confirmed leptospirosis (worst-case scenario)","direction_only",6,6,0,0,0,1,1,0.1427,-0.362380246815706,0.0339565056103669,FALSE,FALSE,FALSE
+"CD014959_pub2_data","9::overall",9,"","Sensitivity analysis: clinical diagnosis of leptospirosis regardless of the presence of laboratory confirmation (best-case scenario)","significance_only",4,4,0,0,0,0,0,0.1278,-1.22840621836499,-0.114614275718392,TRUE,FALSE,TRUE
+"CD014959_pub2_data","14::overall",14,"","Proportion of people with non-serious adverse events","significance_only",3,3,0,0,0,1,2,0.0147,2.35116496919316,0.0322766818592607,TRUE,FALSE,TRUE
+"CD014959_pub2_data","16::overall",16,"","Sensitivity analysis: non-serious adverse events (worst-case scenario)","significance_only",3,3,0,0,0,0,2,0.0725,3.56933130459306,0.123609145403552,TRUE,FALSE,TRUE
+"CD014964_pub2_data","5::overall",5,"","Technical failure of neuraxial anaesthesia","significance_only",68,43,25,11,0,29,24,0.0376,-0.115340351590656,-0.0111266018902213,FALSE,TRUE,TRUE
+"CD014964_pub2_data","7::overall",7,"","Any adverse events","significance_only",36,15,21,6,0,9,8,0.0928,-0.441812771189237,-0.0334316819663527,TRUE,FALSE,TRUE
+"CD014964_pub2_data","3::2",3,"2","Number of attempts (Types of ultrasound guidance: preprocedural versus real-time)","significance_only",36,22,14,4,0,14,11,0.0925,-0.196926148703528,-0.0151445384003295,FALSE,TRUE,TRUE
+"CD014965_pub2_data","2::1",2,"1","Aggression","significance_only",8,8,0,0,0,4,2,0.086,0.908186857706642,0.0564140238283917,TRUE,FALSE,TRUE
+"CD014965_pub2_data","3::1",3,"1","Weight gain above clinically relevant thresholds","significance_only",3,3,0,0,0,2,2,0.0859,1.25102413675878,0.112246563381958,FALSE,TRUE,TRUE
+"CD014965_pub2_data","5::2",5,"2","Extrapyramidal side effects: any extrapyramidal symptom","significance_only",3,3,0,1,0,2,2,0.0829,0.928583623669102,0.111584701221073,FALSE,TRUE,TRUE
+"CD014965_pub2_data","13::2",13,"2","Other side effects: somnolence","significance_only",3,3,0,0,0,0,0,0.1531,1.79556652354355,0.193067716191765,TRUE,FALSE,TRUE
+"CD014965_pub2_data","18::1",18,"1","Other side effects: hypersalivation","significance_only",4,4,0,0,0,2,2,0.0667,1.30602145263919,0.0799355983826039,FALSE,TRUE,TRUE
+"CD014965_pub2_data","19::1",19,"1","Other side effects: tremor","significance_only",4,4,0,0,0,3,4,0.0444,1.56619127393998,0.0632557452882086,FALSE,TRUE,TRUE
+"CD014965_pub2_data","7::overall",7,"","Other side effects: dyskinesia","direction_only",2,2,0,0,0,2,1,0.0333,0.0389095945711778,-0.0169135872492165,FALSE,FALSE,FALSE
+"CD014966_pub2_data","1::overall",1,"","Kidney graft loss","significance_only",79,79,0,0,0,4,5,0.2041,-0.115244598093911,-0.00754857896946967,TRUE,FALSE,TRUE
+"CD014967_pub2_data","1::overall",1,"","Proportion of infants who achieve seizure control after the first loading dose of ASM","direction_only",15,15,0,2,0,3,3,0.453,-0.0551977406992684,0.0128761787620911,FALSE,FALSE,FALSE
+"CD014967_pub2_data","4::overall",4,"","Requirement for mechanical ventilation","significance_only",13,13,0,4,0,9,10,0.0848,0.584954963813156,0.0727483858233435,FALSE,TRUE,TRUE
+"CD014967_pub2_data","6::overall",6,"","Bradycardia","direction_only",9,9,0,3,0,5,5,0.2084,-0.24781212624168,0.00159385731486407,FALSE,FALSE,FALSE
+"CD015003_pub2_data","2::overall",2,"","Non-fatal myocardial infarction","significance_only",3,3,0,0,0,1,1,0.0712,0.726750686350595,0.0484794473693998,FALSE,TRUE,TRUE
+"CD015014_pub2_data","5::overall",5,"","Unplanned hospital admissions (proportion of residents with at least one unplanned hospital admission)","significance_only",8,8,0,0,0,1,0,0.2945,-0.439547778978076,-0.086472450465799,TRUE,FALSE,TRUE
+"CD015014_pub2_data","6::overall",6,"","Unplanned hospital admissions (proportion of residents with at least one unplanned hospital admission): subgroup analysis by EPOC category","significance_only",8,8,0,0,0,1,0,0.2945,-0.439547778978076,-0.086472450465799,TRUE,FALSE,TRUE
+"CD015014_pub2_data","7::overall",7,"","Unplanned hospital admissions (proportion of residents with at least one unplanned hospital admission): subgroup analysis by type of care provided","significance_only",8,8,0,0,0,1,0,0.2945,-0.439547778978076,-0.086472450465799,TRUE,FALSE,TRUE
+"CD015014_pub2_data","8::overall",8,"","Unplanned hospital admissions (proportion of residents with at least one unplanned hospital admission): subgroup analysis by resident's condition","significance_only",8,8,0,0,0,1,0,0.2945,-0.439547778978076,-0.0864724504657989,TRUE,FALSE,TRUE
+"CD015014_pub2_data","9::overall",9,"","Unplanned hospital admissions (proportion of residents with at least one unplanned hospital admission): sensitivity analysis by risk of bias","significance_only",8,8,0,0,0,1,0,0.2945,-0.439547778978076,-0.0864724504657989,TRUE,FALSE,TRUE
+"CD015014_pub2_data","10::overall",10,"","Unplanned hospital admissions (proportion of residents with at least one unplanned hospital admission): sensitivity analysis by timing of effect","significance_only",8,8,0,0,0,1,0,0.2945,-0.439547778978076,-0.0864724504657989,TRUE,FALSE,TRUE
+"CD015014_pub2_data","24::overall",24,"","Adherence to clinical guideline-recommended care (proportion of residents with adequate antipsychotic therapy)","significance_only",2,2,0,0,0,2,2,0.0882,1.97657465198053,0.155828588552592,FALSE,TRUE,TRUE
+"CD015014_pub2_data","25::overall",25,"","Adherence to clinical guideline-recommended care (proportion of residents with adequate antipsychotic therapy, two arms combined)","significance_only",2,2,0,0,0,2,2,0.1154,1.313035113194,0.155828588552592,FALSE,TRUE,TRUE
+"CD015014_pub2_data","35::overall",35,"","Any hospital admission (proportion of residents with at least one hospital admission)","significance_only",13,13,0,0,0,2,1,0.2739,-0.280637871204549,-0.0445871948021004,TRUE,FALSE,TRUE
+"CD015014_pub2_data","36::overall",36,"","Any hospital admission (proportion of residents with at least one hospital admission): sensitivity analysis by risk of bias","significance_only",13,13,0,0,0,2,1,0.2739,-0.280637871204549,-0.0445871948021004,TRUE,FALSE,TRUE
+"CD015014_pub2_data","37::overall",37,"","Any hospital admission (proportion of residents with at least one hospital admission): sensitivity by timing of effect","significance_only",13,13,0,0,0,2,1,0.2739,-0.280637871204549,-0.0445871948021004,TRUE,FALSE,TRUE
+"CD015033_pub2_data","3::overall",3,"","All-cause mortality. Worst-best case scenario sensitivity analysis","significance_only",13,13,0,10,0,10,13,0.0204,0.994697795647324,0.112758668342098,FALSE,TRUE,TRUE
+"CD015033_pub2_data","13::overall",13,"","Non-serious averse events. Worst-best case scenario sensitivity analysis","direction_only",3,3,0,0,0,0,0,0.6658,0.022012943456982,-0.0214348258234762,FALSE,FALSE,FALSE
+"CD015033_pub2_data","21::overall",21,"","Imaging response. Proportion of participants without a normal ultrasound (range from 5 months to 12 months)","significance_only",4,4,0,0,0,0,0,0.6797,-0.680001069715577,-0.113109355099222,FALSE,TRUE,TRUE
+"CD015038_pub2_data","15::overall",15,"","Negative appendectomy rate (normal histology)","significance_only",5,5,0,0,0,2,2,0.058,1.34792045462569,0.0215037217865526,TRUE,FALSE,TRUE
+"CD015046_pub2_data","1::overall",1,"","Adverse events&nbsp;","direction_only",4,3,1,0,0,1,1,0.5306,-0.296739517198805,0.0084456800101387,FALSE,FALSE,FALSE
+"CD015084_pub2_data","6::overall",6,"","Withdrawals due to adverse events","significance_only",6,6,0,0,0,2,1,0.2089,0.557284801462005,0.112478802484153,FALSE,TRUE,TRUE
+"CD015087_pub2_data","1::overall",1,"","Adverse events","significance_only",18,13,5,4,0,9,9,0.1477,-0.561625473117096,-0.0857054923835867,FALSE,TRUE,TRUE
+"CD015087_pub2_data","15::overall",15,"","Nausea and/or vomiting","significance_only",5,5,0,2,0,2,3,0.1379,-1.12798916991363,-0.223266964784644,FALSE,TRUE,TRUE
+"CD015123_pub2_data","1::overall",1,"","Number of participants with at least one SAE","significance_only",3,3,0,0,0,1,1,0.1772,-0.628222290372192,-0.0701757363649636,TRUE,FALSE,TRUE
+"CD015134_pub2_data","3::overall",3,"","Stillbirth","direction_only",5,5,0,1,0,3,3,0.0035,-0.127836740104723,0.000114466798997551,FALSE,FALSE,FALSE
+"CD015140_pub2_data","14::overall",14,"","Risk of brain relapse","direction_only",3,3,0,0,0,0,1,0.1037,-0.309483974291088,0.0143296029172146,FALSE,FALSE,FALSE
+"CD015160_pub2_data","2::overall",2,"","Mortality (defined as all-cause mortality) within 30 days of repair","significance_only",11,11,0,8,0,8,9,0.0325,0.386525190813118,0.050721230182964,FALSE,TRUE,TRUE
+"CD015160_pub2_data","3::overall",3,"","Surgical site infections (as defined by the included studies) within 90 days of repair","significance_only",6,6,0,4,0,5,5,0.0238,0.534405778482268,0.0587574497410464,FALSE,TRUE,TRUE
+"CD015192_pub2_data","2::overall",2,"","All-cause mortality","direction_only",8,8,0,1,0,3,3,0.0337,-0.143948027486377,0.00148062538552923,FALSE,FALSE,FALSE
+"CD015213_pub2_data","3::overall",3,"","Recurrence rate","significance_only",27,27,0,3,0,9,12,0.0548,-0.447341708263052,-0.0302726473809539,FALSE,TRUE,TRUE
+"CD015213_pub2_data","10::overall",10,"","Length of hospital stay","direction_only",19,19,0,16,0,19,17,0.0029,-0.0621674853528861,0.00850694372934254,FALSE,FALSE,FALSE
+"CD015215_pub2_data","5::overall",5,"","Persistence of OME: randomised by child (very short-term)","direction_only",11,8,3,8,3,10,8,0.0111,-0.275249497738547,0.00820761541538713,FALSE,FALSE,FALSE
+"CD015215_pub2_data","6::overall",6,"","Persistence of OME: randomised by child (medium-term)","direction_only",10,8,2,6,2,7,8,0.0176,0.166903560038502,-0.0601010619414235,FALSE,FALSE,FALSE
+"CD015215_pub2_data","9::overall",9,"","Mean improvement in expressive language, randomised by child (medium-term)","direction_only",7,5,2,4,2,4,4,0.0451,0.00416388189351341,-0.00225645347991477,FALSE,FALSE,FALSE
+"CD015215_pub2_data","11::overall",11,"","Presence/persistence of OME, randomised by child, measured by otoscopy (medium-term)","significance_only",5,4,1,1,1,2,1,0.1346,-1.62099848960564,-0.201770290522924,TRUE,FALSE,TRUE
+"CD015215_pub2_data","12::overall",12,"","Presence/persistence of OME, randomised by child, measured by tympanometry (medium-term)","significance_only",7,5,2,4,2,4,4,0.1064,-1.34120351476976,-0.211936831697379,TRUE,FALSE,TRUE
+"CD015215_pub2_data","18::overall",18,"","Adverse event: segmental atrophy (long-term)","significance_only",4,4,0,1,0,2,2,0.117,1.27140953009332,0.0926014899025425,TRUE,FALSE,TRUE
+"CD015219_pub2_data","6::overall",6,"","Need for critical or intensive care (any reason)","direction_only",6,6,0,1,0,2,1,0.0601,0.00116625733592993,-0.000270526529861082,FALSE,FALSE,FALSE
+"CD015219_pub2_data","13::overall",13,"","Need for admission to hospital (if ambulatory) - fixed-effect model","direction_only",4,4,0,0,0,1,1,0.091,0.00200743873727421,-0.00497392772109116,FALSE,FALSE,FALSE
+"CD015254_pub2_data","6::overall",6,"","Persistence of OME (short-term)","significance_only",10,10,0,0,0,0,0,0.634,-0.461221242177189,-0.0930300291539418,FALSE,TRUE,TRUE
+"CD015254_pub2_data","8::overall",8,"","Sensitivity analysis: persistence (short-term) assuming ICC of 1.0 (complete correlation between ears) (Puhakka 1985)","significance_only",10,10,0,0,0,0,0,0.728,-0.49834870003128,-0.109851858911439,FALSE,TRUE,TRUE
+"CD015254_pub2_data","9::overall",9,"","Sensitivity analysis: persistence (short-term) assuming ICC of zero (no correlation between ears) (Puhakka 1985)","significance_only",10,10,0,0,0,0,0,0.723,-0.498222061911873,-0.10689374409129,FALSE,TRUE,TRUE
+"CD015255_pub2_data","7::overall",7,"","Disease-specific quality of life (very short-term - up to 6 weeks)","significance_only",4,4,0,1,0,1,1,0.3219,-0.768272749108542,-0.149056085442196,TRUE,FALSE,TRUE
+"CD015255_pub2_data","9::overall",9,"","Persistence of OME (very short-term - up to 6 weeks)","significance_only",8,8,0,0,0,0,0,0.7756,-0.69565164792141,-0.173307898390782,FALSE,TRUE,TRUE
+"CD015255_pub2_data","16::overall",16,"","Persistence of OME (medium-term - up to 1 year)","significance_only",2,2,0,0,0,0,0,0.8011,-1.84172334821216,-0.324974092696033,TRUE,FALSE,TRUE
+"CD015255_pub2_data","17::overall",17,"","Acute otitis media (very short-term - up to 6 weeks)","direction_only",3,3,0,0,0,2,2,0.058,0.0995637699395986,-0.00352977787709749,FALSE,FALSE,FALSE
+"CD015314_pub2_data","1::4",1,"4","Tobacco cessation at longest follow-up","significance_only",3,3,0,0,0,0,0,0.218,0.453539222157308,0.0560768268064003,FALSE,TRUE,TRUE
+"CD015331_pub2_data","9::overall",9,"","Mental state - specific: number of participants with clinically important change in positive symptoms (combined time points)","significance_only",2,2,0,0,0,0,0,0.5859,0.815051831721705,0.192494334046052,FALSE,TRUE,TRUE
+"CD015331_pub2_data","38::overall",38,"","Global state - number of participants with clinically important change in global state","significance_only",2,2,0,0,0,0,0,0.2929,0.620830987103026,0.127138700300352,FALSE,TRUE,TRUE
+"CD015331_pub2_data","45::overall",45,"","Service use - admission to hospital (separated time points)","direction_only",15,15,0,0,0,4,4,0.1886,-0.0680474469707206,0.00166844359634768,FALSE,FALSE,FALSE
+"CD015331_pub2_data","49::overall",49,"","Leaving the study early - for any reason - overall acceptability (separated time points)","significance_only",51,51,0,3,0,11,6,0.2183,-0.257802718830493,-0.0264378037879006,TRUE,FALSE,TRUE
+"CD015331_pub2_data","66::overall",66,"","Behaviour - occurence of violent incidents","direction_only",2,2,0,0,0,2,1,0.0435,-0.0338514559628889,0.0228327130468416,FALSE,FALSE,FALSE
+"CD015332_pub2_data","16::overall",16,"","Mortality - mortality due to natural causes ","significance_only",12,12,0,10,0,12,12,0.0101,-0.531405378455448,-0.0727856569440728,FALSE,TRUE,TRUE
+"CD015332_pub2_data","22::overall",22,"","Adverse events - participants with at least 1 adverse event","significance_only",6,6,0,0,0,4,0,0.2645,-0.64611962403296,-0.0413690686687715,TRUE,FALSE,TRUE
+"CD015332_pub2_data","32::overall",32,"","Behaviour - violent incidents (separated time points)","direction_only",2,2,0,0,0,2,1,0.0444,0.140151939402547,-0.0177758573731697,FALSE,FALSE,FALSE
+"CD015373_pub2_data","11::3",11,"3","Adverse events (total): duration of administration subgroup analysis","significance_only",3,3,0,0,0,1,1,0.314,2.20297778156645,0.305829032058789,FALSE,TRUE,TRUE
+"CD015373_pub2_data","23::overall",23,"","Tolerability","significance_only",8,8,0,1,0,8,5,0.0525,0.507094797797082,0.0444705582103977,FALSE,TRUE,TRUE
+"CD015387_pub2_data","7::overall",7,"","Thirty-day case fatality","significance_only",7,7,0,1,0,3,2,0.1183,-0.577484010145841,-0.0372488904300244,TRUE,FALSE,TRUE
+"CD015387_pub2_data","8::2",8,"2","Thirty-day case fatality: stratified by surgical approach","significance_only",5,5,0,1,0,2,1,0.1131,-0.552291350568688,-0.0500685888589231,TRUE,FALSE,TRUE
+"CD015395_pub3_data","1::overall",1,"","All-cause mortality at day 28","significance_only",2,2,0,0,0,0,1,0.01,-1.54030872055674,-0.0109216825837332,FALSE,TRUE,TRUE
+"CD015432_pub2_data","3::overall",3,"","Pain intensity - as reported by the child, from 24 hours up to 7 days postintervention","direction_only",14,14,0,12,0,12,12,0.0652,0.0257786799340201,-0.00808088850259824,FALSE,FALSE,FALSE
+"CD015443_pub2_data","10::overall",10,"","Mortality","direction_only",15,15,0,0,0,10,5,0.0063,-0.17706483378693,0.00137257406494037,FALSE,FALSE,FALSE
+"CD015476_pub2_data","2::overall",2,"","Sessile serrated lesion detection rate","significance_only",7,7,0,0,0,1,1,0.0425,0.505784018742404,0.0133251803054642,TRUE,FALSE,TRUE
+"CD015476_pub2_data","12::overall",12,"","Serrated adenoma detection rate excluding studies that included patients with Lynch syndrome","significance_only",6,6,0,0,0,1,1,0.0415,0.543919650202995,0.014622700753988,TRUE,FALSE,TRUE
+"CD015514_pub2_data","7::overall",7,"","Adverse events - outer retinal folds","significance_only",3,3,0,0,0,0,0,0.1417,-0.455532384308224,-0.0684735917779343,FALSE,TRUE,TRUE
+"CD015514_pub2_data","8::overall",8,"","Adverse events - binocular diplopia and elevated intraocular pressure at 6 months","direction_only",2,2,0,0,0,0,0,0.1431,-0.36446308187539,0.0289248878270497,FALSE,FALSE,FALSE
+"CD015524_pub2_data","14::overall",14,"","Analysis 1.14. Outcome 6: Proportion of participants without improvement of steatosis: sensitivity analysis fixed-effect model","direction_only",8,8,0,5,0,5,5,0.2564,0.137845996894391,-0.0160072821975777,FALSE,FALSE,FALSE
+"CD015530_pub2_data","1::overall",1,"","Incidence of herpes zoster (up to 21 months after final dose)","significance_only",5,5,0,0,0,1,0,0.0462,-0.579895851608645,-0.0224890992813187,FALSE,TRUE,TRUE
+"CD015530_pub2_data","3::overall",3,"","Adverse events of any grade (up to 30 days after final dose)","significance_only",3,3,0,0,0,0,0,0.4138,0.331442106930818,0.0403873211988607,TRUE,FALSE,TRUE
+"CD015532_data","9::overall",9,"","Ventilatory problems","significance_only",5,5,0,0,0,0,0,0.464,-0.394085862349389,-0.064135594559835,TRUE,FALSE,TRUE
+"CD015532_data","10::overall",10,"","Need for renal replacement therapy","significance_only",6,6,0,0,0,2,2,0.3469,-0.448142302876319,-0.124776338155894,TRUE,FALSE,TRUE
+"CD015532_data","14::overall",14,"","ICU length of stay","significance_only",3,3,0,1,0,3,3,0.0216,1.94267577203542,0.0752290303390839,TRUE,FALSE,TRUE
+"CD015532_data","15::overall",15,"","Hospital length of stay","direction_only",4,4,0,1,0,3,2,0.0583,0.0771265700461175,-0.0751023800764311,FALSE,FALSE,FALSE
+"CD015536_pub2_data","5::overall",5,"","Proportion of people without histological improvement","significance_only",4,4,0,2,0,2,2,0.1316,-1.38020094462444,-0.401465581227486,FALSE,TRUE,TRUE
+"CD015536_pub2_data","4::2",4,"2","Proportion of people with serious adverse events (co-interventions)","direction_and_significance",5,5,0,2,0,3,4,0.0286,-1.02871166838152,0.00326950335187534,TRUE,FALSE,FALSE
+"CD015551_pub2_data","1::overall",1,"","Incidence of herpes zoster (up to 29.4 months after final dose)","significance_only",5,5,0,0,0,1,0,0.0507,-0.958014004721253,-0.0237351081096693,FALSE,TRUE,TRUE
+"CD015573_data","2::overall",2,"","Minor complications of treatment","significance_only",5,5,0,0,0,2,2,0.118,-0.5693509657429,-0.0552033890675948,FALSE,TRUE,TRUE
+"CD015584_pub2_data","4::overall",4,"","Providers' ease of placement","significance_only",16,16,0,8,0,8,8,0.0588,0.319588429784621,0.0476797887379232,FALSE,TRUE,TRUE
+"CD015584_pub2_data","6::1",6,"1","Placement success","significance_only",12,12,0,0,5,0,0,0.936,0.453093406916401,0.022155885624131,TRUE,FALSE,TRUE
+"CD015588_pub2_data","4::overall",4,"","Cardiovascular death (Hazard Ratio)","direction_only",20,17,3,18,3,19,18,5e-04,-0.0824468954815819,0.000188417176645229,FALSE,FALSE,FALSE
+"CD015588_pub2_data","20::overall",20,"","3P-MACE","significance_only",10,10,0,0,0,1,1,0.1001,-0.132901728782706,-0.00758106227297121,TRUE,FALSE,TRUE
+"CD015588_pub2_data","31::overall",31,"","Doubling of serum creatinine","significance_only",2,2,0,0,0,0,0,0.0458,-0.369066299371323,-0.0189675863612764,TRUE,FALSE,TRUE
+"CD015588_pub2_data","42::overall",42,"","Hypoglycaemia","significance_only",18,18,0,3,0,5,4,0.1747,-0.0858587326807483,-0.00493401234836502,TRUE,FALSE,TRUE
+"CD015588_pub2_data","44::overall",44,"","Hypoglycaemia requiring third-party assistance","significance_only",17,17,0,7,0,10,10,0.0246,-0.295644408632598,-0.00441414889374466,TRUE,FALSE,TRUE
+"CD015673_pub2_data","5::overall",5,"","Number of drinks per drinking day","direction_only",10,10,0,7,0,7,7,0.175,-0.0437516842037922,0.0077241714933864,FALSE,FALSE,FALSE
+"CD015673_pub2_data","7::overall",7,"","Serious adverse events","significance_only",4,4,0,2,0,3,3,0.0153,-1.35134865594596,-0.0289242688327286,FALSE,TRUE,TRUE
+"CD015698_pub2_data","6::overall",6,"","Intra-abdominal abscess","direction_only",2,2,0,0,0,2,1,0.0231,0.0609131206205213,-0.00716259851715369,FALSE,FALSE,FALSE
+"CD015711_pub2_data","2::overall",2,"","Spectacle independence for intermediate vision","significance_only",2,2,0,0,0,0,0,0.9,-1.54348629374014,-0.123866666666667,FALSE,TRUE,TRUE
+"CD015711_pub2_data","4::overall",4,"","Frequency of any ocular AE","direction_only",2,2,0,0,0,0,0,0.585,0.15938546957436,-0.0253789473684211,FALSE,FALSE,FALSE
+"CD015721_pub2_data","2::overall",2,"","Excellent functional outcome: mRS score < 2 within 90 days","direction_only",6,6,0,0,0,0,0,0.345,0.00984393631437958,-0.00549530266631943,FALSE,FALSE,FALSE
+"CD015721_pub2_data","4::overall",4,"","Asymptomatic intracranial haemorrhage within 90 days","significance_only",6,6,0,0,0,0,0,0.2806,0.18067240914421,0.0373177268083985,FALSE,TRUE,TRUE
+"CD015746_pub2_data","1::1",1,"1","Acute typhoid fever","significance_only",7,7,0,0,0,2,5,0.0386,-0.913207153581095,-0.00657582437846004,FALSE,TRUE,TRUE
+"CD015746_pub2_data","2::1",2,"1","All-cause mortality","significance_only",8,8,0,0,0,0,2,0.006,-0.770597485997211,-0.00041630732757506,FALSE,TRUE,TRUE
+"CD015746_pub2_data","3::2",3,"2","Adverse events","direction_only",4,4,0,0,0,3,2,0.0048,-0.0562653624868705,0.000155419891157452,FALSE,FALSE,FALSE
+"CD015746_pub2_data","4::2",4,"2","Serious adverse events","significance_only",2,2,0,0,0,2,2,0.0019,0.696814462549679,0.00266666666666667,FALSE,TRUE,TRUE
+"CD015746_pub2_data","4::3",4,"3","Serious adverse events","significance_only",5,5,0,0,0,1,1,0.0052,-0.243852797366716,-0.00110971635297258,TRUE,FALSE,TRUE
+"CD015779_data","5::overall",5,"","All-cause mortality (latent RHD)","significance_only",3,3,0,0,0,1,1,0.1204,-2.55243161509125,-0.189980523997369,TRUE,FALSE,TRUE
+"CD015824_pub2_data","2::2",2,"2","Mortality","direction_only",4,4,0,0,0,3,3,0.0253,-0.164782125823178,0.00518303000828143,FALSE,FALSE,FALSE
+"CD015824_pub2_data","3::1",3,"1","Hospitalisation","significance_only",2,2,0,0,0,1,1,0.0596,-1.41028845259548,-0.0627899293513194,TRUE,FALSE,TRUE
+"CD015824_pub2_data","6::2",6,"2","Worsening in World Health Organization functional class ","direction_only",5,5,0,0,0,1,1,0.0775,0.0900763675342516,-0.00940653540355075,FALSE,FALSE,FALSE
+"CD015824_pub2_data","9::1",9,"1","Withdrawal from the trial","significance_only",3,3,0,0,0,0,0,0.3311,-0.310809096623767,-0.0441846558535474,TRUE,FALSE,TRUE
+"CD015849_pub2_data","1::overall",1,"","All-cause death","significance_only",41,41,0,15,0,29,21,0.073,-0.172262845924745,-0.000476660290895169,TRUE,FALSE,TRUE
+"CD015849_pub2_data","3::overall",3,"","Cardiovascular death","direction_only",29,28,1,14,1,23,20,0.0443,-0.151799707490308,0.000584909318792432,FALSE,FALSE,FALSE
+"CD015849_pub2_data","8::overall",8,"","4-point MACE (Hazard ratio)","direction_only",11,8,3,7,3,10,10,0.0079,-0.0795940690596724,0.00181242281378068,FALSE,FALSE,FALSE
+"CD015849_pub2_data","12::overall",12,"","Composite kidney outcome (Hazard ratio)","significance_only",12,9,3,6,3,8,6,0.022,0.719612982655567,0.0412770437155713,TRUE,FALSE,TRUE
+"CD015849_pub2_data","14::overall",14,"","Severe hypoglycaemia (Hazard ratio)","significance_only",9,8,1,4,1,5,4,0.0632,0.781339893860187,0.0591367594965234,TRUE,FALSE,TRUE
+"CD015849_pub2_data","18::overall",18,"","Myocardial infarction (undefined)","significance_only",3,3,0,1,0,2,2,0.0621,-0.301228858230932,-0.00714010261436958,TRUE,FALSE,TRUE
+"CD015849_pub2_data","21::overall",21,"","Nonfatal stroke","significance_only",2,2,0,0,0,0,0,0.0431,-0.438310890658298,-0.0242787863110203,FALSE,TRUE,TRUE
+"CD015849_pub2_data","27::overall",27,"","Heart failure","significance_only",2,2,0,0,0,2,2,0.0047,1.1883611858538,0.0076494271155772,FALSE,TRUE,TRUE
+"CD015849_pub2_data","41::overall",41,"","Hypoglycaemia","direction_only",3,3,0,0,0,1,0,0.121,0.083974637678506,-0.00234935526565699,FALSE,FALSE,FALSE
+"CD015854_data","3::1",3,"1","Improvement in muscle strength (assessed with change in MMT8) (GIV analysis)","significance_only",5,4,1,3,1,3,3,0.2698,1.21698976025534,0.324796328446429,FALSE,TRUE,TRUE
+"CD015854_data","5::1",5,"1","Serious adverse event","direction_only",3,3,0,1,0,2,2,0.0741,0.0802872515985147,-0.0474240060021518,FALSE,FALSE,FALSE
+"CD015854_data","6::3",6,"3","Serious adverse event","significance_only",3,3,0,1,0,3,2,0.1765,-0.897830719247982,-0.272815533980582,FALSE,TRUE,TRUE
+"CD015855_data","4::2",4,"2","Improvement of muscle strength (assessed with change in MMT or other validated muscle score)","significance_only",4,4,0,1,0,1,1,0.504,0.565273591950018,0.120240980030846,TRUE,FALSE,TRUE
+"CD015855_data","8::overall",8,"","Withdrawals for either lack of benefit or adverse events","direction_only",3,3,0,1,0,2,2,0.039,-0.0440319935897666,0.0136358205262115,FALSE,FALSE,FALSE
+"CD015875_data","10::overall",10,"","Hip circumference (cm) (10 to 19 years)","direction_only",7,2,5,0,0,1,0,0.1733,-0.209872273568972,0.00279805291213443,FALSE,FALSE,FALSE
+"CD015932_pub2_data","1::2",1,"2","All-cause mortality","significance_only",3,3,0,0,0,0,2,0.079,-1.07042404221875,-0.0755527225725028,FALSE,TRUE,TRUE
+"CD015932_pub2_data","2::2",2,"2","ICU length of stay","significance_only",5,3,2,0,0,0,1,0.0938,-0.558154675344505,-0.0649162761056351,FALSE,TRUE,TRUE
+"CD015932_pub2_data","12::5",12,"5","Rate of pulmonary complications - pneumonia","significance_only",3,3,0,0,0,0,0,0.3339,-0.950788080156242,-0.174061107400731,TRUE,FALSE,TRUE
+"CD016002_data","1::1",1,"1","Death","significance_only",18,18,0,16,0,18,18,0.0057,-0.428001475166847,-0.0633254317643075,FALSE,TRUE,TRUE
+"CD016031_data","11::overall",11,"","Comparison 1: Anterior vs posterior, Outcome 11: Mortality, late (? 24 months, categorical data)","direction_only",9,3,6,0,0,2,1,0.0561,0.123841430176046,-0.00335272259729572,FALSE,FALSE,FALSE
+"CD016031_data","13::overall",13,"","Comparison 1: Anterior vs posterior, Outcome 13: Pain, intermediate (4-24 months, categorical data)","direction_only",5,5,0,0,0,2,1,0.1351,0.107611862064577,-0.012237395228161,FALSE,FALSE,FALSE
+"CD016031_data","13::5",13,"5","Comparison 2: Anterior vs lateral, Outcome 13: Adverse events, implant related (categorical data)","direction_only",2,2,0,0,0,1,1,0.0563,0.318046574520617,-0.00324479242852826,FALSE,FALSE,FALSE
+"CD016031_data","15::1",15,"1","Comparison 2: Anterior vs lateral, Outcome 15: Operative details (Continuous data)","significance_only",14,14,0,5,0,13,9,0.0178,-0.993725269890321,-0.0189808415672849,TRUE,FALSE,TRUE
+"CD016031_data","15::2",15,"2","Comparison 2: Anterior vs lateral, Outcome 15: Operative details (Continuous data)","significance_only",6,6,0,2,0,5,4,0.025,0.844091636761621,0.0361177039322057,FALSE,TRUE,TRUE
+"CD016031_data","15::3",15,"3","Comparison 2: Anterior vs lateral, Outcome 15: Operative details (Continuous data)","direction_only",6,6,0,2,0,5,5,0.0151,-0.105579553615369,0.000454798978164568,FALSE,FALSE,FALSE
+"CD016058_pub2_data","3::overall",3,"","Vaping cessation at between 3 & 6 months","significance_only",11,9,2,0,0,1,1,0.3212,0.465586299960372,0.094356089345527,FALSE,TRUE,TRUE
+"CD016064_data","5::1",5,"1","Multifactorial interventions (grouped by alignment with QCA theory): Risk of falling sensitivity analyses: excluding trials at high risk of bias","direction_only",13,13,0,9,0,11,11,0.025,-0.0731073313258786,0.0162084790444035,FALSE,FALSE,FALSE
+"CD016119_data","3::overall",3,"","Size of fibroid on incidence of haemorrhage","direction_only",6,6,0,0,0,1,1,0.1247,0.0733959709307592,-0.0155752183787889,FALSE,FALSE,FALSE
+"CD016119_data","20::overall",20,"","Complications (unspecified)","direction_only",3,3,0,0,0,1,1,0.0272,0.010434506210145,-0.0050059205652473,FALSE,FALSE,FALSE
+"CD016120_data","3::overall",3,"","Haemorrhage","direction_only",2,2,0,0,0,1,1,0.065,-0.134262521884646,0.000238235286090741,FALSE,FALSE,FALSE
+"CD016131_data","3::overall",3,"","Mortality from illness caused by RSV","direction_and_significance",9,9,0,5,0,9,8,2e-04,-0.0878733196940228,0.044982155106917,FALSE,TRUE,FALSE
+"CD016131_data","5::1",5,"1","Serious adverse events (SAEs) related to vaccination","direction_only",4,4,0,0,0,1,1,4e-04,-0.1354563715032,6.55792229365448e-06,FALSE,FALSE,FALSE
+"CD016131_data","6::1",6,"1","Any unsolicited adverse events (spontaneously reported/ other adverse events)","significance_only",4,4,0,1,0,1,1,0.1589,0.0946709977754856,0.00789581181229729,TRUE,FALSE,TRUE
+"CD016131_data","2::1",2,"1","Medically attended RSV-associated severe lower respiratory tract illness in infants","significance_only",2,2,0,0,0,1,0,0.0057,-1.81644118997276,-0.00986853424070365,TRUE,FALSE,TRUE
+"CD016147_data","6::overall",6,"","Adverse effects (abdominal pain)","direction_only",2,2,0,0,0,0,0,0.1694,-0.119236584522769,0.00144951205013027,FALSE,FALSE,FALSE
+"CD016148_data","2::overall",2,"","3rd or 4th degree tears","significance_only",15,15,0,1,0,6,5,0.0203,-0.413695006984715,-0.00576643910086291,TRUE,FALSE,TRUE
+"CD016168_data","2::overall",2,"","Severe maternal morbidity - ICU admission","significance_only",4,4,0,1,0,2,1,0.0624,0.391963200752807,0.0178211688187387,FALSE,TRUE,TRUE
+"CD016168_data","3::overall",3,"","Breastfeeding","significance_only",3,3,0,0,0,0,0,0.6274,-0.335016095371524,-0.0270979603986156,FALSE,TRUE,TRUE
+"CD016168_data","5::overall",5,"","Severe maternal morbidity - hysterectomy (non-randomised studies)","significance_only",2,2,0,0,0,0,0,0.0934,1.1234237508771,0.0729233472853018,TRUE,FALSE,TRUE
+"CD016168_data","6::overall",6,"","Adverse effects - thromboembolic events","direction_only",3,3,0,1,0,3,3,0.0047,-0.194185066651227,0.00221094291711175,FALSE,FALSE,FALSE
+"CD016168_data","11::overall",11,"","Adverse effects - headache up to 24 hours","direction_only",2,2,0,0,0,1,0,0.0567,0.125281026811984,-0.00160838780012609,FALSE,FALSE,FALSE
+"CD016211_data","1::overall",1,"","Maternal sepsis","significance_only",4,4,0,0,0,0,0,0.0142,-0.43199609546437,-0.00406252903116841,TRUE,FALSE,TRUE
+"CD016211_data","2::2",2,"2","Maternal sepsis: subgroup analysis (polypharmacy vs monopharmacy)","significance_only",4,4,0,0,0,0,0,0.0141,-0.435092759704064,-0.00405764878410204,TRUE,FALSE,TRUE
+"CD016278_data","9::overall",9,"","Hysterectomy","direction_only",2,2,0,0,0,1,0,0.0018,-0.20467174973262,0.000439599407720132,FALSE,FALSE,FALSE
+"CD016278_data","21::overall",21,"","Vomiting","direction_only",2,2,0,0,0,1,1,0.0488,-0.0361989363682753,0.00573736572417546,FALSE,FALSE,FALSE

@@ -1,0 +1,4518 @@
+{
+  "query": "days sedation cause discharge",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01374464",
+          "briefTitle": "Reducing Respiratory Side Effects of Interscalene Brachial Plexus Block"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adverse Reaction to Peripheral Nerve- and Plexus-blocking Anesthetics"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 92,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02164734",
+          "briefTitle": "Surfactant Via Endotracheal Tube vs. Laryngeal Mask Airway (LMA) in Preterm Neonates With Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome, Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Hours",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02077920",
+          "briefTitle": "Methods of Chlorhexidine Cleansing to Prevent Ventilator-Associated Pneumonia (VAP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2019-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ventilator-associated Pneumonia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06455020",
+          "briefTitle": "Catheter Ablation of Haemodynamically Not-tolerated Electrical Storm in Structural Heart Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ventricular Tachycardia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01918033",
+          "briefTitle": "A Study of the Efficacy and Safety of Desloratadine (MK-4117) in Japanese Participants With Perennial Allergic Rhinitis (MK-4117-200)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perennial Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 608,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06531369",
+          "briefTitle": "Flumazenil Antagonism of Remimazolam in Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Flumazenil to Antagonize Remimazolam", "Remimazolam", "Renal Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05658692",
+          "briefTitle": "Platform Adaptive Embedded Trial for Acute Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06859892",
+          "briefTitle": "Dexmedetomidine-Esketamine Combination and Sleep Disturbances After Major Noncardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adults", "Major Noncardiac Surgery", "Dexmedetomidine", "Esketamine", "Postoperative Sleep Disturbances"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 476,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04751045",
+          "briefTitle": "Comparison and Outcomes of Endoscopic Ultrasound Liver Biopsies Versus Percutaneous Liver Biopsies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Liver Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06551688",
+          "briefTitle": "Influence of Preoperative Vitamin D Level on Postoperative Pain in Breast Cancer Surgery Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer Breast", "Hypovitaminosis D"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 184,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03357393",
+          "briefTitle": "Patient-controlled Sedation With Propofol Versus Combined Sedation During Bronchoscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sedation, Bronchoscopy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01728558",
+          "briefTitle": "Early Goal-Directed Sedation Compared With Standard Care in Mechanically Ventilated Critically Ill Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critical Illness and Mechanical Ventilation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07049094",
+          "briefTitle": "The Analgesic Effect of Scalp Nerve Block Using Bupivacaine Liposomes for Postoperative Pain Relief After Craniotomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Tumor Adult", "Cerebrovascular Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 218,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07026162",
+          "briefTitle": "Oliceridine on Postoperative Nausea and Vomiting in Gynecological Laparoscopic Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gynecologic Surgical Procedures", "Postoperative Nausea and Vomiting (PONV)", "Laparoscopy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03896256",
+          "briefTitle": "Ketamine for Refractory Chronic Migraine: a Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Migraine Headache With Intractable Migraine"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04861402",
+          "briefTitle": "Non-Invasive Intracranial Pressure in COVID-19 Individuals"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intracranial Pressure"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02903407",
+          "briefTitle": "Pain, Agitation and Delirium (PAD) Protocol in the Duke CICU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Sedation", "Ventilators, Mechanical", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03739476",
+          "briefTitle": "Clinical Trial With Quetiapine Prophylaxis Postoperative Delirium in High Risk Surgical Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02223377",
+          "briefTitle": "Satisfactory Analgesia Minimal Emesis in Day Surgeries"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Post Operative Nausea and Vomiting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 402,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04038814",
+          "briefTitle": "The Effectiveness of the Modified Bundle in the Prevention of VAP."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "VAP - Ventilator Associated Pneumonia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 386,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04553536",
+          "briefTitle": "Cardiovascular Protection Conservative Effects of Esketamine Versus µ-opioid Receptor Agonists in General Anesthesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Opioid Analgesic Adverse Reaction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07265492",
+          "briefTitle": "UDOPAL Study: Home-Based Interventional Approach to Pain Management in Home-Hospitalized Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Pain", "Cancer Pain", "Neuropathic Pain", "Palliative Care"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06767358",
+          "briefTitle": "Ketamine Sedation in the ICU (KANINE) RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mechanical Ventilation", "Critically Ill Intensive Care Unit Patients"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02996591",
+          "briefTitle": "Spinal Versus General Anesthesia With Popliteal and Adductor Canal Blocks for Ambulatory Foot and Ankle Surgery."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nerve Block", "General Anesthesia", "Spinal Anesthesia", "Pain", "Postoperative Nausea and Vomiting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05849779",
+          "briefTitle": "Inhaled Sevoflurane for ARDS Prevention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06939361",
+          "briefTitle": "Tube Size Randomized Trial During Emergency Tracheal Intubation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01116713",
+          "briefTitle": "Effect of Dexamethasone in Postoperative Symptoms After Mastectomy for Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2010-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Pain", "Postoperative Nausea", "Postoperative Vomiting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06067789",
+          "briefTitle": "The ALOFT Pilot Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vascular Diseases", "Peripheral Artery Disease", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02080299",
+          "briefTitle": "Protection by Remote Ischemic Preconditioning During Transcatheter Aortic Valve Implantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aortic Valve Stenosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04663802",
+          "briefTitle": "Implementation of Nudges to Promote Utilization of Low Tidal Volume Ventilation (INPUT) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ARDS", "Critical Illness", "Acute Respiratory Distress Syndrome", "Acute Respiratory Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7342,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07224620",
+          "briefTitle": "Fentanyl Versus Hydromorphone in Patients on Mechanical Ventilation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mechanical Ventilation", "Sedation and Analgesia", "Critical Care, Intensive Care"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07171125",
+          "briefTitle": "Liposomal Bupivacaine for Pain After Lumbar Fusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Acute Pain", "Lumbar Degenerative Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 204,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06987604",
+          "briefTitle": "Continuous Renal Replacement Therapy Intensity in Hyperammonemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-05-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Liver Failure", "Acute on Chronic Liver Failure (ACLF)", "Acute Kidney Injury", "Ammonia Metabolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04322136",
+          "briefTitle": "AMPLE-3: IPC Plus Talc vs VATS in Management of Malignant Pleural Effusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malignant Pleural Effusion", "Respiratory Disease", "Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05966012",
+          "briefTitle": "Tranexamic Acid Dose and Confusion After Cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Surgery"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06226428",
+          "briefTitle": "Cyclo-Ergometry in the Patient With Acute Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06574659",
+          "briefTitle": "Noninvasive Ventilation Breathing Test Guiding Weaning in Patients With Acute Hypoxic Respiratory Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Hypoxic Respiratory Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05963672",
+          "briefTitle": "Assessment of Sleep Quality of Hospitalized Patients Treated With EEG-guided Protection Procedures: Application in Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Quality", "Critically Ill Patient", "Intensive Care Unit"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04751227",
+          "briefTitle": "Modafinil for Wakefulness in the Critical Care Units"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "COVID-19", "Cognitive Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05579964",
+          "briefTitle": "The Role of Dexmedetomidine as Myocardial Protector in Pediatric Cardiac Surgery Total Correction of Tetralogy of Fallot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congenital Heart Disease in Children", "Cardiopulmonary Bypass", "Tetralogy of Fallot"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05814523",
+          "briefTitle": "To Evaluate the Efficacy, Safety, and Tolerability of Intravenous Ganaxolone Added to Standard of Care in Refractory Status Epilepticus (RSE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Refractory Status Epilepticus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05464979",
+          "briefTitle": "Esketamine Induction Intubation in ICU Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critically Ill Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01913275",
+          "briefTitle": "Comparison Between Endoscopic Stenting and Cholecystojejunostomy for PreoperativeDrainage Before Pancreaticoduodenectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Periampullary Cancer", "Pancreatic Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07269106",
+          "briefTitle": "Efficacy and Safety of Anrikefon for Postoperative Analgesia in Ophthalmic Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ophthalmic Surgery", "Postoperative Pain Management", "Opioid Analgesia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 204,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07116408",
+          "briefTitle": "Intranasal Sphenopalatine Ganglion Blockade for Headaches Following Aneurysmal Subarachnoid Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aneurysmal Subarachnoid Hemorrhage (aSAH)", "Headache"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04585633",
+          "briefTitle": "Postoperative Risk Prediction Score After Elective Intracranial Neurosurgery Operation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Tumor", "Post-Op Complication", "Anesthesia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06696404",
+          "briefTitle": "The Role of Precision Anesthesia Strategy on Perioperative Organ Protection in Hip Surgery [PASPOP]"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Elderly (People Aged 65 or More)", "Hip Fracture", "Delirium - Postoperative", "Organ Protection", "Nerve Block"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02932358",
+          "briefTitle": "Effectiveness and Safety of a Flexible Family Visitation Model for Delirium Prevention in Adult Intensive Care Units: a Cluster-randomized, Crossover Trial (The ICU Visits Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1650,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07208097",
+          "briefTitle": "Stereotactic Thrombolysis With Tenecteplase for Supratentorial Intracerebral Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracerebral Haemorrhage", "Minimally Invasive Treatment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 768,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06514040",
+          "briefTitle": "Nebulized Dexmedetomidine Versus Oral Sumatriptan in Treatment of Post Dural Puncture Headache in Cesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post-Dural Puncture Headache"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01994070",
+          "briefTitle": "Chemical vs Electrical Cardioversion for Emergency Department Patients With Acute Atrial Fibrillation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07313956",
+          "briefTitle": "Mode of Ventilation During Critical Illness at Multiple Centers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Failure", "Mechanical Ventilation", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4785,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02618772",
+          "briefTitle": "Intranasal Midazolam for Treatment of Anxiety in Children Undergoing Suturing in the Pediatric Emergency Department"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anxiety", "Lacerations"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 79,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04411459",
+          "briefTitle": "Risk Factors for Prolonged Invasive Mechanical Ventilation in COVID-19 Acute Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Mechanical Ventilation", "Quality of Life", "Radiologic Increased Density of Lung", "Sedation", "Complication of Treatment"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 470,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06133504",
+          "briefTitle": "Early Multimodal Therapy and Mechanical Ventilation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Care", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06479824",
+          "briefTitle": "NHLBI and Cook Trans-Atrial Intra-Pericardial Tricuspid Annuloplasty (TRAIPTA) Early Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tricuspid Valve Insufficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05840549",
+          "briefTitle": "A Study Comparing Urolift and TURP Ahead of Radiotherapy in Men With Urinary Symptoms Secondary to Prostate Enlargement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04365985",
+          "briefTitle": "Study of Immunomodulation Using Naltrexone and Ketamine for COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Acute Respiratory Distress Syndrome", "Severe Acute Respiratory Syndrome (SARS)", "Coronavirus Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06979700",
+          "briefTitle": "Early WAKE-up Predictors After Out-of-Hospital Cardiac Arrest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiac Arrest (CA)", "Anoxic Brain Injury", "Comatose Survivors of Cardiac Arrest", "EEG", "Pupillometry", "Optic Nerve Sheath Diameter", "Transcranial Doppler Ultrasound", "Neurological Outcome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00991341",
+          "briefTitle": "Red Cell Storage Duration Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiac Surgery", "Erythrocyte Transfusion"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1481,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03406494",
+          "briefTitle": "Efficacy and Safety of a Multicomponent Physical Therapy Program in Mechanically Ventilated Patient With Sepsis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sepsis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03280329",
+          "briefTitle": "Generalized Versus Personalized Music Therapy in the ICU to Reduce Sedation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Hypnotics and Sedatives", "Music Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06030453",
+          "briefTitle": "Using SMART HOME Strategy to Reduce the Incidence of Delirium in the Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delirium", "Intensive Care Unit Delirium"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04265807",
+          "briefTitle": "Remote Ischemic Conditioning to Enhance Resuscitation (RICE) Pilot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiac Arrest"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05196971",
+          "briefTitle": "A Study To Evaluate The Safety, Tolerability And Pharmacokinetics of HS-10345 In Treatment-Resistant Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Treatment Resistant Depressive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04066127",
+          "briefTitle": "Non-ischaemic Heart Preservation Versus Standard Cold Storage in Human Heart Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transplant; Failure, Heart"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05536531",
+          "briefTitle": "NMES Role to Prevent Respiratory Muscle Weakness in Critically Ill Patients and Its Association to Changes in Myokines."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Muscle Weakness or Atrophy", "Mechanical Ventilation Complication", "Electrical Stimulations"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04143230",
+          "briefTitle": "Identification of In-hospital Patients in Need of Palliative Care Using a New Simplified Screening Tool"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Locally Advanced Cancer", "Metastatic Cancer", "Chronic Respiratory Failure", "Chronic Heart Failure", "Chronic Liver Failure", "Chronic Renal Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 660,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06934811",
+          "briefTitle": "Ciprofol's Impact on Oxygenator Function in Extracorporeal Membrane Oxygenation (ECMO) Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ECMO Treatment", "ARDS (Acute Respiratory Distress Syndrome)", "ECMO and Acute MI", "Respiratory Failure Patients Treated With ECMO", "Shock, Cardiogenic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06666049",
+          "briefTitle": "Gastric POCUS for Airway Management in Patients Using Glucagon-like Peptide-1 Receptor Agonist"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aspiration Pneumonia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07296055",
+          "briefTitle": "Endobronchial Valve in Tubercular and NTM Pulmonary Cavities."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multidrug Resistance Tubercolosis", "Non Tubercolar Micobacteriosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01211158",
+          "briefTitle": "Ketofol vs Propofol for Emergency Department Procedural Sedation and Analgesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2011-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Emergency Department Procedural Sedation", "Fracture Reduction", "Abscess Incision and Drainage", "Electrical Cardioversion"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 284,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01174290",
+          "briefTitle": "Preventing ICU Subsyndromal Delirium Conversion to Delirium With Haloperidol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Subsyndromal Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "84 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06958718",
+          "briefTitle": "Ultrasound vs. Surgical ESP Block With Bupivacaine-Dexmedetomidine in Lumbar Fusion Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post Operative Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04221737",
+          "briefTitle": "Early Use of Airway Pressure Release Ventilation (APRV) in ARDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01042054",
+          "briefTitle": "Comparison of Analgesic Methods, and Their Effects on Patient Recovery, Following Liver Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05440851",
+          "briefTitle": "Platform of Randomized Adaptive Clinical Trials in Critical Illness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Insufficiency", "Extracorporeal Membrane Oxygenation Complication", "Mechanical Ventilation Pressure High"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06878703",
+          "briefTitle": "Efficacy of Dexmedetomidine Versus Midazolam Sedation on Extubation Time in Mechanically Ventilated Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["PreTerm Neonate", "Sedation for Invasive Mechanical Ventilation", "Very Preterm Neonates With Sedation for Invasive Mechanical Ventilation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 380,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05508828",
+          "briefTitle": "Percutaneous Continuous Irrigation Combined With Transgastric Necrosectomy usingLAMS in Treatment of SAP"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Acute Pancreatitis", "Pancreatic Necrosis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05071443",
+          "briefTitle": "VACuum-Assisted Closure for Necrotizing Soft Tissue infecTIONs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Necrotising Soft Tissue Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00286052",
+          "briefTitle": "Impact of Low Dose Naloxone on Fentanyl Requirements in Pediatric ICU Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-12"
+          },
+          "completionDateStruct": {
+            "date": "2004-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Opioid Tolerance"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01811459",
+          "briefTitle": "Trial Comparing Haloperidol, Quetiapine and Placebo in the Pharmacological Treatment of Delirium"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02727296",
+          "briefTitle": "Volatile Anesthetic Protection Of Renal Transplants 2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delayed Graft Function", "Renal Outcome After Kidney Transplantation", "Acute Rejection (AR) of Transplanted Kidney", "Graft Survival", "Patient Survival", "Postoperative Complications", "Length of Hospital Stay", "Primary Non Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 488,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06445153",
+          "briefTitle": "Digitalized Clinical Decision Support for the Prevention of Postoperative Delirium (POD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04640194",
+          "briefTitle": "A Study to Test Whether Different Doses of Alteplase Help People With Severe Breathing Problems Because of COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01967680",
+          "briefTitle": "Non-sedation Versus Sedation With a Daily Wake-up Trial in Critically Ill Patients Receiving Mechanical Ventilation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Respiration, Artificial"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07182851",
+          "briefTitle": "Prevalence of Pain in Mechanically Ventilated Patients in Intensive Care Units"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sedation and Analgesia", "Pain Intensity Assessment", "Mechanical Ventilation Complication"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 370,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06849466",
+          "briefTitle": "Effect of Perioperative Dexmedetomidine on Chronic Post-Surgical Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Post-Surgical Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 364,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07123961",
+          "briefTitle": "Pediatric Acute Respiratory Distress Syndrome (ARDS) Management Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Respiratory Distress Syndrome (ARDS)", "Ventilator Management", "Lung-protective Ventilation", "Pediatric Acute Respiratory Distress Syndrome (PARDS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "38 Weeks",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06203405",
+          "briefTitle": "The Efficacy of P0.1-guided Sedation Protocol in Critically Ill Patients Receiving Invasive Mechanical Ventilation: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Failure", "Critical Illness", "Respiratory Distress Syndrome, Adult", "Lung Injury", "Mechanical Ventilation Complication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05057611",
+          "briefTitle": "Hemodynamic Phenotype and Capillary Refill Time-targeted Resuscitation Strategy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Septic Shock"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05479032",
+          "briefTitle": "Amantadine for Neuroenhancement in Acute Patients Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Disorder of Consciousness"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01886352",
+          "briefTitle": "Intraperitoneal Atomization of Levobupivacaine During Gynaecological Laparoscopic Procedures ; Impact on Pain, Opioid Use and Length of Recovery Room Stay (IPLA)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain, Postoperative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02312869",
+          "briefTitle": "Local Assessment of Management of Burn Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Burns - Multiple", "Mechanical Ventilation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07299799",
+          "briefTitle": "Evidence-Based Nursing to Reduce Adverse Events Regarding Ventilator Associated Pneumonia, Pressure Injuries and Central Line Bloodstream Infection in Intensive Care Unit in Bangladesh"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ventilator Acquired Pneumonia", "Central Line Associated Blood Stream Infections (CLABSI)", "Pressure Ulcer (PU)", "Medical Device Related Pressure Ulcer (MDRPU)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 272,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02167698",
+          "briefTitle": "Trial of an Alternate Mode of Providing Artificial Breaths to Children With Very Severe Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome (ARDS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00462644",
+          "briefTitle": "Evaluation of Etomidate on Adrenal Function in Trauma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02"
+          },
+          "completionDateStruct": {
+            "date": "2006-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adrenal Insufficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07284888",
+          "briefTitle": "Practices of Prone Positioning Ventilation in Patients With Moderate-to-Severe ARDS in Intensive Care Units: A Registry-Based Observational Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04653597",
+          "briefTitle": "Non-invasive Airway Management of Comatose Poisoned Emergency Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Poisoning", "Consciousness, Level Altered", "Comatose"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 237,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02520310",
+          "briefTitle": "AVJ-514 Japan Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mitral Stenosis With Insufficiency", "Functional Mitral Regurgitation", "Mitral Insufficiency", "Mitral Valve Incompetence", "Mitral Valve Regurgitation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06581809",
+          "briefTitle": "Comparative Evaluation of Care Strategies on Dressing Change-induced Bleeding in Patients With Bleeding Malignant Wounds (Tumoss)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Wound"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06468436",
+          "briefTitle": "Dexmedetomidine-Esketamine Combination for Sedation and Analgesia in ICU Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aged", "Intensive Care Units", "Ventilators, Mechanical", "Dexmedetomidine", "Esketamine", "Delirium"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1508,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05902000",
+          "briefTitle": "Stent Implantation Versus Balloon Dilation for Acute Anterior Circulation Tandem Occlusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thrombectomy", "Tandem Occlusion", "Stroke"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 222,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03967496",
+          "briefTitle": "Assessment of Immediate Postoperative Delirium (IPD) in Adult Patients: Incidence and Etiologic Factors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delirium", "Anesthesia; Adverse Effect"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 402,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04397172",
+          "briefTitle": "Intensive Care Associated Complications and Outcome of Acute Respiratory Distress Syndrome Due to COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID", "Corona Virus Infection", "Sars-CoV2"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06368908",
+          "briefTitle": "Transcutaneous Functional Magnetic Muscle Stimulation in Critically Ill"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critical Illness Myopathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02639364",
+          "briefTitle": "Airway Pressure Release Ventilation (APRV) Protocol Early Used in Acute Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05895838",
+          "briefTitle": "The Danish Out-of-Hospital Cardiac Arrest Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Out-Of-Hospital Cardiac Arrest", "Post-Cardiac Arrest Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04235608",
+          "briefTitle": "SEvoflurane for Sedation in ARds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03671447",
+          "briefTitle": "Enhanced Recovery After Intensive Care (ERIC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critical Illness"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1463,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06409741",
+          "briefTitle": "PrEveNtion of Biliary Events After Acute Pancreatitis in NonSUrgicaL PAtients: PENINSULA Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Pancreatitis Due to Gallstones", "Acute Pancreatitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06607861",
+          "briefTitle": "Nebulized Dexmedetomidine or Lidocaine for Treatment of Post Dural Puncture Headache in Parturients Undergoing Elective Cesarean Section Under Spinal Anesthesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain Score (VAS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07106073",
+          "briefTitle": "Fever In Palliative Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fever", "Palliative Care", "Terminal Illness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 145,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06953128",
+          "briefTitle": "General Versus Regional Anesthesia in Peripheral Arterial Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Complications", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 594,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04228471",
+          "briefTitle": "Early PReserved SPONtaneous Breathing Activity in Mechanically Ventilated Patients With ARDS (PReSPON)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome, Adult"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 840,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03859206",
+          "briefTitle": "Medical Thoracoscopy Versus Tube Thoracostomy in Management of Empyema ."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Empyema"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02840240",
+          "briefTitle": "Effect of Gabapentin Enacarbil on Opioid Consumption and Pain Scores"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06062303",
+          "briefTitle": "Hemodynamic Phenotype-Based,Capillary Refill Time-Targeted Resuscitation In Early Septic Shock:ANDROMEDA-SHOCK-2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intensive Care Unit Acquired Weakness", "Shock, Septic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01990768",
+          "briefTitle": "Prehospital Tranexamic Acid Use for Traumatic Brain Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05"
+          },
+          "completionDateStruct": {
+            "date": "2017-11-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Traumatic Brain Injury"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 967,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03782350",
+          "briefTitle": "Outcome Impact of Different Tranexamic Acid Regimen in Cardiac Surgery With Cardiopulmonary Bypass"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Homeostasis", "Cardiac Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3079,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04603963",
+          "briefTitle": "Inspiratory Muscle Training in Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Respiratory Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05995405",
+          "briefTitle": "Safety and Tolerability of GTX-104 Compared with Oral Nimodipine in Patients with ASAH"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aneurysmal Subarachnoid Hemorrhage (aSAH)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06580730",
+          "briefTitle": "Endovascular Treatment for Stroke Post 1 Day （24 Hours）"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 224,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06819956",
+          "briefTitle": "Ketorolac at Lower Doses for Analgesic Pain Control in ICU: A Pilot Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain Management"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07172451",
+          "briefTitle": "Gelaspan vs Crystalloid Therapy in Sepsis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sepsis", "Intra-Abdominal Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 318,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07226700",
+          "briefTitle": "Suzetrigine in Total Hip Arthroplasty"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Total Hip Arthroplasty (THA)", "Total Hip Arthroplasty \\(THA\\)", "Total Hip Replacement", "Total Hip Replacement Surgery", "Total Hip Replacements", "Total Hip Replacement Arthroplasty", "Suzetrigine", "Pain Management", "Pain", "Nav 1.8", "JOURNAVX", "Opioid Cessation", "Opioid Consumption, Postoperative", "Multimodal Analgesia", "Randomized Controlled Trial", "Randomized Controlled Study", "Randomized Controlled Trials"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02336308",
+          "briefTitle": "A Randomized, Double-Blind Study of Placebo vs. Ketamine For Use During Dressing Changes in Critically Ill Burn Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thermal Hyperalgesia", "Anxiety", "Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02863081",
+          "briefTitle": "Helping Older Persons Emerge Stronger"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delirium", "Ventilators", "Pain", "Agitation", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01826799",
+          "briefTitle": "Noise in the Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Noise in the ICU", "Sleep Quality in Adult ICU Patients"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02317497",
+          "briefTitle": "Sedation Depth in Neurocritical Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sedation of Cerebrovascular Ventilated Critical Care Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04291508",
+          "briefTitle": "Acetaminophen and Ascorbate in Sepsis: Targeted Therapy to Enhance Recovery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Respiratory Distress Syndrome", "Critical Illness", "Respiratory Failure", "Sepsis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 488,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00793013",
+          "briefTitle": "Airway Pressure Release Ventilation (APRV) Compared to ARDSnet Ventilation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Lung Injury", "Adult Respiratory Distress Syndrome", "Kidney Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04677556",
+          "briefTitle": "Work of Breathing in Bronchiolitis Under Non-invasive Ventilation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Viral Bronchiolitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05868070",
+          "briefTitle": "Feasibility and Safety of In-bed Cycling/Stepping in Critically Ill Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critically Ill Patient", "Intensive Care Unit Acquired Weakness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06542107",
+          "briefTitle": "Weaning From Mechanical Ventilation in Patients With Acute Brain Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ventilator Lung", "Acute Brain Injury"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 406,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02400229",
+          "briefTitle": "Diagnostic Imaging Strategies for Patients With Stable Chest Pain and Intermediate Risk of Coronary Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3546,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04705896",
+          "briefTitle": "Albumin To Enhance Recovery After Acute Kidney Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "Renal Replacement Therapy", "Hypotension", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 856,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04951804",
+          "briefTitle": "EUS-CPN With and Without Bupivacaine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pancreatic Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02110810",
+          "briefTitle": "Indomethacin Decreases Post-ERCP Pancreatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post ERCP Acute Pancreatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03000283",
+          "briefTitle": "Conivaptan for the Reduction of Cerebral Edema in Intracerebral Hemorrhage- A Safety and Tolerability Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cerebral Hemorrhage", "Cerebral Edema", "Intracerebral Hemorrhage", "Stroke"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03573479",
+          "briefTitle": "Early Rehabilitation in Critically Ill Children - The PICU Liber8 Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delirium", "Withdrawal Syndrome", "Hospital Acquired Condition", "Critical Illness Myopathy", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06133023",
+          "briefTitle": "WONDER-02 Trial: Plastic Stent vs. Lumen-apposing Metal Stent for Pancreatic Pseudocysts"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2033-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pancreatic Fluid Collection", "Pancreatitis", "Pancreatic Pseudocyst"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05735847",
+          "briefTitle": "Surgery Induced Trauma After Total Versus Medial Unicompartmental Knee Arthroplasty (SITA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Knee Osteoarthritis", "Arthritis", "Surgery", "Total Knee Arthroplasty", "Unicompartmental Knee Arthroplasty"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04233359",
+          "briefTitle": "A Randomised Study Evaluating Diagnostics of Pleural Effusion Among Patients Suspect of Cancer."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pleural Effusion, Malignant", "Pleural Effusion", "Pleura; Exudate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01760967",
+          "briefTitle": "Dexmedetomidine for Sepsis in ICU Randomized Evaluation Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sepsis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 203,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      }
+    ]
+  }
+}

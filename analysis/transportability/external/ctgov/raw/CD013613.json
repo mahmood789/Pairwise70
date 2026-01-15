@@ -1,0 +1,852 @@
+{
+  "query": "endpoint months three ptsd",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04672551",
+          "briefTitle": "EMDR Treatment in PTSD Following Cardiac Events"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Posttraumatic Stress Disorder", "Myocardial Infarction", "Eye Movement Desensitization and Reprocessing"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04264026",
+          "briefTitle": "MDMA-Assisted Psychotherapy in Veterans With Combat-Related, Refractory PTSD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post Traumatic Stress Disorder", "Combat Stress Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06596681",
+          "briefTitle": "A Study of the Safety and Tolerability of GA in the Treatment of Patients with Refractory Neuropathic Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain, Intractable"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06298006",
+          "briefTitle": "A Two Year Longitudinal Clinical Study of Neurocognitive and Psychiatric Symptoms in Post COVID-19 Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03537014",
+          "briefTitle": "A Multi-Site Phase 3 Study of MDMA-Assisted Psychotherapy for PTSD (MAPP1)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04101942",
+          "briefTitle": "An Internet-delivered Cognitive-behavioral Intervention Provided Soon After Trauma: a RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post Traumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04077437",
+          "briefTitle": "A Multi-Site Phase 3 Study of MDMA-Assisted Psychotherapy for PTSD (MAPP2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02640690",
+          "briefTitle": "Trauma-Sensitive Yoga for Female Veterans With PTSD Who Experienced Military Sexual Trauma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Disorders, Post-traumatic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 131,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02679157",
+          "briefTitle": "Prognostication of Need for Rehabilitation and Special Support in ICU Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Physical Disability", "Depression", "Posttraumatic Stress Disorder", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 573,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07185867",
+          "briefTitle": "Prevention of ANxiety and Depression Over Risk Assessment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Anxiety", "Prevention", "m-Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2595,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01797263",
+          "briefTitle": "Pain Outcomes Comparing Yoga Versus Structured Exercise (POYSE) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fibromyalgia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 256,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03652298",
+          "briefTitle": "Effects of a Neuroscience-based Technique on Cancer Patients Announced of a Palliative Disease Progression and Partners"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Bladder Cancer", "Prostate Cancer", "Kidney Cancer", "Advanced Sarcoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03056157",
+          "briefTitle": "Psychosocial Rehabilitation After Moral Injury and Loss With Adaptive Disclosure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post-traumatic Stress Disorder", "Moral Injury", "Traumatic Loss"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 174,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03511482",
+          "briefTitle": "Integrated Digitally Enhanced Care for Long-term Conditions- Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05173740",
+          "briefTitle": "Rehabilitation for Survivors of Out-of-hospital Cardiac Arrest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiac Arrest", "Heart Arrest", "Cardiopulmonary Resuscitation", "Return to Work", "Return-to-work", "Rehabilitation", "Recovery of Function", "Cardiac Rehabilitation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04846790",
+          "briefTitle": "The Effect of a Combined Nature-based and Virtual Mindfulness Intervention on Perceived Stress in Healthcare Workers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stress, Psychological", "Sleep Disturbance", "Burnout, Caregiver", "Posttraumatic Stress Disorder", "Anxiety", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01698242",
+          "briefTitle": "The Congestive Heart Failure Adherence Redesign Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure, Congestive", "Cardiovascular Diseases", "Heart Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01958593",
+          "briefTitle": "Randomized, Double-blind, Controlled of MDMA-assisted Psychotherapy in 12 Subjects With PTSD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-10-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03485287",
+          "briefTitle": "Study of Safety and Effects of MDMA-assisted Psychotherapy for Treatment of PTSD (Canada)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06378528",
+          "briefTitle": "Ketamine-assisted Psychotherapy for Adolescent PTSD (KAP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04570202",
+          "briefTitle": "Health cAre woRkers exposeD to COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Burnout, Professional", "Post Traumatic Stress Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 900,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05280691",
+          "briefTitle": "Family Support Intervention in Intensive Care Units"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postintensive Care Syndrome", "Family Members", "Quality of Life", "Depression, Anxiety", "Posttraumatic Stress Disorder", "Family Dynamics"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 885,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01000493",
+          "briefTitle": "Orvepitant (GW823296) in Adult Post Traumatic Stress Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post-Traumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06931639",
+          "briefTitle": "Suicide Preventive Psychosocial Treatment for Youths"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Suicide Attempt", "Suicidal and Self-injurious Behavior", "Suicide Attempted", "Suicide, Attempted"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 282,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05212714",
+          "briefTitle": "taVNS to Reduce PTSD Symptoms in WTC Responders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Disorders, Post-Traumatic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05941559",
+          "briefTitle": "EMDR for Persistent Pain in RA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatoid Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06905158",
+          "briefTitle": "Evaluation of a Non-invasive Tinnitus Device for the Management of Tinnitus Symptoms in Military Veterans"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tinnitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

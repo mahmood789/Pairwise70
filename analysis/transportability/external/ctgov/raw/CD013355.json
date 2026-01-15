@@ -1,0 +1,2013 @@
+{
+  "query": "neurological haemorrhage intraventricular arterial",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02147769",
+          "briefTitle": "Cerebral Oxygenation and Autoregulation in Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05"
+          },
+          "completionDateStruct": {
+            "date": "2018-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intraventricular Hemorrhage of Prematurity", "Complications of Prematurity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 111,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "24 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05827042",
+          "briefTitle": "Endovascular Thrombectomy Alone Versus Intravenous Thrombolysis Plus Thrombectomy on Acute Basilar Artery Occlusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Basilar Artery Occlusion", "Acute Cerebrovascular Accident", "Stroke Due to Basilar Artery Occlusion"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 338,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01605279",
+          "briefTitle": "Dobutamine Versus Placebo for Low Superior Vena Cava Flow in Newborns"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemodynamic Instability"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 127,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "12 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04780269",
+          "briefTitle": "Foley Catheter Versus PGE2 for Labor Induction at Term: a Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Labor Induction", "Induced Delivery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02326428",
+          "briefTitle": "SITS (Safe Implementation of Treatments in Stroke) Open Artery by Thrombectomy in Acute Occlusive Stroke Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 341,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02172703",
+          "briefTitle": "Non-invasive Brain Pressure Monitoring After Trauma or Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Traumatic Brain Injury (TBI)", "Subarachnoid Hemorrhage (SAH)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01616615",
+          "briefTitle": "Aspirin for the Enhancement of Trophoblastic Invasion in Women With Abnormal Uterine Artery Doppler at 11-14 Weeks of Gestation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Placental Insufficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01382862",
+          "briefTitle": "PHANTOM-S: The Pre-Hospital Acute Neurological Therapy and Optimization of Medical Care in Stroke Patients - Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 614,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04701684",
+          "briefTitle": "WE-TRUST (Workflow Optimization to Reduce Time to Endovascular Reperfusion for Ultra-fast Stroke Treatment)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stroke, Acute"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 594,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05047172",
+          "briefTitle": "Comparison of Anti-coagulation and Anti-Platelet Therapies for Intracranial Vascular Atherostenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracranial Arteriosclerosis", "Stroke"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1683,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02229630",
+          "briefTitle": "Diffusion-weighted Cerebral MRI and Intra Uterine Growth Restriction."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnant Women With Foetuses Presenting With Intra-uterine Growth Restriction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04298723",
+          "briefTitle": "Comparison of LAA-Closure vs Oral Anticoagulation in Patients With NVAF and Status Post Intracranial Bleeding."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracranial Hemorrhages", "Atrial Fibrillation (AF)", "Atrial Flutter"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 530,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01695070",
+          "briefTitle": "Melatonin to Prevent Brain Injury in Unborn Growth Restricted Babies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Retardation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "45 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02998905",
+          "briefTitle": "NOACs for Stroke Prevention in Patients With Atrial Fibrillation and Previous ICH"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation", "Intracerebral Hemorrhage"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01210729",
+          "briefTitle": "Mechanical Recanalization With Flow Restoration in Acute Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "85 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06399913",
+          "briefTitle": "Cerebral Computed Tomography on Patients With Minor Head Injuries"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Computed Tomography", "Minor Head Injuries"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 7106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03379714",
+          "briefTitle": "Mid-term Data Collection of the Treatment of Intracranial Aneurysms With the WEB™ Aneurysm Embolization System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ruptured and Unruptured Intracranial Aneurysms"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04240470",
+          "briefTitle": "Endovascular Stroke Treatment Only (ESTO) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "90 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00576693",
+          "briefTitle": "Stenting vs. Aggressive Medical Management for Preventing Recurrent Stroke in Intracranial Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 451,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06453252",
+          "briefTitle": "Predictors of Intracranial Atherosclerotic Disease in Posterior Circulation: a Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke, Ischemic", "Intracranial Atherosclerosis", "Posterior Circulation Brain Infarction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02605733",
+          "briefTitle": "The Neu-Prem Trial: Neuromonitoring of Preterm Newborn Brain During Birth Resuscitation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neurologic Manifestations", "Premature Birth", "Hypoxia-Ischemia, Brain"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "72 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05515744",
+          "briefTitle": "Study of Pregnancy And Neonatal Health (SPAN)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 304,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01876420",
+          "briefTitle": "The Medtronic CoreValve™ Evolut R™ CE Mark Clinical Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aortic Stenosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04948749",
+          "briefTitle": "Drug Eluting Stenting and Aggressive Medical Treatment for Preventing Recurrent Stroke in Intracranial Atherosclerotic Disease Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ICAD - Intracranial Atherosclerotic Disease", "ICAS - Intracranial Atherosclerosis", "Drug-eluting Stent", "Stroke", "Drug Eluting Stents (DES)", "Medical Treatment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 792,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "85 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01327989",
+          "briefTitle": "Solitaire FR Thrombectomy for Acute Revascularisation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stroke, Acute"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 202,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "84 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01054560",
+          "briefTitle": "SOLITAIRE™ FR With the Intention For Thrombectomy (SWIFT) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "85 Years",
+          "minimumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04304508",
+          "briefTitle": "Study to Gather Information About Proper Dosing and Safety of the Oral FXIa Inhibitor BAY 2433334 in Patients Following a Recent Non Cardioembolic Ischemic Stroke Which Occurs When a Blood Clot Has Formed Somewhere in the Human Body (But Not in the Heart) Travelled to the Brain."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Non-cardioembolic Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1808,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04445571",
+          "briefTitle": "Surfactant Administration by Insure or Thin Catheter"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["RDS of Prematurity", "Surfactant Deficiency Syndrome Neonatal", "Analgesia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "2 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06150586",
+          "briefTitle": "Pain Assessment During Less-Invasive-Surfactant-Administration"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant, Premature, Diseases", "Respiratory Distress Syndrome", "Surfactant Deficiency Syndrome Neonatal", "Pain", "Stress"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02920645",
+          "briefTitle": "Multicenter Validation of the AVICH Score"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracerebral Hemorrhage", "Arterio-venous Malformation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05720169",
+          "briefTitle": "Fetal, Obstetrics and Reproduction Genomics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Intrauterine Growth Restriction", "Placental Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04998370",
+          "briefTitle": "Cerebrospinal Fluid Hemoglobin to Monitor for Aneurysmal Subarachnoid Hemorrhage Related Secondary Brain Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Subarachnoid Hemorrhage, Aneurysmal", "Vasospasm", "Delayed Cerebral Ischemia", "Delayed Ischemic Neurological Deficit"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 366,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01819597",
+          "briefTitle": "Surgical Indirect Revascularization For Symptomatic Intracranial Arterial Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracranial Arterial Stenosis", "Intracranial Atherosclerosis", "Ischemic Stroke", "Cerebral Angiogenesis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05900674",
+          "briefTitle": "Endovascular Stroke Treatment And Reteplase Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "90 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00312728",
+          "briefTitle": "A Study of Bevacizumab in Combination With First- or Second-Line Therapy in Subjects With Treated Brain Metastases Due to Non-Squamous NSCLC (PASSPORT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non-Small Cell Lung Cancer", "Brain Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 115,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04167527",
+          "briefTitle": "Endovascular Therapy for Low NIHSS Ischemic Strokes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cerebral Ischemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 143,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04061577",
+          "briefTitle": "Transcranial Direct Current Stimulation as a Neuroprotection in Acute Stroke Before and After Thrombectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03815175",
+          "briefTitle": "XIENCE 28 USA Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bleeding Disorder", "Ischemic Stroke", "Hemorrhagic Stroke", "Hematological Diseases", "Thrombocytopenia", "Coagulation Disorder", "Anemia", "Renal Insufficiency", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1605,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "100 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04205305",
+          "briefTitle": "Outcome in Patients Treated with Intraarterial Thrombectomy - OptiMAL Blood Pressure Control (OPTIMAL-BP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 306,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04766866",
+          "briefTitle": "sFlt1/PlGF and Planned Delivery to Prevent Preeclampsia at Term."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Intrauterine Growth Restriction", "Maternal Hypertension", "Neonatal Outcome", "Perinatal Death"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02814383",
+          "briefTitle": "Prediction of Brain Injury in Premature Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intraventricular Hemorrhage", "Periventricular Leukomalacia", "Brain Injury", "Extreme Prematurity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "12 Hours",
+          "minimumAge": "0 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05606497",
+          "briefTitle": "OPtimal TIming of COrticosteroids in Early-onset Fetal Growth REstriction: the OPTICORE Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Retardation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05034861",
+          "briefTitle": "COmputerized CTG Self-MOnitoring Versus Standard Doppler Assessment in Late-onset FGR: COSMOS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Restriction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00579943",
+          "briefTitle": "Regulation of Cerebral Blood Flow in Very Low Birth Weight Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-05"
+          },
+          "completionDateStruct": {
+            "date": "2008-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant, Very Low Birth Weight", "Infant, Premature, Diseases", "Cerebral Hemorrhage"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "7 Days",
+          "minimumAge": "1 Hour"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01205776",
+          "briefTitle": "EXCEL Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Coronary Occlusion", "Unprotected Left Main Coronary Artery Disease", "Stent Thrombosis", "Vascular Disease", "Myocardial Ischemia", "Coronary Artery Stenosis", "Coronary Disease", "Coronary Artery Disease", "Coronary Restenosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1905,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00929383",
+          "briefTitle": "An International Registry of the Wingspan™ Stent System for the Treatment of Intracranial Atherosclerotic Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intracranial Atherosclerosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "41 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05217459",
+          "briefTitle": "The Efficacy and Safety of Intracranial Self-expanding DES in Symptomatic Intracranial Atherosclerotic Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracranial Arterial Diseases", "Stent Restenosis", "Percutaneous Transluminal Angioplasty"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05643573",
+          "briefTitle": "A Study to Learn How Well the Study Treatment Asundexian Works and How Safe it is Compared to Apixaban to Prevent Stroke or Systemic Embolism in People With Irregular and Often Rapid Heartbeat (Atrial Fibrillation), and at Risk for Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prevention of Stroke or Systemic Embolism", "Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14830,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05764122",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of BIIB131 for Participants With Ischemic Stroke Between 4.5 and 24 Hours After Last Known Well"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-29",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "85 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07168187",
+          "briefTitle": "The Effect of Reflexology on Time to Delivery During Induction of Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Reflexology", "Labor Induction", "Extra Amniotic Balloon"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07052045",
+          "briefTitle": "One-Stop manaGemEnT For A Swift Initiation of Endovascular Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke Acute", "Acute Ischemic Stroke AIS", "Hemorrhagic Stroke, Intracerebral"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 390,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01990612",
+          "briefTitle": "A Randomized Trial of Induction Versus Expectant Management"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor and Delivery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03218787",
+          "briefTitle": "XIENCE 90: A Safety Evaluation of 3-month DAPT After XIENCE Implantation for HBR Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Lesions"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2047,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01636453",
+          "briefTitle": "The Penumbra Liberty Trial: Safety and Effectiveness in the Treatment of Wide-Neck Intracranial Aneurysms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Wide-neck, Saccular Intracranial Aneurysms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06781385",
+          "briefTitle": "Intra-Arterial Tenecteplase Following Endovascular Thrombectomy for Large Vessel Occlusion Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05105633",
+          "briefTitle": "Extending the Time Window for Tenecteplase by Recanalization of Basilar Artery Occlusion in Posterior Circulation Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Basilar Artery Occlusion"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 688,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02034058",
+          "briefTitle": "Post Market Surveillance Study of the Wingspan Stent System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12"
+          },
+          "completionDateStruct": {
+            "date": "2019-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intracranial Atherosclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04291430",
+          "briefTitle": "Multi-dimensional Evaluation System for Recanalization of Symptomatic Non-acute Carotid Artery Occlusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carotid Artery Occlusion"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03865628",
+          "briefTitle": "Ultrasound Evaluation of Fetal Hemodynamics and Perinatal Complications"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intrauterine Growth Restriction", "Small-for-gestational Age"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02239120",
+          "briefTitle": "Dabigatran Etexilate for Secondary Stroke Prevention in Patients With Embolic Stroke of Undetermined Source (RE-SPECT ESUS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Secondary Prevention"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5390,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "150 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00811538",
+          "briefTitle": "Swiss Intravenous and Intra-arterial Thrombolysis for Treatment of Acute Ischemic Stroke Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1476,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06618222",
+          "briefTitle": "Wingspan Stent System for Intracranial Artery Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracranial Artery Stenosis", "Stent", "Endovascular Therapy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01891240",
+          "briefTitle": "IMproved PRegnancy Outcome by Early Detection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-eclampsia", "Pregnancy", "Pregnancy, High-risk", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03355742",
+          "briefTitle": "XIENCE 28 Global Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bleeding Disorder", "Stroke, Ischemic", "Stroke Hemorrhagic", "Hematological Disease", "Thrombocytopenia", "Coagulation Disorder", "Anemia", "Renal Insufficiency", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 963,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03187405",
+          "briefTitle": "Intraventricular Fibrinolysis for Aneurysmal Subarachnoid Hemorrhage."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Subarachnoid Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 81,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

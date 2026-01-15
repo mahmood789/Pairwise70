@@ -1,0 +1,353 @@
+{
+  "query": "implementation adjusting analysis behaviour",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03325478",
+          "briefTitle": "Qualitative Assessment of the Brief Contact Intervention \"Stay in Contact\" in Suicide Prevention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Suicide and Self-harm"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02945384",
+          "briefTitle": "Broader Implementation of a Successful Dual-Generation Intervention in Partnership With Head Start of Lane County"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2019-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "School Readiness"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07085663",
+          "briefTitle": "Exergame-assisted Simultaneous Motor-cognitive Training for Middle-aged Old Adults in China"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Subjective Cognitive Decline"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06341803",
+          "briefTitle": "Personalized Transcranial Magnetic Stimulation Treatment for Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07194083",
+          "briefTitle": "Effectiveness- Implementation Trial of the Function-Based Elopement Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05746234",
+          "briefTitle": "Emotion Regulation For All (ER4ALL) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Emotion Regulation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04585919",
+          "briefTitle": "Paired Promotion of Colorectal Cancer and Social Determinants of Health Screening"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Social Determinants of Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06097481",
+          "briefTitle": "Narrative Intervention for Chronic Illness- Heart Failure Trial (NICI-HF)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Heart Failure NYHA Class III", "Heart Failure NYHA Class IV"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06066541",
+          "briefTitle": "Social Norms, Messengers, and Processing Fluency to Increase Hypertension Medication Adherence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Medication Adherence", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65177,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04399616",
+          "briefTitle": "Map of Risks in Home Care From Primary Health Care, an Approach From Health Care Quality."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Community Health Services"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05044962",
+          "briefTitle": "Kuwa Free! - Live Free!"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Contraception", "Drug-drug Interaction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years"
+        }
+      }
+    ]
+  }
+}

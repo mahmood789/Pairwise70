@@ -1,0 +1,733 @@
+{
+  "query": "rheumatic adverse cause fever",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03926156",
+          "briefTitle": "RIvoraxaban in Mitral Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mitral Stenosis", "Rheumatic Heart Disease", "Atrial Fibrillation", "Anticoagulant Adverse Reaction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06097585",
+          "briefTitle": "Gliflozins on HF in Regurgitant Rheumatic Heart"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rheumatic Heart Disease", "Heart Failure"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06371222",
+          "briefTitle": "Role of Ivabradine on Heart Rate and Quality of Life in Patients With Mitral Stenosis in Sinus Rhythm"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mitral Stenosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "17 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05200715",
+          "briefTitle": "AutoInflammatory Disease Alliance Registry (AIDA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-08-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hereditary Autoinflammatory Diseases", "Schnitzler Syndrome", "Behcet Syndrome", "PFAPA Syndrome", "Still Disease", "Autoinflammatory Syndrome, Unspecified", "Uveitis", "Scleritis", "Vexas Syndrome", "Spondyloarthritis (SpA)", "Castleman Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06653686",
+          "briefTitle": "Study on the Efficacy and Safety of Thermotherapy in the Treatment of Refractory Gout"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Refractory Gout"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06952374",
+          "briefTitle": "Treating Severe Mitral Valve Annular or Valvular Calcification Using Shockwave Balloon SMARTWAVE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mitral Annulus Calcification", "Rheumatic Heart Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05618223",
+          "briefTitle": "Dapagliflozin Effect on Rheumatic Mitral Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rheumatic Heart Disease", "Heart Failure", "Mitral Stenosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05507619",
+          "briefTitle": "Heat and Acupuncture Randomised Controlled Trial to Manage Osteoarthritis of the Knee"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-17",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis, Knee"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 173,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03991910",
+          "briefTitle": "The Effect of Ramipril in Suppressing ST2 Expression in Rheumatic Mitral Stenosis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rheumatic Heart Disease", "Mitral Stenosis", "Rheumatic Mitral Stenosis", "Fibrosis; Heart", "ACE Inhibitor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07281456",
+          "briefTitle": "Safety of Tofacitinib, an Oral Janus Kinase Inhibitor, in Primary Sjogren Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sjogren's Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05609630",
+          "briefTitle": "Study of Oral Upadacitinib and Subcutaneous/Intravenous Tocilizumab to Evaluate Change in Disease Activity, Adverse Events and How Drug Moves Through the Body of Pediatric and Adolescent Participants With Active Systemic Juvenile Idiopathic Arthritis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopathic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01465477",
+          "briefTitle": "Influenza Vaccination in Fibromyalgia Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fibromyalgia Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02398435",
+          "briefTitle": "Therapeutic Use of Tadekinig Alfa in Adult-onset Still's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Still's Disease, Adult-Onset"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05682196",
+          "briefTitle": "Rituximab in Patients With Acute Rheumatic Fever"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatic Heart Disease in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 234,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01421069",
+          "briefTitle": "Extension Study Evaluating Etanercept in 3 Subtypes of Childhood Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopahtic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 109,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07098455",
+          "briefTitle": "Comparative Effectiveness of Genicular Nerve Radiofrequency Thermocoagulation and Intra-Articular Pulsed Radiofrequency in the Management of Knee Osteoarthritis Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-21",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Knee Osteoarthristis", "Radiofrequency Ablation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04392128",
+          "briefTitle": "Study Evaluating the Efficacy of Hydroxychloroquine and Azithromycine in Patients With COVID-19 and Hematological Malignancies (HYACINTHE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID19", "Hematologic Malignancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03843125",
+          "briefTitle": "A Study of Baricitinib in Participants With Systemic Lupus Erythematosus (SLE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systemic Lupus Erythematosus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1147,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06431750",
+          "briefTitle": "Prospective Observational Study to Evaluate Secukinumab Treatment Effectiveness in Pediatric Patients With Active Juvenile Enthesitis-related or Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopathic Arthritis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06967363",
+          "briefTitle": "Multimodal Imaging and Biospecimen Collection for Low Back Pain (LBPB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Low Back Pain (CLBP)", "Acute Low Back Pain", "Low Back Pain", "Chronic Pain", "Acute Pain", "Mental Disorders", "Sleep Disorder", "Fibromyalgia (FM)", "Nociplastic Pain", "Neuropathic Pain", "Nonspecific Low Back Pain"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07126145",
+          "briefTitle": "Clinical Autoinflammatory Disease Cohort"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2035-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Still Disease", "Autoinflammatory Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05352919",
+          "briefTitle": "An Extension Study to Learn More About the Long-Term Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-03-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systemic Lupus Erythematosus (SLE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 864,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02334748",
+          "briefTitle": "A Study of Canakinumab in Patients With Systemic Juvenile Idiopathic Arthritis or Hereditary Periodic Fevers Who Participated in the CACZ885G2301E1, CACZ885G2306 or CACZ885N2301 Studies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Systemic Juvenile Idiopathic Arthritis", "Hereditary Periodic Fevers"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "20 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2217 @@
+{
+  "query": "problems behaviour aggression agitation",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00420004",
+          "briefTitle": "A Study for Participants With Major Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-12"
+          },
+          "completionDateStruct": {
+            "date": "2008-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 469,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00485849",
+          "briefTitle": "A Study of Atomoxetine for Attention Deficit and Hyperactive/Impulsive Behaviour Problems in Children With ASD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-02"
+          },
+          "completionDateStruct": {
+            "date": "2004-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03088956",
+          "briefTitle": "Cognitive, Behavioral, and Functional Change in Behavioral Variant Frontotemporal Dementia (bvFTD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Frontotemporal Dementia", "Behavioral Variant Frontotemporal Dementia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03447444",
+          "briefTitle": "Music and Physical Activity in Persons With Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-02-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia Frontal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02351882",
+          "briefTitle": "Safety and Efficacy of Nabilone in Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer Disease", "Agitation", "Weight Loss", "Pain", "Oxidative Stress"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06747650",
+          "briefTitle": "Dialectical Behavior Therapy for Adolescents with Fetal Alcohol Spectrum Disorders Feasibility Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Alcohol Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05974241",
+          "briefTitle": "Irritability in Children With ADHD and Emotion Dysregulation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Irritable Mood", "ADHD"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07099651",
+          "briefTitle": "Autosomal Dominant Spinocerebellar Ataxias and Social Cognition"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autosomal Dominant Spinocerebellar Ataxia (SCA1, 2,3,6,7,27B)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00895895",
+          "briefTitle": "Study Comparing 3 Dosage Levels Of SAM-531 In Outpatients With Mild To Moderate Alzheimer Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 526,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06781333",
+          "briefTitle": "Human Mesenchymal Stem Cells (hMSC) in Behavioral Problems Due to Alzheimer's Disease."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer Disease", "Agitation in Dementia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03577717",
+          "briefTitle": "Efficacy of Computerized Cognitive Training in the Elderly With Mild Cognitive Impairment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mild Cognitive Impairment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04949984",
+          "briefTitle": "Bright Light Therapy in Older Adults With Moderate to Very Severe Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Mood", "Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00992407",
+          "briefTitle": "An Efficacy and Safety Study of Long Acting Injectable Risperidone and Oral Risperidone in Participants With Schizophrenia or Schizoaffective Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03818217",
+          "briefTitle": "Effects of a Robot on Physical and Psychosocial Outcomes of Persons With Dementia and Their Social Environment at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04263337",
+          "briefTitle": "NFL LONG Prospective Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Concussion, Brain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "50 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01901263",
+          "briefTitle": "Patients With Behavioural Symptoms and Hospitalized in Cognitive and Behavioural Units"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 306,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02367521",
+          "briefTitle": "Repetitive Transcranial Magnetic Stimulation (rTMS) for the Treatment of Depression & Other Neuropsychiatric Symptoms After Traumatic Brain Injury (TBI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "TBI Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02126787",
+          "briefTitle": "Short-term, Intensive Psychodynamic Group Therapy Versus Cognitive-behavioral Group Therapy in the Day Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anxiety Disorders", "Depressive Disorders", "Personality Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 123,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04146688",
+          "briefTitle": "Nonverbal Communication in Aged People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01121536",
+          "briefTitle": "Extension Study of the Safety and Efficacy of Armodafinil Treatment as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 867,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00308074",
+          "briefTitle": "An Open-Label Trial of Aripiprazole in Autism Spectrum Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autism", "Asperger's Disorder", "Pervasive Developmental Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01305408",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of Armodafinil Treatment (150 mg/Day) as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 399,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01855152",
+          "briefTitle": "Improving Well-being and Health for People With Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01010776",
+          "briefTitle": "A Study to Evaluate Participants Satisfaction, Quality of Life and Effectiveness of Flexible-Dose of Paliperidone Extended Release (ER) in Participants With Schizophrenia, Previously Treated With Risperidone"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 223,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03611075",
+          "briefTitle": "A Study to Evaluate Scales for Repetitive and Restricted Behaviors in Children, Adolescents, and Adults With Autism Spectrum Disorder (ASD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06631742",
+          "briefTitle": "Exergaming Revolution in Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Major Neurocognitive Disorder", "Alzheimer Disease", "Parkinson Disease", "Lewy Body Dementia", "Mixed Dementias"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06544616",
+          "briefTitle": "A Study of JNJ-64042056 in Participants With Preclinical Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2034-06-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preclinical Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 498,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06346223",
+          "briefTitle": "Mindfulness-Based Intervention for Family Caregivers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Caregiving Stress"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00665223",
+          "briefTitle": "A Study of Treatment With Pridopidine (ACR16) in Participants With Huntington's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Huntington's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 437,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06348810",
+          "briefTitle": "Dual-Task Training for People With Mild Cognitive Impairment and Mild Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Mild Cognitive Impairment", "Older Adult"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06164210",
+          "briefTitle": "Effect of Snoezelen-Based Occupational Therapy Intervention on Sleep and Behavior Problems in Infant at Risk of Autism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autism Spectrum Disorder", "Sleep Disorder", "Behavior Problem"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00604591",
+          "briefTitle": "Effects of Tolcapone on Frontotemporal Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Frontotemporal Lobar Degeneration"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02478788",
+          "briefTitle": "Neuroimaging Study of Risk Factors for Adolescent Bipolar Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05131789",
+          "briefTitle": "Establishment and Application of Dementia Case Management Information System: A Preliminary Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03247205",
+          "briefTitle": "Hip Fracture Exercise and Rehabilitation Post Hip Fracture Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hip Fractures", "Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02667951",
+          "briefTitle": "A Home-based Training Program for Elderly Patients With Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 129,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07091279",
+          "briefTitle": "Propranolol for Aggression, Self-Injury, and Severe Disruptive Behavior in Adolescents and Adults With Autism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-22",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autism Spectrum Disorder", "Challenging Behaviour", "Aggression", "Severe Disruptive Behaviour Disorders", "Self-injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01072929",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Armodafinil Treatment as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2012-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 433,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04054349",
+          "briefTitle": "The Effect of the Low Fodmap Diet in Children With Autism Spectrum Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05247047",
+          "briefTitle": "The Effect of the TENA SmartCare Change Indicator on Care Efficiency and Skin Health in Long Term Care Facilities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04846608",
+          "briefTitle": "Descriptive Study of Emergency Room Visits From Nursing Home Residents for Behavioral Problems at the Nancy University Hospital: Place of the Advanced Practice Nurse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Behavioral Disorders"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 4000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02715440",
+          "briefTitle": "Stopping Benzodiazepines and Related Molecules Among Elderly Living in Residential Institutions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Elderly", "Drug Therapy Syndrome", "Substance-Related Disorders", "Substance Withdrawal Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 116,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04149197",
+          "briefTitle": "Down Syndrome Clinical Trials - Study of Alzheimer's Disease in Down Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease in Down Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00912288",
+          "briefTitle": "A Phase 3 Efficacy Study Of Dimebon In Patients With Moderate To Severe Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {
+            "date": "2010-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02903030",
+          "briefTitle": "Probiotics for Quality of Life in Autism Spectrum Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autism Spectrum Disorders", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01072630",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of Armodafinil Treatment as Adjunctive Therapy in Adults With Major Depression Associated With Bipolar I Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 492,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05820360",
+          "briefTitle": "Cognitive Model for Behavioral Interventions as a Personalized Intervention for Patients With Serious Mental Illness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psychiatric Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02380703",
+          "briefTitle": "Aggression Prevention Training for Caregivers of Persons With Dementia (APT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Pain", "Alzheimer's Disease", "Aggression", "Depression", "Interpersonal Relations"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 239,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03594851",
+          "briefTitle": "Evaluation of the Benefits of Individualized Advice Administration on Quality of Sleep for the Elderly Living at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Disorder", "Complaint, Subjective Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06538116",
+          "briefTitle": "A Study of Mevidalen (LY3154207) in Participants With Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05924425",
+          "briefTitle": "Daridorexant to Treat Insomnia in Patients With Mild Cognitive Impairment and Mild to Moderate Alzheimer Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer Disease", "Insomnia Disorder", "Sleep"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05151185",
+          "briefTitle": "Establishment of Core Competence and Training Model for Dementia Case Management"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00545974",
+          "briefTitle": "Memantine (10mg BID) for the Frontal and Temporal Subtypes of Frontotemporal Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Frontal Lobe Dementia", "Frontotemporal Lobe Dementia", "Semantic Dementia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 81,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05617014",
+          "briefTitle": "Alzheimer's Disease Neuroimaging Initiative 4"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mild Cognitive Impairment", "Alzheimer Disease", "Dementia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01325714",
+          "briefTitle": "Preventing Aggression in Veterans With Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Aggression", "Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 203,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03333837",
+          "briefTitle": "Improvisational Movement for People With Memory Loss and Their Caregivers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer's Disease (Incl Subtypes)", "Dementia", "Mild Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05723172",
+          "briefTitle": "40Hz tACS in Treating Cognitive Function and Modulating Neurophysiology of Patients With Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03698240",
+          "briefTitle": "Mindfulness-based Program for Children With Disruptive Behavior Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Disruptive Behavior Disorder", "Oppositional Defiant Disorder", "Attention Deficit and Disruptive Behavior Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "8 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03484143",
+          "briefTitle": "Neuro RX Gamma - Pivotal Phase"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 228,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06514573",
+          "briefTitle": "Butyrate Supplementation in Children With Autism Spectrum Disorder (ASD) and Functional Gastrointestinal Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder (ASD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03147222",
+          "briefTitle": "Function Focused Care: Fracture Care at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fractures, Bone", "Dementia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03434457",
+          "briefTitle": "Maternal Adversity, Vulnerability and Neurodevelopment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mental Health Issue (E.G., Depression, Psychosis, Personality Disorder, Substance Abuse)", "Infant Development", "Infant Behavior"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 630,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02446132",
+          "briefTitle": "Long Term, Extension Study of the Safety and Efficacy of AVP-786 for the Treatment of Agitation in Patients With Dementia of the Alzheimer's Type"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Agitation in Patients With Dementia of the Alzheimer's Type"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1197,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01066546",
+          "briefTitle": "An Extension To The B1451006 Protocol To Evaluate The Safety and Efficacy of Dimebon In Subjects With Moderate-to-Severe Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2010-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04610281",
+          "briefTitle": "The Inner Garden and Care for Children With Moderate to Severe Agitation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Child Behavior Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 63,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07178678",
+          "briefTitle": "Evaluation of the Safety and Efficacy of NeuroEPO in Subjects With Mild to Moderate Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mild Alzheimer&#39;s Disease", "Moderate Alzheimer&#39;s Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06323616",
+          "briefTitle": "The Effect of Anesthesia Depth Monitoring on Emergence Delirium in Pediatrics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anesthesia", "Emergence Delirium", "Anesthesia Awareness", "Behavior Child Problems", "Postoperative Delirium", "Postoperative Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03736057",
+          "briefTitle": "Genetic Evaluation for Medication Selection (GEMS) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Psychiatric Disorders Mood", "Behavior Disorders"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02216396",
+          "briefTitle": "A Naturalistic Two-year Cohort Study of Agitation and Quality of Life in Care Homes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Agitation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1734,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04036955",
+          "briefTitle": "Evaluation of an Innovative Information, Training and Social Support Intervention \"INFOSADEM\" to Principal Caregivers of Dementia Patients Living at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03581526",
+          "briefTitle": "Mood Change After General Anesthesia in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anesthesia, General", "Psychology, Child", "Child Behavior"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "7 Years"
+        }
+      }
+    ]
+  }
+}

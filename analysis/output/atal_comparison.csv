@@ -1,0 +1,9 @@
+Aspect,Atal_2019,MAFI
+Definition,Minimum event modifications to change significance,Leave-one-out sensitivity across dimensions
+Outcome Types,Binary outcomes only,Any outcome type
+Sample Size,906 Cochrane MAs,"4,424 Cochrane MAs"
+Method,Iterative event reassignment,Leave-one-out analysis
+Output,Single count (FI),Composite 0-1 score
+Threshold,FI ≤ 5 = fragile,4-level classification
+Heterogeneity,Not incorporated,Penalty term included
+Risk Prediction,Not provided,AUC 0.69-0.84

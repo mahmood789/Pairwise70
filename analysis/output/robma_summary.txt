@@ -1,0 +1,150 @@
+RoBMA summary for pre-2005 analyses
+
+
+== log_ratio_pre ==
+Analyses used: 1832
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Estimates:
+               mu               tau    omega[0,0.025] omega[0.025,0.05] 
+     4.140248e-05      6.851382e-02      1.000000e+00      9.997893e-01 
+  omega[0.05,0.5]   omega[0.5,0.95] omega[0.95,0.975]    omega[0.975,1] 
+     9.991798e-01      9.960130e-01      9.960130e-01      9.960664e-01 
+              PET             PEESE 
+     1.969735e-04      2.355313e-05 
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Robust Bayesian meta-analysis
+Components summary:
+              Models Prior prob. Post. prob. Inclusion BF
+Effect         18/36       0.500       0.010        0.010
+Heterogeneity  18/36       0.500       1.000  1202732.179
+Bias           32/36       0.500       0.042        0.044
+
+Model-averaged estimates:
+                   Mean Median 0.025 0.975
+mu                0.000  0.000 0.000 0.000
+tau               0.069  0.068 0.050 0.088
+omega[0,0.025]    1.000  1.000 1.000 1.000
+omega[0.025,0.05] 1.000  1.000 1.000 1.000
+omega[0.05,0.5]   0.999  1.000 0.994 1.000
+omega[0.5,0.95]   0.996  1.000 0.912 1.000
+omega[0.95,0.975] 0.996  1.000 0.912 1.000
+omega[0.975,1]    0.996  1.000 0.912 1.000
+PET               0.000  0.000 0.000 0.000
+PEESE             0.000  0.000 0.000 0.000
+The estimates are summarized on the none scale (priors were specified on the none scale).
+(Estimated publication weights omega correspond to one-sided p-values.)
+
+== log_ratio_year ==
+Analyses used: 4178
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Estimates:
+               mu               tau    omega[0,0.025] omega[0.025,0.05] 
+    -2.181866e-07      8.432054e-03      1.000000e+00      9.999962e-01 
+  omega[0.05,0.5]   omega[0.5,0.95] omega[0.95,0.975]    omega[0.975,1] 
+     9.999908e-01      9.999846e-01      9.999846e-01      9.999885e-01 
+              PET             PEESE 
+     3.351633e-05      6.731294e-04 
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Robust Bayesian meta-analysis
+Components summary:
+              Models Prior prob. Post. prob. Inclusion BF
+Effect         18/36       0.500       0.001        0.001
+Heterogeneity  18/36       0.500       0.992      118.703
+Bias           32/36       0.500       0.010        0.011
+
+Model-averaged estimates:
+                   Mean Median 0.025 0.975
+mu                0.000  0.000 0.000 0.000
+tau               0.008  0.008 0.007 0.010
+omega[0,0.025]    1.000  1.000 1.000 1.000
+omega[0.025,0.05] 1.000  1.000 1.000 1.000
+omega[0.05,0.5]   1.000  1.000 1.000 1.000
+omega[0.5,0.95]   1.000  1.000 1.000 1.000
+omega[0.95,0.975] 1.000  1.000 1.000 1.000
+omega[0.975,1]    1.000  1.000 1.000 1.000
+PET               0.000  0.000 0.000 0.000
+PEESE             0.001  0.000 0.000 0.000
+The estimates are summarized on the none scale (priors were specified on the none scale).
+(Estimated publication weights omega correspond to one-sided p-values.)
+
+== mean_diff_pre ==
+Analyses used: 46
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Estimates:
+               mu               tau    omega[0,0.025] omega[0.025,0.05] 
+     -0.020218263       0.005957277       1.000000000       0.926334604 
+  omega[0.05,0.5]   omega[0.5,0.95] omega[0.95,0.975]    omega[0.975,1] 
+      0.212401481       0.205952936       0.206579145       0.206855415 
+              PET             PEESE 
+      0.005395104       0.000000000 
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Robust Bayesian meta-analysis
+Components summary:
+              Models Prior prob. Post. prob. Inclusion BF
+Effect         18/36       0.500       0.242        0.319
+Heterogeneity  18/36       0.500       0.088        0.096
+Bias           32/36       0.500       0.997      344.760
+
+Model-averaged estimates:
+                    Mean Median  0.025 0.975
+mu                -0.020  0.000 -0.138 0.000
+tau                0.006  0.000  0.000 0.077
+omega[0,0.025]     1.000  1.000  1.000 1.000
+omega[0.025,0.05]  0.926  1.000  0.518 1.000
+omega[0.05,0.5]    0.212  0.185  0.087 0.487
+omega[0.5,0.95]    0.206  0.180  0.084 0.459
+omega[0.95,0.975]  0.207  0.180  0.084 0.464
+omega[0.975,1]     0.207  0.180  0.084 0.465
+PET                0.005  0.000  0.000 0.000
+PEESE              0.000  0.000  0.000 0.000
+The estimates are summarized on the none scale (priors were specified on the none scale).
+(Estimated publication weights omega correspond to one-sided p-values.)
+
+== mean_diff_year ==
+Analyses used: 117
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Estimates:
+               mu               tau    omega[0,0.025] omega[0.025,0.05] 
+     1.294096e-07      0.000000e+00      1.000000e+00      9.885563e-01 
+  omega[0.05,0.5]   omega[0.5,0.95] omega[0.95,0.975]    omega[0.975,1] 
+     9.760614e-01      9.747238e-01      9.764210e-01      9.842163e-01 
+              PET             PEESE 
+     1.005236e-03      1.204219e-04 
+Call:
+RoBMA(y = df_use[[target$slope_col]], se = df_use[[target$se_col]])
+
+Robust Bayesian meta-analysis
+Components summary:
+              Models Prior prob. Post. prob. Inclusion BF
+Effect         18/36       0.500       0.001        0.001
+Heterogeneity  18/36       0.500       0.000        0.000
+Bias           32/36       0.500       0.116        0.131
+
+Model-averaged estimates:
+                   Mean Median 0.025 0.975
+mu                0.000  0.000 0.000 0.000
+tau               0.000  0.000 0.000 0.000
+omega[0,0.025]    1.000  1.000 1.000 1.000
+omega[0.025,0.05] 0.989  1.000 0.802 1.000
+omega[0.05,0.5]   0.976  1.000 0.657 1.000
+omega[0.5,0.95]   0.975  1.000 0.636 1.000
+omega[0.95,0.975] 0.976  1.000 0.655 1.000
+omega[0.975,1]    0.984  1.000 0.709 1.000
+PET               0.001  0.000 0.000 0.000
+PEESE             0.000  0.000 0.000 0.000
+The estimates are summarized on the none scale (priors were specified on the none scale).
+(Estimated publication weights omega correspond to one-sided p-values.)

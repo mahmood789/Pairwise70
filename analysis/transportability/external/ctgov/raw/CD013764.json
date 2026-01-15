@@ -1,0 +1,756 @@
+{
+  "query": "pregnancy abortion adherence blood",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06445946",
+          "briefTitle": "DECIDE: A Comparative Effectiveness Trial of Metformin Versus Insulin for the Treatment of Gestational Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus", "Pregnancy, High Risk"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1572,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01061151",
+          "briefTitle": "Evaluating Strategies to Reduce Mother-to-Child Transmission of HIV Infection in Resource-Limited Countries"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3747,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04604990",
+          "briefTitle": "National Systemic Lupus Erythematosus Prospective Cohort, Saudi Arabia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2050-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "SLE (Systemic Lupus)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03746028",
+          "briefTitle": "The Lupus prEGnAnCY Cohort: An International Prospective Cohort of Lupus Pregnancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Systemic Lupus Erythematosus", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03858595",
+          "briefTitle": "Optimizing Gestational Weight Gain, Birth Weight and Other Perinatal Outcomes Among Pregnant Women at Risk of Hypertension in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension, Pregnancy-Induced", "Hypertension, Essential Hypertension", "Hypertension; Pre-Eclampsia", "Hypertension in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06915428",
+          "briefTitle": "Personalized Care for Prenatal Stress Reduction & Prevention of Preterm Birth (PTB) Disparities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth Complication", "Preterm Birth", "Preterm Birth Recurrence", "Preeclampsia", "Preeclampsia (PE)", "Hypertensive Disorders of Pregnancy", "Support Program", "Stress", "Resilience, Psychological", "Empowerment, Patient", "Emotional Stress", "Pregnancy", "Pregnancy Complications", "Pregnancy Induced Hypertension", "Neonates and Preterm Infants", "Cervical Insufficiency", "Social Determinants of Health (SDOH)", "Cervical Shortening", "Disparities in Pregnancy Complications", "Disparities", "Prenatal Care", "Care Coordination"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1228,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03893136",
+          "briefTitle": "The Registry Study of Takayasu Arteritis in East China"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Takayasu Arteritis", "Mechanisms, Defense", "Pregnancy Related", "Treatment Refusal", "Outcome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05057858",
+          "briefTitle": "The Women TDF-FTC Benchmark Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05216952",
+          "briefTitle": "Ulipristal Acetate for Use in Early Pregnancy Loss"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Missed Abortion", "Anembryonic Pregnancy", "Non-Viable Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03386578",
+          "briefTitle": "Evaluating the Pharmacokinetics, Feasibility, Acceptability, and Safety of Oral Pre-Exposure Prophylaxis for HIV Prevention During Pregnancy and Postpartum"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 780,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04845230",
+          "briefTitle": "Fresh RX: NHS 2020"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Premature Birth", "Birth Weight", "Post Partum Depression", "Health Care Utilization", "Nutrition Deficiency Due to Insufficient Food", "Housing Problems", "Fetal Complications", "Food Deprivation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "14 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01494038",
+          "briefTitle": "Evaluating the Safety of Immediate Versus Deferred Isoniazid Preventive Therapy Among HIV-Infected Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Tuberculosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 956,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06885125",
+          "briefTitle": "Dietary Intervention to Improve Fertility in Women With Endometriosis Undergoing IVF"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Endometriosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 438,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "39 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06079918",
+          "briefTitle": "Multiple Micronutrient Supplementation for Maternal Anemia Prevention in Tanzania"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Related"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6381,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01943279",
+          "briefTitle": "Comparison of Telephone Follow-up With In-person Follow-up After Medical Abortion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medical; Abortion, Fetus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 139,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00625404",
+          "briefTitle": "FEM-PrEP (Truvada®): Study to Assess the Role of Truvada® in Preventing HIV Acquisition in Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06628453",
+          "briefTitle": "CGM for Management of Type 2 Diabetes in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes Mellitus (T2DM)", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 564,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06605053",
+          "briefTitle": "Optimizing Prevention and Care for Pregnant and Postpartum Adolescent Girls and Young Women With HIV in Tanzania"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Antiretroviral Therapy (ART) Adherence", "PMTCT", "Pregnancy", "Retention in Care", "HIV Viremia", "Early Infant HIV Diagnosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 222,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03610178",
+          "briefTitle": "Genetic and Epigenetic Mechanisms of Developing Gestational Diabetes Mellitus and Its Effects on the Fetus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 850,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05207059",
+          "briefTitle": "Healthy Early Life Moments in Singapore"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolic Disease", "Mental Health Wellness 1", "Lifestyle Risk Reduction", "Maternal Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03362918",
+          "briefTitle": "Polycystic Ovary Syndrome and Exercise"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Polycystic Ovary Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07021430",
+          "briefTitle": "Focal Mass Drug Administration for the Prevention of Malaria in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria Prevention"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05358509",
+          "briefTitle": "Reducing Anemia in Pregnancy in India: the RAPIDIRON Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Iron Deficiency Anemia", "Infant, Low Birth Weight", "Anemia of Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4368,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06774404",
+          "briefTitle": "Flash Glucose Monitoring Targets in Gestational Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes Mellitus (GDM)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 205,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      }
+    ]
+  }
+}

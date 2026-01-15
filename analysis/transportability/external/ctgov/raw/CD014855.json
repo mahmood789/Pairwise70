@@ -1,0 +1,3424 @@
+{
+  "query": "hospital abscess costs infection",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04253899",
+          "briefTitle": "The Management of Perforated Acute Appendicitis in Adult and Pediatric Populations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perforated Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02594137",
+          "briefTitle": "A Comparison Between Two Techniques for Performing Decompressive Craniectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Edema", "Craniocerebral Trauma", "Infarction, Middle Cerebral Artery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02922686",
+          "briefTitle": "Penicillin for the Emergency Department Outpatient Treatment of CELLulitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cellulitis", "Wound Infection", "Abscess"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 414,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06988280",
+          "briefTitle": "Ultrasound-guided Transvaginal Aspiration of Cystic Pelvic Lesions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pelvic Abscess", "Adnexal Cyst", "Ovarian Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06587646",
+          "briefTitle": "VirtuAl Technology to Improve the Management of Perianal Crohn&#39;s (VAMP) - PROSPECTIVE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perianal Crohns Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01068288",
+          "briefTitle": "Perforated Appendicitis With Delayed Presentation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03277313",
+          "briefTitle": "Efficacy, Safety, Tolerability, Immunogenicity and Pharmacokinetic Evaluation of HYQVIA in Pediatric PIDD Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Primary Immunodeficiency Diseases (PID)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04033211",
+          "briefTitle": "NOVOsyn® for Trocar Incision After Laparoscopic Appendectomy and Cholecystectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Appendicitis", "Cholecystitis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 316,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04803422",
+          "briefTitle": "Per Oral Versus Intravenous Postoperative Antibiotics After Surgery for Complicated Appendicitis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complicated Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3193,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07303829",
+          "briefTitle": "Laparoscopic Approach to Pyogenic Liver Abscess"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Abscess, Pyogenic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01495962",
+          "briefTitle": "The Biomechanical Effects of Flaccid Paralysis Induced by Botulinum Toxin a After Damage Control Laparotomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Wound; Abdomen, Abdominal Wall"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04924868",
+          "briefTitle": "Ursodeoxycolic Acid for the Prevention of Relapsing Complications After Gallstone Acute Pancreatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Pancreatitis Due to Gallstones"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 332,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02102217",
+          "briefTitle": "the PRECious Trial: PREdiction of Complications"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12"
+          },
+          "completionDateStruct": {
+            "date": "2020-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Complications"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 525,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06092151",
+          "briefTitle": "SDF for the Management of Dental Caries in Children in Primary Dental Care: Protocol for a Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Caries in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02794831",
+          "briefTitle": "Exposure to NSAIDs (Non Steroidal Anti-Inflammatory Drugs) and Severity of Community-acquired Bacterial Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-04-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bacterial Infection"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 335,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03147768",
+          "briefTitle": "Laser Tissue Welding - Distal Pancreatectomy Sealing Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pancreatic Tumor, Benign", "Pancreatic Neoplasms", "Pancreatic Adenocarcinoma", "Pancreatic Pseudocyst", "Pancreatic Neuroendocrine Tumor", "Pancreas; Insulinoma", "Pancreatic Cyst", "Pancreatic Teratoma", "Pancreatic Polypeptide Tumor", "Pancreatic Vipoma", "Pancreatic Cystadenoma", "Pancreas Injury", "Pancreatic Gastrinoma", "Pancreatic Glucagonoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03169114",
+          "briefTitle": "Raja Isteri Pengiran Anak Saleha Appendicitis Treatment Without Operation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Appendicitis", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 81,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01471743",
+          "briefTitle": "GI Surgery Pre-Operative Nutrition"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Immunonutrition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01723150",
+          "briefTitle": "Antibiotics for Klebsiella Liver Abscess Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Abscess, Pyogenic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06647290",
+          "briefTitle": "ENVELOP: Wound Care Following Pilonidal Sinus Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-27",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pilonidal Sinus", "Wound Healing"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05920122",
+          "briefTitle": "Aqueous vs Alcohol Chlorhexidine Skin Preparation for Prevention of Cesarean Section Wound Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Surgical Site Infection", "Cesarean Section; Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1470,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04042259",
+          "briefTitle": "Delayed Primary Closure Using Negative Pressure Wound Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infection Abdominal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03431402",
+          "briefTitle": "Effects of Repetitive Hyperbaric Oxygen Therapy in Patients With Acute Ischaemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06794151",
+          "briefTitle": "Endoscopic Rubber Band Ligation and Milligan-Morgan Hemorrhoidectomy for the Treatment of Grade II-III Internal Hemorrhoids: a Multicenter, Non-randomized Controlled Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemorrhoid"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 548,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00746109",
+          "briefTitle": "Study of Wound Packing After Superficial Skin Abscess Drainage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-09"
+          },
+          "completionDateStruct": {
+            "date": "2010-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Abscess", "Skin Diseases, Infectious", "Boils", "Furuncle", "Carbuncle", "Folliculitis", "Cellulitis", "Wounds"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02248519",
+          "briefTitle": "Laparoscopic Versus Open Gastrectomy for Gastric Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastric Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06391385",
+          "briefTitle": "The Effects of Temporary Ileostomy on Outcome in Patients With Rectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04793152",
+          "briefTitle": "Vancomycin Dosing for Serious MRSA Infections: A Non-inferiority Randomized Trial of Trough Level Versus AUC/MIC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "MRSA"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02916134",
+          "briefTitle": "Conservative Versus Operative ManageMent of Acute Uncomplicated Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 186,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06633133",
+          "briefTitle": "Virtual Ileostomy Versus Diverting Ileostomy in Patients Undergoing Total Mesorectal Excision"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 620,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05463406",
+          "briefTitle": "Procalcitonin and Lung Ultrasonography Guided Antibiotherapy in Emergency Departments"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lower Respiratory Tract Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03960970",
+          "briefTitle": "Two-drug Antibiotic Prophylaxis in Scheduled Cesarean Deliveries"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Endometritis", "Cesarean Section; Infection", "Wound Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03306290",
+          "briefTitle": "Serum Concentration of CEFOxitin Used for Antibiotic Prophylaxis in Obese Patients Undergoing BARiatric Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obese", "Antibiotic Prophylaxis", "Bariatric Surgery Candidate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02024282",
+          "briefTitle": "Optimising Diagnosis and Antibiotic Prescribing for Acutely Ill Children in Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sepsis", "Bacteraemia", "Meningitis", "Abscess", "Pneumonia", "Osteomyelitis", "Cellulitis", "Gastro-enteritis With Dehydration", "Complicated Urinary Tract Infection", "Viral Respiratory Infection Complicated With Hypoxia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8962,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06527833",
+          "briefTitle": "Procedure-Specific Approach To Minimize Fistulaization of The Perianal Abscess Cavity After Surgical Drainage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perianal Fistula"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02306330",
+          "briefTitle": "MALDITOF Versus Routine Clinical Microbiology for Identifying Pathogens; a Randomized Diagnostic Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bacterial Infections", "Fungal Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 802,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04999696",
+          "briefTitle": "Minimally Invasive Therapy Versus Open Radical Hysterectomy for Management of Early Stage Cervical Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2033-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer of Cervix", "Laparoscopic Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 820,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01356641",
+          "briefTitle": "Antibiotic Treatment Alone for Acute Simple Appendicitis in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05927948",
+          "briefTitle": "Evaluating the Safety and Efficacy of Laight®-Therapy Treatment in Subjects With Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hidradenitis Suppurativa"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06662643",
+          "briefTitle": "A Clinical Trial Comparing Staged Turnbull-Cutait Pull-through Anastomosis With Direct Anastomosis Plus Prophylactic Ileostomy in the Treatment of Low Rectal Cancer After Internal Sphincter Resection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rectal Cancer", "Rectal Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01492387",
+          "briefTitle": "Duration of Antibiotic Therapy in Community - Acquired Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pneumonia", "Bronchopneumonia", "Pleuropneumonia", "Pneumonia, Bacterial", "Pneumonia, Viral"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 892,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06225609",
+          "briefTitle": "No Stoma VS Ghost Stoma in Patients Undergoing Total Mesorectal Excision for Rectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04158804",
+          "briefTitle": "PROcalcitonin Impact on Antibiotic Reduction, adverSe Events and AVoidable healthcarE Costs (ProSAVE): A RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pneumonia, Bacterial"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "110 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05137119",
+          "briefTitle": "Staphylococcus Aureus Network Adaptive Platform Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Staphylococcus Aureus Bacteremia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02841293",
+          "briefTitle": "Cost-utility of Two Strategies of Perineal Reconstruction After Abdominoperineal Resection for Anorectal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Abdominoperineal Resection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01320215",
+          "briefTitle": "Complications Associated With Promontofixation for Pelvic Organ Prolapse: Comparing Robot Assisted Laparoscopic and Non-robot Assisted Laparoscopic Surgical Procedures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 365,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01967745",
+          "briefTitle": "Laparoscopic Versus Open Appendectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Appendicitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02701608",
+          "briefTitle": "Oral Switch During Treatment of Left-sided Endocarditis Due to Multi-susceptible Staphylococcus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infective Endocarditis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02126332",
+          "briefTitle": "Epidural Analgesia for Pancreatitis (Epipan Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Acute Pancreatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01892267",
+          "briefTitle": "Self-Propelled Versus Standard Percutaneous Endoscopic Gastrojejunostomy(PEG-J); RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Feeding Tube"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00435032",
+          "briefTitle": "Early Versus Interval Appendectomy for Ruptured Appendicitis in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-10"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Ruptured Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05569746",
+          "briefTitle": "A Study to Assess Safety, Efficacy, and Pharmacokinetics of INM004 in Pediatric Patients With STEC-HUS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diarrhea-Associated Hemolytic Uremic Syndrome", "Pediatric Kidney Disease", "Hemolytic-Uremic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05230173",
+          "briefTitle": "Treat-to-Target of Endoscopic Remission in Patients With IBD in Symptomatic Remission"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ulcerative Colitis", "Crohn Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06191783",
+          "briefTitle": "The Effect Of Preoperative Anxiety Level On Postoperative SoreThroat"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sore-throat", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06705842",
+          "briefTitle": "APPI-Cost Trial for Perforated Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perforated Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 346,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03315169",
+          "briefTitle": "Packing of Perianal Abscess Cavities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Perianal Abscess", "Perianal Infections", "Peri Rectal Abscess", "Abscess; Anus", "Abscess Anorectal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 433,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01111253",
+          "briefTitle": "Diverticulitis: Antibiotics or Close Observation?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-05"
+          },
+          "completionDateStruct": {
+            "date": "2014-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diverticulitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 533,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02233153",
+          "briefTitle": "Elder-friendly Approaches to the Surgical Environment (EASE) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "General Surgery"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 723,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02701595",
+          "briefTitle": "Oral Switch During Treatment of Left-sided Endocarditis Due to Multi-susceptible Streptococcus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infective Endocarditis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04440150",
+          "briefTitle": "Preoperative Immature Granulocyte Count and Percentage for Acute Appendisitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06272097",
+          "briefTitle": "Postoperative Wounds With Delayed Healing Risk of Clinical Trial Registration"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Wound Heal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 492,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07208786",
+          "briefTitle": "Pre-emptive Endoscopic Vacuum Therapy Reduces the Incidence of Anastomotic Leakage After Colorectal Cancer Surgery: a Randomized Controlled Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Colorectal Surgery", "Complications", "Anastomotic Leakage", "Endoscopic Vacuum Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04722328",
+          "briefTitle": "Establishment of Prevention and Control System of Central Nervous System Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Central Nervous System (CNS) Infection", "Encephalitis", "Meningitis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 715,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02204124",
+          "briefTitle": "Whipple Procedure: Standard of Care vs. Thunderbeat"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pancreatic Neoplasms", "Bile Duct Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04799379",
+          "briefTitle": "Microporous Polysaccharide Hemospheres (MPH) Improving Outcome After Rectal Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Sepsis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02517268",
+          "briefTitle": "Accelerated Recovery Pathway for Discharge After Surgery in Patients With Pancreatic Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pancreatic Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05315648",
+          "briefTitle": "Effect of General and Non-general Anesthesia on Perioperative Depression or Anxiety"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression, Anxiety"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07029269",
+          "briefTitle": "Feasibility of Enhanced Recovery After Surgery Without Prophylactic Abdominal Drainage Tubes After Laparoscopic Distal Gastrectomy For Gastric Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gastric Adenocarcinoma", "Laparoscopic Gastrectomy", "Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 454,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06743529",
+          "briefTitle": "Immediate Versus Substantiated Antibiotic Therapy in Suspected Non-Severe Ventilator-Associated Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-02-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ventilator-Associated Pneumonia (VAP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 686,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03159754",
+          "briefTitle": "Optimal Care of Complicated Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Appendicitis", "Perforated Appendicitis", "Ruptured Appendicitis", "Complicated Appendicitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05180864",
+          "briefTitle": "Omentum Preservation Versus Complete Omentectomy in Gastrectomy for Gastric Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stomach Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 654,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04876131",
+          "briefTitle": "Single Dose Intravenous Antibiotics for Complicated Urinary Tract Infections in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Complicated Urinary Tract Infection", "Infection", "Pediatric Infectious Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 452,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05985239",
+          "briefTitle": "Virtual Ileostomy Versus Diverting Ileostomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 612,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02098928",
+          "briefTitle": "Comparison Between Hand-acupuncture and Electro-acupuncture Stimulation in the Treatment of Menopause"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Menopause", "Puncture Site Reaction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 242,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02080702",
+          "briefTitle": "An International, Multicentric, Prospective, Observational Study to Evaluate Monosyn® Suture Material for Anastomoses in the Gastrointestinal Tract"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["C.Surgical Procedure; Digestive System", "Symptomatic Disorders of the Gastrointestinal Tract", "Gastric Anastomosis (Site)", "Gastrointestinal Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03435900",
+          "briefTitle": "Intraperitoneal Administration of Fosfomycin, Metronidazole and Molgramostim Versus Intravenous Antibiotics for Perforated Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Appendicitis Perforated"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01451931",
+          "briefTitle": "Study of Tomography of Nephrolithiasis Evaluation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urolithiasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2776,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05408624",
+          "briefTitle": "Pilot Study Evaluating Outpatient Management of Tubo-ovarian Abscesses"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Abscess", "Pelvic Inflammatory Disease", "Pelvic Infection"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03067519",
+          "briefTitle": "Fast Track Surgery for Abdominal Surgery in Rwanda"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Elective Surgical Procedures"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01096927",
+          "briefTitle": "Non Operative Treatment for Acute Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lower Abdominal Pain", "Right Iliac Fossa Pain", "Acute Appendicitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02168231",
+          "briefTitle": "Abdominal Wall Repair With Strattice in Germany: a Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hernia of Abdominal Wall", "Biologic Mesh", "Strattice"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00629135",
+          "briefTitle": "Moxifloxacin Plus Metronidazole Versus Piperacillin/Tazobactam for the Treatment of Patients With Intra-abdominal Abscesses"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-08-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Abscess, Intra-Abdominal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01740947",
+          "briefTitle": "Does Administration of Antibiotics in Patients Undergoing Surgery for Colorectal Cancer Result in Less Complications and Better Prognosis?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 485,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02517476",
+          "briefTitle": "Effect of Early Nutritional Therapy on Frailty, Functional Outcomes and Recovery of Undernourished Medical Inpatients Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malnutrition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2088,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01236625",
+          "briefTitle": "The Effect of Adhesiolysis During Elective Abdominal Surgery on Per- and Postoperative Complication, Quality of Life and Socioeconomic Costs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-06"
+          },
+          "completionDateStruct": {
+            "date": "2011-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tissue Adhesions"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 752,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03966430",
+          "briefTitle": "Damage Control Surgery in Acute Mesenteric Ischemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Damage Control"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03969758",
+          "briefTitle": "Ciprofloxacin Plus Metronidazole Vs Cefixime Plus Metronidazole Therapy for the Treatment of Liver Abscess"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Abscess"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06378918",
+          "briefTitle": "Comparison of the Effectiveness of the Simple Puncture Compared to the Incision of an Abscess on the PiLOnidal Sinus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pilonidal Cyst"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 134,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05985252",
+          "briefTitle": "Virtual Ileostomy Versus Conventional Loop Ileostomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03009110",
+          "briefTitle": "Preventing Adverse Incisional Outcomes at Cesarean Multicenter Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Surgical Wound Infection", "Cesarean Section"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1624,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02334124",
+          "briefTitle": "Comparing the Intravenous Treatment of Skin Infections in Children, Home Versus Hospital"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2022-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cellulitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04172896",
+          "briefTitle": "Intraperitoneal and Extraperitoneal Uterosacral Ligament Suspensions for Post-Hysterectomy Vaginal Vault Prolapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vaginal Vault Prolapse", "Post-Hysterectomy Vaginal Vault Prolapse", "Prolapse, Vaginal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06072729",
+          "briefTitle": "Comparison of Magnesium Sulphate Versus Cold Compress in IV Cannula Induces Phlebitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Patient With IV Cannula Induce Phlebitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06007326",
+          "briefTitle": "A Multicentre, Retrospective Study of Clinical Characteristics and Long-term Outcomes of Patients With Brucellosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brucellosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06024109",
+          "briefTitle": "Performance of SYMMCORA® vs. V-Loc® Suture Material in Patients Undergoing Laparoscopic Total Hysterectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Abnormal Uterine Bleeding", "Endometriosis", "Uterine Prolapse", "Uterine Cancer", "Ovarian Cancer", "Fallopian Tube Cancer", "Cervical Cancer", "Endometrial Cancer"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02724410",
+          "briefTitle": "Role of Intravenous Versus Home Oral Antibiotics in Perforated Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perforated Appendicitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01766830",
+          "briefTitle": "Rapid Diagnostic Tests and Clinical/Laboratory Predictors of Tropical Diseases In Patients With Persistent Fever in Cambodia, Nepal, Democratic Republic of the Congo and Sudan (NIDIAG-Fever)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Visceral Leishmaniasis", "Human African Trypanosomiasis", "Enteric Fever", "Melioidosis", "Brucellosis", "Leptospirosis", "Relapsing Fever", "Rickettsial Diseases", "HIV", "Tuberculosis", "Malaria", "Amoebic Liver Abscess"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1927,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02377258",
+          "briefTitle": "IBD Cancer and Serious Infection in Europe"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "IBD"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 13262,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04755179",
+          "briefTitle": "Identification of the Optimal Treatment Strategy for Complex Appendicitis in the Pediatric Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Appendicitis", "Appendix Mass", "Appendicitis Perforated"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1308,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07002671",
+          "briefTitle": "The Role of Preoperative HALP Score in Differentiating Complicated Acute Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Appendicitis", "Acute Appendicitis Without Peritonitis", "Acute Appendicitis With Appendix Abscess", "Acute Appendicitis With Rupture"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 411,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03839914",
+          "briefTitle": "Evaluating the Efficacy and Safety of Intra-wound Vancomycin Powder in High Risk Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Spinal Deformity", "Trauma", "Spinal Tumor", "Surgical Site Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07195786",
+          "briefTitle": "Expansion-floating Craniotomy for the Treatment of Malignant Cerebral Edema Caused by Acute Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemic Stroke, Acute", "Malignant Cerebral Edema"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 356,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05865743",
+          "briefTitle": "Perioperative SDD to Prevent Infectious Complications After Esophagectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophageal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 854,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03949140",
+          "briefTitle": "Laser Hair Removal for Treatment of Pilonidal Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pilonidal Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01885273",
+          "briefTitle": "Is Pressurized Irrigation an Effective Alternative to Swabbing for Wound Cleansing?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "completionDateStruct": {
+            "date": "2010-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute and Chronic Wounds"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 256,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04033822",
+          "briefTitle": "Fast Track Pathway to Accelerated Cholecystectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cholecystitis", "Cholecystectomy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01961284",
+          "briefTitle": "Zygomatic Versus Conventional Dental Implants in Augmented Maxillae"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10"
+          },
+          "completionDateStruct": {
+            "date": "2017-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Edentulous Maxilla", "Resorbed Maxilla", "Implant Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06841003",
+          "briefTitle": "Laparoscopic Antibiotic Lavage to Prevent Intra-abdominal Abscess Formation in Complicated Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Complicated Appendicitis", "Intra-Abdominal Abscess"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 752,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02607488",
+          "briefTitle": "Perioperative Systemic Lidocaine for Enhanced Bowel Recovery After Bariatric Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Bariatric Surgery Candidate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04093310",
+          "briefTitle": "Cost-utility Analysis Treatment of Bartholin's Abscess : Word Catheter Versus Incision-drainage."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bartholin's Gland Abscess Treatment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 302,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

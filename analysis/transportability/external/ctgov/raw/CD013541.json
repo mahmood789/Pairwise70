@@ -1,0 +1,193 @@
+{
+  "query": "postintervention months month family",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07299305",
+          "briefTitle": "(FODMAP) Diet on Improving Symptoms of Patients With Irritable Bowel Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Irritable Bowel Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04741568",
+          "briefTitle": "Parent Intervention to Prevent Disordered Eating in Children With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 1", "Disordered Eating", "Children, Only", "Eating Disorders", "Parents"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 89,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07208162",
+          "briefTitle": "SHARE Adaptation Intervention for African-American Families"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mild Dementia", "Moderate Dementia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00594997",
+          "briefTitle": "A School-Based Intervention to Reduce Lyme Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lyme Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3570,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04982497",
+          "briefTitle": "Development and Evaluation of a Psychological Intervention in Videogame Format for the Promotion of Active Aging"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aging", "Aging Problems"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 548,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02153931",
+          "briefTitle": "Internet Support Group for Parents of a Child With Neurofibromatosis Type 1"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05-31"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neurofibromatosis 1"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      }
+    ]
+  }
+}

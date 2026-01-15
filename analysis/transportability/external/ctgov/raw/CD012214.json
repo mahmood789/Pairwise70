@@ -1,0 +1,102 @@
+{
+  "query": "endometrial hyperplasia atrophic atypia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03463252",
+          "briefTitle": "Value of LNG-IUS as Fertility-preserving Treatment of EAH and EC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Endometrial Cancer", "Atypical Endometrial Hyperplasia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 224,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04209543",
+          "briefTitle": "Estetrol for the Treatment of Moderate to Severe Vasomotor Symptoms in Postmenopausal Women (E4Comfort Study I)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vasomotor Symptoms", "Menopausal Symptoms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1570,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "maximumAge": "65 Years",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00604825",
+          "briefTitle": "Treatment Of Hot Flashes/Flushes In Postmenopausal Women (WARM Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2008-07-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Menopausal and Female Climacteric States"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 356,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "65 Years",
+          "minimumAge": "40 Years"
+        }
+      }
+    ]
+  }
+}

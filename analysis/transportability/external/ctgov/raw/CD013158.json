@@ -1,0 +1,915 @@
+{
+  "query": "surfactant bronchopulmonary discharge dysplasia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02164734",
+          "briefTitle": "Surfactant Via Endotracheal Tube vs. Laryngeal Mask Airway (LMA) in Preterm Neonates With Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome, Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Hours",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05898633",
+          "briefTitle": "Recombinant Surfactant Protein D (rfhSP-D) to Prevent Neonatal Chronic Lung Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Lung Disease of Prematurity", "Respiratory Distress Syndrome in Premature Infant", "Bronchopulmonary Dysplasia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "23 Weeks",
+          "maximumAge": "30 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03181958",
+          "briefTitle": "A Trial Comparing Noninvasive Ventilation Strategies in Preterm Infants Following Extubation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intubated Infants Were Intend to Extubation Using Noninvasive Ventilation Strategies"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1493,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Minutes",
+          "maximumAge": "1 Month"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04330443",
+          "briefTitle": "Lung Ultrasound to Guide Surfactant Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05711966",
+          "briefTitle": "Comparison of INRECSURE and LISA in Preterm Neonates With RDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Distress Syndrome", "Bronchopulmonary Dysplasia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 381,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "27 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06151613",
+          "briefTitle": "Continuous Non-invasive Electrophysiological Monitoring in High Risk Pregnancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Perinatal Outcomes", "Preterm Birth", "High Risk Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1911,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06491901",
+          "briefTitle": "Prospective, Non-Blinded, Randomized Controlled Trial on Early Administration of Pulmonary Surfactant Guided by Lung Ultrasound Scores in Very Preterm Infants."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Early Administration of Pulmonary Surfactant Guided by Lung Ultrasound Scores in Very Preterm Infants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Minutes",
+          "maximumAge": "5 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01604447",
+          "briefTitle": "Evaluation of Use of Plastic Bags to Prevent Neonatal Hypothermia-Part IV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypothermia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "72 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05638568",
+          "briefTitle": "Fast Assessment of Surfactant Deficiency in Preterm Infants to Speed up Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Surfactant Deficiency Syndrome Neonatal", "Respiratory Distress Syndrome, Newborn", "Bronchopulmonary Dysplasia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "45 Minutes"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07067177",
+          "briefTitle": "Prophylactic IV Paracetamol in Extremely Premature Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Patent Ductus Arteriosus in Preterm Infants", "Patent Ductus Arteriosus After Premature Birth", "Patent Ductus Arteriosus (PDA)", "Patent Ductus Arteriosus in Premature Infants"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "6 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05698966",
+          "briefTitle": "Low Dose Antenatal Corticosteroids for Late Preterm Delivery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Morbidity", "Preterm Labor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1510,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00767039",
+          "briefTitle": "Curosurf and Survanta Treatment(CAST)of RDS in Very Premature Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-01"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prematurity", "Respiratory Distress Syndrome", "Patent Ductus Arteriosus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "8 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05606497",
+          "briefTitle": "OPtimal TIming of COrticosteroids in Early-onset Fetal Growth REstriction: the OPTICORE Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Retardation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06334523",
+          "briefTitle": "Ventilation of the Extremely Premature Infants Optimized by Dead Space Washout"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-13",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-04-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Extremely Low Birthweight Infant", "Continuous Tracheal Gas Insufflation", "Medical Device", "Lung Protection", "Ventilator-Induced Lung Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "7 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05015049",
+          "briefTitle": "Hypertensive Disorders of Pregnancy - the Neonatal Burden of Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension in Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 823957,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01601886",
+          "briefTitle": "Delivery Room Practice Change Following the Initiation of the NICHD SUPPORT Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "completionDateStruct": {
+            "date": "2012-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Birth"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3843,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "35 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04372953",
+          "briefTitle": "Positive End-Expiratory Pressure (PEEP) Levels During Resuscitation of Preterm Infants at Birth (The POLAR Trial)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Injury", "Preterm Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 906,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "23 Weeks",
+          "maximumAge": "28 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04019106",
+          "briefTitle": "Budesonide With Intratracheal Surfactants in Extremely Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchopulmonary Dysplasia", "Respiratory Distress Syndrome in Premature Infant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "5 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05534685",
+          "briefTitle": "Budesonia + Intratracheal Surfactant in Incidence of Bronchopulmonary Dysplasia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Tract Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 336,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "26 Weeks",
+          "maximumAge": "34 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07098910",
+          "briefTitle": "Surfactant Therapy Via Supraglottic Airway to Preterm Neonates With RDS in Vietnam"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome in Premature Infant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06452498",
+          "briefTitle": "Preeclampsia Intervention Netherlands"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia Onset Less Than 37 Weeks", "Pre-Eclampsia", "Pre-Eclampsia; Complicating Pregnancy", "Pre-Eclampsia as Antepartum Condition", "Pre-eclampsia or Eclampsia With Pre-existing Hypertension", "Pre-Eclampsia; Affecting Fetus", "HELLP Syndrome Complicating Pregnancy", "HELLP Syndrome", "HELLP"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01709409",
+          "briefTitle": "A Multi-center Trial to Determine if Curosurf® Reduces the Duration of Mechanical Ventilation in Very Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "31 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05036161",
+          "briefTitle": "ROX Index and ROX Vector to Predict Nasal High Flow / Continuous Positive Airway Pressure Failure in Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Predictive Value of Tests"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "24 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03388437",
+          "briefTitle": "Non-invasive Neurally Adjusted Ventilatory Assist Versus Nasal Intermittent Positive Pressure Ventilation for Preterm Infants After Extubation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prematurity", "Respiratory Failure", "Ventilator Lung; Newborn"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "2 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01222247",
+          "briefTitle": "Antenatal Late Preterm Steroids (ALPS): A Randomized Placebo-Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Respiratory Distress Syndrome", "Pregnancy Outcomes", "Preterm Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2831,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06554522",
+          "briefTitle": "Pragmatic Evaluation of Respiratory Distress Syndrome Treatment in Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Distress Syndrome in Premature Infant", "RDS of Prematurity", "Surfactant Deficiency Syndrome Neonatal", "Premature Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1512,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "24 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04545866",
+          "briefTitle": "The Budesonide in Babies (BiB) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-17",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchopulmonary Dysplasia (BPD)", "Respiratory Distress Syndrome", "Prematurity; Extreme", "Neonatal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 642,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02139800",
+          "briefTitle": "Sustained Aeration of Infant Lungs Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Extreme Prematurity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 460,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "23 Weeks",
+          "maximumAge": "26 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06557551",
+          "briefTitle": "Prophylactic Surfactant by Thin Endotracheal Catheter for Preterm Infants At Birth: the ProTeCt Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant, Newborn, Diseases", "Prematurity", "Prematurity; Extreme", "Respiratory Distress Syndrome in Premature Infant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 164,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "30 Minutes"
+        }
+      }
+    ]
+  }
+}

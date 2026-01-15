@@ -1,0 +1,197 @@
+{
+  "query": "adverse irritability subgroup analyses",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01262872",
+          "briefTitle": "Impact of GSK Biologicals' 2189242A Vaccine on Nasopharyngeal Carriage, Safety & Immunogenicity in Children & Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Streptococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "56 Days",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01001169",
+          "briefTitle": "Safety and Immunogenocity Study of GSK Biologicals' Pandemic Influenza (H1N1) Candidate Vaccine in Japanese Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10-01"
+          },
+          "completionDateStruct": {
+            "date": "2010-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04195256",
+          "briefTitle": "Intranasal Dexmedetomidine Plus Ketamine for Procedural Sedation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fracture", "Dislocation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01310413",
+          "briefTitle": "Monovalent H5N1 Vaccine GSK1557484A in Children 6 Months to < 18 Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Influenza", "Influenza Vaccines"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 842,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01323946",
+          "briefTitle": "Study to Evaluate the Immunogenicity and Safety of an Investigational Pandemic Influenza Vaccine in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-11-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 113,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "35 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03781167",
+          "briefTitle": "A Study to Evaluate the Safety and Tolerability of ABBV-951 in Subjects With Parkinson's Disease (PD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson's Disease (PD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 244,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      }
+    ]
+  }
+}

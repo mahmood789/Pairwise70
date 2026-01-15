@@ -1,0 +1,5610 @@
+{
+  "query": "cessation smoking abstinence analysis",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03438188",
+          "briefTitle": "Neural Basis of Eating Behavior in Abstinent Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01569477",
+          "briefTitle": "Striving to Quit-Wisconsin Tobacco Quit Line"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06885970",
+          "briefTitle": "The Effect of Cytisine Treatment for Smoking Cessation on Cardiovascular Function in Adult Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Arterial Stiffness", "Endothelial Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01199380",
+          "briefTitle": "Behavioral Activation Intervention for Smoking Cessation in Smokers With Depressive Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 184,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03551704",
+          "briefTitle": "Smoking Cessation Treatment for Substance Use Dependents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02634281",
+          "briefTitle": "Extended (6-Week) Varenicline Preloading: Does it Facilitate Smoking Reduction and Cessation?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 242,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06697496",
+          "briefTitle": "A Smartphone Application (QuitBot) for the Improvement of Smoking Cessation Among American Indians and Alaska Natives, NAITIVE Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking-Related Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 772,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01120704",
+          "briefTitle": "Evaluation of Treatments to Improve Smoking Cessation Medication Adherence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Smoking Cessation", "Adherence", "Nicotine Dependence", "Motivation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 544,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02681848",
+          "briefTitle": "What Are the Effects of Varenicline Compared With Nicotine Replacement Therapy on Long Term Smoking Cessation and Clinically Important Outcomes?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Cardiovascular Disease", "Respiratory Disease", "Myocardial Infarction", "Depression", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00862368",
+          "briefTitle": "Sustaining Smoking Cessation in Smokers With Kids With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-10"
+          },
+          "completionDateStruct": {
+            "date": "2011-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 573,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01365819",
+          "briefTitle": "Varenicline for Methamphetamine Dependence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Methamphetamine Dependence", "Substance Abuse", "Methamphetamine Abuse"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03979885",
+          "briefTitle": "Financial Incentives for Smoking Treatment II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Tobacco Use Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1058,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04891796",
+          "briefTitle": "Tobacco Control Policy-related Survey 2020"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Survey on Tobacco Control"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05317663",
+          "briefTitle": "Developing and Testing Waterpipe-specific Health Warning Labels"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Waterpipe Smoking", "Health Warning Label", "Harm Perception", "Puffing Behaviour", "Quitting Smoking", "Health Risk Behaviors"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02087800",
+          "briefTitle": "Smoking, Stress & Allopregnanolone Response"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02511236",
+          "briefTitle": "Addressing Racial/Ethnic Tobacco Health Disparities Via Group Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 356,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01735448",
+          "briefTitle": "Improving Health for Aboriginal People Through Tobacco Related Research"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Dependence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01944423",
+          "briefTitle": "Enhancing Panic and Smoking Reduction Treatment With D-Cycloserine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nicotine Addiction", "Panic Attack"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02683161",
+          "briefTitle": "Pre to Postoperative Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2017-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cigarette Smoking", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01378858",
+          "briefTitle": "Varenicline Smoking Cessation Treatment for Methadone Maintenance Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use Disorder", "Medication Adherence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03922360",
+          "briefTitle": "Smartphone-based Financial Incentives"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05049174",
+          "briefTitle": "Nurse-led Smoking Cessation Program With Follow-up in Healthy Life Centres: a Randomized Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking Behaviors", "Nurse's Role", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05846841",
+          "briefTitle": "Personalized Tobacco Treatment in Primary Care (MOTIVATE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Physician's Role", "Smoking Cessation", "Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 850,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01289275",
+          "briefTitle": "Smoking Cessation in Hospitalized Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1270,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04009590",
+          "briefTitle": "Quit4Health Intervention in Supporting Smoking Cessation and Preventing Smoking Initiation in Young Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cigarette Smoking", "Current Smoker"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 579,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01734421",
+          "briefTitle": "Efficacy of a Mobile Application in the Smoking Cessation Among Young People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 604,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02854800",
+          "briefTitle": "Smoking Cessation & Opioid Dependence Treatment Integration"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Opioid Related Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02192762",
+          "briefTitle": "Withdrawal Exposure With Withdrawal Regulation Training for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06556238",
+          "briefTitle": "Metabolism-Informed Care to Aid Alaska Native People to Quit Smoking (QUIT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-17",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04630340",
+          "briefTitle": "An Innovation to Increase Smoking Quit Rate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03873337",
+          "briefTitle": "Persistence Targeted Smoking Cessation in Serious Mental Illness (SMI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use", "Tobacco Smoking", "Tobacco Use Cessation", "Tobacco Use Disorder", "Schizophrenia", "Schizoaffective Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01116986",
+          "briefTitle": "Identifying Optimal Smoking Cessation Intervention Components (Cessation)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Smoking Cessation", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 637,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01570595",
+          "briefTitle": "Positively Smoke Free on the Web (PSFW) for Smokers Living With HIV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use Cessation", "Tobacco Cessation", "Tobacco Use Disorder", "Tobacco Dependence", "Tobacco-Use Disorder", "Virus, Human Immunodeficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 138,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01145001",
+          "briefTitle": "Enhancing a High School Based Smoking Cessation Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06254001",
+          "briefTitle": "Effectiveness of Combined Tobacco Treatment in Hospitalized Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Smoking", "Tobacco Withdrawal", "Nicotine Addiction", "Nicotine Withdrawal", "Nicotine Replacement Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 134,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02402023",
+          "briefTitle": "Novel Treatment to Enhance Smoking Cessation Before Cancer Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10"
+          },
+          "completionDateStruct": {
+            "date": "2017-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04838236",
+          "briefTitle": "Smoking, Stress, and Mobile Technology"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking, Tobacco"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 227,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03231553",
+          "briefTitle": "Effectiveness and Cost-effectiveness of a Tailored Text Message Programme (MiQuit) for Smoking Cessation in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00673595",
+          "briefTitle": "Endothelial Function and Autonomic Regulation After Short-term Smoking Cessation: Varenicline Versus Placebo"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2010-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06952725",
+          "briefTitle": "Chatbot for Online Support Groups to Treat Tobacco Addiction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Dependence", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05997225",
+          "briefTitle": "Tobacco Cessation at FDNY"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use", "Tobacco Smoking", "Tobacco Use Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00217984",
+          "briefTitle": "Intensive Intervention for Smokers - 6"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use Disorder", "Alcohol Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00772941",
+          "briefTitle": "Drug Use Investigation Of Varenicline (Regulatory Post Marketing Commitment Plan)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3939,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06811038",
+          "briefTitle": "iCanQuit Smoking Cessation Among Hispanic Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking-Related Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 854,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01048944",
+          "briefTitle": "Nicotine Replacement Therapy (NRT) and Bupropion Mechanisms of Effectiveness in Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 197,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05740098",
+          "briefTitle": "Financial Incentives for Smoking Cessation Among Mothers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 198,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07021417",
+          "briefTitle": "Effectiveness of Primary Care Nurse-supervised Educational Group Interventions for Giving up Smoking"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 83,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02146911",
+          "briefTitle": "The MATCH (Medication Aids for Tobacco Cessation and Health) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use Disorder", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 968,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00749658",
+          "briefTitle": "Human Laboratory Study of Varenicline and Bupropion for Nicotine Dependence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-11"
+          },
+          "completionDateStruct": {
+            "date": "2010-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nicotine Dependence", "Nicotine Withdrawal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02218281",
+          "briefTitle": "Developing a Smartphone App With Mindfulness Training for Teen Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 146,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01494246",
+          "briefTitle": "Effectiveness of an E-mail Tracking Intervention Among the Continued Abstinence of Tobacco Consumption"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Dependence", "Cessation of Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1064,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06900985",
+          "briefTitle": "Therapeutic Contact Intensity in a Psychological Smoking Cessation Intervention With an App"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Behaviors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 429,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03904186",
+          "briefTitle": "Effectiveness of an Integrated Treatment to Address Smoking Cessation and Anxiety/ Depression in People Living With HIV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Human Immunodeficiency Virus", "Smoking Cessation", "Smoking, Cigarette", "Smoking", "Anxiety", "Depression", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01454362",
+          "briefTitle": "Effect of the Electronic Cigarette on Withdrawal Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mental and Behavioral Disorders", "Withdrawal State"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04841655",
+          "briefTitle": "Tobacco Cessation Among Smokers Under Alcohol and/or Cannabis Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mental Health Disorder", "Substance Abuse Drug", "Alcohol Abuse", "Cannabis Use", "Tobacco Use", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1625,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03421210",
+          "briefTitle": "Effects of Smoking Environments on Brain Reactivity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02302859",
+          "briefTitle": "Mobile Media-Rich Interactive Guideline System (MMRIGS) Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06910566",
+          "briefTitle": "Factors Sustaining Tobacco Abstinence in Cancer Patients Treated With Radio-chemotherapy or Radiotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Nicotine Addiction", "Nicotine Dependence", "Smoking", "Head and Neck Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03950427",
+          "briefTitle": "PARQuit Smoking Cessation Intervention for Adults With Serious Mental Illness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking, Tobacco", "Mental Illness", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 131,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06802627",
+          "briefTitle": "Prehabilitation for Lung Cancer Patients Undergoing Lung Resection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Cancer", "Lung Resection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07230249",
+          "briefTitle": "Telegram Messenger Support for Smoking Cessation After Heart Attack"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myocardial Infarction (MI)", "Tobacco Use", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 142,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01186055",
+          "briefTitle": "Brain Activity and Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06120855",
+          "briefTitle": "Study on Regulated Cannabis Sales in Pharmacies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Marijuana Smoking", "Cannabis", "Cannabis Use"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1091,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04417595",
+          "briefTitle": "Omega-3 Fatty Acids for Smoking Cessation in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Labor", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03836560",
+          "briefTitle": "Comparing the Effectiveness of Combined NRT With Single NRT in Primary Care Clinics in Hong Kong"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 560,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02538601",
+          "briefTitle": "Enhanced Smoking Cessation Intervention for Smokers Exposed to the World Trade Center (WTC) Disaster"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cigarette Smoking", "Post Traumatic Stress Disorder", "Signs and Symptoms, Respiratory"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01785147",
+          "briefTitle": "Efficacy and Safety of BP1.4979 in Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Addiction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 219,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02417467",
+          "briefTitle": "Evaluating the Efficacy of E-Cigarette Use for Smoking Cessation (E3) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 376,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01569490",
+          "briefTitle": "Striving to Quit: First Breath"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03069768",
+          "briefTitle": "Stage Ib Trial of mSMART With Varenicline"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2019-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05956782",
+          "briefTitle": "Breathe Easier II: A Dyad-based Multiple Behavior Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Cancer, Nonsmall Cell", "COPD", "Self-Management", "Physical Inactivity", "Stress", "Quality of Life"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03089320",
+          "briefTitle": "Financial Incentives, Randomization With Stepped Treatment Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Unhealthy Alcohol Use"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06763536",
+          "briefTitle": "Oral Nicotine Pouches Versus Nicotine Replacement Therapy to Reduce Cigarette Use for Smokers in Rural Appalachia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking-Related Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01456936",
+          "briefTitle": "Study Evaluating The Safety And Efficacy Of Varenicline and Bupropion For Smoking Cessation In Subjects With And Without A History Of Psychiatric Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00861276",
+          "briefTitle": "Nicotine Substitute Prescribed at Hourly Intake or ad Libitum for Heavy Smokers Willing to Quit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2000-06"
+          },
+          "completionDateStruct": {
+            "date": "2001-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05906082",
+          "briefTitle": "Vape-Free Text-Messaging: Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "E-cigarette Use"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01746069",
+          "briefTitle": "Effectiveness of Messages to Mobile Phone in Smoke Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00984724",
+          "briefTitle": "Reducing Tobacco Related Health Disparities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 639,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04574518",
+          "briefTitle": "Teachable Moment to Opt-out of Tobacco: Interactive Voice Response Quit Line for Veteran Active Smokers With Lung Nodules"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Solitary Pulmonary Nodule", "Multiple Pulmonary Nodules", "Tobacco Use"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 223,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02217527",
+          "briefTitle": "Test of Novel Drug for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05629039",
+          "briefTitle": "Implementing an Intervention Named Volitional Help Sheets to Reduce Smoking Behaviour Among Young Adults in Indonesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2700,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03972137",
+          "briefTitle": "Heart Rate Variability Biofeedback for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03072511",
+          "briefTitle": "Smoking Cessation Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04601870",
+          "briefTitle": "Financial Incentives for Smoking Cessation Treatment Engagement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Quitting Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01615237",
+          "briefTitle": "Dentistry United to Extinguish Tobacco"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Treatment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3207,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01502306",
+          "briefTitle": "A Randomized Trial of Medi-Cal Beneficiaries Calling the California Smokers' Helpline"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3816,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02106637",
+          "briefTitle": "Early In-hospital Initiation of Pharmacotherapy for Smoking Cessation, Patients After ACS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Coronary Syndrome", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01511614",
+          "briefTitle": "Nicotine Withdrawal Symptoms and Smoking Relapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02906787",
+          "briefTitle": "Behavioral Activation for Smoking Cessation and the Prevention of Post-Cessation Weight Gain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Weight Loss"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 288,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00494728",
+          "briefTitle": "Smoking Cessation for Depressed Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02506829",
+          "briefTitle": "Financial Incentives for Smoking Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Smoking, Tobacco", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 182,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01330043",
+          "briefTitle": "Extended Treatment for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 223,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05311085",
+          "briefTitle": "Cytisine and E-cigarettes With Supportive Text-messaging for Smoking Cessation (Cess@Tion)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 807,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04297332",
+          "briefTitle": "Episodic Future Thinking and Future Thinking Priming for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco-Related Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02399709",
+          "briefTitle": "Trial to Evaluate the Efficacy of Simvastatin for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-11-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 124,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00985985",
+          "briefTitle": "Efficacy and Safety Study of Nicotine Mint Lozenge (2mg and 4mg) in Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 723,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02156778",
+          "briefTitle": "Post-Stroke Disease Management - Stroke Card"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Ischemic Attack, Transient", "Secondary Prevention", "Disease Management", "Cost-Benefit Analysis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2149,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03524482",
+          "briefTitle": "Path2Quit Tobacco Intervention For African Americans"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking, Tobacco"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 119,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05382221",
+          "briefTitle": "Breathe 2 Project 3: Comprehensive Chronic Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking Abstinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 979,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02591433",
+          "briefTitle": "JeffQuit Group Therapy Program for Smoking Cessation in Patients With a History of Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Current Smoker", "Malignant Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05140915",
+          "briefTitle": "Vaper to Vaper: A Multimodal Mobile Peer Driven Intervention to Support Adolescents in Quitting Vaping"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["E-cigarette Use", "Vaping"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02606227",
+          "briefTitle": "Financial Incentive for Smoking Cessation in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07192601",
+          "briefTitle": "Developing an E-Cigarette Cessation Intervention for Hispanic/Latina(o) Youth in Florida: The BReATHE Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vaping Teens", "Vaping Behaviors", "Vaping Cessation", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02713594",
+          "briefTitle": "Wisconsin Tobacco Quit Line Medicaid Incentive Evaluation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Smoking Cessation", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1900,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04832659",
+          "briefTitle": "Assessment of Biomarkers in Children to Help Parents Quit Tobacco"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 865,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07080788",
+          "briefTitle": "Oklahoma Study of Native American Pain Risk IV: Smoking Cessation and Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation Intervention", "Pain", "Smoking (Tobacco) Addiction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03482583",
+          "briefTitle": "Tobacco Use Treatment in Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking, Cigarette"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03087617",
+          "briefTitle": "Personalized Smoking Cessation Tool Based on Patient Lung CT Image"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 321,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00111501",
+          "briefTitle": "LGBT Internet Based Smoking Treatment - 1"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 792,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00358228",
+          "briefTitle": "Comparison of the Efficacy and Safety of 2 Oral Doses of Rimonabant, 5 mg/Day or 20 mg/Day, Versus Placebo, as an Aid to Smoking Cessation (STRATUS US)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-09"
+          },
+          "completionDateStruct": {
+            "date": "2003-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 787,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02823028",
+          "briefTitle": "Twitter-enabled Mobile Messaging for Smoking Relapse Prevention (Tweet2Quit)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 980,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "59 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00948129",
+          "briefTitle": "Mobile Smoking Cessation Intervention in Enhancing Cancer Outreach in Low-Income Adult Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-08-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cigarette Smoker", "Current Every Day Smoker"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 626,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02742610",
+          "briefTitle": "Smoking Cessation Intervention for Smokers With Depression Receiving Outpatient Psychiatric Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07145866",
+          "briefTitle": "Varenicline and Accelerated Transcranial Magnetic Stimulation (TMS) for Quitting Nicotine Use (Pilot Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nicotine Dependence", "Transcranial Magnetic Stimulation", "Vaping", "Smoking Cessation", "Smoking (Tobacco) Addiction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02347124",
+          "briefTitle": "Promoting Oral Health Among Smokers Randomized Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Oral Disease", "Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 718,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02327104",
+          "briefTitle": "Effectiveness of Mindfulness Based Relapse Prevention for Tobacco Dependents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06145685",
+          "briefTitle": "Effect of Smoking Cessation on Salivary IL-1β and PGE-2 Levels Following Non-Surgical Periodontal Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Periodontal Diseases", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05715164",
+          "briefTitle": "Electronic Cigarettes and Nicotine Pouches for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Role of Tobacco Harm Reduction in Smoking Cessation", "Efficiency and Efficacy of E-cigarettes and Nicotine Pouches", "Adverse Effect of E-cigarettes and Nicotine Pouches"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02737176",
+          "briefTitle": "Tobacco Cessation Intervention Study for Oral Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Mouth Diseases", "Periodontal Diseases", "Leukoplakia", "Lichen Planus", "Keratosis", "Implant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 812,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05234983",
+          "briefTitle": "Adapting and Evaluating a Brief Advice Tobacco Intervention in High-Reach, Low-Resource Settings in India"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4820,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06290869",
+          "briefTitle": "Tobacco Education and Lung Health Study (TEAL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1188,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01526265",
+          "briefTitle": "Way to Quit - Comparative Efficacy, Acceptance and Effectiveness of Health Incentive Structures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2185,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05836103",
+          "briefTitle": "Testing the Impact of Smartphone-based Messaging to Support Young Adult Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01734330",
+          "briefTitle": "Cognitive Behaviour Therapy and Nicotine Replacement to Increase Tobacco Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smokers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02148445",
+          "briefTitle": "Smoking Cessation Versus Long-term Nicotine Replacement Among High-risk Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Pulmonary Disease, Chronic Obstructive", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 398,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05253573",
+          "briefTitle": "Mobile Health Technology for Personalized Tobacco Cessation Support Among Cancer Survivors in Laos"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02737358",
+          "briefTitle": "N-acetylcysteine for Tobacco Use Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nicotine Dependence", "Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01400815",
+          "briefTitle": "Randomized Trial to Evaluate the Effectiveness of X-22 as a Smoking Cessation Aid"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 234,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00501007",
+          "briefTitle": "Predictors of Treatment Outcome for Smokers With and Without Schizophrenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-02"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Dependence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 203,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03037775",
+          "briefTitle": "The Influence of Electronic and Traditional Cigarettes Smoking on Hemodynamic Parameters"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco; Use, Harmful"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04088942",
+          "briefTitle": "TOBacco STOP in Chronic Obstructive Pulmonary Disease-Trial - Study Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Obstructive Pulmonary Disease", "Smoking Cessation", "Lung Diseases, Obstructive", "Pulmonary Disease, Chronic Obstructive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01368653",
+          "briefTitle": "Evaluation of Learning-Theory-Based Smoking Cessation Strategies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05997901",
+          "briefTitle": "Helping People Adhere to Their Varenicline Treatment by Co-creating a Conversational Agent: A Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Medication Adherence", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03209622",
+          "briefTitle": "Smoking Cessation After Acute Coronary Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Acute Coronary Syndrome", "Recurrence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 89,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02697227",
+          "briefTitle": "Behavioral Activation Therapy and Nicotine Replacement Therapy in Increasing Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cigarette Smoker", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00749151",
+          "briefTitle": "Effectiveness of the American Lung Association Reactive Anti-Smoking Telephone Help Line in Illinois"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-12"
+          },
+          "completionDateStruct": {
+            "date": "2007-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 990,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05224050",
+          "briefTitle": "Heart Rate Variability Biofeedback for Smoking Cessation Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05152810",
+          "briefTitle": "Effectiveness of Transcranial Magnetic Stimulation (TMS) in Smoking Cessation, Combining Withdrawal Stimulation Followed by Maintenance Stimulation to Prevent Relapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00484692",
+          "briefTitle": "Randomized Trial of Ultrashort Psychotherapy vs Sustained-Release Bupropion for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-07"
+          },
+          "completionDateStruct": {
+            "date": "2007-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nicotine Dependence", "Substance Abuse", "Substance Dependence", "Tobacco Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 779,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02351167",
+          "briefTitle": "Genetically Informed Smoking Cessation Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 822,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02844595",
+          "briefTitle": "Behavioural Activation Treatment for Smoking Cessation and Depressive Symptomatology: a Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 275,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01162239",
+          "briefTitle": "Maintaining Nonsmoking"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 216,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03521466",
+          "briefTitle": "Medical Student Counseling for Hospitalized Patients Addicted to Tobacco"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation Counselling", "Medical Student Education"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03130998",
+          "briefTitle": "Cluster Randomized Trial of Knowledge Brokering to Integrate Mood and Smoking Cessation in Ontario Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2765,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04001972",
+          "briefTitle": "Interactive Communication Technologies and Nicotine Replacement Therapy Sampling for Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Tobacco Use Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 664,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02724462",
+          "briefTitle": "Trial of An Innovative Smartphone Intervention for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2503,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02856581",
+          "briefTitle": "Management of Tobacco Treatment Intervention in Reducing Surgical Complications in Patients With Newly Diagnosed Lung Cancer Who Smoke Cigarettes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00664261",
+          "briefTitle": "Clinical Effort Against Secondhand Smoke (CEASE) Program or Standard Care in Helping Parents Stop Smoking"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03597607",
+          "briefTitle": "Evaluation of an Intensive Individualized Smoking Cessation Program Delivered by Pharmacists"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking, Tobacco", "Quality of Life"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01303081",
+          "briefTitle": "Pilot Randomized Control Trial of Financial Incentives for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 63,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00741884",
+          "briefTitle": "A Study to Evaluate the Safety and Efficacy of Three Doses of a Controlled Release Formulation of Varenicline for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03743532",
+          "briefTitle": "E-Cigarettes and Financial Incentives to Promote Tobacco Harm Reduction Among Adults Accessing Shelter Services"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03204396",
+          "briefTitle": "Smoking Cessation Facilitated by Glucagon-like Peptide-1 (GLP-1) Analogues"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Glucagon-like Peptide-1", "Smoking Cessation", "Weight Change, Body", "Craving"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 256,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02431962",
+          "briefTitle": "Alberta Lung Cancer Screening Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Neoplasms", "Respiratory Tract Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02053155",
+          "briefTitle": "Peri Operative Smoking Cessation Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 345,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00689611",
+          "briefTitle": "Zyban as an Effective Smoking Cessation Aid for Patients Following an Acute Coronary Syndrome: The ZESCA Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-12"
+          },
+          "completionDateStruct": {
+            "date": "2010-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Coronary Syndrome", "Myocardial Infarction", "Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 392,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00534404",
+          "briefTitle": "A Randomized Trial of Internet Access to Nicotine Patches"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2485,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02157610",
+          "briefTitle": "Smoking Cessation for Cervical Cancer Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Cancer", "Tobacco Use", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 202,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02168855",
+          "briefTitle": "Cessation in Non-Daily Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 505,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02997735",
+          "briefTitle": "Parent eReferral to Tobacco Quitline"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Secondhand Smoke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 484,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05227027",
+          "briefTitle": "Pilot Trial of a Game Embedded in a Smartphone App for Smoking Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cigarette Smoking-Related Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01480232",
+          "briefTitle": "A Safety and Cognitive Function Study of EVP-6124 Versus Placebo in Subjects With Nicotine Dependence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nicotine Dependence", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 345,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01867411",
+          "briefTitle": "Multimodal Neuroimaging Genetic Biomarkers of Nicotine AddictionSeverity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 159,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07104006",
+          "briefTitle": "Smoking Cessation Intervention for Young Adults Using MTM: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Use Disorder/Cigarette Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "29 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01314001",
+          "briefTitle": "Pharmacogenetics of Nicotine Addiction Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Addiction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1246,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04199117",
+          "briefTitle": "Health Systems Reach Interventions Project"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking, Cigarette", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04694846",
+          "briefTitle": "Effectiveness of an Enhanced Tobacco Intervention Protocol Compared to Standard Treatment in Helping Head and Neck and Lung Cancer Patients Starting Treatment to Reduce Cigarette Use"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Non-Small Cell Carcinoma", "Head and Neck Squamous Cell Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07007195",
+          "briefTitle": "Smart Olfaction App to Reduce Relapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-17",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04107753",
+          "briefTitle": "The Impact of Brief Motivational Counseling for Smoking Cessation in an Italian Emergency Department: a Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Habit"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06471387",
+          "briefTitle": "Unraveling the Genetic Basis of Nicotine Addiction for Novel Therapeutic Strategies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Smoking Cessation Intervention", "Nicotine Addiction", "Epigenetics", "Molecular Biology", "Genetic Epidemiology"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01692730",
+          "briefTitle": "Web Assisted Tobacco Intervention With Community Colleges"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1452,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03808818",
+          "briefTitle": "Implementing a Virtual Tobacco Treatment for Cancer Patients in Community Oncology Practices"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Carcinoma In Situ", "Current Smoker", "Malignant Neoplasm", "Primary Neoplasm", "Recurrent Neoplasm", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 306,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02144883",
+          "briefTitle": "Telephone Counseling for Pregnant Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2000-09"
+          },
+          "completionDateStruct": {
+            "date": "2004-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1173,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04327921",
+          "briefTitle": "A Peer Navigator Model to Improve Quit Attempts and Smoking Cessation Rates Among HIV-positive Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00666978",
+          "briefTitle": "Health Education Counseling With or Without Bupropion in Helping African Americans Stop Smoking"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12"
+          },
+          "completionDateStruct": {
+            "date": "2010-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bladder Cancer", "Cervical Cancer", "Esophageal Cancer", "Gastric Cancer", "Head and Neck Cancer", "Kidney Cancer", "Leukemia", "Liver Cancer", "Lung Cancer", "Pancreatic Cancer", "Tobacco Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 540,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05222958",
+          "briefTitle": "Effectiveness of an App for Tobacco Cessation in Pregnant Women (TOBBGEST)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnant Women"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02841683",
+          "briefTitle": "Pragmatic Randomised Controlled Trial Evaluating Effectiveness of a Smoking Cessation e- Intervention \" Tabac Info Service \""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tobacco Smoking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2806,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06832098",
+          "briefTitle": "Nicotine Patch Plus Nicotine Mouth Spray Versus Nicotine Reduction for Vaping Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vaping Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 774,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02635919",
+          "briefTitle": "Stage Ib Trial of mSMART for Smoking Cessation Medication Adherence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04"
+          },
+          "completionDateStruct": {
+            "date": "2018-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02845440",
+          "briefTitle": "Integrated Smoking Cessation Treatment for Smokers With Serious Mental Illness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cigarette Smoking", "Schizophrenia", "Bipolar Disorder", "Depressive Disorder, Major", "Smoking Cessation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1165,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06432985",
+          "briefTitle": "Smoking Cessation CM for Veterans With or at Risk for Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use Disorder", "Substance Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

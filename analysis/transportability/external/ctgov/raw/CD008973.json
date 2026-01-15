@@ -1,0 +1,38 @@
+{
+  "query": "phimosis resolution complete analysis",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06984263",
+          "briefTitle": "Male Lichen Sclerosus - Risk Factors, Treatment, and Impact on Quality of Life"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2038-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lichen Sclerosus"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

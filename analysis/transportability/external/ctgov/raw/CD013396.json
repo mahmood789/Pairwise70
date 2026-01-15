@@ -1,0 +1,662 @@
+{
+  "query": "airway allergic asthma continuous",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04264377",
+          "briefTitle": "Towards Targeting the ORigin of the Inflammatory Cascade in Allergic Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Allergic Asthma"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00359073",
+          "briefTitle": "Effect of Montelukast on Experimentally-Induced RV16 Infection in Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01430403",
+          "briefTitle": "Preventative Omalizumab or Step-up Therapy for Severe Fall Exacerbations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 478,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03455959",
+          "briefTitle": "Lung-Resident Memory Th2 Cells in Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma, Allergic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07188675",
+          "briefTitle": "Functional Inspiratory Training in Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchiectasis", "Functional Inspiratory Muscle Training"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01536522",
+          "briefTitle": "Asthma Inflammation Research"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Allergic Asthma", "Non-allergic Asthma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02654145",
+          "briefTitle": "Omalizumab to Mepolizumab Switch Study in Severe Eosinophilic Asthma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 145,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06360393",
+          "briefTitle": "Inhaler Adherence and Inhalation Technique Assessed by a Smart Spacer in Patients with Severe Asthma on Biologics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01221350",
+          "briefTitle": "Effects of Lipoic Acid on Oxidative, Inflammatory and Functional Markers in Asthmatic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Allergic Rhinitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01711593",
+          "briefTitle": "Induced Tolerogenic Dendritic Cells as Modulators of Allergic Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Allergies"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05035862",
+          "briefTitle": "Mechanisms of Interferon Gamma-primed Mesenchymal Stromal Cells (MSCs) for Moderate-to-severe Persistent Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00731575",
+          "briefTitle": "Viral Inception of Asthma: Prospective Study From Infancy to School-age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "24 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01113437",
+          "briefTitle": "Omalizumab in Non-atopic Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Bronchial Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02038374",
+          "briefTitle": "Clinico-biological Correlation of Severe Asthma in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07013123",
+          "briefTitle": "Potency of HDM Sublingual AIT Tablets in Assuring the Persistency of Asthma Control in HDM Allergic Patients With Severe Asthma, Treated With Tezepelumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-08-18",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Asthma", "Allergy to House Dust Mites"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03393806",
+          "briefTitle": "Repeat Dose Study of GSK3772847 in Participants With Moderate to Severe Asthma With Allergic Fungal Airway Disease (AFAD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05331170",
+          "briefTitle": "Viral Mucosal Reprogramming"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Allergic Rhinitis", "Cat Allergy", "Healthy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01423461",
+          "briefTitle": "Personalized Asthma Care Team"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-07"
+          },
+          "completionDateStruct": {
+            "date": "2009-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "Sleep Disordered Breathing", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 201,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03299686",
+          "briefTitle": "Study to Assess the Efficacy and Safety of CJM112 in Patients With Inadequately Controlled Severe Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07308288",
+          "briefTitle": "Immune Nutrition in Pediatric Respiratory Allergy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma Acute", "Allergic Rhinitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04607629",
+          "briefTitle": "An Efficacy and Safety Study of Genolar® and Xolar® in the Persistent Atopic Bronchial Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchial Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      }
+    ]
+  }
+}

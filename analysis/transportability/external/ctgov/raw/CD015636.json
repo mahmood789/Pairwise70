@@ -1,0 +1,483 @@
+{
+  "query": "dengue denv hospitalizations investigations",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06060067",
+          "briefTitle": "A Study of Dengue Vaccine in Healthy Children, Teenagers and Adults in India"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03342898",
+          "briefTitle": "Immunogenicity and Safety of Tetravalent Dengue Vaccine (TDV) Administered With a Yellow Fever Vaccine in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 900,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02302066",
+          "briefTitle": "Safety and Immunogenicity of Different Schedules of Takeda's Tetravalent Dengue Vaccine Candidate (TDV) in Healthy Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1800,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02948829",
+          "briefTitle": "Safety and Immunogenicity of Takeda's Tetravalent Dengue Vaccine (TDV) in Healthy Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05201794",
+          "briefTitle": "A Study of JNJ-64281802 for the Prevention of Dengue Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1595,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06843226",
+          "briefTitle": "A Study in Children and Adolescents on the Effectiveness of Takeda's Licensed Dengue Vaccine TDV Against Hospitalization Due to Dengue Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue Fever"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 70000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05476757",
+          "briefTitle": "Safety, Virological and Immunological Assessment of Live Attenuated Dengue Serotype 2 rDEN2delta30-7169."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02425098",
+          "briefTitle": "Safety and Immunogenicity With Two Different Serotype 2 Potencies of Takeda's Tetravalent Dengue Vaccine Candidate (TDV) in Adults in Singapore"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 351,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03746015",
+          "briefTitle": "Immunogenicity and Safety of Tetravalent Dengue Vaccine Candidate (TDV) in Flavivirus-Naïve and Dengue-Immune Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01391819",
+          "briefTitle": "Study to Evaluate the Incidence, Clinical Characteristics and Economic Burden of Dengue in Brazilian Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2117,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02747927",
+          "briefTitle": "Efficacy, Safety and Immunogenicity of Takeda's Tetravalent Dengue Vaccine (TDV) in Healthy Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20099,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07119086",
+          "briefTitle": "Factors Associated With Hospitalization and Severity of Arbovirosis in the Indian Ocean"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2037-05-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Arbovirus Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01751139",
+          "briefTitle": "An Epidemiological Surveillance Study to Evaluate the Incidence of Dengue in Brazil"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03525119",
+          "briefTitle": "Immunogenicity and Safety of Tetravalent Dengue Vaccine (TDV) Co-administered With an Hepatitis A Virus Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 900,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06579755",
+          "briefTitle": "A Study of Dengue Tetravalent Vaccine (TDV) in Adults (Age 45 to 60 and >60 to 79 Years)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "79 Years"
+        }
+      }
+    ]
+  }
+}

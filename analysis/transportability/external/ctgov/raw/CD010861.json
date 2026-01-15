@@ -1,0 +1,196 @@
+{
+  "query": "days iron oral allocation",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03148483",
+          "briefTitle": "Calcium-vitamin D & Periodontal Therapy for Improving Metabolic and Inflammatory Profile Among Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Periodontitis", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05177484",
+          "briefTitle": "Perioperative Iron for Colorectal Cancer (PICoC Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cancer Colon"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01511848",
+          "briefTitle": "Study Of Efficacy,Safety of Combined Deferasirox and Deferiprone Versus Combined Deferiprone and Desferal In Conditions of Iron Overload"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Beta-thalassemia Major", "Sickle Cell Disease", "Iron Hemosiderosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02299661",
+          "briefTitle": "Pilot PK/PD Study of DS-1093a in Patients With Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Renal Disease", "Renal Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01036022",
+          "briefTitle": "Effect of GSK1399686 in Patients With Mild to Moderately Active Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-01-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colitis, Ulcerative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07278115",
+          "briefTitle": "Effects on Remission of Type 2 Diabetes Mellitus Following Gastric Bypass Alone vs Gastric Bypass Combined With Truncal Vagotomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "68 Years"
+        }
+      }
+    ]
+  }
+}

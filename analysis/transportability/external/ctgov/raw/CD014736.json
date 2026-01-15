@@ -1,0 +1,322 @@
+{
+  "query": "follow absolute values metres",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06999850",
+          "briefTitle": "Implementation and Validation of Instrumented Stair Climb Test"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stair Climbing", "Instrumentation", "Test"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05886114",
+          "briefTitle": "A Multi-domain Lifestyle Intervention Among Aged Community-residents in Zhejiang, China"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-28",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cognitive Impairment", "Alzheimer Disease", "Vascular Cognitive Impairment", "Dement", "Brain Diseases", "Central Nervous System Diseases", "Nervous System Diseases", "Neurocognitive Disorders", "Mental Disorder", "Cognition Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02370667",
+          "briefTitle": "A Biomechanical Exercise Program for Knee OA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis, Knee"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02609672",
+          "briefTitle": "Resilience for Older Workers With OA Through Exercise"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteoarthritis, Knee", "Osteoarthritis, Hip"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07169045",
+          "briefTitle": "Validity and Reliability of the 6-minute Stepper Test in Patients With Peripheral Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-24",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peripheral Artery Disease (PAD)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00658359",
+          "briefTitle": "Extension Study Of Subjects From Study A3921030 For The Prevention Of Acute Rejection In Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01668654",
+          "briefTitle": "Long-term, Open-label Safety Extension Study of Retigabine/Ezogabine in Pediatric Subjects (>= 12 Years Old) With POS or LGS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "29 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05185297",
+          "briefTitle": "Recreational Futsal for Controlled Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension,Essential", "Hypertension", "Blood Pressure Disorders", "Blood Pressure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "35 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05009381",
+          "briefTitle": "Effectiveness and Safety of STYLAGE® XXL for Chin Augmentation in Chinese Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esthetic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 174,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05481346",
+          "briefTitle": "Effects of Multidomain Training of Health With Aging (Train-Old)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sarcopenia", "Memory Loss", "Muscular Atrophy", "Cardiovascular Diseases", "Frailty"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "90 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,4585 @@
+{
+  "query": "analysis kidney injury sensitivity",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05283512",
+          "briefTitle": "Intravenous vs. Oral Hydration to Reduce the Risk of Post-Contrast Acute Kidney Injury After Intravenous Contrast-Enhanced Computed Tomography in Patients With Severe Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Contrast-induced Nephropathy", "Kidney Injury", "Kidney Failure, Chronic", "Risk Reduction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 254,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02471612",
+          "briefTitle": "Comparative Analysis of APACHE II and P-POSSUM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "External Causes of Morbidity and Mortality"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 159,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07087561",
+          "briefTitle": "Short-Term Nutritional Enhancement Combined With Health Education in Postoperative Colorectal Cancer Patients: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-10-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer (Diagnosis)", "Malnutrition or Risk of Malnutrition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03363958",
+          "briefTitle": "Remote Ischemic Conditioning to Attenuate Myocardial Death and Improve Operative Outcome."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Bypass", "Myocardial Reperfusion Injur", "Ischemic Preconditioning, Myocardial", "Ischemic Postconditioning"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02767154",
+          "briefTitle": "Dextran-based Priming vs. Crystalloid and Mannitol-based Priming Solution in Adult Cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03922308",
+          "briefTitle": "Study of rADAMTS-13 (SHP655) in the Treatment of Participants With Acquired Thrombotic Thrombocytopenic Purpura (aTTP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acquired Thrombotic Thrombocytopenic Purpura (aTTP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05880576",
+          "briefTitle": "The Arch Watch Study: An Integrated Evaluation of Hemodynamics in Infants With Suspected Coarctation of the Aorta"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coarctation of the Aorta", "Aortic Arch Obstruction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "60 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06772272",
+          "briefTitle": "Effect of Perioperative Roxadustat in Elective Lumbar Interbody Fusion Surgery."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perioperative Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 158,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02820844",
+          "briefTitle": "Efficacy and Safety of GSK1358820 in Subjects With Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Bladder, Overactive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04155645",
+          "briefTitle": "To Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of AZD8233 After Multiple Dose Administration in Subjects With Dyslipidemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dyslipidemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05361044",
+          "briefTitle": "Liver Graft Viability Assessment During Normothermic Regional Perfusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Transplant Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "66 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05929573",
+          "briefTitle": "RDRI and NGAL in Acute Kidney Injury in Abdominal Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07054541",
+          "briefTitle": "CliNical Study on UltrasOund-guided Percutaneous InterVention for AtriAl Septal Defect With the Assistance of Specialized Instruments"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Septal Defect (ASD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 666,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00361751",
+          "briefTitle": "Substrate Cycling in Energy Metabolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-05"
+          },
+          "completionDateStruct": {
+            "date": "2005-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Burns", "Insulin Resistance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03553069",
+          "briefTitle": "Simple Observational Critical Care Studies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Acute Disease", "Shock"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06206512",
+          "briefTitle": "Effect of Extended Release Torsemide in Patients With Congestive Heart Failure and Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Overactive Bladder", "Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02912624",
+          "briefTitle": "Simple Intensive Care Studies I (SICS-I)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Acute Disease", "Shock"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1090,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05700903",
+          "briefTitle": "Contributions to Hypertension With Androgen Deprivation Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Androgen Deprivation Therapy", "Prostate Cancer", "Hypertension", "Autonomic Dysfunction", "Renal Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04996368",
+          "briefTitle": "A Randomized Comparison of Two Doses of Tranexamic Acid in Open-Heart Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Use"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02666664",
+          "briefTitle": "Evaluation of Long-Term Safety and Tolerability of ETC-1002 in High-Risk Patients With Hyperlipidemia and High CV Risk (CLEAR Harmony)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypercholesterolemia", "Atherosclerotic Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2230,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06612307",
+          "briefTitle": "Sensitivity and Specificity of Leucocytes Subpopulation Versus Platelet Indices in Prediction of Clinical Outcome for Candidates With Sepsis. A Bi-centric Observational Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sepsis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 161,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03305627",
+          "briefTitle": "Optimized Perioperative Antibiotic Prophylaxis in Radical Cystectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Radical Cystectomy", "Surgical Site Infection", "Urologic Cancer", "Perioperative/Postoperative Complications", "Antibiotic Resistant Infection", "Antibiotic Side Effect", "Antibiotic-associated Diarrhea"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 196,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04383873",
+          "briefTitle": "Effectiveness Analysis of Armeo Spring Device as a Rehabilitation Treatment in Spinal Cord Injured Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spinal Cord Injury Cervical"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05634109",
+          "briefTitle": "Whole Blood in Trauma Patients With Hemorrhagic Shock"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Trauma", "Trauma Injury", "Trauma, Multiple"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01762852",
+          "briefTitle": "Efficacy and Safety Study of Intravenous Belimumab Versus Placebo in Subjects With Idiopathic Membranous Nephropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glomerulonephritis, Membranous"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05283213",
+          "briefTitle": "Development of an Innovative Clinico-biological Score for the Early Detection of Acute Renal Failure Associated With Cardiac Surgery."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01741896",
+          "briefTitle": "Can Remote Ischaemic Preconditioning Reduce Contrast Induced Nephropathy in Patients Receiving Contrast for Computed Tomography?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Contrast Induced Nephropathy", "Remote Ischaemic Preconditioning"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06197828",
+          "briefTitle": "Novel Biomarkers for Early Renal Injury in Children With Sepsis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "Sepsis", "Gout Flare"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04851015",
+          "briefTitle": "Low Dose Trimethoprim-Sulfamethoxazole for the Treatment of Pneumocystis Jirovecii Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pneumocystis", "Pneumocystis Pneumonia", "Pneumocystis Jirovecii Infection", "Pneumocystis Infections", "Pneumocystis Carinii Infection", "Pneumocystosis; Pneumonia (Etiology)", "Pneumocystis Carinii; Infection, Resulting From HIV Disease", "Pneumocystosis Associated With AIDS"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04187664",
+          "briefTitle": "Extended Care in High-Risk Surgical Patient (EXCARE) Pathway in High-risk Surgical Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Complications", "Patient Care Team"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1720,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00464204",
+          "briefTitle": "Effects of Voluven on Hemodynamics and Tolerability of Enteral Nutrition in Patients With Severe Sepsis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sepsis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 196,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05413109",
+          "briefTitle": "COMPression of Left Main coRonary artEry in patientS With Pulmonary Arterial Hypertension aSymptomatIc fOr aNgina"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Arterial Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03988634",
+          "briefTitle": "Changes in NT-proBNP, Safety, and Tolerability in HFpEF Patients With a WHF Event (HFpEF Decompensation) Who Have Been Stabilized and Initiated at the Time of or Within 30 Days Post-decompensation (PARAGLIDE-HF)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Failure With Preserved Ejection Fraction (HFpEF)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 467,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03020160",
+          "briefTitle": "A Study to Evaluate the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Emicizumab Given Every 4 Weeks in Participants With Hemophilia A"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemophilia A"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07216781",
+          "briefTitle": "Safety and Efficacy of Injectable Klotho Plasmid Gene Therapy in Humans"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Adults"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "23 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04039789",
+          "briefTitle": "Impact of Physical Activity as a Coadjuvant Treatment in the Healing of Venous Ulcers in Primary Health Care."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Varicose Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05273216",
+          "briefTitle": "Reperfusion Injury After Endovascular Stroke Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06191432",
+          "briefTitle": "Tolerability of an Ancient Grain in Patients With Non-Celiac Wheat Sensitivity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-celiac Gluten Sensitivity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06291714",
+          "briefTitle": "Non-invasive Measurement of the Hypotension Prediction Index for the Reduction of Intraoperative Hypotension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intraoperative Hypotension", "Acute Kidney Injury", "Myocardial Injury After Non-cardiac Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07189091",
+          "briefTitle": "CReep and Maintenance flUid Sodium Chloride ADministration rEduction in cRitically Ill adultS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Care, Intensive Care", "Fluid Accumulation", "Fluid and Electrolyte Imbalance", "Critical Illness", "Fluid Balance Outcomes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 640,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07215273",
+          "briefTitle": "Study of EL219 vs Standard of Care for Early Antifungal Therapy of Suspected Invasive Mould Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Suspected Invasive Mould Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07079748",
+          "briefTitle": "Study of the Effects and Mechanisms of Yeast Postbiotics on Persistent Allergic Rhinitis Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06154642",
+          "briefTitle": "Perioperative Hemodynamic and Microcirculatory Physiological Study During TAVI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aortic Valve Stenosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03518372",
+          "briefTitle": "Myocardial Injury and Intraoperative Tissue Oximetry in Patients Undergoing Spine Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypoxia", "Myocardial Injury", "Surgery--Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06219083",
+          "briefTitle": "Nutritional Status and Clinical Outcomes in Patients With Common Malignancies(NCOM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Chemoradiotherapy", "Nutrition, Healthy", "Oncology", "Clinical Outcomes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1538,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02831764",
+          "briefTitle": "An Efficacy, Safety, and Tolerability Study Comparing Dolutegravir (DTG) Plus Lamivudine (3TC) With Dolutegravir Plus Tenofovir/Emtricitabine in Treatment naïve HIV Infected Participants (Gemini 2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infection, Human Immunodeficiency Virus", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 722,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06652100",
+          "briefTitle": "Establishment of ProNephro AKI (NGAL) Cut Off Value for Risk Assessment of Moderate to Severe Acute Kidney Injury in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03734393",
+          "briefTitle": "HOPE in Action Trial of HIV+ Deceased Donor Liver Transplants for HIV+ Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hiv"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07131007",
+          "briefTitle": "Construction and Evaluation of Tumor Immunotherapy and Organ Damage Early Warning System Based on Multi-omics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malignant Neoplasm", "Organ Damage"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07139626",
+          "briefTitle": "Screening of Predictive Biomarkers for Cardiorenal Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiorenal Syndrome (CRS)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04752293",
+          "briefTitle": "Pediatric Hypertension and the Renin-Angiotensin SystEm (PHRASE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Left Ventricular Hypertrophy", "Left Ventricular Dysfunction", "Left Atrial Dilatation", "Left Ventricular Diastolic Dysfunction", "Kidney Diseases", "Kidney Injury", "Kidney Dysfunction", "Sodium Urine High", "Blood Pressure Disorders", "Uric Acid Retention", "Angiotensin Hypertension", "Autonomic Dysfunction", "Autonomic Imbalance", "Pediatric Kidney Disease", "Pediatric Obesity", "Proteinuria", "Albuminuria"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06472596",
+          "briefTitle": "Risk of Chronic Kidney Disease in Bronchial Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchial Asthma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06711731",
+          "briefTitle": "The Freiburg Registry on SpontanEous IntercrAnial Hypotension (SIH) & Post-duraL Puncture Headache (PDPH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2036-12-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "CerebroSpinal Fluid (CSF) Leak"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02585765",
+          "briefTitle": "Skin Blood Flow Response to Insulin Iontophoresis in Pressure Ulcers of SCI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Spinal Cord Injury", "Pressure Ulcers"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06399887",
+          "briefTitle": "Investigation of the Effectiveness of Different Interventions for Lower Urinary Tract Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lower Urinary Tract Symptoms", "Biofeedback", "Pelvic Floor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01063309",
+          "briefTitle": "Non-Invasive Assessment of Atherosclerosis in Patients With CGD and Other Disorders of the Immune System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atherosclerosis", "Chronic Granulomatous Disease (CGD)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 156,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04836780",
+          "briefTitle": "DEXamethasone EARLY Administration in Hospitalized Patients With Covid-19 Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Acute Respiratory Distress Syndrome", "Pneumonia, Viral"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07192965",
+          "briefTitle": "ECG-less Coronary Computed Tomography Angiography in the Management of Patients Presenting With High-troponin Chest Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chest Pain", "Acute Coronary Syndromes (ACS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06583395",
+          "briefTitle": "Quest to Analyze One Thousand Humans Meditating"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Amyotrophic Lateral Sclerosis (ALS)", "Angina, Stable", "Anxiety", "Asthma", "Atrial Fibrillation", "Cancer Brain", "Cancer, Breast", "Cancer Colon", "Cancer, Lung", "Cancer, Ovarian", "Cancer Prostate", "Cancer Skin", "Throat Cancer", "Lymphoma", "Cancer, Thyroid", "Cancer, Other", "Cerebral Palsy", "Chronic Fatigue Syndrome", "Cluster Headache", "Chronic Obstructive Pulmonary Disease (COPD)", "Chronic Kidney Diseases", "Crohn Disease", "Deafness", "Depression", "Diabetes", "Eczema", "Epilepsy", "Fibroids", "Fibromyalgia", "Heart Failure", "Hypertension", "Hyperthyroidism", "Hypothyroidism", "Irritable Bowel Syndrome (IBS)", "Infertility", "Lyme Disease", "Macular Degeneration", "Migraine", "Multiple Allergies", "Multiple Sclerosis", "Osteoarthritis", "Osteoporosis", "Ovarian Cysts", "Parkinson Disease", "Phantom Limb Pain", "Psoriasis", "Post Traumatic Stress Disorder (PTSD)", "Rheumatoid Arthritis", "Sjogrens Disease", "Spinal Cord Injury", "Spinal Stenosis", "Stroke", "Tension Headache", "Tinnitus", "Ulcerative Colitis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05214729",
+          "briefTitle": "A Net Ultrafiltration Challenge to Predict Preload-dependence (UF CHALLENGE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06541483",
+          "briefTitle": "Multicentre Clinical Study of Ultra-Fast-Track Anaesthesia for Minimally Invasive Heart Valve Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Valve Diseases", "Enhanced Recovery After Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07285941",
+          "briefTitle": "Efficacy and Safety of Distamab Vedotin Combined With Carboplatin for Advanced Ovarian Cancer in the First Line Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ovarian Cancer", "HER2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05783700",
+          "briefTitle": "Identification of Biomarkers for the Study of the Diabetic Foot and Evolution."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetic Foot", "Sarcopenia", "Neuropathy, Diabetic", "Vascular Disease, Peripheral", "Metabolic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06115031",
+          "briefTitle": "Remimazolam vs. Propofol: Impact on Postoperative Delirium in Neurosurgical Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 696,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04181138",
+          "briefTitle": "Primary Sclerosing Cholangitis in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Primary Sclerosing Cholangitis", "Liver Diseases", "Cholangitis, Sclerosing"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07194057",
+          "briefTitle": "\"A Privacy-protecting Environment for Child Transplants Health Related and Genomic Data Integration in the European Reference Network\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Transplant Complication", "Kidney Transplant", "Liver Transplant"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05332262",
+          "briefTitle": "A Precision Medicine Approach to Identify Patients Undergoing Elective PCI at Risk of Peri-PCI Myocardial Infarction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03446573",
+          "briefTitle": "Switch Study to Evaluate Dolutegravir Plus Lamivudine in Virologically Suppressed Human Immunodeficiency Virus Type 1 Positive Adults (TANGO)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 743,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02159209",
+          "briefTitle": "The Drug Induced Renal Injury Consortium"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "Adverse Drug Reaction", "Acute Kidney Failure", "Kidney Failure", "Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 634,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01630928",
+          "briefTitle": "Renal Sympathetic Denervation and Potential Effects on Glucose Metabolism and Cardiovascular Risk-Factors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension, Resistant to Conventional Therapy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03355664",
+          "briefTitle": "Study to Compare the Triple ACT AL+AQ With the ACT AL in Cambodia and Vietnam"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria, Falciparum"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01476995",
+          "briefTitle": "Prognostic Indicators as Provided by the EPIC ClearView"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Congestive Heart Failure", "Valvular Heart Disease", "Atrial Fibrillation", "Hypertension", "Pyelonephritis", "Acute Renal Failure", "Renal Failure", "Viral Hepatitis", "Alcoholic Hepatitis", "Steatohepatitis", "Cirrhosis", "Asthma", "COPD", "Bronchitis", "Emphysema", "Pneumonia", "Inflammatory Bowel Disease", "Crohn's Disease", "Ulcerative Colitis", "Diverticulitis", "Peptic Ulcer Disease", "Irritable Bowel Syndrome", "Cholecystitis", "Pancreatitis", "Malabsorption Disorders", "Celiac Sprue", "Diabetes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 353,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02938520",
+          "briefTitle": "Study to Evaluate the Efficacy, Safety, and Tolerability of Long-acting Intramuscular Cabotegravir and Rilpivirine for Maintenance of Virologic Suppression Following Switch From an Integrase Inhibitor in HIV-1 Infected Therapy Naive Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 631,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00201578",
+          "briefTitle": "Case Control Study of Non Viral Hepatitis Relating to Herbal Drug Use in the Emergency Department"
+        },
+        "statusModule": {
+          "startDateStruct": {},
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Acute Hepatitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03593785",
+          "briefTitle": "A Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of AZD8233 in Healthy Male Subjects With Increased Elevated LDL-C Levels."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypercholesterolemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 73,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04388410",
+          "briefTitle": "Safety and Efficacy of Convalescent Plasma Transfusion for Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 410,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01906489",
+          "briefTitle": "20-Week Repeat Oral Dose Study of AKB-6548 in Participants With Chronic Kidney Disease and Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-09-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anemia", "Chronic Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "82 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04963998",
+          "briefTitle": "Safety and Efficacy Study of MedCu Wound Dressings"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Wounds and Injuries", "Diabetes Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02951052",
+          "briefTitle": "Study Evaluating the Efficacy, Safety, and Tolerability of Switching to Long-acting Cabotegravir Plus Long-acting Rilpivirine From Current Antiretroviral Regimen in Virologically Suppressed HIV-1-infected Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infection, Human Immunodeficiency Virus", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 618,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04243161",
+          "briefTitle": "RMT in Patients With Spinal Cord Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spinal Cord Injuries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07188766",
+          "briefTitle": "Efficacy of Liberal Versus Restricted IV Fluid Approach in the Management of Sickle Cell Vaso-Occlusive Crisis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["SCD", "Vaso Occlussive Crisis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 394,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04624776",
+          "briefTitle": "Steroid Treatment After Resuscitated Out-of-Hospital Cardiac Arrest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Out-Of-Hospital Cardiac Arrest", "Cardiac Arrest", "Cardiac Arrest With Successful Resuscitation", "Post Cardiac Arrest Syndrome", "Systemic Inflammatory Response Syndrome", "Neurological Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 158,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07300579",
+          "briefTitle": "Vascular Events in Noncardiac Surgery Patients Cohort Evaluation Study 2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myocardial Injury After Noncardiac Surgery (MINS)", "Bleeding Independently Associated With Mortality After Noncardiac Surgery (BIMS)", "Sepsis", "Infection Without Sepsis", "Post-operative Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03855722",
+          "briefTitle": "Remote Ischaemic Preconditioning in Transplantation (RIPTRANS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2042-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transplant Dysfunction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 496,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07085858",
+          "briefTitle": "Study of the Preventive Effects and Mechanisms of Yeast β-Glucan on Upper Respiratory Tract Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Upper Respiratory Tract Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07279987",
+          "briefTitle": "Comparison of RA-IVL and RA-SHP in Calcified Coronary Lesions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vascular Calcification"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01729728",
+          "briefTitle": "Pharmacokinetic, Efficacy and Safety Study of Tapentadol Oral Solution in Children With Postoperative Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Pain", "Acute Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07135557",
+          "briefTitle": "R-ONE® Robotically-Enhanced PCI Intervention Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 145,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06977230",
+          "briefTitle": "Remote Ischemic Preconditioning in Type 2 Diabetic Patients Undergoing CABG"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Coronary Artery Bypass", "Remote Ischaemic Conditioning"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05399420",
+          "briefTitle": "Study of Kidney Circulating Cell-free DNA in Patients With Acute Kidney Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Failure, Acute"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06545838",
+          "briefTitle": "Renin Levels as Prognostic Indicators of Septic Shock Severity and Outcome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sepsis", "Septic Shock"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07153302",
+          "briefTitle": "Assessing Bone Fracture Healing Effect of Almonds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Femur Shaft Fracture", "Tibia Fractures", "Vitamin D", "Sweet Almonds", "Callus Index", "Callus Bridging"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 136,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05938712",
+          "briefTitle": "The Efficacy, Mechanism & Safety of Sodium Glucose Co-Transporter-2 Inhibitor & Glucagon-Like Peptide 1 Receptor Agonist Combination Therapy in Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant Recipients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07033260",
+          "briefTitle": "Predictive Value of Carotid Ultrasonography for Intradialytic Hypotension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intradialytic Hypotension", "End-Stage Renal Disease Requiring Haemodialysis", "Uremia; Chronic", "Hemodialysis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00379769",
+          "briefTitle": "RECORD: Rosiglitazone Evaluated for Cardiac Outcomes and Regulation of Glycaemia in Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-04"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4447,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04615702",
+          "briefTitle": "Evidence Based Management of Acute Biliary Pancreatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Pancreatitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07059728",
+          "briefTitle": "High Flow Nasal Oxygenation in Transcatheter Aortic Valve Replacement Procedures. TAVR-Highflow II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aortic Stenosis Treated With TAVI", "Sedation; Aged; Hemodynamics"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 452,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07079137",
+          "briefTitle": "A Prospective Observational Study to Determine the Predictive Accuracy of Snakebite Severity Score (SSS) in Identifying Syndrome-Specific Core Outcome Parameters Amongst Envenomated Patients Presenting to the Emergency Department."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-14",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Snake Bite"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02666326",
+          "briefTitle": "Accelerated Rule Out of Myocardial Infarction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myocardial Infarction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4516,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03617185",
+          "briefTitle": "Effect of Exercise and Surgical Weight Loss on Polyneuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Polyneuropathies", "Obesity", "Bariatric Surgery Candidate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03863015",
+          "briefTitle": "IL-6 Inhibition for Modulating Inflammation After Cardiac Arrest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Arrest", "Out-Of-Hospital Cardiac Arrest", "Systemic Inflammatory Response Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02060760",
+          "briefTitle": "Use of Abbott High Sensitivity Troponin I Assay In Acute Coronary Syndromes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Coronary Syndrome", "Myocardial Infarction", "Troponin"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1927,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06327750",
+          "briefTitle": "The Microcirculation, Dialysis Modality and Sequestered Salt"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End-stage Renal Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03299049",
+          "briefTitle": "Efficacy, Safety and Tolerability Study of Long-acting Cabotegravir Plus Long-acting Rilpivirine (CAB LA + RPV LA) in Human-immunodeficiency Virus-1 (HIV-1) Infected Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1049,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01205776",
+          "briefTitle": "EXCEL Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Coronary Occlusion", "Unprotected Left Main Coronary Artery Disease", "Stent Thrombosis", "Vascular Disease", "Myocardial Ischemia", "Coronary Artery Stenosis", "Coronary Disease", "Coronary Artery Disease", "Coronary Restenosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1905,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00128973",
+          "briefTitle": "Evaluation of Patients With Immune Function Abnormalities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Granulomatous Disease (CGD)", "X-Linked Severe Combined Immune Deficiency (XSCID)", "Leukocyte Adhesion Deficiency 1 (LAD)", "Graft Versus Host Disease (cGvHD)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05380089",
+          "briefTitle": "Effects of Hydration Changes on Neuromuscular Function of Athletes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dehydration", "Hyperhydration"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06775158",
+          "briefTitle": "Perioperative Myocardial and Renal Injury in Patients Undergoing Hepatic Resection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Neoplasm", "Kidney Injury, Acute", "Myocardial Injury After Non-Cardiac Surgery"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03527758",
+          "briefTitle": "Correlation Between Circulating Biomarkers of Organs Damage and Intraoperative Hypotension Management"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypotension", "Brain Injuries", "Renal Failure", "Endothelial Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07140419",
+          "briefTitle": "Coronary Computed Tomographic Angiography Combined With CT-FFR in Intermediate-Risk Chest Pain Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2032-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chest Pain", "Coronary Artery Disease", "Emergency Department"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03641534",
+          "briefTitle": "Monitoring of Perfusion in Sepsis and Malaria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Sepsis", "Malaria"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 103,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04041323",
+          "briefTitle": "Incidence and Outcomes of Acute Kidney Injury in Postoperative ICU Patients - a Retrospective Data Analysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "ICU", "Postoperative Patients"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06212336",
+          "briefTitle": "ISTH/ANRS 0409s INTEGRATE Lassa Fever Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lassa Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1755,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07195331",
+          "briefTitle": "Comparison Between Standard and Reduced Doses of Indocyanine Green in Fluorescence Cholangiography During Laparoscopic Cholecystectomy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Laparoscopic Cholecystectomy Surgery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02376712",
+          "briefTitle": "Diagnostic Value of Urinary Indices in Differentiating Pre-renal and Renal Acute Kidney Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05389202",
+          "briefTitle": "Study of Prostate Perfusion Before Embolization in Patients With Symptomatic Prostate Adenoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06496412",
+          "briefTitle": "Safety and Efficacy of Fecal Microbiota Transplantation on Cognitive Function in T1DM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06868719",
+          "briefTitle": "Ketone Ester And Salt (KEAS) in Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Salt; Excess", "Hypertension", "Aging", "Inflammation", "Blood Pressure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06597045",
+          "briefTitle": "BIOMARKER and IMAGING CHARACTERISATION of INFLAMMATORY ATHEROMA in PATIENTS RECEIVING IMMUNOTHERAPY and ANGIOGENESIS INHIBITORS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Cardiotoxicity", "Atherosclerotic Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05148715",
+          "briefTitle": "Calcineurin Inhibitor in NEuRoloGically Deceased Donors to Decrease Kidney delaYed Graft Function (CINERGY)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Organ Transplant Failure or Rejection", "Brain Death", "Ischemic Reperfusion Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 414,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04222660",
+          "briefTitle": "Corneal Nerves Function and Structure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Peripheral Neuropathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07033273",
+          "briefTitle": "Inferior Vena Cava Collapsibility Index and Intradialytic Hypotension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End-Stage Renal Disease Requiring Haemodialysis", "Intradialytic Hypotension"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06791304",
+          "briefTitle": "Renal Resistive Index in Early Detection of Postoperative Acute Kidney Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Insufficiency, Acute", "Cardiac Surgery Associated - Acute Kidney Injury"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 143,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02471885",
+          "briefTitle": "Effect of Remote Ischaemic Conditioning in Oncology Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiotoxicity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06245213",
+          "briefTitle": "A Study of ANAVEX3-71 in Adults With Schizophrenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03523780",
+          "briefTitle": "Transfusion of Whole Blood and Cesarean Delivery: A Retrospective Review"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labor Complications"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05686447",
+          "briefTitle": "Screening and Therapeutic Monitoring of Multiple Myeloma by MALDI-TOF MS Analysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Monoclonal Gammopathies", "Multiple Myeloma", "M-protein"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06967363",
+          "briefTitle": "Multimodal Imaging and Biospecimen Collection for Low Back Pain (LBPB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Low Back Pain (CLBP)", "Acute Low Back Pain", "Low Back Pain", "Chronic Pain", "Acute Pain", "Mental Disorders", "Sleep Disorder", "Fibromyalgia (FM)", "Nociplastic Pain", "Neuropathic Pain", "Nonspecific Low Back Pain"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07071441",
+          "briefTitle": "Indomethacin vs Diclofenac for Preventing PEP"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ERCP", "Pancreatitis", "Non-steroidal Anti-inflammatory (NSAID)", "Indomethacin", "Diclofenac"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4050,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04369469",
+          "briefTitle": "Efficacy and Safety Study of IV Ravulizumab in Patients With COVID-19 Severe Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19 Severe Pneumonia", "Acute Lung Injury", "Acute Respiratory Distress Syndrome", "Pneumonia, Viral"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 202,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02533128",
+          "briefTitle": "Biomarkers, Blood Pressure, BIS: Risk Stratification/Management of Patients at Cardiac Risk in Major Noncardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-14"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypotension", "Postoperative Complications", "Acute Coronary Syndrome", "Heart Failure", "Coronary Occlusion", "Stroke", "Acute Kidney Injury", "Renal Insufficiency, Chronic", "Death"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 458,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05726825",
+          "briefTitle": "Efficacy of Add-on Plasma Exchange As an Adjunctive Strategy Against Septic Shock"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Septic Shock"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 274,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02308111",
+          "briefTitle": "Phase 4 Study of Obeticholic Acid Evaluating Clinical Outcomes in Patients With Primary Biliary Cholangitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Cirrhosis, Biliary"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 334,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01381354",
+          "briefTitle": "Nutrition, Neuromuscular Electrical Stimulation (NMES) and Secondary Progressive Multiple Sclerosis (SPMS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01536379",
+          "briefTitle": "A Study of Belimumab in the Prevention of Kidney Transplant Rejection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transplantation, Organ"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03798067",
+          "briefTitle": "Correlation Between Monitoring Renal Hemodynamics by Esophageal Ultrasound and Acute Kidney Injury After Heart Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02477540",
+          "briefTitle": "A Safety and Efficacy Study of Autologous Bone Marrow Derived Mesenchymal Stem Cells in Critical Limb Ischemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critical Limb Ischemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04520282",
+          "briefTitle": "Hemostatic Variables In Snakebite Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Snake Bites", "Coagulopathy, Consumption"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03965299",
+          "briefTitle": "Transcutaneous Tibial Nerve Stimulation in Acute Spinal Cord Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spinal Cord Injury, Acute"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05339841",
+          "briefTitle": "Italian Digital Primary Cardiovascular Prevention Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Population"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27520,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05393505",
+          "briefTitle": "Fast-track Blood Test for Suspected Fever by Deficiency of a Kind of White Blood Cells As Main Defense Against Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neutropenic Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 344,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01758692",
+          "briefTitle": "Measurement of Autonomic Cardiovascular Integrity in Persons With SCI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spinal Cord Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 177,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03765203",
+          "briefTitle": "Utility of a Novel Dd-cfDNA Test to Detect Injury in Renal Post-Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transplant;Failure,Kidney"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 175,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02289040",
+          "briefTitle": "Acute Kidney Injury Following Paediatric Cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02831673",
+          "briefTitle": "An Efficacy, Safety, and Tolerability Study Comparing Dolutegravir Plus Lamivudine With Dolutegravir Plus Tenofovir/Emtricitabine in Treatment naïve HIV Infected Subjects (Gemini 1)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infection, Human Immunodeficiency Virus", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 719,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06871150",
+          "briefTitle": "Three Different GHDT ( Goal Hemodynamic Directed Therapy) Strategies for Intraoperative Fluid Management Optimization During Major Abdominal Surgery: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemodynamic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04898595",
+          "briefTitle": "Discontinuing CRRT in Patients with Acute Kidney Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Kidney Injury"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 67,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

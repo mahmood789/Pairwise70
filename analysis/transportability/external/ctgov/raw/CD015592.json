@@ -1,0 +1,509 @@
+{
+  "query": "episodes lumbar procedure puncture",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03653975",
+          "briefTitle": "Clinical Features and Potential Etiology of Epilepsy and Nodding Syndrome in the Mahenge Area, Ulanga District"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nodding Syndrome", "Epilepsy", "Onchocerciasis", "Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01817166",
+          "briefTitle": "Efficacy of Cholecalciferol (Vitamin D3) for Delaying the Diagnosis of MS After a Clinically Isolated Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07-16"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 316,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "56 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04298723",
+          "briefTitle": "Comparison of LAA-Closure vs Oral Anticoagulation in Patients With NVAF and Status Post Intracranial Bleeding."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracranial Hemorrhages", "Atrial Fibrillation (AF)", "Atrial Flutter"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 530,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04124029",
+          "briefTitle": "Contributions of mTBI to Neurodegeneration Due to Chronic Traumatic Encephalopathy (CTE) and Alzheimer's Disease (AD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mild Traumatic Brain Injury", "Moderate Traumatic Brain Injury", "Mild Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04300582",
+          "briefTitle": "Fast Radial Pharmaco-invasive Strategy In ST Elevation Myocardial Infarction Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ST-segment Elevation Myocardial Infarction (STEMI)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04570345",
+          "briefTitle": "3 Months Versus 12 Months Dual Antiplatelet Therapy After Drug-eluting Stent Implantation in STEMI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ST Elevation Myocardial Infarction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1002,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06412484",
+          "briefTitle": "State vs. Trait Alterations in Low Back Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Low Back Pain"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03815175",
+          "briefTitle": "XIENCE 28 USA Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bleeding Disorder", "Ischemic Stroke", "Hemorrhagic Stroke", "Hematological Diseases", "Thrombocytopenia", "Coagulation Disorder", "Anemia", "Renal Insufficiency", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1605,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00071903",
+          "briefTitle": "The Role of Susceptibility to Thrombosis in the Pseudotumor Cerebri of Nephropathic Cystinosis: A Case-Control Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-10-30"
+          },
+          "completionDateStruct": {
+            "date": "2008-07-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pseudotumor Cerebri", "Cystinosis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 18
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02879448",
+          "briefTitle": "AMPLATZER™ Amulet™ LAA Occluder Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-24"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1878,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03218787",
+          "briefTitle": "XIENCE 90: A Safety Evaluation of 3-month DAPT After XIENCE Implantation for HBR Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Lesions"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2047,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03540433",
+          "briefTitle": "International Observational Study on Perioperative Cognitive Trajectories (POCD Census International/PCI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Cognitive Deficit (POCD)", "Neurocognitive Disorders"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 173,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05275881",
+          "briefTitle": "Impact of Virtual Reality in Hematology and Oncology During Invasive Procedures in Children, Adolescents and Young Adults, from 7 to Less Than 25 Years Old"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Virtual Reality", "Pediatrics", "Cancer", "Pain", "Procedural Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06540859",
+          "briefTitle": "Spinal Cord Stimulation for Autonomic Recovery in Inpatient Rehabilitation After Acute SCI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spinal Cord Injuries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03095144",
+          "briefTitle": "Spinal Anesthesia and General Anesthesia for Pyloromyotomy - Surgical Outcomes a Comparison Retrospective Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertrophic Pyloric Stenosis", "Spinal Anesthesia", "General Anesthesia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Weeks",
+          "maximumAge": "6 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03433976",
+          "briefTitle": "Prilocaine or Bupivacaine for Spinal Anesthesiain Pregnant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

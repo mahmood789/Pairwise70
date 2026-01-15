@@ -1,0 +1,69 @@
+{
+  "query": "hearing analysis persistence presence",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06711731",
+          "briefTitle": "The Freiburg Registry on SpontanEous IntercrAnial Hypotension (SIH) & Post-duraL Puncture Headache (PDPH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2036-12-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "CerebroSpinal Fluid (CSF) Leak"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05452564",
+          "briefTitle": "Baricitinib for Reduction of HIV - CNS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Human Immunodeficiency Virus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

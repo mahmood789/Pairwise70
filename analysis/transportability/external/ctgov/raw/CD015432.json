@@ -1,0 +1,193 @@
+{
+  "query": "hours postintervention less reported",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05668442",
+          "briefTitle": "Feasibility of an Online Exercise Community Among Individuals With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Type2diabetes", "Diabetes Mellitus, Type 2", "Type2 Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04949984",
+          "briefTitle": "Bright Light Therapy in Older Adults With Moderate to Very Severe Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Mood", "Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "healthyVolunteers": false
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05655104",
+          "briefTitle": "Effects of the Couplet Care in Neonatal Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Early Skin-to-skin Contact", "Psychological Distress", "Parenting", "Preterm Infant"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "healthyVolunteers": false
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04069897",
+          "briefTitle": "Botulinum Toxin Type A Blockade of the Sphenopalatine Ganglion in Treatment-refractory Chronic Migraine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Migraine Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 170,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "healthyVolunteers": false,
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07098910",
+          "briefTitle": "Surfactant Therapy Via Supraglottic Airway to Preterm Neonates With RDS in Vietnam"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome in Premature Infant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "healthyVolunteers": false,
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02234557",
+          "briefTitle": "Tai Chi Training for Children With ADHD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ADHD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "healthyVolunteers": false,
+          "maximumAge": "12 Years"
+        }
+      }
+    ]
+  }
+}

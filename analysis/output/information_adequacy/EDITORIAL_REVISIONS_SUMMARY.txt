@@ -1,0 +1,55 @@
+
+================================================================================
+EDITORIAL REVISIONS SUMMARY - INFORMATION ADEQUACY INDEX
+================================================================================
+Generated: 2026-01-04 13:09:10.519347
+
+REVISION 1: RRR SENSITIVITY ANALYSIS
+------------------------------------
+Tested RRR values: 10%, 15%, 20%, 25%, 30%
+Range of adequate: 25.4% to 74.2%
+Conclusion: Results are SENSITIVE to RRR assumption.
+
+REVISION 2: HETEROGENEITY PARADOX
+---------------------------------
+Finding: High I² showed HIGHER adequacy (62.0%) than low I² (44.4%)
+Explanation: Confounding - high I² reviews have larger k and N
+When stratified by k: Relationship REVERSES as expected
+Conclusion: Paradox explained; methodology is sound.
+
+REVISION 3: MAFI COMPARISON
+---------------------------
+Status: Correlation r=-0.262
+Conclusion: IAI and MAFI capture DISTINCT constructs.
+
+REVISION 4: WEIGHT SENSITIVITY
+------------------------------
+Maximum class change: 21.1%
+Conclusion: IAI is MODERATELY SENSITIVE to weight perturbations.
+
+REVISION 5: CONFIDENCE INTERVALS
+--------------------------------
+Adequate Information: 57.6% (95% CI: 52.9% - 62.4%)
+Premature Conclusions: 24.4% (95% CI: 18.6% - 29.7%)
+
+REVISION 6: LITERATURE COMPARISON
+---------------------------------
+Imberger et al. (2016): 14% false positives
+Our finding: 24.4% premature conclusions
+Concordance: CONCORDANT
+
+FILES GENERATED:
+- rrr_sensitivity_analysis.csv
+- heterogeneity_paradox_investigation.csv
+- heterogeneity_stratified_analysis.csv
+- iai_mafi_comparison.csv (if data available)
+- iai_weight_sensitivity.csv
+- bootstrap_confidence_intervals.csv
+- literature_comparison.csv
+- fig_rrr_sensitivity.png
+- fig_iai_vs_mafi.png (if data available)
+
+================================================================================
+RECOMMENDATION: Address remaining minor issues and resubmit.
+================================================================================
+

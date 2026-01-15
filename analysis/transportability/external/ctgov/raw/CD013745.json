@@ -1,0 +1,192 @@
+{
+  "query": "antiplatelet apixaban edoxaban noacs",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05764356",
+          "briefTitle": "Imapct of bioMarkers on Pharmacodynamics and Bleeding Risk of Direct Oral AntiCoagulants and Ticagrelor Study II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Novel Oral Anticoagulants", "NOACs", "Rivaroxaban", "Apixaban", "Edoxaban", "Dabigatran", "Ticagrelor", "Pharmacodynamics", "Pharmacogenomics", "RNA Profile", "Bleeding", "Biomarker"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04291287",
+          "briefTitle": "Triple or Dual Antithrombotic Therapy After PCI (TRIDUAL-PCI) Coronary Intervention in Patients With Non-valvular Atrial Fibrillation. Real-world Italian Multicenter Registry (TRIDUAL-PCI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation", "Myocardial Infarction", "Anticoagulant-induced Bleeding", "Coronary Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03993119",
+          "briefTitle": "This Study Observes the Usage of Non-vitamin K Antagonist Oral Anticoagulants (NOACs) in Elderly Patients With a Heart Rhythm Disorder in Spain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03968393",
+          "briefTitle": "Anticoagulation for Stroke Prevention In Patients With Recent Episodes of Perioperative AF After Noncardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2270,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03790917",
+          "briefTitle": "Assessment of Adherence to New Oral anTicoagulants in Atrial Fibrillation patiEnts Within the Outpatient registrY"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 201,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03463317",
+          "briefTitle": "Left Atrial Appendage CLOSURE in Patients With Atrial Fibrillation Compared to Medical Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 912,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

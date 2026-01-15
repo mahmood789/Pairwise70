@@ -1,0 +1,69 @@
+{
+  "query": "grade response anaemia degradation",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05131022",
+          "briefTitle": "A Study of NX-5948 in Adults With Relapsed/Refractory B-cell Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Lymphocytic Leukemia (CLL)", "Small Lymphocytic Lymphoma (SLL)", "Diffuse Large B Cell Lymphoma (DLBCL)", "Follicular Lymphoma (FL)", "Mantle Cell Lymphoma (MCL)", "Marginal Zone Lymphoma (MZL)", "Waldenstrom Macroglobulinemia (WM)", "Primary Central Nervous System Lymphoma (PCNSL)", "Secondary Central Nervous System Lymphoma (SCNSL)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 572,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04951999",
+          "briefTitle": "AssocIation of PULSatility and Occurrence of Complications Related to Mechanically Assisted Circulatory Support"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End-stage Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "query": "incontinence cure episode episodes",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06389838",
+          "briefTitle": "RCT on Multimodal Self-treatment for Women With Incontinence Using a Digital Health Application"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence,Stress", "Urinary Incontinence, Urge", "Urinary Incontinence", "Overactive Bladder Syndrome", "Female Urinary Stress Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 194,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07000656",
+          "briefTitle": "Micturition Desire-Relaxation Training Device for Lower Urinary Tract Dysfunction in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Daytime Urinary Incontinence", "Urinary Frequency", "Lower Urinary Tract Dysfunction", "Primary Nocturnal Enuresis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02606201",
+          "briefTitle": "Peri-sphincter Injection of Autologous Myofibres to Treat of Urinary Incontinence by Sphincter Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence by Intrinsic Sphincter Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05387824",
+          "briefTitle": "Tibial Nerve and Extracorporeal Magnetic Stimulation for Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Idiopathic Overactive Bladder", "Bladder Training", "Transcutaneous Tibial Nerve Stimulation", "Magnetic Stimulation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02349334",
+          "briefTitle": "UK Trial of Percutaneous Tibial Nerve Stimulation in Patients With Faecal Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Faecal Incontinence", "Bowel Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 227,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00632138",
+          "briefTitle": "Pelvic Floor Muscle Training and Biofeedback or Standard Therapy in Men Who Have Undergone Radical Prostatectomy or Transurethral Resection of the Prostate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nonmalignant Neoplasm", "Prostate Cancer", "Psychosocial Effects of Cancer and Its Treatment", "Sexual Dysfunction", "Urinary Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00629083",
+          "briefTitle": "Bulking Agents for the Treatment of Stress Urinary Incontinence in Females"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 345,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02886520",
+          "briefTitle": "Comparative Study of PDVF and Polypropylene Transobturator Suburethral Tapes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Stress Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 286,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00064662",
+          "briefTitle": "Comparison of Surgical Procedures to Reduce Urinary Stress Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-02"
+          },
+          "completionDateStruct": {
+            "date": "2010-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 655,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03722719",
+          "briefTitle": "The Knack on Female Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence, Stress"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04981340",
+          "briefTitle": "Diaphragmatic Breathing Exercises and Pelvic Floor Retraining in Children With Dysfunctional Voiding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-18",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dysfunctional Voiding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02202031",
+          "briefTitle": "Controlling Urgency Through Relaxation Exercises"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overactive Bladder", "Urgency Urinary Symptoms", "Urgency Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 161,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06390488",
+          "briefTitle": "Transcutaneous Medial Plantar Nerve Stimulation in Women With Idiopathic Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-28",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Bladder, Overactive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02107820",
+          "briefTitle": "Does Bladder Training Improve the Efficacy of Nerve Stimulation in Women With Refractory Overactive Bladders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-07-24"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Overactive Bladder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03331081",
+          "briefTitle": "Effects of Bladder Training and Pelvic Floor Muscle Training on the Symptomatology of Overactive Bladder Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Overactive Bladder Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05668715",
+          "briefTitle": "Transcutaneous Tibial Nerve Stimulation in Antimuscarinic Naive and Refractory Women With Idiopathic Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Bladder, Overactive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04644614",
+          "briefTitle": "Pelvic Floor Magnetic Stimulation in Men With Radical Prostatectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence Episodes After the Magnetic Stimulation in Men With Radical Prostatectomy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06153420",
+          "briefTitle": "Study of the Research Medicine CIN-103 in Adults With Irritable Bowel Syndrome With Predominant Diarrhea (IBS-D)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Irritable Bowel Syndrome With Diarrhea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 421,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02924740",
+          "briefTitle": "The Effects of Vaginal Tampon Training Added to Pelvic Floor Muscle Training in Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04734301",
+          "briefTitle": "Intravaginal Electrical Stimulation With Different Treatment Frequency in Women With Idiopathic Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Overactive Bladder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00427778",
+          "briefTitle": "Incontinence Ring on Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2008-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stress Urinary Incontinence", "Urinary Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04450511",
+          "briefTitle": "Pelvic Floor Magnetic Stimulation in Women With Idiopathic Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urge Incontinence Episodes After the Magnetic Stimulation Added to Bladder Training in Women With Idiopathic Overactive Bladder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02476175",
+          "briefTitle": "Add-on Mirabegron in Pediatric Patients With Refractory Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overactive Bladder", "Urinary Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06349694",
+          "briefTitle": "Comparison of the Efficacy of Transcutaneos Nerve Stimulations in Women With Idiopathic Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-22",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Bladder, Overactive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03614611",
+          "briefTitle": "Canadian Experience With Contiform Intravaginal Device For The Treatment Of Stress Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence, Stress"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02815046",
+          "briefTitle": "Mixed Urinary Incontinence Symptoms Before and After Treatment With Botox and Bulkamid"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mixed Incontinence, Urge and Stress"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06669468",
+          "briefTitle": "Comparison of the Efficacy of Perineal and Anal Electrical Stimulation in Patients with Urinary Incontinence After Radical Prostatectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostatectomy", "Urinary Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

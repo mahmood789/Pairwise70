@@ -1,0 +1,1367 @@
+{
+  "query": "ratio hazard infarction myocardial",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03301194",
+          "briefTitle": "Cost-effectiveness of RAMP-HT for Patients With Uncontrolled Hypertension in Hong Kong"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Cost Effectiveness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 158322,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06954610",
+          "briefTitle": "Cardiac Assessment for Recurrent Stroke Risk Evaluation in Atrial Fibrillation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemic Stroke", "Atrial Fibrillation", "Cerebrovascular Disorders", "Brain Diseases", "Central Nervous System Diseases", "Vascular Diseases", "Arrhythmias, Cardiac", "Heart Diseases", "Brain Infarction", "Brain Ischemia", "Infarction Cerebral", "Stroke", "Cardioembolic Stroke", "Ischemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00235248",
+          "briefTitle": "Aortic Arch Related Cerebral Hazard Trial (ARCH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-02"
+          },
+          "completionDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Infarction", "Transient Ischemic Attack", "Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03996772",
+          "briefTitle": "PREvention of STroke in Intracerebral haemorrhaGE Survivors With Atrial Fibrillation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation", "Intracerebral Hemorrhage"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 319,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02455492",
+          "briefTitle": "Factors Associated With Perioperative Outcomes in Non-emergency Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Acute Coronary Syndrome", "Pneumonia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 266436,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01304641",
+          "briefTitle": "Cardiovascular Events Based On Statin Initiation In The Elderly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "completionDateStruct": {
+            "date": "2011-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular", "Dyslipidemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 31603,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06949150",
+          "briefTitle": "Combined Coronary CT Angiography and CT Perfusion in Coronary Artery Disease (CoroFusion)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2034-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Arterial Disease (CAD)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05204550",
+          "briefTitle": "Intranasal Heparin Treatment to Reduce Transmission Among Household Contacts of COVID 19 Positive Adults and Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 506,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06659679",
+          "briefTitle": "Emulating the PIONEER6 Diabetes Trial Using Healthcare Claims"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 26126,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05699915",
+          "briefTitle": "Extensive CArdioVAscular Characterization and Follow-up of Patients Receiving Immune Checkpoint Inhibitors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Immune-related Adverse Event", "Cardiac Abnormalities, Variable", "Immune Checkpoint Inhibitor-Related Myocarditis", "Diastolic Dysfunction", "Atherosclerosis", "Cardiotoxicity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02540993",
+          "briefTitle": "Efficacy and Safety of Finerenone in Subjects With Type 2 Diabetes Mellitus and Diabetic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Kidney Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5734,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01574703",
+          "briefTitle": "Study To Evaluate Cardiac Assessments Following Different Treatments Of Smoking Cessation Medications In Subjects With And Without Psychiatric Disorders."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4595,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04329624",
+          "briefTitle": "Effect Levosimendan Administration on Postoperative NT-proBNP in Cardiac Risk Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Risk Factor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06370793",
+          "briefTitle": "Ningbo Schizophrenia Cohort"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 26899,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04057300",
+          "briefTitle": "Ticagrelor Compared to Clopidogrel in Acute Coronary Syndromes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Coronary Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1038,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04953338",
+          "briefTitle": "Mental Health Associations With Vitiligo"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vitiligo", "Depressive Episode", "Recurrent Depressive Disorder", "Anxiety Disorders", "Social Phobia", "Adjustment Disorders", "Substance Abuse", "Self-Harm, Deliberate", "Overdose", "Suicide, Attempted", "Parasuicide"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 36104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06731244",
+          "briefTitle": "Shared Decision-making Process for Unprovoked vEnous THromboEmbolism Management. (ETHER )"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02344290",
+          "briefTitle": "Evaluating the Use of Pitavastatin to Reduce the Risk of Cardiovascular Disease in HIV-Infected Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7769,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02062021",
+          "briefTitle": "Understanding the Role of Autoimmune Disorders on the Initial Presentation of Cardiovascular Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myocardial Infarction", "Ischemic Stroke", "Stroke", "Subarachnoid Haemorrhage", "Venous Thrombosis", "Transient Ischemic Attack", "Stable Angina Pectoris", "Unstable Angina", "Heart Failure", "Peripheral Arterial Disease", "Abdominal Aortic Aneurysm"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00529373",
+          "briefTitle": "A Study of MK-0822 in Postmenopausal Women With Osteoporosis to Assess Fracture Risk (MK-0822-018)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postmenopausal Osteoporosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16071,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03952273",
+          "briefTitle": "Sort Out XI - Combo Stent Versus BioMatrix Alpha Stent"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3141,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05931783",
+          "briefTitle": "Randomized Comparison of Skeletonized Versus Pedicled Left Internal Thoracic Artery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03216733",
+          "briefTitle": "SORT OUT X - Combo Stent Versus ORSIRO Stent"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Heart Disease", "Angina Pectoris", "Myocardial Infarction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01115855",
+          "briefTitle": "Clinical Study Of Eplerenone In Japanese Patients With Chronic Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01937065",
+          "briefTitle": "Social Deprivation and Initial Presentation of 12 Cardiovascular Diseases: a CALIBER Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Abdominal Aortic Aneurysm", "Coronary Heart Disease NOS", "Unheralded Corronary Death", "Intracerebral Haemorrhage", "Heart Failure", "Ischemic Stroke", "Myocardial Infarction", "Stroke", "Peripheral Arterial Disease", "Stable Angina Pectoris", "Subarachnoid Haemorrhage", "Transient Ischemic Attack", "Unstable Angina", "Cardiac Arrest, Sudden Cardiac Death"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1937360,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01947361",
+          "briefTitle": "Heart Rate and Initial Presentation of Cardiovascular Diseases (Caliber)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Abdominal Aortic Aneurysm", "Coronary Heart Disease NOS", "Unheralded Coronary Death", "Intracerebral Haemorrhage", "Heart Failure", "Ischemic Stroke", "Myocardial Infarction", "Stroke", "Peripheral Arterial Disease", "Stable Angina Pectoris", "Subarachnoid Haemorrhage", "Transient Ischemic Attack", "Unstable Angina", "Cardiac Arrest, Sudden Cardiac Death"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1961286,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05214573",
+          "briefTitle": "Second-line Therapies for Patients With Type 2 Diabetes and Moderate Cardiovascular Disease Risk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Cardiac Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 386301,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06186271",
+          "briefTitle": "International Active Surveillance Study: Safety of Estrogen Estetrol (E4) Contraceptive Study (INAS-SEECS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Contraception"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 68100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02533141",
+          "briefTitle": "Effect of Simvastatin Withdrawal on Ocular Endothelial Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00379769",
+          "briefTitle": "RECORD: Rosiglitazone Evaluated for Cardiac Outcomes and Regulation of Glycaemia in Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-04"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4447,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01121224",
+          "briefTitle": "Drug-Eluting Stents vs. Bare Metal Stents In Saphenous Vein Graft Angioplasty"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Saphenous Vein Graft Atherosclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 597,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06780215",
+          "briefTitle": "Efficacy of Varenicline Tartrate in Treating Frequent Premature Ventricular Contractions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Ventricular Contraction (PVC)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 116,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07314684",
+          "briefTitle": "GLP1-RAs Effects on Inflammatory and Endothelial Biomarkers in T2DM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "T2DM (Type 2 Diabetes Mellitus)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05643573",
+          "briefTitle": "A Study to Learn How Well the Study Treatment Asundexian Works and How Safe it is Compared to Apixaban to Prevent Stroke or Systemic Embolism in People With Irregular and Often Rapid Heartbeat (Atrial Fibrillation), and at Risk for Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prevention of Stroke or Systemic Embolism", "Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14830,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02593877",
+          "briefTitle": "Implementing Treatment Algorithms for the Correction of Trauma Induced Coagulopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hemorrhage", "Coagulopathy", "Trauma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 412,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02244853",
+          "briefTitle": "Heart Rate and Cardiovascular Diseases Prognosis in People With Stable Coronary Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stable Angina", "Myocardial Infarction", "Coronary Heart Disease", "Heart Failure", "Stroke", "Death, Sudden, Cardiac", "Peripheral Arterial Disease", "Atrial Fibrillation", "Bleeding"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 51703,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06659744",
+          "briefTitle": "Emulation of the SUSTAIN6 Diabetes Trial Using Healthcare Claims"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 158310,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02017171",
+          "briefTitle": "A Multicenter Clinical Trial of Allopurinol to Prevent Kidney Function Loss in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Nephropathies", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 530,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05175261",
+          "briefTitle": "Assessment of Individual Risk of Cardiovascular Events by Platelet FcGammaRIIa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["STEMI", "NSTEMI"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 764,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01313676",
+          "briefTitle": "Study to Evaluate the Effect of Fluticasone Furoate/Vilanterol on Survival in Subjects With Chronic Obstructive Pulmonary Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Disease, Chronic Obstructive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16568,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02239120",
+          "briefTitle": "Dabigatran Etexilate for Secondary Stroke Prevention in Patients With Embolic Stroke of Undetermined Source (RE-SPECT ESUS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Secondary Prevention"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5390,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "150 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01776424",
+          "briefTitle": "Rivaroxaban for the Prevention of Major Cardiovascular Events in Coronary or Peripheral Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prevention & Control"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27395,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06659718",
+          "briefTitle": "Emulation of the SOUL Diabetes Trial in Healthcare Claims"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 43650,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00643201",
+          "briefTitle": "Efficacy and Safety Study of Apixaban for the Treatment of Deep Vein Thrombosis or Pulmonary Embolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-07"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5614,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

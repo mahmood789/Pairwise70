@@ -1,0 +1,755 @@
+{
+  "query": "blood estimated loss receipt",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03615235",
+          "briefTitle": "APOL1 Long-term Kidney Transplantation Outcomes Network (APOLLO)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Diseases", "Kidney Failure", "Kidney Disease, Chronic"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03301415",
+          "briefTitle": "Asymptomatic Congenital CMV Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Congenital Cytomegalovirus Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "30 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06125483",
+          "briefTitle": "TBI/Flu/Bu/Mel Combined With Secondary UCBT in Patients With Hematological Malignancies Who Relapsed After Allo-HSCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hematopoietic Malignancy", "Relapse/Recurrence", "Hematopoietic Stem Cell Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06351813",
+          "briefTitle": "Predicting Adverse Kidney Events of Cardiac Surgery-Associated Acute Kidney Injury Using Novel Biomarkers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "Critical Illness", "Kidney Failure"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 358,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04797949",
+          "briefTitle": "Adherence to Universal Aspirin Compared to Screening Indicated Aspirin for Prevention of Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Medication Adherence", "Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03166839",
+          "briefTitle": "Management of Postpartum Haemorrhage and Effect of Geographic Region"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20060,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01436305",
+          "briefTitle": "Optimization of NULOJIX® Usage As A Means of Avoiding CNI and Steroids in Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Renal Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04687072",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Efgartigimod PH20 Subcutaneous in Adult Patients With Primary Immune Thrombocytopenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Primary Immune Thrombocytopenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 207,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05929092",
+          "briefTitle": "TFBC Combined With UCBT in the Treatment of High-risk Malignant Hematological Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hematopoietic Stem Cell Transplantation", "Malignant Hematological Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05272462",
+          "briefTitle": "Oral Minoxidil for the Treatment of Recurrent Platinum Resistant Epithelial Ovarian Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ovarian Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06548958",
+          "briefTitle": "A Single-Arm, Prospective Study of TBI+BUMEL as Conditioning for SCT2 in Patients With Malignant Hematologic Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Hematological Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06263426",
+          "briefTitle": "Kidney Transplantation From Donors With HIV: Impact on Rejection and Long-Term Outcomes (Expanding HOPE Kidney)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hiv"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06879847",
+          "briefTitle": "A Single-arm, Prospective Study of TBI + BUMEL As a Conditioning Regimen for Salvage HSCT in Patients with R/R AML"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsed or Refractory Acute Myeloid Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07292519",
+          "briefTitle": "Tirzepatide Combined With Cognitive-Behavioural Therapy (CBT) for Adults With Alcohol Use Disorder (AUD) and Overweight/Obesity (OOB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder (AUD)", "Overweight or Obese", "Comorbidities and Coexisting Conditions"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06235749",
+          "briefTitle": "Administration Of Calcium Gluconate for The Reduction of Blood Loss During Elective Cesarean Delivery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Elective Cesarean Delivery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01822990",
+          "briefTitle": "Circulating Anti-Beta2-glycoprotein Antibodies and Endothelial Dysfunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02"
+          },
+          "completionDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peripheral Arterial Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01856257",
+          "briefTitle": "Open-Label Phase 2 Trial of a Steroid-Free, CNI-Free, Belatacept-Based Immunosuppressive Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Primary Renal Allograft Candidate", "Kidney Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06993766",
+          "briefTitle": "The Predictability of CD19 Expression Across Primitive Cellular Fractions of Relapsed B-ALL on Outcomes of CD19-targeted CAR T-cells"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Relapsed B-ALL", "CAR T-cells", "CD19-directed CAR T-cell Therapy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04635839",
+          "briefTitle": "Heparin Prophylaxis Dosing for Antepartum Hospitalizations (HEPDOSE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Related", "Antepartum DVT"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03475342",
+          "briefTitle": "World Maternal Antifibrinolytic Trial_2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intrapartum - Moderate and Severe Anaemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15068,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04962412",
+          "briefTitle": "Predicting Poor Outcomes of Cardiac Surgery-Associated Acute Kidney Injury Using Novel Biomarkers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3152,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03039036",
+          "briefTitle": "Early Amniotomy Versus Delayed Amniotomy Following Foley Catheter Ripening in Nulliparous Labor Induction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor Induction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04340960",
+          "briefTitle": "Home Monitoring for Thoracic Surgery Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05174078",
+          "briefTitle": "Food as Medicine: A Quasi-Randomized Control Trial of Healthy Foods for Chronic Disease Management"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Hypertension", "Pre-diabetes", "Type 2 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

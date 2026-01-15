@@ -1,0 +1,379 @@
+{
+  "query": "infants proportion discharge seizure",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01475656",
+          "briefTitle": "Efficacy of Keppra for Neonatal Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neonatal Seizures"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "30 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07082530",
+          "briefTitle": "A Pilot Study of Induction at 39 Weeks to Reduce Cesarean in Low - Risk Women in China"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean Delivery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1074,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05945017",
+          "briefTitle": "Probiotics and the Neurodevelopment in the Premature Infant <32 Weeks Gestational Age and <1500g"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant, Newborn, Diseases", "Infant Development"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 233,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04353713",
+          "briefTitle": "Gel for Early Hypoglycaemia Prevention in Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypoglycemia in Newborn Infants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 534,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "30 Minutes"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03944512",
+          "briefTitle": "Pravastatin to Prevent Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Obstetric Labor Complications", "Hypertension in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05405426",
+          "briefTitle": "Trial of Indication-Based Transfusion of Red Blood Cells in ECMO"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Extracorporeal Membrane Oxygenation", "Red Blood Cell Transfusion", "Organ Failure, Multiple"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 228,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Years",
+          "minimumAge": "0 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04176471",
+          "briefTitle": "TIME Study: Therapeutic Hypothermia for Infants With Mild Encephalopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypoxic-Ischemic Encephalopathy Mild", "Neonatal Encephalopathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06824350",
+          "briefTitle": "Clean Trial - Chlorination to Reduce Enteric and Antibiotic Resistant Infections in Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sepsis", "Neonatal Mortality", "Antibiotic Resistant Infection", "Enteric Infections", "Serious Bacterial Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06515405",
+          "briefTitle": "Effect of Early Hydrocortisone on Risk of Gastrointestinal Perforations in Extremely Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intestinal Perforation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 16000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05075486",
+          "briefTitle": "Quality Improvement to Reduce Mortality or Severe Intracranial Hemorrhage in Neonatal Extracorporeal Life Support"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Extracorporeal Life Support", "Extracorporeal Membrane Oxygenation", "Quality Improvement", "Intracranial Hemorrhage", "Mortality", "Neonate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "1 Month",
+          "minimumAge": "1 Hour"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04615624",
+          "briefTitle": "Furosemide vs. Placebo for Severe Antepartum Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia", "Hypertension in Pregnancy", "Pregnancy Complications", "Hypertension, Pregnancy-Induced"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06102044",
+          "briefTitle": "Zinc Supplementation for Young Infants With Clinical Severe Infection in Tanzania"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neonatal Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "59 Days",
+          "minimumAge": "0 Days"
+        }
+      }
+    ]
+  }
+}

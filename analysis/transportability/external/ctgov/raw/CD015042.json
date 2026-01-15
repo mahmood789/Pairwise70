@@ -1,0 +1,981 @@
+{
+  "query": "number women abstinent completed",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01643044",
+          "briefTitle": "Computer-delivered Screening and Brief Intervention for Alcohol Use in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Abuse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06785909",
+          "briefTitle": "Proprioceptive, Fear-related and Inflammatory Factors in the Persistence of Pregnancy-related Lumbopelvic Pain."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low Back Pain", "Lumbopelvic Pain", "Pelvic Girdle Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 211,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02188459",
+          "briefTitle": "Placebo-controlled Trial of Bupropion for Smoking Cessation in Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 129,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04998916",
+          "briefTitle": "MPFC Theta Burst Stimulation as a Treatment Tool for Alcohol Use Disorder: Effects on Drinking and Incentive Salience"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder", "Alcohol Drinking", "Substance Use", "Drinking, Alcohol", "Alcohol Use Disorder (AUD)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03750838",
+          "briefTitle": "Alcohol Intervention for First Year College Students"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Underage Alcohol Use"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 99,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01254877",
+          "briefTitle": "Ondansetron, Alcohol Use, and Alcohol-Related Symptoms In HIV+ Persons"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Abuse", "Alcohol Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 357,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04788316",
+          "briefTitle": "Reducing Alcohol Use Post-Bariatric Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bariatric Surgery Candidate", "Alcohol Drinking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06679062",
+          "briefTitle": "Suvorexant for Treatment of AUD and PTSD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder (AUD)", "Post Traumatic Stress Disorder (PTSD)", "Insomnia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06816147",
+          "briefTitle": "HealthyW8_60+ Pilot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity Prevention"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03987581",
+          "briefTitle": "Cost Effectiveness of Combined Contingency Management and Cognitive Behavioral Therapy for Alcohol Use Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Drinking", "Veterans"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04746859",
+          "briefTitle": "Evaluation of the Effectiveness and Implementation of the BETTER Women Peer Health Coaching Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Disease", "Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 268,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "68 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04447794",
+          "briefTitle": "Step Away: Comparing a Chatbot-delivered Alcohol Intervention With a Smartphone App"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Consumption", "Alcohol Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 191,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06401967",
+          "briefTitle": "Study of a Smartphone-Based Alcohol Reduction Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Use, Unspecified"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01511614",
+          "briefTitle": "Nicotine Withdrawal Symptoms and Smoking Relapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nicotine Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04249882",
+          "briefTitle": "A Novel Human Lab Model for Screening AUD Medications"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01163864",
+          "briefTitle": "Affect Regulation Training for Pregnant Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 77,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04198311",
+          "briefTitle": "Sleep Treatment for Addiction Recovery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Insomnia", "Alcohol Use Disorder", "Substance Use Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00804570",
+          "briefTitle": "A Study for the Treatment of Alcohol Dependence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-11"
+          },
+          "completionDateStruct": {
+            "date": "2010-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 375,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07292519",
+          "briefTitle": "Tirzepatide Combined With Cognitive-Behavioural Therapy (CBT) for Adults With Alcohol Use Disorder (AUD) and Overweight/Obesity (OOB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder (AUD)", "Overweight or Obese", "Comorbidities and Coexisting Conditions"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07296094",
+          "briefTitle": "Psilocybin-Assisted Psychotherapy for the Treatment of Severe Alcohol Use Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07214207",
+          "briefTitle": "Orexin Receptor Antagonism for the Treatment of Alcohol Use Disorder and Stress-Related Drinking"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Use Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00764660",
+          "briefTitle": "Trial Investigating the Efficacy and Safety of SCH 900435 (Org 25935) in Relapse Prevention in Participants With Alcohol Dependence (P05718)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-07-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcoholism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 141,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00381043",
+          "briefTitle": "Study of Campral (Acamprosate) for Alcohol Dependence in a Family Medicine Clinic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-08"
+          },
+          "completionDateStruct": {
+            "date": "2008-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00805441",
+          "briefTitle": "A Study in the Treatment of Alcohol Dependence."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alcohol Dependence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04114877",
+          "briefTitle": "Perinatal Attentional Retraining Intervention for Smoking for Minority Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Smoking Relapse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06853314",
+          "briefTitle": "An Effectiveness Trial of the PrEP for WINGS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Alcohol Use Disorder", "Violence, Gender-Based"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03248167",
+          "briefTitle": "Cannabidiol as a Treatment for AUD Comorbid With PTSD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder", "Post Traumatic Stress Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04927364",
+          "briefTitle": "Examining the Effectiveness of Deep TMS in Veterans With Alcohol Use Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder (AUD)", "Transcranial Magnetic Stimulation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06095999",
+          "briefTitle": "Perfect Fit: Evaluation of a Virtual Coach for Smoking Cessation and Physical Activity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Low Physical Activity Level"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02357901",
+          "briefTitle": "Treatment Seeking Participants With Opioid Use Disorders Assessing Tolerability of Depot Injections of Buprenorphine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-04-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Opioid Dependence", "Opioid Related Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 665,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03837704",
+          "briefTitle": "Comparison of Abdominal Aortic Aneurysm Growth in Adult Smoking Patients Who Either Switch to IQOS, Continue Smoking, or Quit Smoking."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Abdominal Aortic Aneurysm", "IQOS Use"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      }
+    ]
+  }
+}

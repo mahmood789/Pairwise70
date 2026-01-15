@@ -1,0 +1,98 @@
+{
+  "query": "analysis cases cholera follow",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05829772",
+          "briefTitle": "Impact Study of Cholera Vaccination in Endemic Areas - Seroprevalence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cholera"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 7000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01508507",
+          "briefTitle": "Effectiveness of a Bivalent Killed Whole Cell Based Oral Cholera Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cholera"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02133690",
+          "briefTitle": "A Clinical Trial to Study the Effect and Safety of Rotavirus Vaccine Against Severe Rotavirus Gastroenteritis in Healthy Indian Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rotavirus Gastroenteritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Weeks",
+          "maximumAge": "8 Weeks"
+        }
+      }
+    ]
+  }
+}

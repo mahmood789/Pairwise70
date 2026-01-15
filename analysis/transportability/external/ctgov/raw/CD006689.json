@@ -1,0 +1,3408 @@
+{
+  "query": "delivery maternal adverse anaemia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01103063",
+          "briefTitle": "Evaluate Azithromycin Plus Chloroquine And Sulfadoxine Plus Pyrimethamine Combinations For Intermittent Preventive Treatment Of Falciparum Malaria Infection In Pregnant Women In Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intermittent Preventive Treatment In Pregnancy (IPTp)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2891,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03448432",
+          "briefTitle": "Prevalence Study of the Etiology of Pregnancy Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-27",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Anemia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03431168",
+          "briefTitle": "A Novel Regimen to Prevent Malaria and STI in Pregnant Women With HIV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV", "Pregnancy Malaria", "Sexually Transmitted Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 308,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07060404",
+          "briefTitle": "Postpartum 8-aminoquinoline Breast Milk Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Pharmacokinetics in Healthy Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05251493",
+          "briefTitle": "Ferric Derisomaltose (Iron Isomaltoside) Versus Iron Sucrose for Treatment of Iron Deficiency in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Deficiency Anaemia in Childbirth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06477120",
+          "briefTitle": "Time-restricted Eating Among Pregnant Females With Severe Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity, Morbid", "Time Restricted Eating", "Pregnancy Weight Gain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "44 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00964691",
+          "briefTitle": "A Randomized Controlled Trial for Intermittent Preventive Treatment in Pregnancy With Fansidar in Solomon Islands"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-08"
+          },
+          "completionDateStruct": {
+            "date": "2010-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Malaria in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2504,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05674214",
+          "briefTitle": "Birth Weight-discordance in Twins Pregnancy: a Multicenter Retrospective Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Twin; Pregnancy, Affecting Fetus or Newborn"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 13440,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04189744",
+          "briefTitle": "The ASPIRE Trial - Aiming for Safe Pregnancies by Reducing Malaria and Infections of the Reproductive Tract"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Malaria", "Bacterial Vaginoses", "Trichomonas Vaginitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5436,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05462704",
+          "briefTitle": "Intravenous Versus Oral Iron for Treating Iron-Deficiency Anemia in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Iron Deficiency Anemia", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02590198",
+          "briefTitle": "Diagnostic Performance Comparison Between Procalcitonin-based vs. ANAES-based Guidelines"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-01-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Early-onset Neonatal Infection"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 9201,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01239693",
+          "briefTitle": "Supplementing Maternal and Infant Diet With High-energy, Micronutrient Fortified Lipid-based Nutrient Supplements (LNS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant Malnutrition", "Malnutrition in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1391,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05290467",
+          "briefTitle": "Reduced-visit Antenatal Care Model"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Antenatal Care", "Telehealth Services"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1762,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "34 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00146783",
+          "briefTitle": "Navrongo Drug Options for IPT in Pregnancy Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-06"
+          },
+          "completionDateStruct": {
+            "date": "2007-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3642,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03154268",
+          "briefTitle": "Retrospective Longitudinal Study of Gestational Weight Gain Among Chinese Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Weight Gain"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 10422,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05934318",
+          "briefTitle": "L-ArGinine to pRevent advErse prEgnancy Outcomes (AGREE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Malaria", "Nutrition", "Placental Development", "Preterm Birth", "Fetal Growth Restriction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2960,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02944682",
+          "briefTitle": "Household Air Pollution and Health: A Multi-country LPG Intervention Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant, Low Birth Weight"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3640,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03842189",
+          "briefTitle": "A Study to Evaluate the Safety, Efficacy, Pharmacokinetics and Pharmacodynamics of M281 Administered to Pregnant Women at High Risk for Early Onset Severe Hemolytic Disease of the Fetus and Newborn (HDFN)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemolytic Disease of the Fetus and Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04632264",
+          "briefTitle": "Postpartum Oxytocin Administration in the Era of Delayed Cord Clamping"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05385042",
+          "briefTitle": "Iron and Immune Response to Vaccine (IRONMUM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Related"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00372632",
+          "briefTitle": "IPT of Malaria With SP in Different Zones of Drug Resistance in Rwanda"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-12"
+          },
+          "completionDateStruct": {
+            "date": "2008-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non HIV Infected Pregnant Women"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1717,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03009994",
+          "briefTitle": "Exteriorization Versus Non-exteriorization of the Uterus During Repair of Uterine Incision in a Repeated Cesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intrapartum Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1024,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05209815",
+          "briefTitle": "Safety of Exposure to Natalizumab During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05757167",
+          "briefTitle": "Improving Neonatal Health Through Rapid Malaria Testing in Early Pregnancy With High-Sensitivity Diagnostics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria,Falciparum", "Malaria in Pregnancy", "Malaria in Childbirth", "Pregnancy", "Neonatal Health", "Low Birthweight", "Stillbirth", "Gestational Age and Weight Conditions", "Preterm Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05514847",
+          "briefTitle": "Low Dose Aspirin for Preterm Preeclampsia Preventionmg/day Dose in High-risk Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00274235",
+          "briefTitle": "Intermittent Preventive Treatment During Pregnancy in Benin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-07"
+          },
+          "completionDateStruct": {
+            "date": "2008-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02793622",
+          "briefTitle": "Prevention of Malaria in HIV-uninfected Pregnant Women and Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 782,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01231113",
+          "briefTitle": "Efficacy,Safety and Tolerability of Dihydroartemisinin-Piperaquine for Uncomplicated Malaria in Pregnancy in Ghana"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Complicated by Malaria as Antepartum Condition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 417,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07076849",
+          "briefTitle": "Probiotic Supplementation in Optimizing Iron and Hematological Status Among Pregnant Females"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Iron Deficiency (ID)", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02377466",
+          "briefTitle": "A Phase III Efficacy and Safety Study of Intravenous Retosiban Versus Placebo for Women in Spontaneous Preterm Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03646487",
+          "briefTitle": "A Randomized Placebo Controlled Pilot Study of Probiotic Supplementation in At-risk Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Iron-deficiency", "Pregnancy, High Risk", "Stress, Psychological"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00131235",
+          "briefTitle": "Gestational Sulfadoxine-pyrimethamine and Azithromycin Treatment to Prevent Preterm Birth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-12"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Sexually Transmitted Diseases", "Preterm Birth", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00258024",
+          "briefTitle": "Control of Pregnancy Associated Malaria With Intermittent Preventive Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-11"
+          },
+          "completionDateStruct": {
+            "date": "2007-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anaemia", "Malaria"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 420,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "14 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01084213",
+          "briefTitle": "Intermittent Preventive Treatment Versus Scheduled Screening and Treatment of Malaria in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Pregnancy", "Anaemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5354,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03508349",
+          "briefTitle": "Routine Antenatal Care Versus Screening and Treatment of Malaria in Pregnancy in Rwanda"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria in Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1786,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05739097",
+          "briefTitle": "Prospective Study on Feto-maternal outcoMe In aNemIc womEn"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anemia", "Pregnancy Anemia", "Pregnancy Bleeding", "Transfusion-dependent Anemia", "Transfusion; Embolism, Thrombus", "Bleeding", "Placenta Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04087239",
+          "briefTitle": "The University of Zimbabwe College of Health Science (UZ-CHS) BIRTH COHORT Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Immune Activation", "Comorbidities"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04845230",
+          "briefTitle": "Fresh RX: NHS 2020"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Premature Birth", "Birth Weight", "Post Partum Depression", "Health Care Utilization", "Nutrition Deficiency Due to Insufficient Food", "Housing Problems", "Fetal Complications", "Food Deprivation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "14 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06125860",
+          "briefTitle": "BEP Targeting Strategies in Ethiopia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Small for Gestational Age at Delivery", "Gestational Weight Gain", "Stillbirth", "Preterm Birth", "Birth Weight", "Maternal Anemia in Pregnancy, Before Birth", "Neonatal Death", "Perinatal Death"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00258882",
+          "briefTitle": "Descriptive, Post-marketing, Passive Surveillance Safety Study of ADACEL™ Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-01"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pertussis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 327293,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03792464",
+          "briefTitle": "Serum Hepcidin in Pregnant Women and the Association With Pregnancy Outcome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anemia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05143021",
+          "briefTitle": "Sickle Cell Disease Obstetric Multi-Disciplinary Care Programme"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sickle Cell Disease", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03883841",
+          "briefTitle": "Fetal Vascular Hemodynamic Changes in Iron Deficiency Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Deficiency Anemia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02353117",
+          "briefTitle": "Preventing Congenital Syphilis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Congenital Syphilis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60386,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05426434",
+          "briefTitle": "Sulfadoxine-pyrimethamine Plus Dihydroartemisinin-piperaquine for Intermittent Preventive Treatment in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Malaria in Pregnancy", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1172,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00642408",
+          "briefTitle": "Prevention of Intrauterine Growth Retardation in Hounde District, Burkina Faso"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-06"
+          },
+          "completionDateStruct": {
+            "date": "2006-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Micronutrient Deficiencies During Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1370,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "44 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00126971",
+          "briefTitle": "Chlorproguanil-Dapsone in Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-07"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03438227",
+          "briefTitle": "Intravenous Iron for Iron-deficiency Anemia in Pregnancy: a Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Iron Deficiency Anemia of Pregnancy", "Iron Malabsorption"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06529042",
+          "briefTitle": "SCRIPT: Sickle Cell Risk in Pregnancy Tool"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sickle Cell Disease", "Pregnancy, High Risk", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05703373",
+          "briefTitle": "Increasing Access to Multiple Micronutrient Supplementation - A Pilot Intervention at up to 15 Clinics in Botswana"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Related"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03941886",
+          "briefTitle": "Implementation of First-trimester Screening and preventiOn of pREeClAmpSia Trial (FORECAST)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pre-Eclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42454,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03814395",
+          "briefTitle": "Peking University Birth Cohort in Tongzhou"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Health Problems in Pregnancy", "Pregnancy Outcomes", "Gestational Diabetes", "Gestational Hypertension", "Preterm Birth", "Obesity", "Mother-Infant Interaction", "Child Development", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5426,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00287300",
+          "briefTitle": "Efficacy and Safety of Azithromycin and Artesunate in Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-09"
+          },
+          "completionDateStruct": {
+            "date": "2005-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 141
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00432367",
+          "briefTitle": "Intermittent Preventive Treatment (IPTp) Versus Rapid Diagnostic Testing (RDT) and Treatment of Malaria in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Anaemia", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3333,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01115478",
+          "briefTitle": "Malaria in Pregnancy: Nutrition and Immunologic Effects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Low Birth Weight", "Anemia", "Perinatal Mortality"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06162078",
+          "briefTitle": "Malaria Burden in Pregnant Women and the Incidence of Pregnancy in a Cohort of Nulligravida"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Maternal Malaria During Pregnancy - Baby Not Yet Delivered"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2390,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03922087",
+          "briefTitle": "No-worry Baby Project"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus in Pregnancy", "Gestational Hypertension", "Thyroid Disease Pregnancy", "Obesity", "Anemia in Pregnancy", "Complications, Pregnancy", "Depression", "Obstetric Labor Complications", "Asthma", "Allergic Disorder", "Immune System Diseases", "Neurodevelopmental Disorders", "Reproductive Disorder"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5216,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02590224",
+          "briefTitle": "The Effect of Iron Deficiency Anemia During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Deficiency Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06234332",
+          "briefTitle": "Peking University Birth Cohort in Weifang (PKUBC-WF)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2043-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Health Problems in Pregnancy", "Pregnancy Outcomes", "Gestational Diabetes", "Gestational Hypertension", "Preterm Birth", "Obesity", "Mother-Infant Interaction", "Child Development", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03215368",
+          "briefTitle": "The Ma'Anshan Birth Cohort (MABC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Environmental Exposure", "Pregnancy Outcome", "Birth Defects", "Child Development", "Maternal and Child Health", "Health Problems in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3474,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "44 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01334489",
+          "briefTitle": "The Trial of Pessary After Laser for TTTS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 352,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06053073",
+          "briefTitle": "Induction to Labour With Double Cervical Ballon at Home Versus at Hospital"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Induced; Birth", "Cervical Dilatation", "Live Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 834,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05612984",
+          "briefTitle": "Calcium Aspirin Multiple Micronutrients (CAMMS) to Reduce Preterm Birth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Labor", "Small for Gestational Age at Delivery", "Hypertensive Disorder of Pregnancy", "Low Birth Weight", "Neonatal Death"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07101770",
+          "briefTitle": "A Prediction Model in Pregnant Women With Aplastic Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-27",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aplastic Anemia", "Pregnancy", "Prediction Model"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05348746",
+          "briefTitle": "ERASE - Impact of COVID-19 on Malaria Control"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Malaria in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02671305",
+          "briefTitle": "Delivery Room Assistance With the Placental Circulation Intact"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Placental Transfusion"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 212,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "23 Weeks",
+          "maximumAge": "29 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05426187",
+          "briefTitle": "Follow-up of Immunological Pattern and Pregnancy Outcomes in Women Previously Received Placental Malaria Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria in Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05034861",
+          "briefTitle": "COmputerized CTG Self-MOnitoring Versus Standard Doppler Assessment in Late-onset FGR: COSMOS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Restriction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03961074",
+          "briefTitle": "Iron Deficiency Anemia Among Chinese Pregnant Women: a Multi-center Prospective Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Deficiency Anemia of Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5551,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02575755",
+          "briefTitle": "A Safety, Tolerability, Pharmacokinetic and Efficacy Study of Azithromycin Plus Piperaquine as Presumptive Treatment in Pregnant PNG Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Infections, Plasmodia", "Drug Kinetics", "Clinical Efficacy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00135707",
+          "briefTitle": "Combined Antioxidant and Preeclampsia Prediction Studies (CAPPS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-06"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05312658",
+          "briefTitle": "Aortic Compression Trial to Reduce Blood Loss at Cesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post Partum Hemorrhage", "Cesarean Section Complications", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2246,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02282293",
+          "briefTitle": "Reducing the Burden of Malaria in HIV-Infected Pregnant Women and Their HIV-Exposed Children (PROMOTE-BC2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Human Immunodeficiency Virus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03642704",
+          "briefTitle": "HIV Diagnosis and Treatment at Birth for Newborn With High Risk HIV Exposure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mother to Child HIV Transmission"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02427854",
+          "briefTitle": "Palestinian Perineum and Birth Complication Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complication of Labor and Delivery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51041,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01746199",
+          "briefTitle": "Efficacy of Antifolates Against Malaria in HIV-infected Pregnant Women and the Emergence of Induced Resistance in Plasmodium Falciparum"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria in Pregnancy", "HIV Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 193,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02038023",
+          "briefTitle": "Intravaneous Iron(1000 mg Low Molecular Weight Iron Dextran Over 60 Minutes) for Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01824940",
+          "briefTitle": "SHINE Sanitation, Hygiene, Infant Nutrition Efficacy Project"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Growth; Stunting, Nutritional", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5280,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03671109",
+          "briefTitle": "Improving Maternal heAlth by Reducing Malaria in African HIV Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "HIV/AIDS", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 666,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04976179",
+          "briefTitle": "Iron Infusion Into a Vein Compared to Iron Tablet Taken by Mouth for Treating Iron Deficiency Anemia in Pregnancy (IVON)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Deficiency Anemia of Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1056,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00486863",
+          "briefTitle": "S. Japonicum and Pregnancy Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-08"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schistosomiasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 370,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02292771",
+          "briefTitle": "A Randomized Study Comparing the Efficacy and Safety of Retosiban Versus Atosiban for Women in Spontaneous Preterm Labour"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02633878",
+          "briefTitle": "Chinese Herbal Medicine (New \"Shoutai Wan\") and/or Oral Progesterone Intervention Trial for Threatened Miscarriage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Threatened Miscarriage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1656,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "37 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00970879",
+          "briefTitle": "Prevention of Pregnancy-associated Malaria in HIV-infected Women: Cotrimoxazole Prophylaxis Versus Mefloquine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-12"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria in Pregnancy", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 430,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03009526",
+          "briefTitle": "Efficacy and Safety of IPTp-DP Versus IPTp-SP in Malawi"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 602,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03462615",
+          "briefTitle": "Clinical Performance of the Histidine Rich Protein 2 (HRP2) Highly Sensitive Rapid Diagnostic Test (HS-RDT) for Malaria Diagnosis in Pregnant Women in Papua New Guinea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2018-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Plasmodium Falciparum Malaria", "Pregnancy Malaria", "Diagnoses Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 930,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04285567",
+          "briefTitle": "A Study to Compare the Efficacy and Safety of a Combined Regimen of Venetoclax and Obinutuzumab Versus Fludarabine, Cyclophosphamide, and Rituximab (FCR)/ Bendamustine And Rituximab (BR) in FIT Patients With Previously Untreated Chronic Lymphocytic Leukemia (CLL) Without DEL (17P) or TP53 Mutation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Lymphocytic Leukemia (CLL)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 166,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05975125",
+          "briefTitle": "The Effect of Vitamin C for Iron Supplementation During Pregnancy with Risk of Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vitamin C Anemia", "Pregnancy Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01136850",
+          "briefTitle": "Intermittent Preventive Treatment With Azithromycin-containing Regimens in Pregnant Women in Papua New Guinea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria in Pregnancy", "Sexually Transmitted Infections", "Anaemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2793,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01071759",
+          "briefTitle": "Effects of Dietary Heme/Non-heme Iron and Helicobacter Pylori (Hp) Infection on Maternal Iron-deficiency Anemia and Fetal Growth Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Helicobacter Pylori Infection", "Iron-Deficiency Anemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01582802",
+          "briefTitle": "Determinants of Neonatal Anemia in Women Carrying Multiples"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anemia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06115122",
+          "briefTitle": "PEPPI Study: Identification of Women at Risk for Placental Dysfunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2041-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia", "Intrauterine Growth Restriction", "Polycystic Ovary Syndrome", "Iron-deficiency", "Cardiovascular Diseases", "Hypertensive Disorder of Pregnancy", "Proteinuria in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05929586",
+          "briefTitle": "Digital Data Linkage and Scheduling to Track Pregnancy With or Without Community Data Use to Increase Antenatal Clinic Uptake in Western Kenya."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Health Systems", "Electronic Community Health Information Systems", "Antenatal Clinic Uptake", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06468319",
+          "briefTitle": "Pregnancy Registry in Mali"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 9500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04250428",
+          "briefTitle": "Strategies to Increase Antenatal Iron and Folic Acid Supplementation and Malaria Prophylaxis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Antenatal Care"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 720,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01053325",
+          "briefTitle": "Establishing Effectiveness of Daily Co-trimoxazole Prophylaxis For Prevention of Malaria in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria in Pregnancy", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 848,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06979492",
+          "briefTitle": "Prophylactic Transfusion In Pregnant in Women With Sickle Cell Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sickle Cell Disease", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03957057",
+          "briefTitle": "Intravenous Iron Carboxymaltose, Isomaltoside and Oral Iron Sulphate for Postpartum Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postpartum Anemia Nos", "Iron-deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07021430",
+          "briefTitle": "Focal Mass Drug Administration for the Prevention of Malaria in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria Prevention"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05253781",
+          "briefTitle": "Low Dose Aspirin for Preventing Intrauterine Growth Restriction and Preeclampsia in Sickle Cell Pregnancy (PIPSICKLE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intrauterine Growth Restriction", "Preeclampsia", "Sickle Cell Disease", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 476,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00131703",
+          "briefTitle": "Efficacy and Safety of Sulphadoxine-pyrimethamine and Amodiaquine in Ghanaian Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-03"
+          },
+          "completionDateStruct": {
+            "date": "2005-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 900
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06261398",
+          "briefTitle": "Better Birth Outcomes Through Technology, Education, and Reporting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Maternal Anemia", "Pre-Term Birth", "Hypertensive Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 550,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05358509",
+          "briefTitle": "Reducing Anemia in Pregnancy in India: the RAPIDIRON Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Iron Deficiency Anemia", "Infant, Low Birth Weight", "Anemia of Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4368,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03475342",
+          "briefTitle": "World Maternal Antifibrinolytic Trial_2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intrapartum - Moderate and Severe Anaemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15068,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02341300",
+          "briefTitle": "Use of Cast Iron Pots to Improve Maternal Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron-deficiency Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06833788",
+          "briefTitle": "Treatment of Anaemia After Caesarean With Intravenous Versus Oral Iron and Postpartum Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Depression (PPD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2860,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05912517",
+          "briefTitle": "A Study of Nipocalimab in Pregnancies at Risk for Severe Hemolytic Disease of the Fetus and Newborn (HDFN)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-07-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemolytic Disease of the Fetus and Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03208179",
+          "briefTitle": "Improving PRegnancy Outcomes With Intermittent preVEntive Treatment in Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Malaria in Pregnancy", "Malaria"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4680,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05904145",
+          "briefTitle": "PRISMA Maternal and Newborn Health Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy, High Risk"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 267897,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05576207",
+          "briefTitle": "BEP Supplementation Research in Bangladesh (JiVitA-BEP-IR)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fetal Growth Retardation", "Low Birth Weight", "Preterm Birth", "Gestational Weight Gain", "Anemia of Pregnancy", "Stunting", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3390,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "35 Years"
+        }
+      }
+    ]
+  }
+}

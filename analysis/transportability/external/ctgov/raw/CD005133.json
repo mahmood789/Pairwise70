@@ -1,0 +1,101 @@
+{
+  "query": "recipients serostatus adverse associated",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00224484",
+          "briefTitle": "Safety Study of Herpes Simplex Vaccine in HSV Seronegative and Seropositive Females Between 10 and 17 Years Old"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Herpes Simplex"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5960,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04505722",
+          "briefTitle": "A Study of Ad26.COV2.S for the Prevention of SARS-CoV-2-Mediated COVID-19 in Adult Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Participants With or Without Stable Co-morbidities Associated With Progression to Severe COVID-19 at Different Stages of the Protocol"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44325,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05370976",
+          "briefTitle": "Efficacy and Safety of Cytotect®CP, Hyperimmune Anti-CMV IVIg as CMV Prophylaxis in Patients Developing Acute Grade II-IV GVHD After Allogeneic Hematopoietic Cell Transplantation."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cytomegalovirus Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

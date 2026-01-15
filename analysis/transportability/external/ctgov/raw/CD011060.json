@@ -1,0 +1,321 @@
+{
+  "query": "before bilirubin discharge encephalopathy",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03824990",
+          "briefTitle": "Multi-center Clinical Study on Neonatal Hyperbilirubinemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Quality Improvement", "Hyperbilirubinemia, Neonatal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03631940",
+          "briefTitle": "Umbilical Cord Milking in Non-Vigorous Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Birth Asphyxia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1730,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "35 Weeks",
+          "maximumAge": "42 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02377466",
+          "briefTitle": "A Phase III Efficacy and Safety Study of Intravenous Retosiban Versus Placebo for Women in Spontaneous Preterm Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02457637",
+          "briefTitle": "Chinese CLIF-C Acute-on-Chronic Liver Disease and Liver Failure Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Failure, Acute on Chronic"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2600,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06013657",
+          "briefTitle": "Surgical Resection for Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Resectable Hepatocellular Carcinoma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05895136",
+          "briefTitle": "A Novel COMBinATorial Therapy With Albumin and Enoxaparin in Patients With Decompensated Cirrhosis at High-risk of Poor Outcome (COMBAT Trial)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Cirrhosis", "Decompensated Cirrhosis of Liver", "Acute on Chronic Liver Failure (ACLF)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06515405",
+          "briefTitle": "Effect of Early Hydrocortisone on Risk of Gastrointestinal Perforations in Extremely Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intestinal Perforation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 16000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02292771",
+          "briefTitle": "A Randomized Study Comparing the Efficacy and Safety of Retosiban Versus Atosiban for Women in Spontaneous Preterm Labour"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05014412",
+          "briefTitle": "A Study to Learn About the Study Medicine (Elranatamab) in Participants With Multiple Myeloma That Has Come Back After Responding to Treatment or Has Not Responded to Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05393505",
+          "briefTitle": "Fast-track Blood Test for Suspected Fever by Deficiency of a Kind of White Blood Cells As Main Defense Against Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neutropenic Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 344,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

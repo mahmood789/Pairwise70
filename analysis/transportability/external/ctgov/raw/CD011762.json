@@ -1,0 +1,3496 @@
+{
+  "query": "bleeding major adverse lmwh",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04808882",
+          "briefTitle": "ANTIcoagulation in Severe COVID-19 Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe COVID-19 Pneumonia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 353,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06179823",
+          "briefTitle": "Safety of Direct Oral Anticoagulant During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Thromboembolic Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1755558,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "10 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00952380",
+          "briefTitle": "Fragmin for the Treatment of Acute VTE in Pediatric Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01717573",
+          "briefTitle": "Deferred Stent Trial in STEMI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ST-Elevation Myocardial Infarction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 101,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05684796",
+          "briefTitle": "Comparison of Two Pulmonary Embolism Treatments"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Embolism Acute"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03920566",
+          "briefTitle": "The Effect of ENZAlutamide on the Anti-Xa Levels of Patients Receiving DOACs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Interaction"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06370273",
+          "briefTitle": "Thromboprophylaxis in Lower Limb Immobilisation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thrombosis", "Injury Leg"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10044,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07270263",
+          "briefTitle": "Reduced-Dose Apixaban and Rivaroxaban Versus Low-Molecular-Weight Heparin in Patients With Hematologic Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lymphoma", "Leukemia", "Multiple Myeloma (MM), Lymphoma, Large B-Cell, Diffuse (DLBCL), Lymphoma", "Venous Thromboembolic Disease", "VTE (Venous Thromboembolism)", "PE - Pulmonary Embolism", "Hematologic Malignacies"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00358735",
+          "briefTitle": "Deep Vein Thrombosis (DVT) Prevention in Total Hip Arthroplasty: Continuous Enhanced Circulation Therapy (CECT) Versus Low Molecular Weight Heparin (LMWH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-06"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis of Lower Limb", "Pulmonary Embolism (PE)", "Bleeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 411,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02596555",
+          "briefTitle": "Low Molecular Weight Heparin for 72 Hours Followed by Dabigatran for Acute Intermediate-Risk Pulmonary Embolism."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Embolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06180889",
+          "briefTitle": "Factor XI inhibiTion for the Prevention of Venous Thromboembolism in Patients Undergoing Total Knee Arthroplasty"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Knee Arthroplasty, Total"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 241,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02744092",
+          "briefTitle": "Direct Oral Anticoagulants (DOACs) Versus LMWH +/- Warfarin for VTE in Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Venous Thromboembolism", "Deep Vein Thrombosis (DVT)", "Pulmonary Embolism (PE)", "Blood Clot"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 811,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00452530",
+          "briefTitle": "Study of an Investigational Drug for the Prevention of Thrombosis-related Events Following Knee Replacement Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06454630",
+          "briefTitle": "A Trial to Learn How Well REGN7508 Works for Preventing Blood Clots After a Knee Replacement in Adult Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 179,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04794569",
+          "briefTitle": "Tinzaparin Lead-In to Prevent the Post-Thrombotic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Post Thrombotic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00371683",
+          "briefTitle": "Study of Apixaban for the Prevention of Thrombosis-related Events Following Knee Replacement Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-11"
+          },
+          "completionDateStruct": {
+            "date": "2008-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3608,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07032025",
+          "briefTitle": "Mechanical Thrombectomy for Acute Pulmonary Embolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Pulmonary Embolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01542723",
+          "briefTitle": "Pot-Kast: Thrombosis Prophylaxis After Knee Arthroscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-05"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Venous Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00718354",
+          "briefTitle": "Overall Survival of Inoperable Gastric/GastroOesophageal Cancer Subjects on Treating With LMWH + Chemotherapy(CT) vs Standard CT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gastric Cancer", "Gastroesophageal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 740,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05764356",
+          "briefTitle": "Imapct of bioMarkers on Pharmacodynamics and Bleeding Risk of Direct Oral AntiCoagulants and Ticagrelor Study II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Novel Oral Anticoagulants", "NOACs", "Rivaroxaban", "Apixaban", "Edoxaban", "Dabigatran", "Ticagrelor", "Pharmacodynamics", "Pharmacogenomics", "RNA Profile", "Bleeding", "Biomarker"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01356329",
+          "briefTitle": "Efficacy and Safety of the LovenoxTM (Enoxaparin) Versus HeparinTM Gynecologic Oncology Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Female Reproductive System Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04675801",
+          "briefTitle": "SAfety and EFficacy of Bridging Antithrombotic Therapy During Elective Non-cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 950,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01880216",
+          "briefTitle": "Efficacy of Bemiparin Versus Enoxaparin in the Treatment of DVT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Deep Vein Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 312,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03684564",
+          "briefTitle": "RIvaroxaban for Stroke Patients With AntiPhospholipid Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Antiphospholipid Syndrome", "Systemic Lupus Erythematosus", "Stroke", "Ischemic Stroke", "Brain Ischemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04158973",
+          "briefTitle": "CHIPs-VTE Study in Hospitalized Patients With Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Thromboembolic Disease", "Pulmonary Embolism", "Deep Venous Thrombosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04056143",
+          "briefTitle": "Precision Medicine Platform for Novel Oral Anticoagulants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anticoagulant Adverse Reaction"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03088358",
+          "briefTitle": "Safety and Efficacy of TeaRx Xa Factor Direct Inhibitor Versus Enoxaparin as a Venous Thromboembolic Events (VTE) Prevention Following Total Knee Replacement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Total Knee Replacement"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00942968",
+          "briefTitle": "Evaluation of Dalteparin for Long-term (One Year) Treatment of Blood Clots in Subjects With Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 338,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00457002",
+          "briefTitle": "Study of Apixaban for the Prevention of Thrombosis-related Events in Patients With Acute Medical Illness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06"
+          },
+          "completionDateStruct": {
+            "date": "2011-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6758,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03570281",
+          "briefTitle": "Edoxaban for the Treatment of Coagulopathy in Patients With Active Cancer and Acute Ischemic Stroke: a Pilot Study. (ENCHASE Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Correction of Cancer-related Coagulopathy With Novel Oral Anticoagulant (Edoxaban)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06795698",
+          "briefTitle": "The Effect of Prophylactic Anticoagulation on Major Bleeding Events in Hospitalized Chronic Kidney Disease and Lower Limb Fracture Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fractures, Bone", "CKD Stage 4", "CKD Stage 3", "CKD Stage 5", "Enoxaparin Adverse Reaction", "Anticoagulant-induced Bleeding", "Thromboses, Venous"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03647852",
+          "briefTitle": "Clinical Study on Strategy for Refractory Henoch-Schönlein Purpura"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Henoch-Schönlein Purpura"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00723216",
+          "briefTitle": "Japanese Efficacy and Safety Study of Enoxaparin in Patients With Curative Abdominal Cancer Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2007-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Abdominal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03139487",
+          "briefTitle": "A Randomized Phase II Open Label Study to Compare the Safety and Efficacy of Subcutaneous Dalteparin Versus Direct Oral Anticoagulants for Cancer-associated Venous Thromboembolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer-associated Thrombosis", "Esophageal Cancer", "Stomach Cancer", "Hepatocellular Carcinoma", "Pancreatic Cancer", "Duodenal Cancer", "Esophagogastric Junction Cancer", "Malignant Gastrointestinal Stromal Tumor", "Ampulla of Vater Cancer", "Biliary Cancer (Cholangiocarcinoma, Gall Bladder Cancer)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 176,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05625932",
+          "briefTitle": "TINzaparin Prophylaxis in Patients With Metastatic Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer Metastatic", "Thromboembolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 232,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03968276",
+          "briefTitle": "Study of the Interest of Patients Undergoing Anti-thrombotic Treatment in a Digital Application of Therapeutic Assistance"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vascular Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00362947",
+          "briefTitle": "Different Doses and Duration of Low Molecular Weight Heparin (Parnaparin)in Superficial Vein Thrombosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Thrombophlebitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 664,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06110949",
+          "briefTitle": "Thromboembolic Risk Assessment in Patients Admitted With Acute Medical Diseases to Conventional and At Home Hospitalization"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thromboprophylaxis", "Thromboembolism, Venous", "Atrial Fibrillation", "Physical Inactivity", "Hospital at Home"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1953,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04441996",
+          "briefTitle": "Therapeutic Plasma Exchange for COVID-19-associated Hyperviscosity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05959252",
+          "briefTitle": "BivaLirudin versUS Heparin in Extracorporeal Membrane Oxygenation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Extracorporeal Membrane Oxygenation Complication"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07140523",
+          "briefTitle": "A Study to Compare the Efficacy and Safety of SRSD107 and Enoxaparin in Adult Subjects Undergoing TKA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05378035",
+          "briefTitle": "DOAC in Chinese Patients With Atrial Fibrillation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation", "Stroke", "Stroke, Acute", "Brain Diseases", "Major Adverse Cardiovascular Event", "Arterial Thromboembolism", "Venous Thromboembolism"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 427,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04552067",
+          "briefTitle": "Enoxaparin Bioequivalence Study in Acute Coronary Syndrome Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Coronary Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 172,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01442792",
+          "briefTitle": "Exploring the Efficacy and Safety of Rivaroxaban to Support Elective Percutaneous Coronary Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-03-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Disease", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03083184",
+          "briefTitle": "Evaluation of the Efficacy of an inTerdialytic \"Ethanol 40% v/v - enoxapaRin 1000 U/mL\" Lock solutioN to Prevent Tunnelled Catheter Infections in Chronic Hemodialysis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tunnelled Hemodialysis Catheter Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07124819",
+          "briefTitle": "Dimolegin® (60 mg) Given Once Daily in Patients Undergoing Total Hip or Knee Replacement Compared to Enoxaparin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Arthroplasty, Replacement, Hip", "Arthroplasty, Replacement, Knee", "Venous Thromboembolism (VTE)", "Prevention"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 215,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02210819",
+          "briefTitle": "Treatment of Venous Thromboembolism (VTE) With Either Rivaroxaban or Current Standard of Care Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-01-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis (DVT)", "Pulmonary Embolism (PE)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1987,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02159287",
+          "briefTitle": "Study of the Efficacy, Safety and Tolerability of Low Molecular Weight Heparin vs. Unfractionated Heparin in Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Embolic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05035277",
+          "briefTitle": "AntiCoagulation Versus AcetylSalicylic Acid After Transcatheter Aortic Valve Implantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aortic Stenosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05255003",
+          "briefTitle": "STrategies for Anticoagulation in Patients With thRombocytopenia and Cancer-associated Thrombosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer-associated Thrombosis", "Thrombocytopenia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01862978",
+          "briefTitle": "Safety and Efficacy of Heparin and Nadroparin in the Acute Phase of Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05618808",
+          "briefTitle": "A Trial to Learn How Well REGN9933 Works for Preventing Blood Clots After Knee Replacement Surgery in Adult Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 373,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06215378",
+          "briefTitle": "Antagonization of Heparin With Protamine Sulfate After TAVI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aortic Valve Stenosis", "Heart Valve Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 940,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05793671",
+          "briefTitle": "Follow up of Clinical Outcome of Deferred vs Immediate Stenting in High Thrombus Stemi Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "STEMI"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05895136",
+          "briefTitle": "A Novel COMBinATorial Therapy With Albumin and Enoxaparin in Patients With Decompensated Cirrhosis at High-risk of Poor Outcome (COMBAT Trial)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Cirrhosis", "Decompensated Cirrhosis of Liver", "Acute on Chronic Liver Failure (ACLF)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03145675",
+          "briefTitle": "Optimizing the Anticoagulation Regimen of Enoxaparin During Percutaneous Coronary Intervention (OPTIENOX-PCI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Percutaneous Coronary Intervention"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 378,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07015905",
+          "briefTitle": "REGN7508 Versus Apixaban and Enoxaparin for Thromboprophylaxis After Total Knee Arthroplasty in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism (VTE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04430569",
+          "briefTitle": "Pulmonary Embolism International THrOmbolysis Study-3"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Embolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01531829",
+          "briefTitle": "Low Dose Rt-PA for Acute Normotensive Pulmonary Embolism With RVD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pulmonary Thromboembolisms", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 460,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06628778",
+          "briefTitle": "Collaborative Risk-stratified Investigation in Teen Inpatients With Critical Illness: Anticoagulation With LMWH in Kids for ThromboProphylaxis (CRITICAL-Kids-TP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-10-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thromboembolism (VTE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 802,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05687448",
+          "briefTitle": "DIrect Oral Anticoagulation and Bioprothesis Aortic Valve"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aortic Valve Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01542762",
+          "briefTitle": "Pot-Cast: Thrombosis Prophylaxis During Plaster Cast Lower Leg Immobilisation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Venous Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02981472",
+          "briefTitle": "A Study of the Safety and Pharmacokinetics of Apixaban Versus Vitamin K Antagonist (VKA) or Low Molecular Weight Heparin (LMWH) in Pediatric Subjects With Congenital or Acquired Heart Disease Requiring Anticoagulation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "28 Days",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05569681",
+          "briefTitle": "Two Different Regimens of Bemiparin as a Thromboprophylaxis in Morbidly Obese Surgical Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Morbid Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00951574",
+          "briefTitle": "Prevention of Venous and Arterial Thromboembolism, in Cancer Patients Undergoing Chemotherapy, With a Low Molecular Weight Heparin (Nadroparin Calcium)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-10"
+          },
+          "completionDateStruct": {
+            "date": "2008-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Cancer", "Metastatic Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1166,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06224140",
+          "briefTitle": "Heparin-Free Chronic HemoDialysis Assessment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End-Stage Renal Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05643651",
+          "briefTitle": "Rivaroxaban for Children Aged Over 2 Years With Giant Coronary Artery Aneurysms After Kawasaki Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kawasaki Disease", "Coronary Artery Aneurysm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04846556",
+          "briefTitle": "Cancer Associated Thrombosis : What is the Proportion of Patients Ineligible to a Study as CARAVAGGIO"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Thromboembolism", "Cancer"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05171075",
+          "briefTitle": "A Study Comparing Abelacimab to Dalteparin in the Treatment of Gastrointestinal/Genitourinary Cancer and Associated VTE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Thromboembolism", "Deep Venous Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 417,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04377997",
+          "briefTitle": "Safety and Efficacy of Therapeutic Anticoagulation on Clinical Outcomes in Hospitalized Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Diseases", "COVID-19"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00077805",
+          "briefTitle": "PREVAIL: PREvention of VTE After Acute Ischemic Stroke With LMWH Enoxaparin ( - VTE: Venous Thromboembolism - LMWH: Low Molecular Weight Heparin)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-08"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03288441",
+          "briefTitle": "Management and Outcomes of Anti-thrombotic Medication Use in Thrombocytopenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hematologic Neoplasms", "Thrombocytopenia", "Anticoagulants", "Platelet Aggregation Inhibitors"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02355873",
+          "briefTitle": "Efficacy and Safety of Heparin-coated Surface-treated Polyacrylonitrile Membrane Hemofilter in Critical Ill CRRT Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Ill Patients", "Patients Needing Continuous Renal Replacement Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04730856",
+          "briefTitle": "Standard vs High Prophylactic Doses or Anticoagulation in Patients With High Risk of Thrombosis Admitted With COVID-19 Pneumonia (PROTHROMCOVID)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Thrombosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 311,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01619007",
+          "briefTitle": "Treatment of an Acute Deep Vein Thrombosis (DVT) With Either Rivaroxaban or Current Standard of Care Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Venous Thrombosis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5145,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05493163",
+          "briefTitle": "Catheter-directed Thrombolysis in Intermediate-high Risk Acute Pulmonary Embolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Embolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 558,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06482931",
+          "briefTitle": "Bleeding in Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00986765",
+          "briefTitle": "Prevention of Maternal and Perinatal Complications by Enoxaparin in Women With Previous Severe Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 257,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05540834",
+          "briefTitle": "Viscoelastic Testing Guided Tissue Plasminogen Activator Treatment in Acute Respiratory Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Respiratory Failure", "Hypercoagulability", "Fibrinolysis Shutdown"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04558892",
+          "briefTitle": "Anti-Xa Activity of Enoxaparin for Prevention of Venous Thromboembolism in Severe Nephrotic Syndrome."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nephrotic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01004939",
+          "briefTitle": "Retrospective Study of Patients Who Were Treated With Fondaparinux Pre-, Peri- and/or Postpartum for Prophylaxis or Treatment of Venous Thromboembolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-03"
+          },
+          "completionDateStruct": {
+            "date": "2010-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thromboembolism", "Venous Thromboembolism"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04790370",
+          "briefTitle": "Ultrasound-facilitated, Catheter-directed, Thrombolysis in Intermediate-high Risk Pulmonary Embolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Embolism"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 544,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00793234",
+          "briefTitle": "Single Intravenous Administration of TB-402 for the Prophylaxis of Venous Thromboembolic Events (VTE) After Total Knee Replacement Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12"
+          },
+          "completionDateStruct": {
+            "date": "2010-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Total Knee Replacement Surgery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 316,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02752607",
+          "briefTitle": "Reduction to Preventive Doses of Enoxaparin After 3 to 6 Months of Treatment With Blood Thinners for Cancer-associated Blood Clots"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Deep Vein Thrombosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00722319",
+          "briefTitle": "Ongoing WARfarin and Coronary STENTing"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2011-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Coronary Syndrome", "Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01956955",
+          "briefTitle": "Comparison of Low-Molecular-Weight Heparin (LMWH) and Unfractionated Heparin (UFH) in Combination With Thrombolytic Treatment of Acute Massive Pulmonary Thromboembolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "This Study Will Provide Data Comparing Safety of LMWH Versus UFH in the Treatment of Acute PE Cases Who Require Thrombolytic Treatment."
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04120961",
+          "briefTitle": "Safety and Efficacy of Prolonged Use of Bivalirudin 4 Hours After ePCI (COBER Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Heart Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 330,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06583889",
+          "briefTitle": "Endovascular Treatment or Standard Medical Care for Cerebral Venous Sinus Thrombosis(ESCORT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cerebral Venous Sinus Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 224,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05237726",
+          "briefTitle": "Efficacy and Safety for Different Regimen of VTE Pharmacoprophylaxis Among Severely Burn Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Burns"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04736901",
+          "briefTitle": "Effect of Prophylactic and Therapeutic Anticoagulants in Egyptian Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Corona Virus Infection", "Hypercoagulability"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07140211",
+          "briefTitle": "Short-term Low-dose Low-molecular-weight Heparin to Prevent Postpartum Thrombosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Thromboembolism (VTE)", "Postpartum"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06515730",
+          "briefTitle": "Treatment With Apixaban Versus Warfarin in Patients With Left Ventricular Thrombus After Acute Myocardial Infarction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Left Ventricular Thrombus", "Acute Myocardial Infarction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 212,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04483830",
+          "briefTitle": "Suloexide in the Treatment of Early Stages of COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Covid19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 243,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04770740",
+          "briefTitle": "Randomized Controlled Clinical Trial to Investigate Effects of Vitamin K2 in COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Covid19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02129920",
+          "briefTitle": "RELAXED: Recurrent Embolism Lessened by Rivaroxaban for Acute Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke, Acute", "Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02690090",
+          "briefTitle": "Safety Study of Enoxaparin Prophylaxis in Critically Ill Adults With Severe Renal Insufficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00421538",
+          "briefTitle": "Randomized Controlled Trial of Anticoagulation vs. Placebo for a First Symptomatic Isolated Distal Deep-vein Thrombosis (IDDVT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Distal (Calf) Deep-vein Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 260,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05604859",
+          "briefTitle": "Evaluate the Efficacy and Safety of Various Treatment Schemes for Severe Fever With Thrombocytopenia Syndrome(SFTS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Fever With Thrombocytopenia Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06712004",
+          "briefTitle": "A Dose-Response Controlled Trial of Bevifibatide for Acute Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemic Stroke, Acute", "Ischemic Stroke", "Cerebral Infarction", "Brain Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01662908",
+          "briefTitle": "A Randomized, Open-Label, Parallel-Group, Multi-Center Study for the Evaluation of Efficacy and Safety of Edoxaban Monotherapy Versus Low Molecular Weight (LMW) Heparin/Warfarin in Subjects With Symptomatic Deep-Vein Thrombosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Venous Thrombosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01064362",
+          "briefTitle": "Hemorrhage Risk Prescribed Arixtra"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2010-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Thrombosis, Venous"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 13442,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00480636",
+          "briefTitle": "Fragmin In The Treatment Of Acute Deep-Vein Thrombosis With Or Without Pulmonary Embolism In Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Deep Vein Thrombosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02334007",
+          "briefTitle": "Extended Low-Molecular Weight Heparin VTE Prophylaxis in Thoracic Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Thromboembolism", "Lung Neoplasms", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00622648",
+          "briefTitle": "Study to Evaluate the Mortality Reduction of Enoxaparin in Hospitalized Acutely Ill Medical Receiving Enoxaparin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Illness"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8329,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00061373",
+          "briefTitle": "Combination Anti-Platelet and Anti-Coagulation Treatment After Lysis of Ischemic Stroke Trial (CATALIST)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00306254",
+          "briefTitle": "Evaluation of PD 0348292 for Preventing Blood Clots in the Lungs or Deep Leg Veins of Patients After Knee Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-03"
+          },
+          "completionDateStruct": {
+            "date": "2007-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1225
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06355258",
+          "briefTitle": "A Study of the Efficacy of Troxerutin in Preventing Thrombotic Events in COVID-19 Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID 19 Associated Coagulopathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01747746",
+          "briefTitle": "Anticoagulation With Rivaroxaban in Cardioversion -The ARC Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2014-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation", "Stroke", "Thrombo-embolism", "Bleeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04528888",
+          "briefTitle": "Steroids and Unfractionated Heparin in Critically Ill Patients With Pneumonia From COVID-19 Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "SARS-CoV Infection", "Pneumonia, Viral", "Coagulopathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03638817",
+          "briefTitle": "Perioperative Eltrombopag in Patients With Inherited Thrombocytopenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Thrombocytopenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00643201",
+          "briefTitle": "Efficacy and Safety Study of Apixaban for the Treatment of Deep Vein Thrombosis or Pulmonary Embolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-07"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Thrombosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5614,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00423319",
+          "briefTitle": "Study of an Investigational Drug for the Prevention of Thrombosis-related Events Following Hip Replacement Surgery (ADVANCE-3)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2009-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Pulmonary Embolism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5407,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02204852",
+          "briefTitle": "Co-administration of Iloprost and Eptifibatide in Septic Shock Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Septic Shock"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      }
+    ]
+  }
+}

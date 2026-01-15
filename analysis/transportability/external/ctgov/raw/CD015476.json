@@ -1,0 +1,417 @@
+{
+  "query": "detection excluding adenoma number",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05943288",
+          "briefTitle": "Safety and Efficacy of the Olympus CADe System in Real-time Colonoscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 850,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03476434",
+          "briefTitle": "Chromoendoscopy for Serrated Polyposis Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colonic Polyp", "Colonic Neoplasms", "Colonic Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05414448",
+          "briefTitle": "Combination of Artificial Intelligence and Mucosal Exposure Device to Enhance Colorectal Neoplasia Detection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adenoma", "Colorectal Cancer", "Colorectal Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1726,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05963191",
+          "briefTitle": "CAD-EYE System for the Detection of Neoplastic Lesions in Patients With Lynch Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-18",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lynch Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 272,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06924489",
+          "briefTitle": "Advanced Adenoma Detection With 3D Imaging Device During Colonoscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Adenoma", "Colorectal Polyps"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1566,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04754347",
+          "briefTitle": "Computer Aided Detection of Polyps in Colonoscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Polyp"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1472,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02280811",
+          "briefTitle": "T Cell Receptor Immunotherapy Targeting HPV-16 E6 for HPV-Associated Cancers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vaginal Cancer", "Cervical Cancer", "Anal Cancer", "Penile Cancer", "Oropharyngeal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03571061",
+          "briefTitle": "Comparisons of SWI, WWI and CI in Potentially Difficult Colonoscopy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colonoscopy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02352233",
+          "briefTitle": "Retroview Colonoscope for the Evaluation of Colon Mucosa Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colonic Diseases"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05240625",
+          "briefTitle": "Clinical Efficacy Evaluation of a Computer-aided Colonoscopy as Compared With the Standard Colonoscopy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colon Adenoma", "Colorectal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04909671",
+          "briefTitle": "Evaluation of ArTificial Intelligence System (Gi-Genius) for adenoMa dEtection in Lynch Syndrome."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lynch Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 404,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04838951",
+          "briefTitle": "Effect of Real-time Computer-aided System (ENDO-AID) on Adenoma Detection in Endoscopist-in-training"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Screening Colonoscopy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 856,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00929916",
+          "briefTitle": "Comparing Two Different Ways to Take MoviPrep® Before Colonoscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colonoscopy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

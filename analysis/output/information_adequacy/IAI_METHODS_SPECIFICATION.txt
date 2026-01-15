@@ -1,0 +1,81 @@
+
+================================================================================
+INFORMATION ADEQUACY INDEX (IAI) - METHODS SPECIFICATION
+================================================================================
+
+DEFINITIONS
+-----------
+
+1. PREMATURE CONCLUSION
+   A meta-analysis that has reached statistical significance (p < 0.05)
+   before accumulating adequate information, defined as Information
+   Fraction (IF) < 1.0. Such conclusions may be subject to reversal
+   upon accumulation of additional evidence.
+
+2. INFORMATION FRACTION (IF)
+   IF = Actual Total Sample Size / Optimal Information Size (OIS)
+
+   Classification:
+   - IF >= 1.0:  Adequate information
+   - IF 0.5-1.0: Marginal information
+   - IF 0.25-0.5: Inadequate information
+   - IF < 0.25:  Critical information deficit
+
+3. OPTIMAL INFORMATION SIZE (OIS)
+   Sample size required to detect a clinically important effect (RRR=20%)
+   with 80% power, adjusted for heterogeneity:
+
+   OIS = D x (1 + I^2/(1-I^2))
+
+4. INFORMATION ADEQUACY INDEX (IAI)
+   Composite metric combining four components with empirically-derived weights:
+
+   IAI = 0.20 x IF_component +
+         0.15 x HAP_component +
+         0.35 x SBS_component +
+         0.30 x Stability_component
+
+   Classification:
+   - IAI >= 0.75: Adequate
+   - IAI 0.50-0.75: Marginal
+   - IAI 0.25-0.50: Inadequate
+   - IAI < 0.25: Critical
+
+WEIGHT DERIVATION
+-----------------
+Empirical weights derived via grid search optimization (n=192 combinations)
+maximizing AUC for predicting conclusive meta-analysis status.
+
+Validation:
+- Optimization AUC: 0.988
+- 5-fold CV AUC: 0.988 (SD: 0.005)
+- Weight sensitivity: 3.0% maximum class change at +/-10%
+
+STABILITY COMPONENT
+-------------------
+Approximated from:
+- Number of studies (k): 40% weight
+- Heterogeneity (1-I^2): 30% weight
+- Z-score magnitude: 30% weight
+
+Note: This approximation correlates r=0.973 with cumulative Z-score
+stability in validation subset.
+
+KEY FINDINGS
+------------
+- Meta-analyses analyzed: 492
+- Adequate information (IF >= 1): 57.6%
+
+PREMATURE CONCLUSIONS (two complementary definitions):
+
+1. IF-based definition (IF < 1 among significant MAs):
+   - Rate: 24.4% (95% CI: 18.9% - 30.6%)
+   - Interpretation: MAs that reached significance without adequate sample size
+
+2. IAI-based definition (Critical/Inadequate IAI among significant MAs):
+   - Rate: 12.6% (95% CI: 8.2% - 16.8%)
+   - Interpretation: MAs with poor overall evidence quality despite significance
+   - External validation: HIGHLY CONCORDANT with Imberger et al. (2016): 14%
+
+================================================================================
+

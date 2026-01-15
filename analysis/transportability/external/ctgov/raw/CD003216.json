@@ -1,0 +1,6208 @@
+{
+  "query": "pressure ulcer least score",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02937636",
+          "briefTitle": "To Investigate the Gingivitis Efficacy of a Stannous Fluoride Dentifrice in a Chinese Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gingivitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06187038",
+          "briefTitle": "Effects of Including a Chronic Pain Neuroscience Education Program for Individuals With Knee OA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis, Knee"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06636149",
+          "briefTitle": "Maternal Maneuvers During Prolonged Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Labor Stage, First", "Prolonged Labor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06151769",
+          "briefTitle": "The Effect Pomegranate Seed Oil Prevention and Progression Pressure Ulcers in Intensive Care Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-18",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00790933",
+          "briefTitle": "An Open-label Study of Vedolizumab (MLN0002) in Participants With Ulcerative Colitis and Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ulcerative Colitis", "Crohn's Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2243,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01613989",
+          "briefTitle": "Total Hip Prosthesis Assisted by Computer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-11-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Clinic Hip Osteoarthrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04475068",
+          "briefTitle": "Postural Recruitment Maneuver in Patients With Acute Respiratory Distress Syndrome Due to COVID-19 Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sars-CoV2", "ARDS"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04587466",
+          "briefTitle": "KArukera Study of Aging in Nursing Homes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Geriatric Syndromes"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03708835",
+          "briefTitle": "The Effect of Transitional Care Model-Based Interventions for Stroke Patients and Their Caregivers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02840721",
+          "briefTitle": "Safety, Efficacy, and Tolerability Study of PF-06480605 in Subjects With Moderate to Severe Ulcerative Colitis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colitis, Ulcerative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00960804",
+          "briefTitle": "Long-Term Study Of The Safety Of Tanezumab In Arthritis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-11-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04276051",
+          "briefTitle": "Cryovagotomy Diabetes Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Type 2", "Diabetes Mellitus", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02039505",
+          "briefTitle": "Phase III Study of MLN0002 (300 mg) in the Treatment of Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 292,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06721754",
+          "briefTitle": "Diabetes Related Foot Ulcers with Negative Pressure Wound Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Foot Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06976073",
+          "briefTitle": "Non-invasive Imaging for In-vivo Quantification of Skin Composition and Structure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Diabetic Foot", "Peripheral Arterial Disease", "Skin Cancer", "Cardiovascular Disease Risk"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 8000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05668013",
+          "briefTitle": "A Study to Evaluate the Long-Term Effect of TEV-48574 in Moderate to Severe Ulcerative Colitis or Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-03-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Crohn Disease", "Colitis, Ulcerative"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 218,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03430180",
+          "briefTitle": "Effects of Intranasal Naloxone on Gambling Urges and Craving in Gambling Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pathological Gambling", "Gambling Disorder", "Opioid Antagonist", "Naloxone"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04890678",
+          "briefTitle": "The Use of a Fully Automated Pulsating Support System (CuroCell® A4 CX20) in Pressure Ulcer Prevention and Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pressure Ulcer", "Pressure Injury", "Pressure Sore", "Pressure Ulcer, Buttock"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "110 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05080764",
+          "briefTitle": "Study to Evaluate the Safety and Efficacy of BF-200 ALA (Ameluz®) and BF-RhodoLED® in the Treatment of Moderate to Severe Acne Vulgaris With Photodynamic Therapy in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acne Vulgaris"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07006883",
+          "briefTitle": "Effects of a Yoga Program on the Functionality of Individuals"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Knee Osteoarthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07182747",
+          "briefTitle": "Feasibility of a Multidisciplinary Student-Led Program to Improve Frailty in Nursing Home Residents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Frailty"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07045480",
+          "briefTitle": "Prevention of Pressure Ulcers by Effleurage With RIVADOUCE VEGETABLE SKINCARE OIL in Patients at Risk of Pressure Ulcers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcer Prevention"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05484063",
+          "briefTitle": "Help Optimise and Mobilise Elders (H.O.M.E)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mobility Limitation", "Functional Disturbance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "110 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04347746",
+          "briefTitle": "Comparison of Interventions in Patients With Carpal Tunnel Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Carpal Tunnel Syndrome", "Carpal Tunnel Syndrome Bilateral"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05446792",
+          "briefTitle": "Comparison Between Pelvic Muscle Training and Pilates Exercises for UI in Postmenopausal Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "50 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03146845",
+          "briefTitle": "Evaluation Of An Advanced Borderless Dressing"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pressure Ulcer", "Leg Ulcer", "Diabetic Foot Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02297581",
+          "briefTitle": "Geriatric Fracture Centers - Evaluation of a Geriatric Co-management Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05"
+          },
+          "completionDateStruct": {
+            "date": "2020-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hip Fractures"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 282,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06518486",
+          "briefTitle": "Foot-Ankle Exercise and Walking Exercise on Diabetes Mellitus Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Foot", "Diabetes Mellitus, Type 2", "Diabetic Neuropathies", "Diabetes Type 2", "Diabetes", "Diabetes Mellitus", "Diabetes Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 375,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06522529",
+          "briefTitle": "Sumamos Excelencia Project: Implementation of Best Practices in Clinical Practice (Thrid Edition)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Obesity, Childhood", "Breast Feeding", "Incontinence, Urinary", "Smoking Cessation", "Pressure Injury", "Fall"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04819529",
+          "briefTitle": "Early and Intensive Occupational Therapy in Mechanical Ventilated Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Ventilator Lung", "Impairment, Cognitive", "Impairment, Coordination"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 226,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00863772",
+          "briefTitle": "Tanezumab and Nerve Function In Arthritis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-11-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03107793",
+          "briefTitle": "Study of Treat to Target Versus Routine Care Maintenance Strategies in Crohn's Disease Patients Treated With Ustekinumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohn Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01584375",
+          "briefTitle": "The Risk of Intraventricular Hemorrhage With Flat Midline Versus Right-Tilted Flat Lateral Head Positions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intraventricular Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "2 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04332263",
+          "briefTitle": "Neuromuscular Electrical Stimulation in ICU Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intensive Care Unit Acquired Weakness"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04031248",
+          "briefTitle": "Whole Body Vibration and Exercise in Knee Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Patello Femoral Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03395184",
+          "briefTitle": "Study To Evaluate The Efficacy And Safety Of Oral PF-06651600 And PF-06700841 In Subjects With Moderate To Severe Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohn's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 244,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06412055",
+          "briefTitle": "Bidirectional Tuning of the AFO Stiffness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neuromuscular Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02628041",
+          "briefTitle": "HDR Brachytherapy vs. LDR Brachytherapy Monotherapy in Localized Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2021-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01777256",
+          "briefTitle": "An Adaptive Phase II Study to Evaluate the Efficacy, Pharmacodynamics, Safety and Tolerability of GSK2586184"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systemic Lupus Erythematosus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06280053",
+          "briefTitle": "HealiAid in the Treatment of Different Wounds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Ulcers", "Bedsores", "Diabetic Foot Wound", "Burn Wound"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06084117",
+          "briefTitle": "High Flow Nasal Oxygen for Exacerbation COPD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Exacerbation of COPD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04787575",
+          "briefTitle": "Oxygen-ozone Therapy Plus Antibiotic Therapy in the Treatment of Infections Secondary to Implant of Orthopaedic Devices"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 186,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04358939",
+          "briefTitle": "Prone Position in Patients on High-flow Nasal Oxygen Therapy for COVID-19 (HIGH-PRONE-COVID-19)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Respiratory Distress Syndrome", "COVID-19"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 405,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04605900",
+          "briefTitle": "Impact of Therapeutic Footwear and Plantar Orthoses on Diabetic Neuropathic Foot in Quality of Life and Functionality"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Diabetic Peripheral Neuropathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02456012",
+          "briefTitle": "Long-term Oral Esomeprazole for Prevention of Peptic Ulcer Rebleeding in High-risk Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peptic Ulcer Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 268,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "95 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02288078",
+          "briefTitle": "Oral Steroids for Regorafenib-induced Fatigue/Malaise in Unresectable mCRC (KSCC1402/HGCSG1402)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01877421",
+          "briefTitle": "Safety and Tolerability of Antiplaque Chewing Gum in a Gingivitis Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Plaque", "Gingivitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 135,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02378493",
+          "briefTitle": "Evaluation of the Antibiofilmogramme® Test During Diabetic Foot Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Foot", "Staphylococcus Aureus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00583531",
+          "briefTitle": "Safety and Efficacy of AST-120 in the Treatment of Antibiotic-Refractory Pouchitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pouchitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04607551",
+          "briefTitle": "PRONing to Facilitate Weaning From ECMO in Patients With Refractory Acute Respiratory Distress Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ARDS"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 170,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02509533",
+          "briefTitle": "Comparison of the Use of VAC System in Transplants of Leg Ulcers Versus Usual Dressing Method"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leg Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02352155",
+          "briefTitle": "Second-look Endoscopy in High Risk Patients After Endoscopic Hemostasis to Their Bleeding Peptic Ulcers Improves Their Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcer Bleeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 157,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04545775",
+          "briefTitle": "KArukera Study of Ageing in Foster Families"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Geriatric Syndromes"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07029438",
+          "briefTitle": "Comparative Efficacy of Floss and Essential Oil/CPC+Zn Mouthwashes in Reducing Dental Plaque and Gingivitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Plaque", "Gingivitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 228,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03747458",
+          "briefTitle": "OPN-375 Efficacy and Safety in Adolescents With Bilateral Nasal Polyps"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bilateral Nasal Polyposis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04039789",
+          "briefTitle": "Impact of Physical Activity as a Coadjuvant Treatment in the Healing of Venous Ulcers in Primary Health Care."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Varicose Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05899491",
+          "briefTitle": "Role of ARMA in Selective Subset of Refractory GERD Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["GERD", "Reflux", "Reflux Esophagitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06851416",
+          "briefTitle": "Cross-Cultural Adaptation on CALCULATE in a Critical Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pressure Injury", "Critical Care"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02819336",
+          "briefTitle": "Effectiveness and Safety of Electroacupuncture on Poststroke Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence", "Stroke, Complication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05008211",
+          "briefTitle": "Information-Motivation-Behavioral Skills Model-based Intervention to Domiciliary Non-invasive Ventilation of Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypercapnic Respiratory Failure", "Noninvasive Ventilation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 124,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02207907",
+          "briefTitle": "To Evaluate the Efficacy and Tolerability of Sodium Bicarbonate Toothpaste"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oral Hygiene"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 247,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06799104",
+          "briefTitle": "EFFECT OF PYRAMIDAL TRAINING ON EPICARDIAL FAT FOR CORONARY ARTERY DISEASE PREVENTION"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Class I Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "30 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07074743",
+          "briefTitle": "Evaluate the Feasibility and Effectiveness of a Community-based Care Bundle in Managing and Preventing Pressure Injuries"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pressure Injuries", "Caregiver", "Community Dwelling Older Adult"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 216,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04273360",
+          "briefTitle": "Restrictive Use of Restraints and Delirium Duration in ICU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Restraint, Physical", "Mechanical Ventilation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 423,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03269695",
+          "briefTitle": "Efficacy, Safety and Tolerability of PF-06687234 as Add-on Therapy to Infliximab in Active UC Subjects Not in Remission."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02815150",
+          "briefTitle": "Safety of 250ml Preoperative Carbohydrate Drink in Gastric Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-01"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastric Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04165382",
+          "briefTitle": "Development, Implementation and Evaluation of a Clinical Practice Guideline for Care of Preterm Infants Receiving Non-invasive Ventilation (NIV)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Noninvasive Ventilation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 176,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02578004",
+          "briefTitle": "Risk Factors for Pressure Ulcers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcers"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 313,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "88 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05292326",
+          "briefTitle": "Safety and Efficiency of the PacePress to Prevent Hemorrhagic Complications in Patients Undergoing CIED Implantation."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hemorrhagic Complications", "Hematoma", "Hemorrhage", "Pathologic Processes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03525678",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Two Doses of GSK2857916 in Participants With Multiple Myeloma Who Have Failed Prior Treatment With an Anti-CD38 Antibody"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04661644",
+          "briefTitle": "Efficacy and Safety of Mesenchymal Stem Cell Clusters in Patients with Critical Limb Ischemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critical Limb Ischemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03144687",
+          "briefTitle": "A Study of Itacitinib in Combination With Low-Dose Ruxolitinib or Itacitinib Alone Following Ruxolitinib in Participants With Myelofibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "MPN (Myeloproliferative Neoplasms)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02770638",
+          "briefTitle": "Tissue Interface Pressures in Athlete Medical Extraction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Emergency", "Pain", "Medical Device Discomfort"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04330378",
+          "briefTitle": "A Hospital-at-Home Pilot in Singapore"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hospital-at-home"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 378,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02863263",
+          "briefTitle": "Efficacy and Safety of MedifoamⓇ and BetafoamⓇ in Pressure Ulcer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07270328",
+          "briefTitle": "A Pilot Study of the Effectiveness of Foot-Ankle and Walking Exercises in Patients With Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabete Mellitus", "Diabete Type 2", "Diabetic Peripheral Neuropathy", "Diabetic Foot", "Diabetes", "Diabetes (DM)", "Exercise"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05690685",
+          "briefTitle": "PMS Study of Silver I Alginate Non-Woven Dressing (Hydro-Alginate)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Wound"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05894291",
+          "briefTitle": "Comparaison of Two Prone Position Techniques on Occurence of Pressure Sores in ICU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Respiratory Distress Syndrome", "Pressure Ulcers Stage III"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 334,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04989790",
+          "briefTitle": "Clinical Effectiveness of the \"PICU Up!\" Multifaceted Early Mobility Intervention for Critically Ill Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child", "Intensive Care Unit Acquired Weakness", "Critical Illness", "Hospital Acquired Pressure Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06416462",
+          "briefTitle": "Action of Photodynamic Therapy on Wound Quality and Tissue Repair in the Diabetic Foot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Foot Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07158125",
+          "briefTitle": "Pathogenesis of Periodontal Disease in Individuals With Psoriasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psoriasis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02083601",
+          "briefTitle": "Caring for Caregivers: Supporting Caregivers of Youth With Spinal Cord Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spinal Cord Injuries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03840759",
+          "briefTitle": "Short-term Effects of an Inpatient Geriatric Consultation Team on Geriatric Syndrome Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Senile Dementia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05194969",
+          "briefTitle": "Wet-to-dry vs Petrolatum & Non-stick Dressings After Hidradenitis Suppurativa Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hidradenitis Suppurativa", "Surgical Wound"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04335942",
+          "briefTitle": "Characterization of the Postural Habits of Wheelchair Users Analysis of the Acceptability of International Recommendations in the Prevention of Pressure Sores Risk by Using a Connected Textile Sensor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Duchenne Muscular Dystrophy", "Spinal Muscular Atrophy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01090492",
+          "briefTitle": "PF-00489791 For The Treatment Of Raynaud's"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Raynaud's Disease", "Peripheral Vascular Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 243,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01756456",
+          "briefTitle": "Evaluation of Safety and Efficacy of rhNGF in Patients With Stage 2 and 3 Neurotrophic Keratitis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neurotrophic Keratitis", "Keratitis", "Corneal Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 174,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05987852",
+          "briefTitle": "Hyperbaric Oxygen Therapy for Ulcerative Colitis (HBOT-UC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06309238",
+          "briefTitle": "Intensive Weight Loss Intervention Versus Bariatric Surgery for Adults With Severe and Complex Obesity: the LightBAR Randomised Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2048-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05532865",
+          "briefTitle": "Prospective Cohort of Patients With Systemic Sclerosis at Brest University Hospital With Biobanking"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-10-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systemic Sclerosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03544281",
+          "briefTitle": "To Evaluate Safety, Tolerability, and Clinical Activity of the Antibody-drug Conjugate, GSK2857916 Administered in Combination With Lenalidomide Plus Dexamethasone (Arm A), or in Combination With Bortezomib Plus Dexamethasone (Arm B) in Participants With Relapsed/Refractory Multiple Myeloma (RRMM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06184451",
+          "briefTitle": "Effects of TENS During the Performance of a Therapeutic Exercise Protocol in Individuals With Knee Osteoarthritis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis, Knee"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07314151",
+          "briefTitle": "Study on the Use of Traditional Chinese Medicine Diagnostic Tools to Assist in Identifying the Clinical Characteristics of Inflammatory Bowel Disease and Research on Metabolic Plastids of Tongue Coating"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Inflammatory Bowel Disease (Crohn&#39;s Disease and Ulcerative Colitis)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07258641",
+          "briefTitle": "Fluorescence Imaging of Adalimumab-680LT and Risankizumab-800CW in Inflammatory Bowel Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ulcerative Colitis (UC)", "Crohn Disease (CD)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02000453",
+          "briefTitle": "Safety and Tolerability Study of GSK2586184 in Patients With Moderate to Severely Active Ulcerative Colitis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-08-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colitis, Ulcerative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04397263",
+          "briefTitle": "A Study of Guselkumab in Participants With Moderately to Severely Active Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohns Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03670329",
+          "briefTitle": "Management of Infection Risk in Non-comparative Trial (MINT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2019-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Leg Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03616821",
+          "briefTitle": "Placebo-Controlled Study of Brazikumab in Participants With Moderately to Severely Active Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ulcerative Colitis", "IBD"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 242,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02702037",
+          "briefTitle": "Older Person's Exercise and Nutrition Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mobility Limitations", "Malnutrition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06248736",
+          "briefTitle": "Description of Lactulose Administration by Balloon Rectal Tube in Severe Hepatic Encephalopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatic Encephalopathy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04983108",
+          "briefTitle": "Utility of Liver and Splenic Stiffness in Predicting Esophageal Varices in Patients With Acute on Chronic Liver Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute-On-Chronic Liver Failure"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 216,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03219840",
+          "briefTitle": "Cetylpyridium Chloride (CPC) Based Chewing Gum and Gingivitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gingivitis", "Plaque, Dental", "Periodontal Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04045743",
+          "briefTitle": "The Benefit of Bermekimab in Patients With Systemic Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Scleroderma, Systemic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06348420",
+          "briefTitle": "Anti-reflux Mucosal Valvuloplasty Versus PPIs for GERD Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastroesophageal Reflux Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07161297",
+          "briefTitle": "Remimazolam for Colonoscopy in IBD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "IBD (Inflammatory Bowel Disease)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03368313",
+          "briefTitle": "Non-elastic Compression Garment Therapy Versus Control for Deep Vein Thrombosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Deep Vein Thrombosis", "Post Thrombotic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03565211",
+          "briefTitle": "Clinical Safety Study of the Progesterone Vaginal Ring in Women Undergoing Assisted Reproductive Technology Procedures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Progesterone Supplementation in Women Undergoing ART"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 352,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "34 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05916950",
+          "briefTitle": "The THOR IDE Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Peripheral Artery Disease", "Peripheral Artery Stenosis", "Peripheral Artery Calcification", "PAD"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 155,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06219954",
+          "briefTitle": "Prevention of Pressure Wound Development With Infrared Thermal Camera"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06369584",
+          "briefTitle": "Prone Position During ECMO in Pediatric Patients With Severe ARDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pediatric Acute Respiratory Distress Syndrome", "Extracorporeal Membrane Oxygenation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04624516",
+          "briefTitle": "Effect of Self-foot Exercise on the Incidence of Plantar Foot Diabetic Ulcer Recurrence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Foot Ulcer", "Diabetic Foot"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07257588",
+          "briefTitle": "The Efficacy of Hyperbaric Oxygen-assisted Treatment for ASUC and Refractory IBD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05258357",
+          "briefTitle": "Landmark vs. Ultrasound-Assisted Bone Marrow Biopsy Procedure Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bone Marrow Biopsy Procedure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07171372",
+          "briefTitle": "Personalized IoT-based Physical Activity Monitoring System for Heart Failure Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-13",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Reduced Ejection Fraction Heart Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07024095",
+          "briefTitle": "Inspiratory Muscle Training After Vertebroplasty in Osteoporotic Fracture Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteoporotic Vertebral Compression Fractures", "Restrictive Pulmonary Disorders", "Inspiratory Muscle Weakness", "Postoperative Pulmonary Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04706377",
+          "briefTitle": "Vitamin B12 Supplementation in Diabetic Neuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetic Neuropathies", "Diabetic Complication", "Diabetic Foot"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00662831",
+          "briefTitle": "Study Of The Effect Of Fragmin In The Treatment Of Neuroischaemic Foot Ulcers In Diabetic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Foot Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 276,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06220916",
+          "briefTitle": "The Greek Acute Dance Injuries Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Emergencies"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02439749",
+          "briefTitle": "SPYRAL PIVOTAL - SPYRAL HTN-OFF MED Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Vascular Diseases", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 366,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05785546",
+          "briefTitle": "Elaboration of a Pronostic Score of Changes on Wheelchair's Seating System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neuromuscular Diseases"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01246583",
+          "briefTitle": "CP-690-550 Ointment For Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-11-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03848845",
+          "briefTitle": "Study Evaluating Safety, Tolerability and Clinical Activity of GSK2857916 in Combination With Pembrolizumab in Subjects With Relapsed/Refractory Multiple Myeloma (RRMM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06510777",
+          "briefTitle": "PICO Venous Leg Ulcers (VLU) Reimbursement Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Insufficiency", "Venous Leg Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 294,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03336281",
+          "briefTitle": "A Study to Characterize Profile of Participant With Psoriatic Arthritis Depending on Whether Their Disease is Managed by a Dermatologist or by a Rheumatologist, and Starting Ustekinumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psoriatic Arthritis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01557322",
+          "briefTitle": "Characterize Patients With Moderately Active Rheumatoid Arthritis (RA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10"
+          },
+          "completionDateStruct": {
+            "date": "2012-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatoid Arthritis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1754,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05060237",
+          "briefTitle": "Study to Evaluate Safety and Tolerability of BF-200 ALA (Ameluz®) for Photodynamic Therapy in the Treatment of the Expanded Field of Actinic Keratosis on Face and Scalp"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Actinic Keratosis", "Keratosis, Actinic", "Keratosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06427889",
+          "briefTitle": "Treatment Effects of Two Pharmaceutical Skin Care Creams for Xerotic Feet Among Persons with Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Skin and Connective Tissue Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06681324",
+          "briefTitle": "Study Evaluating AZD7798 for Treatment in Crohn's Disease Patients With an Ileostomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-18",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohn's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01010542",
+          "briefTitle": "Study Evaluating Single Dose Of ILV-095 In Psoriasis Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Plaque Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01749488",
+          "briefTitle": "The Impact of a Dietitian in the Implementation of Nutrition Recommendations During Intensive Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2018-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intensive Care"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06886633",
+          "briefTitle": "The Effect of Breathing Exercise and Pressurized Cold Application on Pain and Anxiety During Sharp Debridement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Foot Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06727968",
+          "briefTitle": "Adding a Combined Program of Therapeutic Exercise and Self-massage to the Conventional Approach of Compression Stockings and Preventive Measures in Chronic Venous Insufficiency."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Venous Insufficiency, CVI"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06078488",
+          "briefTitle": "Individualized Nutritional Care Bundle for Home Nursing Patients With Pressure Injuries."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Wounds and Injuries", "Malnutrition", "Nutritional Deficiency", "Wound Healing Delayed", "Nurse's Role"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 380,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05301959",
+          "briefTitle": "Efficacy of Percutaneous Electrolysis in the Treatment of Achilles Tendinopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Achilles Tendinopathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01396525",
+          "briefTitle": "Trial to Evaluate the Safety & Efficacy of the Omnilink Elite™ Peripheral Balloon-Expandable Stent System in Subjects With Atherosclerotic de Novo or Restenotic Lesions in the Native Common Iliac Artery and/or Native External Iliac Artery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peripheral Vascular Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04262999",
+          "briefTitle": "Bone Mineral Density and Periodontal Status in Patients on Antiepileptic Drug"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alveolar Bone Loss"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04632602",
+          "briefTitle": "Awake Prone Position to Reduce Ventilation Inhomogeneity in COVID-19 Acute Respiratory Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03591068",
+          "briefTitle": "Efficacy & Safety of OPN-375 Adults With Bilateral Nasal Polyps Using Nasoendoscopic Video"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nasal Polyposis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05890989",
+          "briefTitle": "Relationship of Epicardial Adiposity With Sedentary Time, Physical Activity and Performance in Hypertensives"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04904497",
+          "briefTitle": "Early Occupational Therapy in Mechanical Ventilated Patients With Covid-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Critical Illness", "Impairment, Cognitive", "Impairment, Coordination"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05307120",
+          "briefTitle": "Lifestyle Monitoring and Coaching Using the Mobile DIAMETER Application in Secondary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03372083",
+          "briefTitle": "Safety Study of Crushed Deferasirox Film Coated Tablets in Pediatric Patients With Transfusional Hemosiderosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Iron Overload"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07161817",
+          "briefTitle": "Effect of Postural Changes on Postoperative Hypoxemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Hypoxemia", "Position Differences"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03181893",
+          "briefTitle": "A Study In Adults With Moderate To Severe Dermatomyositis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dermatomyositis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03977935",
+          "briefTitle": "The Second-Generation MCCG for Upper Gastrointestinal Tract."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Capsule Endoscopy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02207400",
+          "briefTitle": "To Evaluate Efficacy and Tolerability of Sodium Bicarbonate Toothpaste and Its Effect on Opportunistic or Resistant Organisms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oral Hygiene"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 246,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06908512",
+          "briefTitle": "Adaptation of the Intensive Care Unit-specific Pressure Injury Risk Scale to Turkish (RAPS-ICU)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pressure Injury", "Reliability and Validity", "Intensive Care Units (ICUs)", "Assessment Scale"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01941719",
+          "briefTitle": "Enhancing Diabetic Foot Education by Viewing Personal Plantar Pressures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-03-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetic Neuropathies", "Foot Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 99,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05822518",
+          "briefTitle": "Outcome of Perioperative Immune Enhancing Nutrition in Patients Undergoing Radical Cystectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer, Bladder", "Cystostomy; Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01808261",
+          "briefTitle": "Proof of Concept (POC) in Patients With Ischaemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-07-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cerebrovascular Accident"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 134,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03604640",
+          "briefTitle": "Physical Training and Health Education in Hospitalized Elderly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Functionally-Impaired Elderly"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 260,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07281638",
+          "briefTitle": "Bedside Bike Early Mobilization Program for Inpatients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Immobility Syndrome", "Deep Venous Thrombosis", "Delirium", "Hospital Acquired Condition", "Fall", "Mobility Limitation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "110 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06744036",
+          "briefTitle": "Effects of Including Interferential Current in a Therapeutic Exercise Program in Individuals With Knee Osteoarthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoarthritis, Knee"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05270044",
+          "briefTitle": "Adjuvant Encorafenib and Binimetinib in High-risk Stage II Melanoma With a BRAF Mutation."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-05-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Melanoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 815,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04834232",
+          "briefTitle": "Iliac Vein Stenting and Compression Therapy in Recurrent Venous Ulceration"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Venous Ulcer Recurrent"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07029971",
+          "briefTitle": "A First-in-Human Study of BB-TL1A-VIAL-HLE in Healthy Adults and People With Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis (UC)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04104919",
+          "briefTitle": "Study to Evaluate a Preop Dose of Brivoligide Injection for Pain After Mastectomy in Patients With High PCS Scores"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain, Postoperative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03632031",
+          "briefTitle": "Treatment of Wounds Using Oasis® ECM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-healing Wound"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06184945",
+          "briefTitle": "Behavioral Economic & Staffing Strategies in the ICU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Implementation Science", "Delirium", "Critical Illness", "Mechanical Ventilation Complication", "ICU Acquired Weakness", "Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02264288",
+          "briefTitle": "Efficacy and Safety of Intramuscular PDA-002 in Subjects Who Have Diabetic Foot Ulcer With and Without Peripheral Arterial Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Peripheral Arterial Disease", "Diabetic Foot"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 159,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05747872",
+          "briefTitle": "Effectiveness of Buerger Allen Exercise Among Type 2 Diabetes Mellitus Patients With Foot Ulcer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Foot Ulcers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01036022",
+          "briefTitle": "Effect of GSK1399686 in Patients With Mild to Moderately Active Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-01-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colitis, Ulcerative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04015193",
+          "briefTitle": "Follow-up of SPTS in Patients With Raynaud's Phenomenon"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Raynaud Phenomenon"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02296086",
+          "briefTitle": "MobiChina - A Prospective Multicenter Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "completionDateStruct": {
+            "date": "2019-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Unstable Fracture", "Hip Fracture"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 284,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03281304",
+          "briefTitle": "A Study of Tofacitinib in Patients With Ulcerative Colitis in Stable Remission"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03526757",
+          "briefTitle": "Effects of Pilates Standing Exercises on Walking Mobility and Postural Balance"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aging", "Mobility Limitation", "Postural Balance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07093125",
+          "briefTitle": "Rehabilitation Practices in Critically Ill Patients Receiving Invasive Mechanical Ventilation in the Intensive Care Unit."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mechanical Ventilation", "Pulmonary Rehabilitation", "Intensive Care Units (ICUs)", "Quality of Life (QOL)", "Outcome Assessment", "Extubation Failure", "Mortality", "Critical Care"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03322878",
+          "briefTitle": "Magnesium Sulfate as an Adjuvant to Caudal Bupivacaine in Lower Abdominal Surgeries in Paediatrics."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain, Postoperative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03127904",
+          "briefTitle": "Vein Fitness System vs Compressive Therapy for Venous Ulcers: a Bayesian Adaptive Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Varicose Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03476876",
+          "briefTitle": "Comparative Effectiveness of Two Acellular Matrices (Dermacell vs. Integra) for Management of Deep Diabetic Foot Ulcers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Foot Ulcer", "Deep Diabetic Foot Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03692884",
+          "briefTitle": "Chongqing Diabetes Registry Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03868280",
+          "briefTitle": "The FLiP Study, a Pilot Cluster Randomized Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Femur Fracture"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07258875",
+          "briefTitle": "Effect of VExUS Ultrasound Protocol (Venous Excess Ultrasound) on Perioperative Fluid Management, on the Incidence of Postoperative Pulmonary Complications and Postoperative Acute Kidney Injury in Patients Undergoing Thoracic Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thoracic Surgery With One-lung Ventilation", "VExUS", "Fluid Management", "Acute Kidney Injury", "Postoperative Pulmonary Complications (PPCs)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04689386",
+          "briefTitle": "Effect of Chest Physiotherapy on the Development of Preterm Infants."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Development, Infant", "Respiratory Distress Syndrome in Premature Infant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05354687",
+          "briefTitle": "Comparison of Self Directed Learning and Small Group Teaching Methods on Pressure Injury Assessment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06135415",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Tirbanibulin Ointment in Adult Participants With Actinic Keratosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Keratosis, Actinic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06764615",
+          "briefTitle": "A Continuation Study of TAK-279 in Adults With Ulcerative Colitis (UC) and Crohn's Disease (CD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Crohn's Disease", "Ulcerative Colitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "76 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03374800",
+          "briefTitle": "Re-EValuating the Inhibition of Stress Erosions (REVISE) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastrointestinal Hemorrhage (Clinically Important, Upper)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4800,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01470612",
+          "briefTitle": "Long-Term Study Of CP-690,550 In Subjects With Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 944,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03534895",
+          "briefTitle": "Does the Preoperative Midazolam Dose Affect Postoperative Pain?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain, Postoperative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06095128",
+          "briefTitle": "A Study of Vedolizumab With Tofacitinib in Adults With Ulcerative Colitis (UC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02958865",
+          "briefTitle": "Study to Compare Oral PF-06651600, PF-06700841 and Placebo in Subjects With Moderate to Severe Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 319,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06353568",
+          "briefTitle": "Effect of Photobiomodulation as a Preventive Treatment for Diabetic Foot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Foot"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05575869",
+          "briefTitle": "Evaluation of the Impact of the PRONEtect Education Hub vs. Classic Lecture, on the Competencies of Nursing Students"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prone Position", "Pressure Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04689009",
+          "briefTitle": "Leg Ulcers Standards of Care Enhancement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Venous Leg Ulcer", "Mixed Leg Ulcer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 83,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07278115",
+          "briefTitle": "Effects on Remission of Type 2 Diabetes Mellitus Following Gastric Bypass Alone vs Gastric Bypass Combined With Truncal Vagotomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "68 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01240915",
+          "briefTitle": "A Study To Investigate The Safety And Possible Clinical Benefit Of Multistem(r) In Patients With Moderate To Severe Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colitis, Ulcerative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06083376",
+          "briefTitle": "Effect of Spinal Stabilization Exercises on Epicardial Fat Tissue and Exercise Capacity in Hypertensives"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00844532",
+          "briefTitle": "Trial to Evaluate the Safety & Efficacy of the Absolute Pro™ Peripheral Self-Expanding Stent System in Subjects With Atherosclerotic de Novo or Restenotic Lesions in the Native Common Iliac Artery and/or Native External Iliac Artery."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peripheral Vascular Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06296173",
+          "briefTitle": "Open Lung Protective Extubation Following General Anesthesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intra-abdominal Surgery", "Anesthesia", "Lung Injury", "Ventilator-Induced Lung Injury", "Atelectasis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 270,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00228384",
+          "briefTitle": "GORE VIABAHN ENDOPROSTHESIS Peripheral Vascular Disease Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-09"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peripheral Vascular Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03341962",
+          "briefTitle": "Phase 2 Dose-finding IMU-838 for Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 263,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05760716",
+          "briefTitle": "The Effect of Prone Position Use Ventilator-Associated Pneumonia in Intensive Care Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intensive Care Unit Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04223518",
+          "briefTitle": "Serum Bovine Immunoglobulin (SBI) in Children and Young Adults With Inflammatory Bowel Disease (IBD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Inflammatory Bowel Diseases", "Ulcerative Colitis", "Crohn Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06891976",
+          "briefTitle": "Effect of Acupressure Versus Kinesotape on Low Back Pain in Women Who Use Intrauterine Device"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Low Back Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "25 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05112068",
+          "briefTitle": "Comparative Assessment of Effectiveness and Safety of Methods for Skin and Hair Care in Severe Intensive Care Unit Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Ulcer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04123665",
+          "briefTitle": "A Phase 3 Clinical Study Investigating the Gingivitis Efficacy of a Test Dentifrice Containing Stannous Fluoride"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gingivitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06775171",
+          "briefTitle": "Impact of Video-Based Pressure Injury Training on Caregivers' Knowledge, Attitudes, Behaviors & Reactions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Injury"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 270,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

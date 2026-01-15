@@ -1,0 +1,6241 @@
+{
+  "query": "graft function delayed follow",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02621281",
+          "briefTitle": "Clinical Impact of Hypothermic Machine Perfusion in Renal Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Function of Renal Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01450878",
+          "briefTitle": "Renal Graft Function After Treatment With Erythropoietin (EPO)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ischemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05760794",
+          "briefTitle": "Barbed-suture Efficiency Study for Sacrocolpopexy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prolapse; Female"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04789317",
+          "briefTitle": "Pullback Pressure Gradient (PPG) Global Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Coronary Insufficiency", "Non ST Elevation Myocardial Infarction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 982,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01790594",
+          "briefTitle": "Optimization of NULOJIX® Usage Towards Minimizing CNI Exposure in Simultaneous Pancreas and Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Simultaneous Kidney and Pancreas Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00710892",
+          "briefTitle": "CASPALLO: Allodepleted T Cells Transduced With Inducible Caspase 9 Suicide Gene"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Lymphoblastic Leukemia", "Non-Hodgkin's Lymphoma", "Myelodysplastic Syndrome", "Chronic Myeloid Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03672110",
+          "briefTitle": "Slow and Low Start of a Tacrolimus Once Daily Immunosuppressive Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Failure", "Renal Insufficiency", "Renal Disease", "Renal Insufficiency, Chronic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05365672",
+          "briefTitle": "Clinical Trial With Donor Modified Immune Cells in Living Donor Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "69 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00217152",
+          "briefTitle": "A Kidney Transplant Study to Look at the Effects of Taking Fixed Doses of CellCept Versus Taking Doses of CellCept Based on the Concentration of CellCept in the Blood When Taking Full or Reduced Dose Calcineurin Inhibitors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-03"
+          },
+          "completionDateStruct": {
+            "date": "2007-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Delayed Graft Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05491577",
+          "briefTitle": "Factors Associated With an Evolution in the Quality of Life of Diabetic Patients With Chronic, Wound-free Charcot Foot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Charcot Joint of Foot", "Osteoarthropathy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07045467",
+          "briefTitle": "Remimazolam Infusion in Kidney Transplant Patients: A Multicenter Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Kidney Diseases", "Renal Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06877169",
+          "briefTitle": "Staged Kidney Transplantation During Combined Heart/Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Chronic Kidney Disease", "End-stage Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02192086",
+          "briefTitle": "Goal Directed Fluid Administration for Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End Stage Renal Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06367205",
+          "briefTitle": "Norepinephrine Infusion Combined With Goal-directed Fluid Therapy in Patients Undergoing Kidney Transplantations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delayed Graft Function", "End Stage Renal Disease", "Kidney Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 380,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04815954",
+          "briefTitle": "Early vs Late Urinary Catheter Removal After Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-26",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant; Complications", "Kidney Transplant Infection", "Urinary Fistula", "Urinary Tract Infections", "Urinary Catheter"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03791476",
+          "briefTitle": "RUCONEST® as a Therapeutic Strategy to Reduce the Incidence of Delayed Graft Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00248040",
+          "briefTitle": "Reparixin in Prevention of Delayed Graft Function After Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2008-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemia-Reperfusion Injury", "Kidney Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04408690",
+          "briefTitle": "Feasibility of a RCT That Compares Immediate Versus Optional Delayed Surgical Repair After ACL Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anterior Cruciate Ligament Injuries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04965883",
+          "briefTitle": "Comparison Between Early Excision and Grafting Versus Dressing and Delayed Grafting in Deep Burn Mangement."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Burns"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06286579",
+          "briefTitle": "SOI Immediately vs Delayed"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Implant", "Dental Implant-Abutment Design"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07188363",
+          "briefTitle": "French Ankle Ligament Surgery Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2062-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ankle (Ligaments); Instability (Old Injury)", "Ankle Ligament Rupture", "Ankle Instability", "Syndesmotic Injury"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00587990",
+          "briefTitle": "Prospective Randomized Study of Mesenchymal Stem Cell Therapy in Patients Undergoing Cardiac Surgery (PROMETHEUS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-11"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stem Cell Transplantation", "Ventricular Dysfunction, Left"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00455013",
+          "briefTitle": "A Phase II Study of Belatacept (BMS-224818) With a Steroid-free Regimen in Subjects Undergoing Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Disorder Related to Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02267512",
+          "briefTitle": "Efficacy and Safety of Two Anti-T-lymphocyte Immune Globulin (ATG-F) Induction Regimens in Anew Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "De Novo Kidney Transplant Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06473545",
+          "briefTitle": "Retrospective Evaluation of a Novel Biomimetic Synthetic Bone Substitute (Creos® Syntogain)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tooth Loss", "Partial-edentulism", "Tooth Fracture", "Edentulous Alveolar Ridge"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 173,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07269041",
+          "briefTitle": "Immune Tolerance Induction After Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2033-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Transplantation", "Immune Tolerance", "Immune Tolerance/Drug Effects", "Graft Survival", "Hematopoietic Stem Cell", "Chimerism", "Immunosuppression After Liver Transplantation", "Immunosuppression Disorders", "End Stage Liver Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00935298",
+          "briefTitle": "Initial Dosage Range of Tacrolimus by Genotyping in Chinese Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 145,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04795193",
+          "briefTitle": "MInithoraCotomy vs Sternotomy for Multivessel Coronary Artery Bypass Grafting: A Partially Randomized Patient Preference Trial Assessing Quality of Life and Patency Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Bypass, Off-Pump", "Minimally Invasive Cardiac Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 248,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05935293",
+          "briefTitle": "Dexmedetomidine and Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Transplantation", "Dexmedetomidine"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 206,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05574582",
+          "briefTitle": "Arthroscopic vs. Open Bone Grafting for Scaphoid Delayed/Nonunion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Scaphoid Fracture", "Scaphoid Nonunion"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "68 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07186322",
+          "briefTitle": "Autologous Fat Grafting in Upper Limb Burns Scars"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autologous Fat Grafting", "Burn", "Corticosteroid Injection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02312115",
+          "briefTitle": "Delayed Renal Allograft Function and Furosemide Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00923364",
+          "briefTitle": "Pilot and Feasibility Study of Reduced-Intensity Hematopoietic Stem Cell Transplant for MonoMAC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-05-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-02-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["MDS", "Immunodeficiency", "GATA2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02341833",
+          "briefTitle": "Effects of Preconditioning With Sevoflurane During Organ Procurement From Brain Dead Donors: Impact on Early Function of Liver Allografts"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Post-transplantation Liver Allograft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03136848",
+          "briefTitle": "The Feasibility and Safety of Normothermic ex Vivo Kidney Perfusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04208919",
+          "briefTitle": "Delayed Infusion of DCreg in Living Donor Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Living Donor Liver Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06374095",
+          "briefTitle": "1 vs 7 RATG Infusions in Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Replacement"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02328963",
+          "briefTitle": "Proportion of CMV Seropositive Kidney Transplant Recipients Who Will Develop a CMV Infection When Treated With an Immunosuppressive Regimen Including Everolimus and Reduced Dose of Cyclosporine Versus an Immunosuppressive Regimen With Mycophenolic Acid and Standard Dose of Cyclosporine A"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Transplantation Infection", "Cytomegalovirus Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 186,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01615484",
+          "briefTitle": "Ex-vivo Perfusion and Ventilation of Lungs Recovered From Non-Heart-Beating Donors to Assess Transplant Suitability"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Emphysema", "Chronic Obstructive Pulmonary Disease (COPD)", "Cystic Fibrosis", "Pulmonary Fibrosis", "Bronchiectasis", "Sarcoidosis", "Pulmonary Hypertension", "Alpha-1 Antitrypsin Deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02056938",
+          "briefTitle": "ATG Versus Basiliximab in Kidney Transplant Displaying Low Immunological Risk But High Susceptibility to DGF"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04540640",
+          "briefTitle": "Oxygenated Machine Preservation in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02184806",
+          "briefTitle": "Autograft of Human Ovarian Tissue : Efficiency and Safety"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ovarian Tissue Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01513707",
+          "briefTitle": "The Effects of Pre-transplant Dialysis Modality on Post-transplant Events"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delayed Function of Renal Transplant", "Primary Nonfunction of Renal Transplant", "Acute Rejection of Renal Transplant"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1040,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06997471",
+          "briefTitle": "Phase I Trial on the Safety of Delayed Infusion of a Naïve T Cell-Depleted Hematopoietic Graft With Memory T Cells in Solid Organ Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Solid Organ Transplant Complications", "Solid Organ Transplant Recipients", "Solid Organ Transplant Rejection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01711957",
+          "briefTitle": "The Perioperative Value of Platelet Counts in Predicting Outcome After Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Complication", "Death"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05169554",
+          "briefTitle": "Beta-Lactam Containing Regimen for the Shortening of Buruli Ulcer Disease Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Buruli Ulcer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01271179",
+          "briefTitle": "Study of Sequential Perfusion of Liver Grafts to Prevent Nonanastomotic Biliary Strictures After Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Transplantation", "Transplant Recipient"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 141,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00183248",
+          "briefTitle": "Using Donor Stem Cells and Alemtuzumab to Prevent Organ Rejection in Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Kidney Disease", "Kidney Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00617604",
+          "briefTitle": "A Study to Assess the Efficacy and Safety of Alefacept in Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "De Novo Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 218,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02145182",
+          "briefTitle": "Prevention of Delayed Graft Function Using Eculizumab Therapy (PROTECT Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 288,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01561599",
+          "briefTitle": "Study on Delayed Graft Function Using Paired Kidneys"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03317184",
+          "briefTitle": "Hand-assisted Laparoscopic Donor Nephrectomy Periumbilical Versus Pfannenstiel Incision"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Donor Nephrectomy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04770233",
+          "briefTitle": "How to Best Treat Anterior Cruciate Ligament Injuries"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2045-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anterior Cruciate Ligament Injuries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 328,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05887466",
+          "briefTitle": "Study to Evaluate the Safety and Efficacy of ESC-derived Dopamine Progenitor Cell Therapy in PD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03773211",
+          "briefTitle": "Renaparin® in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03098706",
+          "briefTitle": "Therapeutic Hypothermia in \"Expanded Criteria\" Brain-dead Donors and Kidney-graft Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Organ Donor", "Brain Death", "Kidney Transplant; Complications", "Critical Illness", "Hypothermia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 532,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03386435",
+          "briefTitle": "The Effect of Remote Ischemic Preconditioning in Living Donor Hepatectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tissue Donors", "Liver Transplantation", "Ischemia Reperfusion Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06658730",
+          "briefTitle": "Long-term Characterization of GORE® TAG® Conformable Thoracic Stent Graft With ACTIVE CONTROL System Performance"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2038-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vascular Disease", "Dissection", "Dissection Aortic Aneurysm", "Dissection of Aorta", "Aneurysm Thoracic", "Aneurysm Dissecting", "Transection Aorta", "Intramural Hematoma"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04903054",
+          "briefTitle": "Selective CD28 Blockade in Renal Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Renal Transplant Recipients"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00866879",
+          "briefTitle": "Randomized Conversion of Calcineurin-Inhibitors in Renal Allograft Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplant Rejection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 275,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00413920",
+          "briefTitle": "Efficacy and Safety of Enteric-coated Mycophenolate Sodium and Cyclosporine in Combination With and Without Steroids, in Adult Renal Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-04"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 222,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03600285",
+          "briefTitle": "Prospective, Single-Arm, Study to Assess the Safety and Performance of the TB1-K Device for Organ Preservation in Donor Kidneys for Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Preservation and Transportation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01824121",
+          "briefTitle": "Clinical Trial to Evaluate Bone Marrow Stem Cell Therapy for PSP, a Rare Form of Parkinsonism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Progressive Supranuclear Palsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07115758",
+          "briefTitle": "Vestibular Versus Trapezoid Flap in Immediate Implants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Immediate Dental Implant Placement", "Defect in Alveolar Ridge"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06268769",
+          "briefTitle": "Tacrolimus C:D Ratio Measured in Renal Transplant Recipients Treated With Once-daily Prolonged-release Drugs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Immunosuppression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01715883",
+          "briefTitle": "Sodium Nitrite in Lung Transplant Patients to Minimize the Risk of Pulmonary Graft Dysfunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10"
+          },
+          "completionDateStruct": {
+            "date": "2017-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Primary Graft Dysfunction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04444843",
+          "briefTitle": "Risk Factors of Chinese Kidney Transplant Recipients DSA Based on MPA Immunosuppressive Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant Recipients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01140035",
+          "briefTitle": "Intensive Insulin Therapy in Deceased Donors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03996278",
+          "briefTitle": "Comparison Thymoglobulin® and Grafalon®"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00576407",
+          "briefTitle": "Thymus Transplantation in DiGeorge Syndrome #668"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1991-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["DiGeorge Syndrome", "Complete Typical DiGeorge Anomaly"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04619732",
+          "briefTitle": "Real-time Monitoring of Kidney Grafts on Hypothermic Machine Perfusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transplant;Failure,Kidney"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05157126",
+          "briefTitle": "Gentamicin Open Tibia Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fracture Open Tibia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 890,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06806189",
+          "briefTitle": "Lipiodal Injection Technique for Free Flap Sparing Adjuvant RT Planning in HNC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Head and Neck Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05430620",
+          "briefTitle": "Intermittent Versus Continuous Surface O2 During HMP of DCD Kidneys"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delayed Graft Function", "Kidney Transplant; Complications", "Ischemia Reperfusion Injury", "Mitochondrial"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06859424",
+          "briefTitle": "A Platform Protocol to Investigate Post-Transplant Cyclophosphamide-Based Graft-Versus-Host Disease Prophylaxis in Patients With Hematologic Malignancies Undergoing Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["AML (Acute Myelogenous Leukemia)", "Acute Lymphoid Leukemia (ALL)", "Acute Leukemia (Category)", "MDS (Myelodysplastic Syndrome)", "CML (Chronic Myelogenous Leukemia)", "CLL (Chronic Lymphocytic Leukemia)", "Prolymphocyctic Leukemia", "Chronic Myelomonocytic Leukemia (CMML)", "Myeloproliferative Neoplasm (MPN)", "Lymphoma", "Myelofibrosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 358,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "66 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02723786",
+          "briefTitle": "Efficacy, Safety, Tolerability and Pharmacokinetic (PK) Study of GSK1070806 for the Prevention of Delayed Graft Function (DGF) in Adult Subjects After Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation (Status Post)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03682627",
+          "briefTitle": "Preventive Fenestration With and Without Clipping in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03124641",
+          "briefTitle": "HOPE for Human Extended Criteria and Donation After Brain Death Donor (ECD-DBD) Liver Allografts"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hepatocellular Injury", "Liver Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01436305",
+          "briefTitle": "Optimization of NULOJIX® Usage As A Means of Avoiding CNI and Steroids in Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Renal Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02495077",
+          "briefTitle": "Effects of Inhibiting Early Inflammation in Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 290,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06314230",
+          "briefTitle": "Australian Genomics Of Chronic Allograft Dysfunction Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2040-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant Rejection", "Kidney Transplant; Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00682292",
+          "briefTitle": "Daclizumab Versus Thymoglobulin in Renal Transplant Recipients With High Immunological Risk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-05"
+          },
+          "completionDateStruct": {
+            "date": "2006-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 227,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02134314",
+          "briefTitle": "C1INH Inhibitor Preoperative and Post Kidney Transplant to Prevent DGF & IRI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Renal Disease", "Kidney Failure", "Delayed Graft Function", "Ischemic Reperfusion Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00556933",
+          "briefTitle": "Improved Induction and Maintenance Immunosuppression in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End-stage Renal Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02743793",
+          "briefTitle": "A Cohort Study of Operationally Tolerant Allograft Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant", "Liver Transplant"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06337838",
+          "briefTitle": "Bleeding Reduction in Acute and Chronic Kidney Patients Having Surgery (BRACKETS) Pilot Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Kidney Diseases", "Acute Kidney Injury", "Bleeding", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03995537",
+          "briefTitle": "Monocytic Expression of HLA-DR After Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Diseases", "Liver Transplantation", "Cirrhosis, Liver"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05659641",
+          "briefTitle": "The Branch-based Intraoperative Stent System in the Treatment of Stanford A Aortic Dissection（BROAD）"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aortic Dissection", "Aneurysm, Dissecting", "Aneurysm", "Vascular Diseases", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 259,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04705402",
+          "briefTitle": "Mannitol Use During Cadaveric Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Dialysis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00609986",
+          "briefTitle": "IV Insulin Protocol in Diabetes and Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Diabetes", "Hyperglycemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05898776",
+          "briefTitle": "10°C vs 4°C Lung Preservation RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Transplant", "Organ Preservation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05597540",
+          "briefTitle": "Efficacy of 7 Days Versus 14 Days of Antibiotic Therapy for Acute Pyelonephritis in Kidney Transplant Recipients, a Multicentre Randomized Non-inferiority Trial."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pyelonephritis Acute", "Kidney Transplant Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 470,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01837043",
+          "briefTitle": "Early Conversion From CNI to Belatacept in Renal Transplant Recipients With Delayed and Slow Graft Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delayed Graft Function", "Kidney Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06055608",
+          "briefTitle": "Advancing Transplantation Outcomes in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05109455",
+          "briefTitle": "Effects of a Food Supplement in the Prevention of Urinary Tract Infections in Kidney Transplant Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00007787",
+          "briefTitle": "Antibody and Delayed Cyclosporine Versus Initial Cyclosporine Alone in Patients Receiving Kidney Transplants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2000-04"
+          },
+          "completionDateStruct": {
+            "date": "2004-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Chronic Allograft Nephropathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02911714",
+          "briefTitle": "Contrast-Enhanced Ultrasound for Kidney Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00256750",
+          "briefTitle": "Belatacept Evaluation of Nephroprotection and Efficacy as First-line Immunosuppression (BENEFIT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Chronic Kidney Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 738,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00078559",
+          "briefTitle": "Combination Immunosuppressive Therapy to Prevent Kidney Transplant Rejection in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-11"
+          },
+          "completionDateStruct": {
+            "date": "2010-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06857448",
+          "briefTitle": "Autologous Point-of-Care Adipose Therapy: Recent Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Burns", "Contracture Scar", "Surgical Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01706471",
+          "briefTitle": "Safety and Efficacy of the Early Introduction of Everolimus (Certican®) With Low Dose of Cyclosporine in de Novo Kidney Recipients After 1 Month of Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Planned Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02477371",
+          "briefTitle": "Fractional Flow Reserve Versus Angiography Randomization for Graft Optimization Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Coronary Disease", "Myocardial Ischemia", "Arteriosclerosis", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05166460",
+          "briefTitle": "Novel Cooling Device for the Elimination of Warm Ischemia During Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant; Complications", "Delayed Graft Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01171742",
+          "briefTitle": "Effect of Intermittent Hepatic Inflow Occlusion During Donor Hepatectomy In Living Donor Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Liver Disease", "Living Donor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04104438",
+          "briefTitle": "Examination of Immunosuppression Adjustment Impact on Kidney Function in Liver Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asses Immunosuppression Modulation on Renal Recovery Post LT"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "78 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05793671",
+          "briefTitle": "Follow up of Clinical Outcome of Deferred vs Immediate Stenting in High Thrombus Stemi Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "STEMI"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 440,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06030609",
+          "briefTitle": "The Comparison Between Ringer Lactate Solution and Normal Saline With Dextrose Water in Post-Operative Period of Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Electrolyte Imbalance", "Kidney Transplant; Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 159,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05495490",
+          "briefTitle": "Osseodensification Versus Osteotome Internal Sinus Lifting in Delayed Implant Placement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Maxillary Sinus Floor Augmentation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03627013",
+          "briefTitle": "Custodiol-N Solution Compared With Custodiol Solution in Organ Transplantation (Kidney, Liver and Pancreas)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Failure", "Liver Failure, Chronic", "Kidney-Pancreas Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 362,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05743751",
+          "briefTitle": "Normothermic Machine Perfusion (NMP) Versus Hypothermic Machine Perfusion (HMP) in Human Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02512731",
+          "briefTitle": "Intraoperative Fluid Therapy for Deceased Donor Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06337942",
+          "briefTitle": "Deceased Donor Bladder or Combined Kidney-bladder Transplantation: a Phase 0 First-in-human Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bladder Disease", "Bladder, Neurogenic", "Bladder Cancer", "Kidney Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03855722",
+          "briefTitle": "Remote Ischaemic Preconditioning in Transplantation (RIPTRANS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2042-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transplant Dysfunction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 496,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01053221",
+          "briefTitle": "Mycophenolic Acid Monotherapy in Recipients of HLA-identical Living-Related Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05725421",
+          "briefTitle": "Transplantation of Reconstructed Renal Allografts Following Ex-Vivo Partial Nephrectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02432833",
+          "briefTitle": "Multicentre, Open Label, Randomized, Two-arm, Parallel-group Study to Assess Efficacy and Safety of ENVARSUS® Compared With Tacrolimus Used as Per Current Clinical Practice in the Initial Maintenance Setting in de Novo Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05"
+          },
+          "completionDateStruct": {
+            "date": "2017-01-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End Stage Renal Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 428,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00376480",
+          "briefTitle": "Laboratory-Treated Lymphocyte Infusion After Haploidentical Donor Stem Cell Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia", "Myelodysplastic Syndromes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04428190",
+          "briefTitle": "Prebiotic Therapy to Improve Outcomes of Renal Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant; Complications"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04294641",
+          "briefTitle": "Front Line Ibrutinib Without Corticosteroids for Newly Diagnosed Chronic Graft-versus-Host Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic GVHD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06724211",
+          "briefTitle": "Preventing Delayed Graft Function in Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant", "Kidney Failure", "Kidney Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03086551",
+          "briefTitle": "Modulating Interaction of Motor Learning Networks in Rehabilitation of Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Stroke, Chronic", "Stroke, Middle Cerebral Artery With Infarction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02544113",
+          "briefTitle": "A Randomized Controlled Clinical Trial of Thymoglobulin® After Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00239031",
+          "briefTitle": "Study of Enteric-Coated Mycophenolate Sodium (EC-MPS) Plus Reduced-dose Cyclosporine Microemulsion (CsA-ME) Compared to EC-MPS Plus Standard Dose CsA-ME in Eldery de Novo Renal Transplant Recipients Treated With Basiliximab and Short-term Steroids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-03"
+          },
+          "completionDateStruct": {
+            "date": "2005-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Denovo Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 117,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01241942",
+          "briefTitle": "Phase 2 Study of Ex-vivo Perfusion and Ventilation of Lungs to Assess Transplant Suitability"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Emphysema", "Chronic Obstructive Pulmonary Disease (COPD)", "Cystic Fibrosis", "Pulmonary Fibrosis", "Bronchiectasis", "Sarcoidosis", "Pulmonary Hypertension", "Alpha-1 Antitrypsin Deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04181710",
+          "briefTitle": "Evaluation of a Marine OXYgen Carrier for Organ Preservation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End Stage Renal Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 490,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01158053",
+          "briefTitle": "Vascular Evaluation for Revascularization: Defining the Indications for Coronary Therapy: A Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 291,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01878786",
+          "briefTitle": "A Pilot Study Comparing the Safety and Efficacy of Everolimus With Other Medicines in Recipients of ECD/DCD Kidneys"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03721770",
+          "briefTitle": "Psychological Impact in a Relative, Following the Announcement of the Death of a Loved One After Cardiac Arrest and the Early Request for Organ Donation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post Traumatic Stress Disorder", "Family", "Psychological Distress", "Organ and Tissue Procurement"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02423941",
+          "briefTitle": "A Study of Retrograde rEperfusion in Dbd Donor LIver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "completionDateStruct": {
+            "date": "2017-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Transplantation", "Reperfusion", "Delayed Graft Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "69 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05719376",
+          "briefTitle": "The Effect of Intravenous Iron Therapy and Erythropoiesis-stimulation Agent Combination on Renal Transplant Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Failure, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 302,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07003243",
+          "briefTitle": "Effectiveness of Topical Application of Melatonin On Bone Density and Implant Stability In Immediate Implantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-26",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Immediate Implant Placement", "Melatonin Production"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01299168",
+          "briefTitle": "Diagnostic and Therapeutic Applications in Microarrays in Organ Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Validation Study of Molecular Diagnostic System", "Development of Reporting System for Molecular Diagnosis", "Incorporate Molecular Diagnosis Into Diagnostic Standards"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01843348",
+          "briefTitle": "12 Month Athena Study: Everolimus vs. Standard Regimen in de Novo Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-03-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Renal Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 612,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05907096",
+          "briefTitle": "ARGX-117 in Deceased Donor Kidney Transplant Recipients at Risk for Delayed Graft Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 103,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03236220",
+          "briefTitle": "Effect of NAC on the Hematopoietic Reconstitution After Haploidentical Hematopoietic Stem Cell Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Haploidentical Hematopoietic Stem Cell Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02705573",
+          "briefTitle": "Effects of Mannitol on Delayed Graft Function After Cadaveric Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation, Mannitol"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04503772",
+          "briefTitle": "Preoperative Stereotactic Radiosurgery for Brain Metastases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain Metastases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04081649",
+          "briefTitle": "Cerebral Oxygenation and Neurological Functioning After Cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Cognitive Impairment", "Delirium"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06153914",
+          "briefTitle": "SALT for Patients With Hepatic Cirrhosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Cirrhosis", "Liver"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05340426",
+          "briefTitle": "Porcine Kidney Xenotransplantation in Patients With End-Stage Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Failure, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00235300",
+          "briefTitle": "An Open-label, Prospective, Randomized, Multi-center, Phase II Comparative Trial of Thymoglobulin Versus Simulect for the Prevention of Delayed Graft Function and Acute Allograft Rejection in Renal Allograft Recipients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2000-05"
+          },
+          "completionDateStruct": {
+            "date": "2005-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cadaveric Donor Renal Transplantation", "Acute Renal Allograft Rejection", "Induction Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02026934",
+          "briefTitle": "CliniMACS® CD34+ Reagent System for Expanded Access Use"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Graft-Versus-Host Disease(GVHD)", "Anemia Due to Disturbance of Proliferation and/or Differentiation of Hematopoietic Stem Cells", "Graft Failure", "Delayed Graft Function"]
+        },
+        "designModule": {
+          "studyType": "EXPANDED_ACCESS",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03006419",
+          "briefTitle": "Basiliximab vs Low-dose Thymoglobulin Induction Therapy in Low Risk Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant Rejection", "Kidney Transplant; Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03007017",
+          "briefTitle": "Novel Strategies for Innovating Deceased Donor Procurement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Failure, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04515797",
+          "briefTitle": "QUICKly Eradicate Hepatitis C in Patients Undergoing REnal Transplant With 4 Weeks of Glecaprevir/Pibrentasvir"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Failure", "Hepatitis C", "Kidney Disease, Chronic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05870566",
+          "briefTitle": "Pretreatment to Promote Graft Survival After Subsequent High-risk Corneal Transplantation [CrossCornealVision]"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Corneal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02463253",
+          "briefTitle": "Correlation of Molecular Biomarkers With Biopsy Findings and Outcomes in Renal Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "82 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01856257",
+          "briefTitle": "Open-Label Phase 2 Trial of a Steroid-Free, CNI-Free, Belatacept-Based Immunosuppressive Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Primary Renal Allograft Candidate", "Kidney Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02240992",
+          "briefTitle": "MSCs With or Without Peripheral Blood Stem Cell for Treatment of Poor Graft Function and Delayed Platelet Engraftment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stem Cell Transplantation, Hematopoietic", "Poor Graft Function", "Delayed Platelet Engraftment", "Hematological Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03031470",
+          "briefTitle": "Pilot Study of Reparixin for Early Allograft Dysfunction Prevention in Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemia-reperfusion Injury in Liver Transplant", "Early Allograft Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00975702",
+          "briefTitle": "Remote Ischemic Preconditioning In Abdominal Organ Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Disease", "Liver Disease", "Pancreas Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02152345",
+          "briefTitle": "Belatacept Compared to Tacrolimus in Deceased Donor Renal Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2016-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Implant or Graft; Rejection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03644485",
+          "briefTitle": "Clinical Outcome of Delayed or Standard Prograf Together With Induction Therapy Followed by Conversion to Advagraf in Donation After Cardiac (or Circulatory) Death (DCD) Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 284,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06939660",
+          "briefTitle": "BCI-Assisted SCS-EXS for Gait Optimization"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Spinal Cord Injuries (SCI)", "Spinal Cord Injury, Chronic", "Spinal Cord Injury", "Spinal Cord Injury Cervical", "Spinal Cord Injury Thoracic", "Spinal Cord Injury (Quadraplegia)", "Motor Impairment", "Motor Deficits", "Gait Training", "Gait Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02170129",
+          "briefTitle": "SINUS LIFT 100% Anorganic Bovine Bone vs. 50% Anorganic Bovine Bone + 50% Autologous Bone"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Maxillary Sinus", "Dental Implants"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01410448",
+          "briefTitle": "Everolimus in de Novo Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 383,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03837522",
+          "briefTitle": "Trial to Define the Benefits and Harms of Deceased Donor Kidney Procurement Biopsies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant", "Renal Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06582485",
+          "briefTitle": "A Trial to Assess Efficacy and Safety of ex Vivo Allograft Admin of iCM012 Solution 2 mg/ml to Improve Its Function in Recipients of DCD Kidneys"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemia-reperfusion Injury", "Kidney Transplant; Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05148715",
+          "briefTitle": "Calcineurin Inhibitor in NEuRoloGically Deceased Donors to Decrease Kidney delaYed Graft Function (CINERGY)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Organ Transplant Failure or Rejection", "Brain Death", "Ischemic Reperfusion Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 414,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06782035",
+          "briefTitle": "The Effect of Periodontal Dressings and Various Materials on the Donor Site's Quality of Life After Free Gingival Graft Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Recession, Gingival"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06567548",
+          "briefTitle": "Clinical Comparison of Alb-PRF Vs PRF on Postoperative Morbidity Following FGG Harvesting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Palate; Wound"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00802347",
+          "briefTitle": "I5NP for Prophylaxis of Delayed Graft Function in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Delayed Graft Function", "Other Complication of Kidney Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 374,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05635409",
+          "briefTitle": "A Trial to Determine the Safety and Tolerability of Transplanted Stem Cell Derived Dopamine Neurons to the Brains of Individuals With Parkinson's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01515072",
+          "briefTitle": "Remote Ischemic Preconditioning in Neurological Death Organ Donors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Organ Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 321,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05753930",
+          "briefTitle": "Imlifidase Prior to Kidney Transplant in Highly Sensitised Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation in Highly Sensitized Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01794663",
+          "briefTitle": "Placebo-Controlled Study to Evaluate the Safety and Efficacy of OPN-305 in Preventing Delayed Renal Graft Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01759862",
+          "briefTitle": "Perioperative Aminophylline to Improve Early Kidney Function After a Kidney Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Function of Renal Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07203664",
+          "briefTitle": "Use of Tacrolimus and MTOR Inhibitors With Anticipatory Therapy vs. Tacrolimus and Mycophenolic Acid With Universal Prophylaxis in Renal Recipients at High Risk of Posttransplant Cytomegalovirus."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Evaluate the Effectiveness of CMV Prevention Strategies in Kidney Transplant Recipients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02017171",
+          "briefTitle": "A Multicenter Clinical Trial of Allopurinol to Prevent Kidney Function Loss in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Nephropathies", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 530,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07063719",
+          "briefTitle": "Identification of Cellular Biomarkers of Rare Eye Diseases in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rare Diseases", "Ophthalmology"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01430156",
+          "briefTitle": "Induction of HO-1; a Therapeutic Approach to Reduce Ischaemia Reperfusion Injury (IRI) Following Deceased Donor Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Graft Failure", "Ischemia-reperfusion Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05513807",
+          "briefTitle": "Graft Acute Kidney Injury: Vitamin B3 to Facilitate Renal Recovery In the Early Life of a Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 204,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05750329",
+          "briefTitle": "Liver Transplantation With Two-stage Liver Resection in Unresectable Liver Cancer , Metastases or Emd-stage Liver Disease (LTLR-LC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Transplant Disorder", "Hepatic Cancer", "End-stage Liver Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06288152",
+          "briefTitle": "Evaluation of Thiosulfate Enhanced Organ Preservation Solution in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Transplant", "Kidney Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03228290",
+          "briefTitle": "Functional Assessment in Liver Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "End Stage Liver Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07287800",
+          "briefTitle": "TRT as an Adjunctive ERAS Therapy in ESRD Patients Undergoing Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypogonadism, Male", "End Stage Renal Disease (ESRD)", "Kidney Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04935177",
+          "briefTitle": "Renal Function in Highly Sensitized Patients 1 Year After Desensitization With Imlifidase Prior to DD Kidney Tx"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation in Highly Sensitized Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02876692",
+          "briefTitle": "Prediction and Management of Delayed Graft Function Based on Donor Criteria and LifePort Platform"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Graft Function"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03368365",
+          "briefTitle": "Validation of the Respiratory Function of Pulmonary Transplants to Anticipate Unplanned Hospitalizations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Transplant; Complications"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05699174",
+          "briefTitle": "PO vs IV Antibiotics for the Treatment of Infected Nonunion of Fractures After Fixation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infections", "Infected Wound", "Nonunion of Fracture", "Injury Leg", "Amputation", "Internal Fixation; Complications, Infection or Inflammation", "Fracture", "Lower Extremity Fracture", "Antibiotic Side Effect"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01170910",
+          "briefTitle": "Pulsatile Perfusion Preservation in Kidney Transplantation From Expanded Criteria Donors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Renal Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03500315",
+          "briefTitle": "HOPE in Action Prospective Multicenter, Clinical Trial of Deceased HIVD+ Kidney Transplants for HIV+ Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hiv"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 209,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06056102",
+          "briefTitle": "CAR-T Cell Therapy for Desensitization in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2042-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant", "Kidney Failure", "End Stage Renal Failure on Dialysis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05730257",
+          "briefTitle": "Study Investigating Whether Robot-assisted Surgery Can Reduce Surgical Complications Following Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-10-26",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Renal Disease", "Kidney Transplant; Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 106,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02130817",
+          "briefTitle": "Belatacept in Kidney Transplantation of Moderately Sensitized Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-10-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Renal Disease", "Antibody Mediated Rejection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06774339",
+          "briefTitle": "Biomarkers and Inflammation in Solid Organ Transplantation: Relationship With Short- and Long-Term Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Solid Organ Transplantation"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04005469",
+          "briefTitle": "Safety and Efficacy of Treprostinil (Remodulin®) In Reducing Ischemia-Reperfusion Injury During Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemia Reperfusion Injury", "Delayed Graft Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03646344",
+          "briefTitle": "Heme Arginate in Transplantation Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Transplant Rejection", "Renal Transplant Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06744400",
+          "briefTitle": "Optimal Dose of Anti-lymphocyte Globulin in Kidney Transplant Recipients With Low Immunological Risk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03071536",
+          "briefTitle": "Furosemide Stress Test Predicting Early Graft Function in Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Function", "Kidney Transplant; Complications", "Delayed Graft Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04102696",
+          "briefTitle": "ARomatherapy for Cognitive Trajectory in Chinese After Coronary Artery Bypass Grafting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Bypass Grafting", "Myocardial Infarction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 460,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06801886",
+          "briefTitle": "Silymarin's Advantage on Graft Effectiveness"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Posttransplant Diabetes Mellitus", "Acute Graft Rejection", "Biopsy Proven Acute Rejection", "Antibody Mediated Rejection of Kidney Transplant", "Arterial Hypertension, Chronic Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00154297",
+          "briefTitle": "Efficacy and Safety of Early Versus Delayed Administration of Everolimus in de Novo Renal Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-06"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Renal Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 139,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02565147",
+          "briefTitle": "Bivalirudin Infusion for Ventricular Infarction Limitation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Myocardial Infarction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01815749",
+          "briefTitle": "Genetically Modified T-cell Infusion Following Peripheral Blood Stem Cell Transplant in Treating Patients With Recurrent or High-Risk Non-Hodgkin Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adult Grade III Lymphomatoid Granulomatosis", "Cutaneous B-cell Non-Hodgkin Lymphoma", "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue", "Intraocular Lymphoma", "Nodal Marginal Zone B-cell Lymphoma", "Post-transplant Lymphoproliferative Disorder", "Recurrent Adult Burkitt Lymphoma", "Recurrent Adult Diffuse Large Cell Lymphoma", "Recurrent Adult Diffuse Mixed Cell Lymphoma", "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma", "Recurrent Adult Grade III Lymphomatoid Granulomatosis", "Recurrent Adult Immunoblastic Large Cell Lymphoma", "Recurrent Adult Lymphoblastic Lymphoma", "Recurrent Grade 1 Follicular Lymphoma", "Recurrent Grade 2 Follicular Lymphoma", "Recurrent Grade 3 Follicular Lymphoma", "Recurrent Mantle Cell Lymphoma", "Recurrent Marginal Zone Lymphoma", "Recurrent Small Lymphocytic Lymphoma", "Refractory Hairy Cell Leukemia", "Small Intestine Lymphoma", "Splenic Marginal Zone Lymphoma", "Testicular Lymphoma", "Waldenström Macroglobulinemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01403389",
+          "briefTitle": "A Study of the Activity of Eculizumab for Prevention of Delayed Graft Function In Deceased Donor Kidney Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-02-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delayed Function of Renal Transplant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00564538",
+          "briefTitle": "A Study of Thymoglobulin and Tacrolimus in Liver Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Transplantation", "Liver Disease", "Immunosuppression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05369975",
+          "briefTitle": "Efficacy and Safety in Imlifidase Desensitized Kidney Tx Patients, Including Two Non-Comparative Reference Cohorts"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation in Highly Sensitized Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 225,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00249002",
+          "briefTitle": "Use of ABI-007 for the Prevention of Vascular Access Graft Failure in Patients Undergoing Hemodialysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemodialysis Graft Dysfunction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07197164",
+          "briefTitle": "Safety and Effectiveness of a Remdesivir Treatment to Prevent Severe COVID-19 in Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID - 19", "Renal Transplant", "SARS CoV 2 Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.2": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05525507",
+          "briefTitle": "Delayed Immunological Tolerance in Patients With Well-functioning Pre-existing HLA-matched Kidney Transplants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Kidney Disease", "Immunological Tolerance", "Kidney Transplant Failure and Rejection", "Chronic Kidney Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

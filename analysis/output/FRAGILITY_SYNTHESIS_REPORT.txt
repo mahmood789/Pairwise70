@@ -1,0 +1,66 @@
+
+================================================================================
+FRAGILITY OF COCHRANE META-ANALYSES: COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+Generated: 2026-01-02 17:44:55
+
+EXECUTIVE SUMMARY
+-----------------
+Analysis of 4424 meta-analyses from 474 Cochrane
+systematic reviews reveals substantial fragility in evidence synthesis.
+
+KEY FINDINGS
+------------
+
+1. PREVALENCE OF FRAGILITY
+   - NA (NA%) direction-fragile
+   - NA (NA%) significance-fragile
+   - NA (NA%) clinically-fragile
+   - Only 44% are fully robust
+
+2. CRITICAL FINDING FOR SIGNIFICANT RESULTS
+   - NA% of significant findings would lose significance
+     if a single study were removed
+   - This equals NA Cochrane conclusions
+
+3. PREDICTIVE MODEL PERFORMANCE
+   - AUC for direction fragility: 0.837
+   - AUC for significance fragility: 0.773
+   - Number of studies (k) is strongest protective factor
+
+4. MINIMUM k THRESHOLDS
+   - k >= 19 for <20% direction fragility
+   - k >= 25 for <10% direction fragility
+   - Recommendation: k >= 10 minimum for 'robust' conclusions
+
+5. HETEROGENEITY INTERACTION
+   - Low I2 (<25%): NA% significance fragile
+   - High I2 (>75%): NA% significance fragile
+   - Higher heterogeneity = higher significance fragility
+
+RECOMMENDATIONS
+---------------
+
+For Systematic Reviewers:
+- Report leave-one-out fragility as standard
+- Flag conclusions based on <10 studies
+- Use fragility-aware interpretation of borderline results
+
+For Guideline Developers:
+- Weight evidence by fragility status
+- Require larger evidence bases for strong recommendations
+- Consider fragility in GRADE assessments
+
+For Methodologists:
+- Develop robust pooling methods
+- Create fragility-aware confidence intervals
+- Integrate fragility into living review frameworks
+
+OUTPUT FILES
+------------
+1. fragility_analysis_extended.csv - Full results with predictive features
+2. fragility_comprehensive_summary.csv - Key statistics
+3. 8 visualizations in plots/fragility_deep/
+
+================================================================================
+

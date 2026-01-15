@@ -1,0 +1,191 @@
+{
+  "query": "sensitivity excluding bias high",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02499055",
+          "briefTitle": "A Randomised Feasibility Trial With Internet Based Self-help Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anxiety"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03755934",
+          "briefTitle": "Efficacy and Safety of MEDI7352 in Participants With Painful Diabetic Neuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Painful Diabetic Neuropathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04937868",
+          "briefTitle": "Developing a Decision Instrument to Guide Abdominal-pelvic CT Imaging of Blunt Trauma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Abdominal Injury", "Pelvic Fracture", "Genital Hemorrhage", "Lumbar Spine Injury", "Hip Injuries", "Liver Injury", "Spleen Injury", "Renal Injury", "Diaphragm Injury", "Aortic Rupture", "Aortic Dissection", "Bowel Disease", "Vascular System Injuries", "Sacral Fracture"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 12000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07102329",
+          "briefTitle": "BURDEN OF ESOPHAGEAL CANCER IN EOSINOPHILIC ESOPHAGITIS (ESCAPE STUDY)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Eosinophilic Esophagitis (EoE)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07169292",
+          "briefTitle": "Effects of Wet-Cupping on Polycystic Ovary Syndrome Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Polycystic Ovarian Syndrome (PCOS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07285434",
+          "briefTitle": "Clinical Study of the Therapeutic Effectiveness of In-silico-Designed, Machine Learning Inspired, and Quantum-molecularly Coupled Personalized Neoantigenic Vaccines Microlyvaq™ in Patients With Advanced Non-small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-02-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["NSCLC (Non-small Cell Lung Cancer)", "Squamous Lung Cancer With FGFR1 Amplification", "Non-Squamous Non Small Cell Lung Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      }
+    ]
+  }
+}

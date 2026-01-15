@@ -1,0 +1,38 @@
+{
+  "query": "within eyes healed hours",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06156566",
+          "briefTitle": "European Trial Into Mpox Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Monkeypox"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

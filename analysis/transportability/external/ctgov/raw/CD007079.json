@@ -1,0 +1,749 @@
+{
+  "query": "calcium birth maternal bone",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02048839",
+          "briefTitle": "Long-term Effects of Lifestyle Intervention During Pregnancy in High Risk Women and in Their Offspring - Role of Environmental, Genetic and Epigenetic Factors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Obesity", "Metabolic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 680,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01312012",
+          "briefTitle": "The Antiviral Therapy in Pregnant Women to Reduce Mother-to-infant Transmission of Hepatitis B Virus-drug Test"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatitis B Virus Infection, Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02743559",
+          "briefTitle": "Does Vitamin D Alter Bone's Response to Vibration?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vitamin D Deficiency", "Osteoporosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03072303",
+          "briefTitle": "Pregnancy in Osteogenesis Imperfecta (OI) Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteogenesis Imperfecta", "Brittle Bone Disorders"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 170,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00785824",
+          "briefTitle": "African-American Bone Metabolism and Lactation Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2010-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lactation", "Bone Diseases, Endocrine"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03537365",
+          "briefTitle": "Bovine Colostrum as a Fortifier Added to Human Milk for Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Growth", "Necrotizing Enterocolitis", "Late-Onset Sepsis", "Feeding Intolerance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Days",
+          "maximumAge": "3 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01455636",
+          "briefTitle": "Preventing Linear Growth Faltering Among Low Birth Weight Infants in Bangladesh"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant, Low Birth Weight"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 467,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03067896",
+          "briefTitle": "Dexmedetomidine Versus Magnesium Sulphate for Caesarean Delivery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean Section"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03085277",
+          "briefTitle": "Bovine Colostrum for Preterm Newborns"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Enteral Feeding Intolerance", "Necrotizing Enterocolitis", "Late-Onset Neonatal Sepsis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "2 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07119177",
+          "briefTitle": "Long-term Evaluation of Gestational Endocrine & Metabolic Dynamics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus (GDM)", "Non-communicable Chronic Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02548520",
+          "briefTitle": "Maternal and Infant Vitamin Status During the First Nine Months of Infant Life"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-10"
+          },
+          "completionDateStruct": {
+            "date": "2012-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rickets", "Osteomalacia", "Osteoporosis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "24 Years",
+          "maximumAge": "41 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02024490",
+          "briefTitle": "The Effect of Maternal and Neonatal Vitamin D Levels on Respiratory Distress Syndrome in Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vitamin D Deficiency"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "3 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02434380",
+          "briefTitle": "Effect of Vitamin D Replacement on Maternal and Neonatal Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07"
+          },
+          "completionDateStruct": {
+            "date": "2018-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypovitaminosis D", "Pregnancy Complications", "Infant, Newborn, Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 330,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03691896",
+          "briefTitle": "Calcium (ca),Phosphorus( P) and 25-hydroxyvitamin D(25OHD)] in Infants Born ≤ 32 PMA Gestational Weeks (GA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant, Premature, Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03655223",
+          "briefTitle": "Early Check: Expanded Screening in Newborns"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Spinal Muscular Atrophy", "Fragile X Syndrome", "Fragile X - Premutation", "Duchenne Muscular Dystrophy", "Hyperinsulinemic Hypoglycemia, Familial 1", "Diabetes Mellitus", "Adrenoleukodystrophy, Neonatal", "Medium-chain Acyl-CoA Dehydrogenase Deficiency", "Very Long Chain Acyl Coa Dehydrogenase Deficiency", "Beta-ketothiolase Deficiency", "Severe Combined Immunodeficiency Due to Adenosine Deaminase Deficiency", "Primary Hyperoxaluria Type 1", "Congenital Bile Acid Synthesis Defect Type 2", "Pyridoxine-Dependent Epilepsy", "Hereditary Fructose Intolerance", "Hypophosphatasia", "Hyperargininemia", "Mucopolysaccharidosis Type 6", "Argininosuccinic Aciduria", "Citrullinemia, Type I", "Wilson Disease", "Maple Syrup Urine Disease, Type 1A", "Maple Syrup Urine Disease, Type 1B", "Biotinidase Deficiency", "Neonatal Severe Primary Hyperparathyroidism", "Intrinsic Factor Deficiency", "Usher Syndrome Type 1D/F Digenic (Diagnosis)", "Cystic Fibrosis", "Stickler Syndrome Type 2", "Stickler Syndrome Type 1", "Alport Syndrome, Autosomal Recessive", "Alport Syndrome, X-Linked", "Carbamoyl Phosphate Synthetase I Deficiency Disease", "Carnitine Palmitoyl Transferase 1A Deficiency", "Carnitine Palmitoyltransferase II Deficiency", "Cystinosis", "Chronic Granulomatous Disease", "Cerebrotendinous Xanthomatoses", "Maple Syrup Urine Disease, Type 2", "Severe Combined Immunodeficiency Due to DCLRE1C Deficiency", "Thyroid Dyshormonogenesis 6", "Thyroid Dyshormonogenesis 5", "Supravalvar Aortic Stenosis", "Factor X Deficiency", "Hemophilia A", "Hemophilia B", "Tyrosinemia, Type I", "Fructose 1,6 Bisphosphatase Deficiency", "Glycogen Storage Disease Type I", "G6PD Deficiency", "Glycogen Storage Disease II", "Galactokinase Deficiency", "Mucopolysaccharidosis Type IV A", "Galactosemias", "Guanidinoacetate Methyltransferase Deficiency", "Agat Deficiency", "Glutaryl-CoA Dehydrogenase Deficiency", "Gtp Cyclohydrolase I Deficiency", "Hyperinsulinism-Hyperammonemia Syndrome", "Primary Hyperoxaluria Type 2", "3-Hydroxyacyl-CoA Dehydrogenase Deficiency", "Long-chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency", "Mitochondrial Trifunctional Protein Deficiency", "Sickle Cell Disease", "Beta-Thalassemia", "Holocarboxylase Synthetase Deficiency", "3-Hydroxy-3-Methylglutaric Aciduria", "Primary Hyperoxaluria Type 3", "Hermansky-Pudlak Syndrome 1", "Hermansky-Pudlak Syndrome 4", "Apparent Mineralocorticoid Excess", "HSDB", "CBAS1", "Mucopolysaccharidosis Type 2", "Mucopolysaccharidosis Type 1", "Severe Combined Immunodeficiency, X Linked", "Severe Combined Immunodeficiency Due to IL-7Ralpha Deficiency", "Diabetes Mellitus, Permanent Neonatal", "Isovaleric Acidemia", "Severe Combined Immunodeficiency T-Cell Negative B-Cell Positive Due to Janus Kinase-3 Deficiency (Disorder)", "Jervell and Lange-Nielsen Syndrome 2", "Hyperinsulinemic Hypoglycemia, Familial, 2", "Diabetes Mellitus, Permanent Neonatal, With Neurologic Features", "Jervell and Lange-Nielsen Syndrome 1", "Lysosomal Acid Lipase Deficiency", "CblF", "3-Methylcrotonyl CoA Carboxylase 1 Deficiency", "3-Methylcrotonyl CoA Carboxylase 2 Deficiency", "Waardenburg Syndrome Type 2A", "Methylmalonic Aciduria cblA Type", "Methylmalonic Aciduria cblB Type", "Methylmalonic Aciduria and Homocystinuria Type cblC", "MAHCD", "Methylmalonic Aciduria Due to Methylmalonyl-CoA Mutase Deficiency", "Congenital Disorder of Glycosylation Type 1B", "Mthfr Deficiency", "Methylcobalamin Deficiency Type Cbl G (Disorder)", "Methylcobalamin Deficiency Type cblE", "Usher Syndrome, Type 1B", "N-acetylglutamate Synthase Deficiency", "Ornithine Transcarbamylase Deficiency", "Phenylketonurias", "Waardenburg Syndrome Type 1", "Congenital Hypothyroidism", "Propionic Acidemia", "Usher Syndrome, Type 1F", "Pancreatic Agenesis 1", "Hereditary Hypophosphatemic Rickets", "Glycogen Storage Disease IXB", "Glycogen Storage Disease IXC", "MOWS", "Epilepsy, Early-Onset, Vitamin B6-Dependent", "Pyridoxal Phosphate-Responsive Seizures", "Pituitary Hormone Deficiency, Combined, 1", "Ptsd", "Dihydropteridine Reductase Deficiency", "Severe Combined Immunodeficiency Due to RAG1 Deficiency", "Severe Combined Immunodeficiency Due to RAG2 Deficiency", "Retinoblastoma", "Multiple Endocrine Neoplasia Type 2B", "Pseudohypoaldosteronism, Type I", "Liddle Syndrome", "Biotin-Responsive Basal Ganglia Disease", "SCD", "DIAR1", "GSD1C", "Acrodermatitis Enteropathica", "Thyroid Dyshormonogenesis 1", "Riboflavin Transporter Deficiency", "Waardenburg Syndrome, Type 2E", "SRD", "Congenital Lipoid Adrenal Hyperplasia Due to STAR Deficiency", "Barth Syndrome", "Adrenocorticotropic Hormone Deficiency", "Transcobalamin II Deficiency", "Thyroid Dyshormonogenesis 3", "Segawa Syndrome, Autosomal Recessive", "Autosomal Recessive Nonsyndromic Hearing Loss", "Thyroid Dyshormonogenesis 2A", "Congenital Isolated Thyroid Stimulating Hormone Deficiency", "Hypothyroidism Due to TSH Receptor Mutations", "Usher Syndrome Type 1C", "Usher Syndrome Type 1G (Diagnosis)", "Von Willebrand Disease, Type 3", "Combined Immunodeficiency Due to ZAP70 Deficiency", "Adenine Phosphoribosyltransferase Deficiency", "Metachromatic Leukodystrophy", "Canavan Disease", "Menkes Disease", "Carbonic Anhydrase VA Deficiency", "Developmental and Epileptic Encephalopathy 2", "17 Alpha-Hydroxylase Deficiency", "Smith-Lemli-Opitz Syndrome", "Krabbe Disease", "Glutathione Synthetase Deficiency", "Mucopolysaccharidosis Type 7", "Rett Syndrome", "Molybdenum Cofactor Deficiency, Type A", "Niemann-Pick Disease, Type C1", "Niemann-Pick Disease Type C2", "Ornithine Aminotransferase Deficiency", "3-Phosphoglycerate Dehydrogenase Deficiency", "Leber Congenital Amaurosis 2", "Dravet Syndrome", "Mucopolysaccharidosis Type 3 A", "Ornithine Translocase Deficiency", "Carnitine-acylcarnitine Translocase Deficiency", "Glucose Transporter Type 1 Deficiency Syndrome", "Creatine Transporter Deficiency", "Niemann-Pick Disease Type A", "Pitt Hopkins Syndrome", "Tuberous Sclerosis 1", "Tuberous Sclerosis 2", "Ataxia With Isolated Vitamin E Deficiency", "Angelman Syndrome", "Prader-Willi Syndrome", "Homocystinuria", "Permanent Neonatal Diabetes Mellitus", "Transient Neonatal Diabetes Mellitus", "Factor VII Deficiency", "Glycogen Storage Disease Type IXA1", "Glycogen Storage Disease, Type IXA2", "Glycogen Storage Disease IC", "Glycogen Storage Disease Type IB", "Central Hypoventilation Syndrome With or Without Hirschsprung Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "31 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05878574",
+          "briefTitle": "Prospective Study of BMD and Ca-P Metabolism in RSA Patients: LMWH Use Versus Control"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Recurrent Spontaneous Abortion"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 344,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01419821",
+          "briefTitle": "Vitamin D and Its Affect on Growth Rates and Bone Mineral Density Until Age 5"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vitamin D Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "9 Months",
+          "maximumAge": "15 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03706482",
+          "briefTitle": "Boost Brittle Bones Before Birth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteogenesis Imperfecta"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06750523",
+          "briefTitle": "Advancing Early Bone Health: New Frontiers for Osteoporosis Prevention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low-Risk Pregnant Women at Full-Term Gestation", "Healthy Fetal Population", "Healthy Neonatal Population"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "37 Weeks",
+          "maximumAge": "42 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01418014",
+          "briefTitle": "Adolescent Master Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV/AIDS"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 678,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01732328",
+          "briefTitle": "Effect of Calcium Plus Vitamin D Supplementation on Adolescent Mother and Infant Bone Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "completionDateStruct": {
+            "date": "2013-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lactation Bone Loss", "Infant Bone Growth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01506557",
+          "briefTitle": "Vitamin D Supplementation of Lactating Mothers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vitamin D Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 174,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05687474",
+          "briefTitle": "Baby Detect : Genomic Newborn Screening"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congenital Adrenal Hyperplasia", "Familial Hyperinsulinemic Hypoglycemia 1", "Phosphoglucomutase 1 Deficiency", "Maturity Onset Diabetes of the Young", "Cystic Fibrosis", "Hypophosphatasia, Infantile", "Congenital Hypothyroidism", "Deficit in Anterior Pituitary Function and Variable Immunodeficiency", "Pituitary Hormone Deficiency, Combined", "Diamond Blackfan Anemia", "Wiskott-Aldrich Syndrome", "Fanconi Anemia", "Hemophilia A", "Hemophilia B", "Glucose 6 Phosphate Dehydrogenase Deficiency", "Alpha-Thalassemia", "Sickle Cell Disease", "Shwachman-Diamond Syndrome", "Alpha 1-Antitrypsin Deficiency", "Inflammatory Bowel Disease 25, Autosomal Recessive", "Wilson Disease", "Progressive Familial Intrahepatic Cholestasis", "Crigler-Najjar Syndrome", "Familial Chylomicronemia", "Lysosomal Acid Lipase Deficiency", "Familial Hemophagocytic Lymphocytosis", "Griscelli Syndrome", "Chediak-Higashi Syndrome", "Severe Congenital Neutropenia", "Severe Combined Immune Deficiency", "Chronic Granulomatous Disease", "Menkes Disease", "Adrenoleukodystrophy", "Smith-Lemli-Opitz Syndrome", "Ataxia With Vitamin E Deficiency", "Thiamine Metabolism Dysfunction Syndrome 5 (Episodic Encephalopathy Type)", "Thiamine Metabolism Dysfunction Syndrome 4 (Bilateral Striatal Degeneration and Progressive Polyneuropathy Type)", "Thiamine-Responsive Megaloblastic Anemia", "Thiamine Metabolism Dysfunction Syndrome 2", "Deficiency of GOT2", "Cerebral Folate Transport Deficiency", "Segawa Syndrome, Autosomal Recessive", "Congenital Myasthenic Syndrome", "Metachromatic Leukodystrophy", "Sepiapterin Reductase Deficiency", "Dopamine Beta Hydroxylase Deficiency", "Glut1 Deficiency Syndrome", "Late-Infantile Neuronal Ceroid Lipofuscinosis", "Aromatic L-amino Acid Decarboxylase Deficiency", "Charcot-Marie-Tooth Disease, Type 6C", "Hereditary Hyperekplexia", "Brain Dopamine-Serotonin Vesicular Transport Disease", "Very Long Chain Hydroxy Acyl Dehydrogenase Deficiency", "Tyrosinemia, Type I", "Disaccharide Intolerance I", "Beta Ketothiolase Deficiency", "Phosphoglycerate Dehydrogenase Deficiency", "Succinyl-Coa:3-Ketoacid Coa-Transferase Deficiency", "Pyridoxine-5'-Phosphate Oxidase Deficiency", "Pyridoxine-Dependent Epilepsy", "Propionic Acidemia", "Pompe Disease", "Phenylalanine Hydroxylase Deficiency", "Ornithine Transcarbamylase Deficiency", "N Acetyl Glutamate Synthetase Deficiency", "Riboflavin Deficiency", "Maple Syrup Urine Disease", "Medium Chain Acyl CoA Dehydrogenase Deficiency", "Malonic Acidemia", "Long-chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency", "Isovaleric Acidemia", "Phosphoserine Aminotransferase Deficiency", "Phosphoserine Phosphatase Deficiency", "Hyperornithinemia-Hyperammonemia-Homocitrullinuria", "S-Adenosylhomocysteine Hydrolase Deficiency", "Mucopolysaccharidosis VII", "Mucopolysaccharidosis VI", "Mucopolysaccharidosis IV A", "Mucopolysaccharidosis II", "Mucopolysaccharidosis I", "Transcobalamin Deficiency", "Isolated Methylmalonic Acidemia", "Cobalamin Deficiency", "Homocystinuria", "Holocarboxylase Synthetase Deficiency", "Fanconi Bickel Syndrome", "Glycogen Storage Disease", "Glycine Encephalopathy", "Glutaric Acidemia I", "Glucose Galactose Malabsorption", "Gaucher Disease, Type 1", "Galactosemias", "Fructosemia", "Fructose-1,6-Diphosphatase Deficiency", "Carbamoyl Phosphate Synthase 1 Deficiency", "Citrullinemia Type II", "Citrullinemia 1", "Creatine Deficiency Syndrome", "Systemic Primary Carnitine Deficiency", "Carnitine Palmitoyltransferase Deficiency 2", "Carnitine Palmitoyltransferase Deficiency 1", "Carnitine Acylcarnitine Translocase Deficiency", "Riboflavin Transporter Deficiency", "Branched-Chain Keto Acid Dehydrogenase Kinase Deficiency", "Andersen Tawil Syndrome", "Timothy Syndrome", "Jervell-Lange Nielsen Syndrome", "Catecholaminergic Polymorphic Ventricular Tachycardia", "Familial Hypertrophic Cardiomyopathy Type 4", "Pseudohypoaldosteronism, Type II", "Pseudohypoaldosteronism Type 1", "Primary Hyperoxaluria", "X Linked Hypophosphatemia", "Hereditary Nephrogenic Diabetes Insipidus", "Cystinosis", "Congenital Nephrotic Syndrome, Finnish Type", "Alport Syndrome", "Hereditary Retinoblastoma", "Biotinidase Deficiency", "Aciduria, Argininosuccinic", "Argininemia", "Acyl-CoA Dehydrogenase Family, Member 9, Deficiency of", "3-Hydroxy 3-Methyl Glutaric Aciduria", "3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 6824,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00856947",
+          "briefTitle": "Vitamin D Supplementation During Pregnancy for Prevention of Asthma in Childhood"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

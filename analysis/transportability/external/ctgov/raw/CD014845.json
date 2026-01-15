@@ -1,0 +1,599 @@
+{
+  "query": "food kcal analysis purchasing",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04165447",
+          "briefTitle": "Evaluating the Effectiveness of Within Versus Across-Category Front-of-Package Lower-Calorie Labelling on Food Demand"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Food Selection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 146,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04156321",
+          "briefTitle": "Moringa Oleifera (Drumstick Leaves) for Improving Haemoglobin, Vitamin A Status and Underweight Among Adolescent Girls in Rural Bangladesh: A Quasi-experimental Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Assess the Impact of Moringa Leaves on Serum Heamoglobin and Vitamin A Level Among the Adolescent Girls"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 226,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02499211",
+          "briefTitle": "Healthy In-Store Marketing Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07262788",
+          "briefTitle": "A Feasibility Study of Optimal Non-Pharmacological Lifestyle Modifications in People With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04051008",
+          "briefTitle": "CTSI Pilot: Improving Adherence to Diabetic Diet"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Diet, Healthy", "Pre-diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04753359",
+          "briefTitle": "Mediterranean Diet and Weight Loss: Targeting the Bile Acid/Gut Microbiome Axis to Reduce Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Diet Habit"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 232,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06458270",
+          "briefTitle": "Salt Warning Label Restaurant Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Food Selection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 465,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04994353",
+          "briefTitle": "Pre-meal High-performance Inulin Supplementation in Healthy Non-diabetic Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diet, Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01626729",
+          "briefTitle": "Facts-Up-Front Versus Traffic-Light Food Labels"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Food Labeling"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 703,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05488223",
+          "briefTitle": "Supplementation With PUFA´s in Obese Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Obesity", "Insulin Resistance", "Metabolic Complication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 133,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03952754",
+          "briefTitle": "Effect of Hip Hop Nutrition-Math Curriculum"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Health Behavior"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 560,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04025073",
+          "briefTitle": "The Impact of Dietary Habits and Nutrition Intervention on Metabolic Syndrome in Individuals With Schizophrenia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 79,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "67 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03252158",
+          "briefTitle": "Altering the Availability of Healthier vs. Less Healthy Items in Vending Machines"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Diet"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07009054",
+          "briefTitle": "Program for the Promotion of Physical Exercise and Healthy Eating Among Population of Pakistani Origin With Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05530629",
+          "briefTitle": "Effect of Resistance Training on Energy Intake and Appetite Regulation, 12-weeks Resistance Training"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obese"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01730742",
+          "briefTitle": "Sleep Deprivation's Regulation of Immune System Function and Behavior"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Deprivation", "Sleep"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03779048",
+          "briefTitle": "Use of Medication to Improve Weight Loss in Suboptimal Early Responders to Behavioral Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 147,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02489396",
+          "briefTitle": "Promoting Healthier Food Purchases By Leveraging the Online-Grocery Environment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2019-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02994420",
+          "briefTitle": "Endocrine and Neural Control of Eating in Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Normal Body Weight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      }
+    ]
+  }
+}

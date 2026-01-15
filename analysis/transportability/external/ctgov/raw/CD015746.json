@@ -1,0 +1,6299 @@
+{
+  "query": "analysis sensitivity adverse fever",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01945593",
+          "briefTitle": "BAX 855 Continuation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemophilia A"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 218,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04616872",
+          "briefTitle": "Treatment of Patients With Atherosclerotic Disease With Methotrexate-associated to LDL Like Nanoparticles"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atherosclerosis", "Coronary Artery Disease", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01103063",
+          "briefTitle": "Evaluate Azithromycin Plus Chloroquine And Sulfadoxine Plus Pyrimethamine Combinations For Intermittent Preventive Treatment Of Falciparum Malaria Infection In Pregnant Women In Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intermittent Preventive Treatment In Pregnancy (IPTp)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2891,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "maximumAge": "35 Years",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07060001",
+          "briefTitle": "Efficacy of Hypomethylating Agents vs. Intensive Chemotherapy in Acute Myeloid Leukemia Using 5hmC as a Blood-Based Minimal Residual Disease Marker"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Myeloid Leukemia (AML)", "Acute Myeloid Leukaemia (AML)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00112294",
+          "briefTitle": "Study of Taxane/Carboplatin +/- Cetuximab as First-Line Treatment for Patients With Advanced/Metastatic Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-12"
+          },
+          "completionDateStruct": {
+            "date": "2008-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Small-Cell Lung Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 755,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01621802",
+          "briefTitle": "Immunogenicity and Safety Study of GlaxoSmithKline (GSK) Biologicals' Combined Measles-mumps-rubella (MMR) Vaccine in Subjects Four to Six Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-11-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Measles-Mumps-Rubella"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4011,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "6 Years",
+          "minimumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01208051",
+          "briefTitle": "Cediranib Maleate With or Without Lenalidomide for the Treatment of Thyroid Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Refractory Differentiated Thyroid Gland Carcinoma", "Refractory Thyroid Gland Follicular Carcinoma", "Refractory Thyroid Gland Hurthle Cell Carcinoma", "Refractory Thyroid Gland Papillary Carcinoma", "Unresectable Thyroid Gland Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 127,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01767376",
+          "briefTitle": "Immunogenicity and Safety Study of GlaxoSmithKline (GSK) Biologicals' Meningococcal Conjugate Vaccine (GSK134612) When Co-administered With Boostrix® in Subjects Between 11 and 25 Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Meningococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 692,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "25 Years",
+          "minimumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03418038",
+          "briefTitle": "Ascorbic Acid and Chemotherapy for the Treatment of Relapsed or Refractory Lymphoma, CCUS, and Chronic Myelomonocytic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Clonal Cytopenia of Undetermined Significance", "High Grade B-Cell Lymphoma With MYC and BCL2 or BCL6 Rearrangements", "Recurrent Diffuse Large B-Cell Lymphoma", "Recurrent Hodgkin Lymphoma", "Recurrent Lymphoma", "Refractory Diffuse Large B-Cell Lymphoma", "Refractory Lymphoma", "Chronic Myelomonocytic Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03424629",
+          "briefTitle": "Safety and Efficacy of UC-MSCs in Patients With Plaque Psoriasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Moderate and Severe Plaque Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "60 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03016884",
+          "briefTitle": "Safety and Tolerability of Herpes Zoster Vaccine Rheumatologic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Herpes Zoster"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03188432",
+          "briefTitle": "Hyperthermic Intraperitoneal Chemotherapy Trial Comparing Quality of Life in Patients With Stage IIIC-IV Ovarian, Fallopian Tube, or Primary Peritoneal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage IIIC Fallopian Tube Cancer", "Stage IIIC Ovarian Cancer", "Stage IIIC Primary Peritoneal Cancer", "Stage IV Fallopian Tube Cancer", "Stage IV Ovarian Cancer", "Stage IV Primary Peritoneal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02653898",
+          "briefTitle": "Malaria Elimination Pilot Study in Military Forces in Cambodia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Parasitic Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1050,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "65 Years",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00541970",
+          "briefTitle": "Partially Blind Study to Evaluate Immunogenicity & Safety of GSK Bio's HPV Vaccine 580299 in Healthy Women Aged 9-25 Yrs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10-17"
+          },
+          "completionDateStruct": {
+            "date": "2013-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 961,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "maximumAge": "25 Years",
+          "minimumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00122681",
+          "briefTitle": "Human Papilloma Virus (HPV) Vaccine Efficacy Trial Against Cervical Pre-cancer in Young Adults With GlaxoSmithKline (GSK) Biologicals HPV-16/18"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-11-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18729,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "maximumAge": "25 Years",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02879097",
+          "briefTitle": "Efficacy-Safety-Immunogenicity Study of CBT124&EU-sourced Avastin® in Stage 4 NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12"
+          },
+          "completionDateStruct": {
+            "date": "2018-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Small Cell Lung Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00289783",
+          "briefTitle": "Safety and Immunogenicity Study of Hib-MenCY-TT Vaccine Compared to Licensed Hib Conjugate Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02-22"
+          },
+          "completionDateStruct": {
+            "date": "2008-02-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Haemophilus Influenzae Type b", "Neisseria Meningitidis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4441,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "15 Months",
+          "minimumAge": "6 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05934318",
+          "briefTitle": "L-ArGinine to pRevent advErse prEgnancy Outcomes (AGREE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Malaria", "Nutrition", "Placental Development", "Preterm Birth", "Fetal Growth Restriction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2960,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "maximumAge": "40 Years",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01149343",
+          "briefTitle": "Evaluation of a New Vaccine Treatment for Patients With Metastatic Skin Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-12-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Melanoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04083495",
+          "briefTitle": "CD30 CAR for Relapsed/Refractory CD30+ T Cell Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2038-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peripheral T Cell Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "99 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03196661",
+          "briefTitle": "Preliminary Study on Safety and Immunogenicity of Influenza A (H7N9) Vaccine in the Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza A"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 588,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05526443",
+          "briefTitle": "Austrian Registry for Evaluation of Treatment Patterns and Outcome in Patients With Advanced Pancreatic Ductal Adenocarcinoma (PDAC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pancreatic Cancer", "Advanced Pancreatic Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03154320",
+          "briefTitle": "A Trial of Same-Day Testing and Treatment to Improve Outcomes Among Symptomatic Patients Newly Diagnosed With HIV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV/AIDS", "Tuberculosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00753415",
+          "briefTitle": "A Study of V934/V935 Vaccine in Cancer Participants With Selected Solid Tumors (V934-002)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non-Small Cell Lung Carcinoma", "Breast Cancer", "Melanoma", "Upper GI Tract Carcinoma", "Colon Carcinoma", "Renal Cell Carcinoma", "Bladder Carcinoma", "Prostate Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05275010",
+          "briefTitle": "A Study in Healthy Male Subjects to Investigate the Comparability of Pharmacokinetics of the Fixed-Dose Combination of Pertuzumab and Trastuzumab Administered Subcutaneously Using a Handheld Syringe or Using the On-Body Delivery System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Male Subjects"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "maximumAge": "45 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06673134",
+          "briefTitle": "Prospective Cohort Establishment and Clinical Observation of Children With Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohn Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "16 Years",
+          "minimumAge": "1 Month"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04329650",
+          "briefTitle": "Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID-19 Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 163,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05476497",
+          "briefTitle": "Phase I Trial to Evaluate VLP Peanut in Healthy and Peanut Allergic Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peanut Allergy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02614066",
+          "briefTitle": "A Study Evaluating the Safety and Efficacy of Brexucabtagene Autoleucel (KTE-X19) in Adult Subjects With Relapsed/Refractory B-precursor Acute Lymphoblastic Leukemia (ZUMA-3)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsed/Refractory B-precursor Acute Lymphoblastic Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03839056",
+          "briefTitle": "Comparative Study of the Combination of Different Modes of Administration of Local Anesthetics in Labor Analgesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor Epidural Analgesia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "45 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03704467",
+          "briefTitle": "Phase Ib/II Study of Carboplatin + M6620 + Avelumab in PARPi-resistant Ovarian Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ovarian Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03594955",
+          "briefTitle": "First in Human Testing of Dose-escalation of SAR440234 in Patients With Acute Myeloid Leukemia, Acute Lymphoid Leukemia and Myelodysplastic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukaemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02272413",
+          "briefTitle": "Phase III Trial BI 695502 Plus Chemotherapy vs. Avastin® Plus Chemotherapy in Patients With Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 671,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02169882",
+          "briefTitle": "High-dose Rifampicin for the Treatment of Tuberculous Meningitis: a Dose-finding Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tuberculosis, Meningeal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06502288",
+          "briefTitle": "Evaluation of Antibiotic Administration Following Tooth Extraction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tooth Extraction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05634109",
+          "briefTitle": "Whole Blood in Trauma Patients With Hemorrhagic Shock"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Trauma", "Trauma Injury", "Trauma, Multiple"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01566695",
+          "briefTitle": "The Efficacy and Safety of Oral Azacitidine Plus Best Supportive Care Versus Placebo and Best Supportive Care in Subjects With Red Blood Cell (RBC) Transfusion-Dependent Anemia and Thrombocytopenia Due to International Prognostic Scoring System (IPSS) Low Risk Myelodysplastic Syndrome (MDS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myelodysplastic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 216,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06793111",
+          "briefTitle": "Visceral Leishmaniasis in Emilia-Romagna (Leishmania-2019)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leishmaniasis, Visceral"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "90 Years",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03531918",
+          "briefTitle": "Gemtuzumab Ozogamicin With G-CSF, Cladribine, Cytarabine & Mitoxantrone for Untreated AML & High-Grade Myeloid Neoplasm"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Myeloid Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02032654",
+          "briefTitle": "Duration of ANtibiotic Therapy for CEllulitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cellulitis", "Erysipelas"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03895437",
+          "briefTitle": "Diabetes Autoimmunity Withdrawn In New Onset and In Established Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "40 Years",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04359095",
+          "briefTitle": "Effectiveness and Safety of Medical Treatment for SARS-CoV-2 (COVID-19) in Colombia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 650,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00489489",
+          "briefTitle": "Phase II Study of Teriflunomide as Adjunctive Therapy to Interferon-beta in Subjects With Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "55 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02288078",
+          "briefTitle": "Oral Steroids for Regorafenib-induced Fatigue/Malaise in Unresectable mCRC (KSCC1402/HGCSG1402)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01667133",
+          "briefTitle": "A Study of Ponatinib in Japanese Participants With Chronic Myeloid Leukemia (CML) and Ph+ Acute Lymphoblastic Leukemia (ALL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Myeloid Leukemia (CML)", "Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia (Ph+ ALL)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02789345",
+          "briefTitle": "A Study of Ramucirumab (LY3009806) or Necitumumab (LY3012211) Plus Osimertinib in Participants With Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01308021",
+          "briefTitle": "Clinical Efficacy and Safety of gpASIT+TM to Treat Seasonal Allergic Rhinoconjunctivitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2011-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Grass Pollen Allergy", "Hay Fever"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 202,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02286999",
+          "briefTitle": "Probiotic Supplementation in Breastfed Newborn Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atopic Dermatitis", "Food Allergies"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "7 Days",
+          "minimumAge": "1 Day"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06266221",
+          "briefTitle": "Severe Erythema Multiforme - CORTICO"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Erythema Multiforme"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02893878",
+          "briefTitle": "Post-authorisation Passive Enhanced Safety Surveillance of Seasonal Influenza Vaccines"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza, Human"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 19334,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03636711",
+          "briefTitle": "Antibiotic Stewardship in Infectious Disease Departement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infectious Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06152367",
+          "briefTitle": "Immunization With Autologous Dendritic Cells and Tumor Lysates in Melanoma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2004-10-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage III Malignant Melanoma of Skin AJCC V6", "Stage IV Malignant Melanoma of Skin"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01266447",
+          "briefTitle": "Veliparib, Topotecan Hydrochloride, and Filgrastim or Pegfilgrastim in Treating Patients With Persistent or Recurrent Cervical Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Adenocarcinoma", "Cervical Adenosquamous Carcinoma", "Cervical Small Cell Carcinoma", "Cervical Squamous Cell Carcinoma", "Recurrent Cervical Carcinoma", "Stage III Cervical Cancer", "Stage IVA Cervical Cancer", "Stage IVB Cervical Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04622592",
+          "briefTitle": "Adjuvanted Seasonal Recombinant Quadrivalent Virus-Like Particles (QVLP) Influenza Vaccine in Adults 65 Years of Age and Older"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 209,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06294262",
+          "briefTitle": "Safety, Tolerability, Immunogenicity and Immunological Mechanisms of TETRALITE, a Novel Seasonal Influenza Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vaccination Reaction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04453384",
+          "briefTitle": "Study to Evaluate the Safety and Efficacy of XAV-19 in Patients With COVID-19 Induced Moderate Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "SARS Virus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 416,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07203339",
+          "briefTitle": "Home-based Transcranial Direct Current Stimulation (tDCS) Compared to Duloxetine:On-inferiority Clinical Trial (FIBROSTIM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fibromyalgia (FM)", "tDCS", "Duloxetine", "BDNF", "EEG"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 610,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00924170",
+          "briefTitle": "Phase II Trial of LMB-2, Fludarabine and Cyclophosphamide for Adult T-Cell Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-10-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adult T-Cell Leukemia (ATL)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "100 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04889937",
+          "briefTitle": "Usability, Adherence and Diagnostic Performance of PointCheck in Pediatric Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hematologic Malignancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "39 Years",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05609630",
+          "briefTitle": "Study of Oral Upadacitinib and Subcutaneous/Intravenous Tocilizumab to Evaluate Change in Disease Activity, Adverse Events and How Drug Moves Through the Body of Pediatric and Adolescent Participants With Active Systemic Juvenile Idiopathic Arthritis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopathic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "17 Years",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04870424",
+          "briefTitle": "Colchicine for Patients With Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Transcatheter Aortic Valve Replacement", "Atrial Fibrillation New Onset", "Pacemaker", "Colchicine"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00586924",
+          "briefTitle": "A Phase I, Multicenter Dose Escalation Study in Patients With Hairy Cell Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-05-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hairy Cell Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "99 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05579132",
+          "briefTitle": "A Clinical Study of MK-1045 (CN201) in People With Precursor B-cell Acute Lymphoblastic Leukemia (MK-1045-002)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Lymphoblastic Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 203,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04681833",
+          "briefTitle": "Safety and Efficacy of BARS13 in the Elderly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03117751",
+          "briefTitle": "Total Therapy XVII for Newly Diagnosed Patients With Acute Lymphoblastic Leukemia and Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Lymphoblastic Leukemia", "Acute Lymphoblastic Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 790,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06919666",
+          "briefTitle": "NT219 Combined With Standard of Care Biologic Therapy in Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Head and Neck Cancer", "Head and Neck Squamous Cell Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06095258",
+          "briefTitle": "A Practical RCT of TCM in the Treatment of LCOVID and Analysis of Syndrome Types and Medication Characteristics."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Long COVID"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06642558",
+          "briefTitle": "Safety and Immunogenicity of Recombinant RSV Vaccine (CHO Cell) in Healthy Subjects Aged 18 Years and Above"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus (RSV)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 522,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02393859",
+          "briefTitle": "Phase 3 Trial of Blinatumomab vs Standard Chemotherapy in Pediatric Subjects With HIgh-Risk (HR) First Relapse B-precursor Acute Lymphoblastic Leukemia (ALL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukemia, Acute Lymphoblastic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 111,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "17 Years",
+          "minimumAge": "0 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03952650",
+          "briefTitle": "Sanaria PfSPZ Challenge With Pyrimethamine or Chloroquine Chemoprophylaxis Vaccination (PfSPZ-CVac Approach): A Randomized Double Blind Placebo Controlled Phase I/II Trial to Determine Safety and Protective Efficacy Against Natural Plasmodium Falcipa..."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04793568",
+          "briefTitle": "Human Recombinant Interferon Gamma-1b for the Prevention of Hospital-acquired Pneumonia in Critically Ill Patients: a Double-blind, International, Phase 2, Randomized, Placebo-controlled Trial - the PREV-HAP Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Critically Ill Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 109,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "85 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01755689",
+          "briefTitle": "Immunogenicity and Safety Study of GlaxoSmithKline (GSK) Biologicals' Meningococcal Vaccine With or Without Co-administration of Cervarix and Boostrix in Female Adolescents and Young Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-04-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Meningococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "maximumAge": "25 Years",
+          "minimumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06396078",
+          "briefTitle": "Improvement of PPROM Management With Prophylactic Antimicrobial Therapy (iPROMPT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Premature Rupture of Membrane", "Pregnancy, High Risk", "Preterm Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02348216",
+          "briefTitle": "Study Evaluating the Safety and Efficacy of KTE-C19 in Adult Participants With Refractory Aggressive Non-Hodgkin Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Refractory Diffuse Large B Cell Lymphoma (DLBCL)", "Relapsed Diffuse Large B-Cell Lymphoma", "Transformed Follicular Lymphoma (TFL)", "Primary Mediastinal B-cell Lymphoma (PMBCL)", "High Grade B-cell Lymphoma (HGBCL)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 307,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02723240",
+          "briefTitle": "NUC-3373 in Advanced Solid Tumours"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01859923",
+          "briefTitle": "A 6-Month Safety, Efficacy, and Pharmacokinetic (PK) Trial of Delamanid in Pediatric Participants With Multidrug Resistant Tuberculosis (MDR-TB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multidrug Resistant Tuberculosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "17 Years",
+          "minimumAge": "0 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01154088",
+          "briefTitle": "Immunogenicity and Safety of Meningococcal Vaccine GSK 134612 Versus Mencevax™ ACWY in Healthy 18-25 Year Olds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08-27"
+          },
+          "completionDateStruct": {
+            "date": "2010-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Meningococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1170,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "25 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07068841",
+          "briefTitle": "Pharmacokinetic Effect of Y-3 on Repaglinide，Warfarin and Omeprazole in Healthy Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pharmacokinetic Profiles", "Y-3 for Injection", "Drug-drug Interaction", "Repaglinide Tablets", "Warfarin Sodium Tablets", "Omeprazole Enteric-coated Capsules", "Safty"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03061188",
+          "briefTitle": "Phase I/Ib Study of Nivolumab & Veliparib in Patients With Advanced Solid Tumors & Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Solid Neoplasm", "Aggressive Non-Hodgkin Lymphoma", "Recurrent Solid Neoplasm", "Refractory Mantle Cell Lymphoma", "T-Cell Non-Hodgkin Lymphoma", "Unresectable Solid Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06384053",
+          "briefTitle": "Skin Cancer and Hyperthermia and Radiotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Basal Cell Carcinoma", "Squamous Cell Carcinoma Skin", "Non-melanoma Skin Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04723602",
+          "briefTitle": "Evaluation of Safety, Tolerability and Immune Responses of Ebola-S and Marburg Vaccines in Healthy Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ebola Virus Disease", "Marburg Virus Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01045421",
+          "briefTitle": "Alisertib in Adults With Nonhematological Malignancies, Followed by Alisertib in Lung, Breast, Head and Neck or Gastroesophageal Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Nonhematological Malignancies", "Non-Small Cell Lung Cancer", "Small Cell Lung Cancer", "Metastatic Breast Cancer", "Head and Neck Squamous Cell Carcinoma", "Gastroesophageal Adenocarcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 273,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03430349",
+          "briefTitle": "Phase 1 Novel Live Attenuated Serotype 2 Oral Polio Vaccine Study in Inactivated Polio Vaccine (IPV) Primed Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Poliomyelitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "50 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04371562",
+          "briefTitle": "Predicting Death and ICU Admission in COVID-19 Patients in ED"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00129129",
+          "briefTitle": "Comparison of GSKBiologicals' Hib-MenCY-TT Vaccine vs Licensed Hib Conjugate or Meningococcal Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-08-01"
+          },
+          "completionDateStruct": {
+            "date": "2006-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Haemophilus Influenzae Type b", "Neisseria Meningitidis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 756,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "15 Months",
+          "minimumAge": "6 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01939158",
+          "briefTitle": "Immunogenicity and Safety Study of 1 and 2 Doses of GlaxoSmithKline (GSK) Biologicals' Meningococcal Vaccine MenACWY-TT (GSK134612) in Toddlers, Persistence up to 5 Years After Vaccination and Co-administration With Pfizer's Prevenar 13™Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Meningococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 803,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "14 Months",
+          "minimumAge": "12 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06918964",
+          "briefTitle": "TaVNS for Acute Intracerebral Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intracerebral Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 186,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00475865",
+          "briefTitle": "Phase II Study of Teriflunomide as Adjunctive Therapy to Glatiramer Acetate in Subjects With Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-04"
+          },
+          "completionDateStruct": {
+            "date": "2009-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 123,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "55 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03355664",
+          "briefTitle": "Study to Compare the Triple ACT AL+AQ With the ACT AL in Cambodia and Vietnam"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria, Falciparum"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "65 Years",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00654420",
+          "briefTitle": "A Study Evaluating Dalotuzumab (MK-0646) in Combination With Erlotinib for Participants With Non-Small Cell Lung Cancer (MK-0646-007)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-02-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-small-cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04388410",
+          "briefTitle": "Safety and Efficacy of Convalescent Plasma Transfusion for Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 410,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04495647",
+          "briefTitle": "Feasibility of WB-EMS in Frail Older People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Frailty", "Mobility Limitation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05556616",
+          "briefTitle": "A Study of Modakafusp Alfa in Adult Participants With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03855995",
+          "briefTitle": "A Study Assessing the Safety, Efficacy, and Impact of GlaxoSmithKline Biologicals' RTS, S/AS01E Malaria Vaccine in Young Children Across Sub-Saharan Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Malaria Vaccines"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 77969,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02650193",
+          "briefTitle": "A Study Of The Safety And Effects Of One Or More Doses Of HSP-130 Injected Under The Skin In Women With Breast Cancer That Has Not Spread To Distant Sites In The Body."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-metastatic Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03674112",
+          "briefTitle": "A Study to Evaluate Patient Preference and Satisfaction of Subcutaneous Administration of the Fixed-Dose Combination of Pertuzumab and Trastuzumab in Participants With HER2-Positive Early Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HER2-Positive Early Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05048875",
+          "briefTitle": "An Evaluation of Repeated Oral Doses of JNJ-64281802 Against DENV-3 Challenge"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dengue"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "55 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00134719",
+          "briefTitle": "Hib-MenCY-TT Vaccine Study Compared to Licensed Hib and Meningococcal Serogroup C Conjugate Vaccines"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-04-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-02-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neisseria Meningitidis", "Haemophilus Influenzae Type b"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "12 Weeks",
+          "minimumAge": "6 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00560573",
+          "briefTitle": "Study Of CP-751,871 In Combination With Cisplatin And Gemcitabine In Chemotherapy-Naïve Patients With Advanced Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-11"
+          },
+          "completionDateStruct": {
+            "date": "2010-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06225258",
+          "briefTitle": "Xanthohumol as an Adjuvant in the Treatment of Septic Shock"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Septic Shock", "Pneumonia", "ARDS"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00466947",
+          "briefTitle": "COMPAS (Clinical Otitis Media & Pneumonia Study): Pneumonia & Acute Otitis Media (AOM ) Efficacy Study of the Pneumococcal Conjugate Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-07-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Streptococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23802,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Weeks",
+          "maximumAge": "16 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03367819",
+          "briefTitle": "Isatuximab in Combination With REGN2810 (Cemiplimab) in Patients With Advanced Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostate Cancer", "Non-small Cell Lung Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01511250",
+          "briefTitle": "Study to Investigate the Safety and Immunogenicity of a Tetravalent Chimeric Dengue Vaccine in Healthy Volunteers Between the Ages of 1.5 - 45 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Months",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02038777",
+          "briefTitle": "A Study Of PF-04449913 In Japanese Patients With Select Hematologic Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Myeloid Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02501902",
+          "briefTitle": "Dose-Escalation Study Of Palbociclib + Nab-Paclitaxel In mPDAC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Pancreatic Ductal Adenocarcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00489359",
+          "briefTitle": "Trial of Pemetrexed and Carboplatin in Patients With Recurrent Ovarian or Primary Peritoneal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ovarian Cancer", "Primary Peritoneal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03296917",
+          "briefTitle": "Study Examining PrEP-001 in Subjects With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00546078",
+          "briefTitle": "Follow-up Study to Evaluate the Safety and Immunogenicity of a HPV Vaccine (580299) in North America"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01-14"
+          },
+          "completionDateStruct": {
+            "date": "2009-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 116,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03807778",
+          "briefTitle": "A Study of Mobocertinib in Japanese Adults With Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00670488",
+          "briefTitle": "Dose Escalation Study With MK-2206 in Patients With Locally Advanced or Metastatic Solid Tumors (MK-2206-002)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-07-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Locally Advanced Tumors", "Metastatic Solid Tumors", "Cancer", "Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02216123",
+          "briefTitle": "Study to Assess the Incidence of Hemolysis, Safety, and Efficacy of Tafenoquine (SB-252263, WR238605) Versus Primaquine in Subjects With Plasmodium Vivax Malaria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria, Vivax"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 251,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00547638",
+          "briefTitle": "Study to Show Equivalence of DERMABOND PROTAPE to DERMABOND HVD for Wound Closure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-08"
+          },
+          "completionDateStruct": {
+            "date": "2009-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lacerations"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 216,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03330405",
+          "briefTitle": "Javelin Parp Medley: Avelumab Plus Talazoparib In Locally Advanced Or Metastatic Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Avelumab in Combination With Talazoparib Will be Investigated in Patients With Locally Advanced (Primary or Recurrent) or Metastatic Solid Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 223,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01767675",
+          "briefTitle": "Outcomes After Secondary Cytoreductive Surgery With or Without Carboplatin Hyperthermic Intraperitoneal Chemotherapy (HIPEC) Followed by Systemic Combination Chemotherapy for Recurrent Platinum-Sensitive Ovarian, Fallopian Tube, or Primary Peritoneal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ovarian Cancer", "Fallopian Tubes Cancer", "Peritoneal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 99,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00481767",
+          "briefTitle": "Immunogenicity and Safety of GlaxoSmithKline (GSK) Biologicals' Human Papillomavirus (HPV) Vaccine (GSK580299) in Healthy Female Subjects 10-25 Years of Age."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Human Papillomavirus (HPV) Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 676,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "10 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02495753",
+          "briefTitle": "Vaginal Cleansing Before Cesarean Delivery to Reduce Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2021-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complications; Cesarean Section"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 608,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04749628",
+          "briefTitle": "Cannabidiol for Bilateral Total Knee Arthroplasty"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain, Postoperative", "Opioid Use", "Knee Osteoarthritis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00124657",
+          "briefTitle": "Erlotinib and Radiation Therapy in Treating Young Patients With Newly Diagnosed Glioma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain and Central Nervous System Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01952275",
+          "briefTitle": "Observational Study of the Genetic Architecture of Neutrophil-Mediated Inflammatory Skin Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2020-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Other Specified Inflammatory Disorders of Skin or Subcutaneous Tissue", "Pyoderma Gangrenosum", "Erosive Pustular Dermatosis of the Scalp", "Sweet's Syndrome", "Behcet's Disease", "Bowel-associated Dermatosis-arthritis Syndrome", "Pustular Psoriasis", "Acute Generalized Exanthematous Pustulosis", "Keratoderma Blenorrhagicum", "Sneddon-Wilkinson Disease", "IgA Pemphigus", "Amicrobial Pustulosis of the Folds", "Infantile Acropustulosis", "Transient Neonatal Pustulosis", "Neutrophilic Eccrine Hidradenitis", "Rheumatoid Neutrophilic Dermatitis", "Neutrophilic Urticaria", "Still's Disease", "Erythema Marginatum", "Unclassified Periodic Fever Syndromes / Autoinflammatory Syndromes", "Dermatitis Herpetiformis", "Linear IgA Bullous Dermatosis", "Bullous Systemic Lupus Erythematosus", "Inflammatory Epidermolysis Bullosa Aquisita", "Neutrophilic Dermatosis of the Dorsal Hands (Pustular Vasculitis)", "Small Vessel Vasculitis Including Urticarial Vasculitis", "Erythema Elevatum Diutinum", "Medium Vessel Vasculitis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01332266",
+          "briefTitle": "E7050 in Combination With Cetuximab Versus Cetuximab Alone in the Treatment of Platinum-Resistant Squamous Cell Carcinoma of the Head and Neck"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Platinum-Resistant Squamous Cell Carcinoma of the Head and Neck"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02289690",
+          "briefTitle": "Dose Escalation and Double-blind Study of Veliparib in Combination With Carboplatin and Etoposide in Treatment-naive Extensive Stage Disease Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02153528",
+          "briefTitle": "Optimization of the TB Treatment Regimen Cascade"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tuberculosis, Pulmonary"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 701,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00725283",
+          "briefTitle": "Evaluation of a New Anti-cancer Immunotherapy After Chemotherapy in Adult Patients With Acute Myeloid Leukemia (AML)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukaemia, Myelocytic, Acute"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00423046",
+          "briefTitle": "Immunogenicity of GlaxoSmithKline Biological's Human Papillomavirus (HPV) Vaccine (580299) Versus Merck's Gardasil® in Healthy Females 18-45 Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-05-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infections, Papillomavirus", "Papillomavirus Vaccines"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02073279",
+          "briefTitle": "Efficacy and Safety Study of Satralizumab (SA237) as Monotherapy to Treat Participants With Neuromyelitis Optica (NMO) and Neuromyelitis Optica Spectrum Disorder (NMOSD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neuromyelitis Optica (NMO)", "NMO Spectrum Disorder (NMOSD)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04078009",
+          "briefTitle": "Standardising Nasal Allergen Challenge in Adult With Hay Fever"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07312604",
+          "briefTitle": "A Pilot Study to Evaluate the Therapeutic Efficacy of Intra-Lesional Immunotherapy in Patients Aged 10-60 Years With Recalcitrant Tinea Cruris and Corporis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tinea Corporis", "Tinea Cruris"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01684215",
+          "briefTitle": "A Study Of Oral Palbociclib (PD-0332991), A CDK4/6 Inhibitor, As Single Agent In Japanese Patients With Advanced Solid Tumors Or In Combination With Letrozole For The First-Line Treatment Of Postmenopausal Japanese Patients With ER (+) HER2 (-) Advanced Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neoplasms", "Breast Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01235689",
+          "briefTitle": "Efficacy and Safety of Two Treatment Algorithms in Adults With Moderate to Severe Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-01-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohn's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01337050",
+          "briefTitle": "Asian Phase I Study Of PF-03446962"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04148833",
+          "briefTitle": "Treatment of Patients With Atherosclerotic Disease With Paclitaxel-associated to LDL Like Nanoparticles"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Atherosclerosis", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02259478",
+          "briefTitle": "Isoagglutinins in the Development of IVIG-associated Hemolysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Immunoglobulins, Intravenous", "Hemolysis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06743529",
+          "briefTitle": "Immediate Versus Substantiated Antibiotic Therapy in Suspected Non-Severe Ventilator-Associated Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-02-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ventilator-Associated Pneumonia (VAP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 686,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03516903",
+          "briefTitle": "Effect of Methotrexate Carried by a Lipid Nanoemulsion on Left Ventricular Remodeling After STEMI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myocardial Infarction, Anterior Wall", "Myocardial Remodeling, Ventricular"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05401305",
+          "briefTitle": "Safety and Reactogenicity Trial of Vaccine for the Prevention of Infections Caused by Haemophilus Influenzae Type b"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Haemophilus Influenzae Infection", "Vaccines"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01945710",
+          "briefTitle": "An Open-label, Multicenter, Multiple Dose, Phase 1 Study to Establish the Maximum Tolerated Dose of E7389 Liposomal Formulation in Patients With Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Solid Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02028884",
+          "briefTitle": "Efficacy and Safety Study of Satralizumab (SA237) as Add-on Therapy to Treat Participants With Neuromyelitis Optica (NMO) and NMO Spectrum Disorder (NMOSD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neuromyelitis Optica (NMO)", "NMO Spectrum Disorder (NMOSD)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00861744",
+          "briefTitle": "Immunogenicity of GSKs' MMR Vaccine (209762) vs. M-M-R® II, When Given With Routine Vaccines at 12-15 Months of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rubella", "Mumps", "Measles", "Measles-Mumps-Rubella Vaccine"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1259,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Months",
+          "maximumAge": "15 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04515394",
+          "briefTitle": "Study of Tepotinib Combined With Cetuximab in Participants With Left-Sided RAS/BRAF Wild Type Metastatic Colorectal Cancer (PERSPECTIVE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03035331",
+          "briefTitle": "Dendritic Cell Therapy, Cryosurgery, and Pembrolizumab in Treating Patients With Non-Hodgkin Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aggressive Non-Hodgkin Lymphoma", "Indolent Non-Hodgkin Lymphoma", "Recurrent Diffuse Large B-Cell Lymphoma", "Recurrent Follicular Lymphoma", "Recurrent Mantle Cell Lymphoma", "Recurrent Marginal Zone Lymphoma", "Recurrent Non-Hodgkin Lymphoma", "Recurrent Primary Mediastinal (Thymic) Large B-Cell Lymphoma", "Recurrent T-Cell Non-Hodgkin Lymphoma", "Small Lymphocytic Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05017636",
+          "briefTitle": "Effect of Shock Wave Therapy Without Biological and Immuno-histochemical Analysis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04660799",
+          "briefTitle": "A Study on Pharmacokinetics (PK), Efficacy and Safety of Subcutaneous (SC) Versus Intravenous (IV) Rituximab, in Combination With CHOP (Cyclophosphamide, Doxorubicin, Vincristine, Prednisone) in Previously Untreated Participants With CD20 Positive Diffuse Large B-Cell Lymphoma (DLBCL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lymphoma, Large B-Cell, Diffuse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01506375",
+          "briefTitle": "Safety of gpASIT+TM Subcutaneously Administered to Hay Fever Patients With or Without Immunoregulating Adjuvant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2013-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hay Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04032496",
+          "briefTitle": "Contemplation-Based Intervention and Health Outcomes RCT in Lupus Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lupus Erythematosus, Systemic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04981717",
+          "briefTitle": "A Study to Examine the Efficacy and Safety of Anti-Fel d 1 Antibodies Injections in Cat-allergic Adolescent and Adult Patients With Allergic Rhinitis Who Live With a Cat"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis Due to Cat Allergy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 446,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04327388",
+          "briefTitle": "Sarilumab COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Corona Virus Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 420,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02115074",
+          "briefTitle": "Safety of Fluvastatin-Celebrex Association in Low-grade and High Grade Optico-chiasmatic Gliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06212336",
+          "briefTitle": "ISTH/ANRS 0409s INTEGRATE Lassa Fever Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lassa Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1755,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01982292",
+          "briefTitle": "Safety of Repeat Doses of IV Serelaxin in Subjects With Chronic Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 321,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02665364",
+          "briefTitle": "Phase IIb Study of IFN-K in Systemic Lupus Erythematosus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systemic Lupus Erythematosus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 185,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04182204",
+          "briefTitle": "A Study to Evaluate the Safety and Efficacy of Polatuzumab Vedotin in Combination With Rituximab, Gemcitabine and Oxaliplatin Compared to Rituximab, Gemcitabine and Oxaliplatin Alone in Participants With Relapsed or Refractory Diffuse Large B-Cell Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diffuse Large B-Cell Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 270,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02315066",
+          "briefTitle": "Study Of OX40 Agonist PF-04518600 Alone And In Combination With 4-1BB Agonist PF-05082566"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 174,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04798677",
+          "briefTitle": "Efficacy and Tolerability of ABBC1 in Volunteers Receiving the Influenza or Covid-19 Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Immunity", "Vaccine Reaction", "Influenza", "Covid19", "Cytokine Storm", "Immunologic Deficiency Syndromes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04083079",
+          "briefTitle": "Cost-Effectiveness Study of PEG-rhG-CSF in Prophylactic Treatment of Neutropenia After Chemotherapy in Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lymphoma, Non-Hodgkin", "Granulocyte Colony-Stimulating Factor", "Cost-Benefit Analysis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00648648",
+          "briefTitle": "A Dose Escalation Study of Adavosertib (MK-1775) in Combination With Either Gemcitabine, Cisplatin, or Carboplatin in Adults With Advanced Solid Tumors (MK-1775-001)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Solid Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 206,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01723254",
+          "briefTitle": "A Study To Assess The Safety And Tolerability Of Different Doses Of PF-06444753 And PF-06444752 In Subjects With Allergic Rhinitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02497781",
+          "briefTitle": "Evaluation of Safety, Pharmacokinetics and Efficacy of Ceftazidime and Avibactam (CAZ-AVI ) Compared With Cefepime in Children From 3 Months to Less Than 18 Years of Age With Complicated Urinary Tract Infections (cUTIs)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complicated Urinary Tract Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03553940",
+          "briefTitle": "H3N2 M2SR in Pediatric Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Influenza", "Influenza Immunisation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05920018",
+          "briefTitle": "Effects of a Combined Supplementation of Conjugated Linoleic Acid (CLA) and Probiotics (Vivomixx®) as add-on to a First-line Immunotherapy in Relapsing-remitting Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04297462",
+          "briefTitle": "Different Regimens in Influenza Postexposure Chemoprophylaxis in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Influenza", "Exposure", "Prevention"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04350437",
+          "briefTitle": "Induction Of Labor: Predictors of Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Induction of Labor Affected Fetus / Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05806086",
+          "briefTitle": "Clinical Effect of Panfoxol of Otolaryngological Diseases of Upper Respiratory Tract Infection: A Multicenter Retrospective Observational Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Otologic Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02812706",
+          "briefTitle": "Isatuximab Single Agent Study in Japanese Relapsed AND Refractory Multiple Myeloma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01511536",
+          "briefTitle": "Cabazitaxel and Abiraterone Acetate in Patients With Metastatic Castrate-Resistant Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03843125",
+          "briefTitle": "A Study of Baricitinib in Participants With Systemic Lupus Erythematosus (SLE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systemic Lupus Erythematosus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1147,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01700621",
+          "briefTitle": "Coadministration of Measles-rubella and Rotavirus Vaccines"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Measles Antibody Seroconversion", "Rubella Antibody Seroconversion", "Rotavirus Geometric Mean Titer (GMT)", "Rotavirus Immunoglobulin A (IgA) Seropositivity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 482,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "9 Months",
+          "maximumAge": "11 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05501418",
+          "briefTitle": "Evaluate the Safety and Efficacy of Allogeneic Umbilical Cord Mesenchymal Stem Cells in Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19 Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00427908",
+          "briefTitle": "Study in Children to Evaluate Non-Inferiority and Persistence up to 5 Years of GSK Bio Meningococcal Vaccine 134612"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-12-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Meningococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 613,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00305877",
+          "briefTitle": "Bevacizumab or Cetuximab And Gemcitabine Hydrochloride, Capecitabine, and Radiation Therapy in Treating Patients With Pacreatic Cancer That Has Been Completely Removed By Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02"
+          },
+          "completionDateStruct": {
+            "date": "2012-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage IA Pancreatic Cancer", "Stage IB Pancreatic Cancer", "Stage IIA Pancreatic Cancer", "Stage IIB Pancreatic Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 137,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06967363",
+          "briefTitle": "Multimodal Imaging and Biospecimen Collection for Low Back Pain (LBPB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Low Back Pain (CLBP)", "Acute Low Back Pain", "Low Back Pain", "Chronic Pain", "Acute Pain", "Mental Disorders", "Sleep Disorder", "Fibromyalgia (FM)", "Nociplastic Pain", "Neuropathic Pain", "Nonspecific Low Back Pain"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04517422",
+          "briefTitle": "Efficacy of L. Plantarum and P. Acidilactici in Adults With SARS-CoV-2 and COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "SARS-CoV Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06759753",
+          "briefTitle": "Aleeto in Acute ISchemic Stroke：A RandomISed Controlled Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00718666",
+          "briefTitle": "The Long-term Antibody Persistence of GSK Biologicals' Meningococcal Vaccine GSK134612 in Healthy Toddlers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-03-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Meningococcal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 387,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01735071",
+          "briefTitle": "Bevacizumab and Trabectedin +/- Carboplatin in Advanced Ovarian Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ovarian Epithelial Cancer Recurrent"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 71,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07071441",
+          "briefTitle": "Indomethacin vs Diclofenac for Preventing PEP"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ERCP", "Pancreatitis", "Non-steroidal Anti-inflammatory (NSAID)", "Indomethacin", "Diclofenac"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4050,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01711541",
+          "briefTitle": "Combination Chemotherapy With or Without Veliparib in Treating Patients With Stage IV Head and Neck Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Head and Neck Squamous Cell Carcinoma", "Stage IVA Oropharyngeal Carcinoma AJCC v7", "Stage IVB Oropharyngeal Carcinoma AJCC v7"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01702428",
+          "briefTitle": "Consistency Study of GlaxoSmithKline (GSK) Biologicals' MMR Vaccine (209762) (Priorix) Comparing Immunogenicity and Safety to Merck & Co., Inc.'s MMR Vaccine (M-M-R II), in Children 12 to 15 Months of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-04-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rubella", "Measles", "Mumps"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5016,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Months",
+          "maximumAge": "15 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01213472",
+          "briefTitle": "Evaluation of a New Anti-cancer Immunotherapy in Patients With Non-operable and Progressing Metastatic Cutaneous Melanoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-04-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Melanoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00811395",
+          "briefTitle": "Long Term Safety of Teriflunomide When Added to Interferon-Beta or Glatiramer Acetate in Patients With Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10"
+          },
+          "completionDateStruct": {
+            "date": "2010-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 182,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01572038",
+          "briefTitle": "A Study of Pertuzumab in Combination With Trastuzumab (Herceptin) and a Taxane in First-Line Treatment in Participants With Human Epidermal Growth Factor 2 (HER2)-Positive Advanced Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1436,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02432235",
+          "briefTitle": "Study of ADCT-301 in Patients With Relapsed or Refractory Hodgkin and Non-Hodgkin Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hodgkin Lymphoma", "Non-Hodgkin Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 133,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04377568",
+          "briefTitle": "Efficacy of Human Coronavirus-immune Convalescent Plasma for the Treatment of COVID-19 Disease in Hospitalized Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hospitalized Children", "Covid-19 Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01357161",
+          "briefTitle": "A Study of Adavosertib (MK-1775) in Combination With Paclitaxel and Carboplatin Versus Paclitaxel and Carboplatin Alone for Participants With Platinum-Sensitive Ovarian Tumors With the P53 Gene Mutation (MK-1775-004)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-08-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ovarian Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 136,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03120624",
+          "briefTitle": "VSV-hIFNbeta-NIS With or Without Ruxolitinib Phosphate in Treating Stage IV or Recurrent Endometrial Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metastatic Endometrial Carcinoma", "Recurrent Endometrial Adenocarcinoma", "Recurrent Endometrial Carcinoma", "Recurrent Endometrial Clear Cell Adenocarcinoma", "Recurrent Endometrial Endometrioid Adenocarcinoma", "Recurrent Endometrial Mixed Cell Adenocarcinoma", "Recurrent Endometrial Serous Adenocarcinoma", "Recurrent Endometrial Undifferentiated Carcinoma", "Recurrent Uterine Corpus Carcinosarcoma", "Stage IV Uterine Corpus Cancer AJCC v7"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05972993",
+          "briefTitle": "A Safety and Immune Response Study to Evaluate Varying Doses of an mRNA Vaccine Against Coronavirus Disease 2019 (COVID-19) in Healthy Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05446740",
+          "briefTitle": "A Study on the Safety, Reactogenicity and Immune Response of a Vaccine Against Influenza in Healthy Younger and Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza, Human"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01751308",
+          "briefTitle": "Safety and Efficacy of Cabazitaxel in Pediatric Patients With Refractory Solid Tumors Including Central Nervous System Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Solid Tumor - Malignant Nervous System Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02192359",
+          "briefTitle": "Carboxylesterase-Expressing Allogeneic Neural Stem Cells and Irinotecan Hydrochloride in Treating Patients With Recurrent High-Grade Gliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Recurrent Anaplastic Astrocytoma", "Recurrent Anaplastic Oligoastrocytoma", "Recurrent Anaplastic Oligodendroglioma", "Recurrent Glioblastoma", "Recurrent Gliosarcoma", "Recurrent Malignant Glioma", "Recurrent WHO Grade III Glioma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "69 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01937715",
+          "briefTitle": "A Study Of PF-05212384 Plus FOLFIRI Versus Bevacizumab Plus FOLFIRI In Metastatic Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Colorectal Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02583542",
+          "briefTitle": "A Study of AZD2014 in Combination With Selumetinib in Patients With Advanced Cancers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "completionDateStruct": {
+            "date": "2020-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Triple-Negative Breast Cancer", "Squamous Cell Lung Cancer", "Non-squamous Cell Lung Cancer With KRAS Mutations", "Non-squamous Cell Lung Cancer With Wild-type KRAS"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05065619",
+          "briefTitle": "Safety Immunogenicity Study of MT-2766 in Japanese Adults（COVID-19）"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "SARS-CoV-2 Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03323398",
+          "briefTitle": "Dose Escalation and Efficacy Study of mRNA-2416 for Intratumoral Injection Alone and in Combination With Durvalumab for Participants With Advanced Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Relapsed/Refractory Solid Tumor Malignancies or Lymphoma", "Ovarian Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 79,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05014412",
+          "briefTitle": "A Study to Learn About the Study Medicine (Elranatamab) in Participants With Multiple Myeloma That Has Come Back After Responding to Treatment or Has Not Responded to Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05393505",
+          "briefTitle": "Fast-track Blood Test for Suspected Fever by Deficiency of a Kind of White Blood Cells As Main Defense Against Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neutropenic Fever"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 344,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03447314",
+          "briefTitle": "Study of a Combination of GSK1795091 and Immunotherapies in Subjects With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06862388",
+          "briefTitle": "Stem Cell Therapy for Intracerebral Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intracerebral Hemorrhage", "Mesenchymal Stem Cell"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01920061",
+          "briefTitle": "A Study Of PF-05212384 In Combination With Other Anti-Tumor Agents and in Combination With Cisplatin in Patients With Triple Negative Breast Cancer in an Expansion Arm (TNBC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04502966",
+          "briefTitle": "Grass Pollen Immunotherapy Plus Dupilumab for Tolerance Induction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Allergic Rhinoconjunctivitis", "Grass Pollen Allergy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05716334",
+          "briefTitle": "Biosimilars of Rituximab in ANCA-associated Vasculitis Compared to the Originator"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ANCA-associated Vasculitis", "Granulomatosis With Polyangiitis", "Microscopic Polyangiitis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 201,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04315298",
+          "briefTitle": "Evaluation of the Efficacy and Safety of Sarilumab in Hospitalized Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1912,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.2": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02475733",
+          "briefTitle": "Evaluation of Safety,Pharmacokinetics and Efficacy of CAZ-AVI With Metronidazole in Children Aged 3 Months to 18 Years Old With Complicated Intra-abdominal Infections (cIAIs)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complicated Intra-abdominal Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 83,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "17 Years"
+        }
+      }
+    ]
+  }
+}

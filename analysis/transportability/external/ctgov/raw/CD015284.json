@@ -1,0 +1,6279 @@
+{
+  "query": "scale score epilepsy inventory",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01496612",
+          "briefTitle": "Buspirone Therapy for Localized Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11-22"
+          },
+          "completionDateStruct": {
+            "date": "2016-04-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anxiety Disorder", "Seizures", "Epilepsy", "Partial Epilepsy", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03739645",
+          "briefTitle": "Human Behaviors Related to the Expectation of Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fear Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "88 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02002819",
+          "briefTitle": "Levetiracetam for Alzheimer's Disease-Associated Network Hyperexcitability"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05503290",
+          "briefTitle": "The Lullaby Project as a Musical Intervention for Pregnant Individuals With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06924086",
+          "briefTitle": "The Children's Adaptive Deep Brain Stimulation for Epilepsy Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lennox Gastaut Syndrome (LGS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05867160",
+          "briefTitle": "Adjunctive Anti-seizure Medication (ASM) Real World Evidence (RWE) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04117178",
+          "briefTitle": "Monitoring Anti-Dementia Drugs by Serum Levels"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Dementia With Lewy Bodies", "Dementia in Parkinsons Disease", "Dementia Alzheimers", "Alzheimer Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05772429",
+          "briefTitle": "Long-Term Follow-Up of a Cohort of Participants Prescribed Epidyolex in France in a Real-life Setting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Seizures"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 158,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03590197",
+          "briefTitle": "Effect of Melatonin on Seizure Outcome, Neuronal Damage and Quality of Life in Patients With Generalized Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Generalized Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04673071",
+          "briefTitle": "Effectiveness and Safety of Thread Embedding Acupuncture for Drug Resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy, Drug Resistant", "Acupuncture Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05019885",
+          "briefTitle": "The Efficacy of a Subanesthetic Doses of IV Ketamine in the Treatment Drug Resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Drug Resistant Epilepsy", "Medically Refractory Epilepsy", "Refractory Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05450822",
+          "briefTitle": "Precision Medicine in the Treatment of Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 550,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04345432",
+          "briefTitle": "Gabapentin Treatment of Postural Tachycardia Syndrome (PoTS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postural Orthostatic Tachycardia Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06202196",
+          "briefTitle": "Risk Prevention Program and Therapeutic Patient Education Program of Patients With Uncontrolled Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05737784",
+          "briefTitle": "A Clinical Trial of PRAX-222 in Pediatric Participants With Early Onset SCN2A Developmental and Epileptic Encephalopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["SCN2A-DEE", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05491369",
+          "briefTitle": "Effectiveness of an Epilepsy Application for Self-management in Viet Nam"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00504881",
+          "briefTitle": "Brivaracetam as add-on Treatment in Adolescents and Adults Suffering From Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04573803",
+          "briefTitle": "Pharmacological Management of Seizures Post Traumatic Brain Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Traumatic Brain Injury", "Post Traumatic Seizures"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1649,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03635905",
+          "briefTitle": "Gabapentin for Pain Management During Dilation and Evacuation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07010276",
+          "briefTitle": "Deep Brain Stimulation vs. Vagus Nerve Stimulation for Epileptic Spasms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-24",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy; Seizure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06105996",
+          "briefTitle": "ADIE-FS - Aligning Dimensions of Interoceptive Experience in Patients With Functional Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Psychogenic Nonepileptic Seizures", "Dissociative Seizures", "Psychogenic Pseudoseizure", "Functional Neurological Disorder", "Non Epileptic Seizure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05042726",
+          "briefTitle": "cTBS Targeting Cerebellum for Drug-refractory Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Refractory Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06399952",
+          "briefTitle": "Baker Gordon Syndrome Natural History Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rare Diseases", "Autism or Autistic Traits", "Development Delay", "SYT-SSX Fusion Protein Expression", "Sleep Disorder", "Epilepsy, Generalized", "Motor Delay"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06719791",
+          "briefTitle": "Sirolomus Adjuvant Treatment of Focal Refractory Epilepsy (SATFRE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Drug Resistant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05120648",
+          "briefTitle": "Effects of Biofeedback on Somatic Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Somatic Symptom"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06248333",
+          "briefTitle": "Subthalamic Nucleus Electrical Stimulation for Drug-resistant Focal Motor Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Drug Resistant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05711563",
+          "briefTitle": "Predicting and Monitoring Outcomes in Autoimmune Encephalitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autoimmune Encephalitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06778772",
+          "briefTitle": "Transition From Pediatric to Adult Epilepsy Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "17 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03368469",
+          "briefTitle": "Transcranial Direct Current Stimulation (tDCS) in Children and Adolescents With Epilepsy and Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depressive Disorder", "Generalized Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02262156",
+          "briefTitle": "CBT Versus Selective Serotonin Reuptake Inhibitor For Treatment Of Depression In Temporal Lobe Epilepsy Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Epilepsy, Temporal Lobe"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05256173",
+          "briefTitle": "Clinical Study on the Effect of Improving Sleep Quality on Cognitive Function in Patients With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy，Cognition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04181723",
+          "briefTitle": "Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome (LAVENDER™)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rett Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 187,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "5 Years",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02276053",
+          "briefTitle": "Study of Lacosamide as an Adjunctive Drug Treatment for Epilepsy in Patients With Brain Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain Tumor Related Epilepsy (BTRE)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03944447",
+          "briefTitle": "Outcomes Mandate National Integration With Cannabis as Medicine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Pain", "Chronic Pain Syndrome", "Chronic Pain Due to Injury", "Chronic Pain Due to Trauma", "Fibromyalgia", "Seizures", "Hepatitis C", "Cancer", "Crohn Disease", "HIV/AIDS", "Multiple Sclerosis", "Traumatic Brain Injury", "Sickle Cell Disease", "Post Traumatic Stress Disorder", "Tourette Syndrome", "Ulcerative Colitis", "Glaucoma", "Epilepsy", "Inflammatory Bowel Diseases", "Parkinson Disease", "Amyotrophic Lateral Sclerosis", "Chronic Traumatic Encephalopathy", "Anxiety", "Depression", "Insomnia", "Autism", "Opioid-use Disorder", "Bipolar Disorder", "Covid19", "SARS-CoV Infection", "COVID-19", "Corona Virus Infection", "Coronavirus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00385671",
+          "briefTitle": "An Open-Label Comparison of Duloxetine to Other Alternatives for the Management of Diabetic Peripheral Neuropathic Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Neuropathy, Painful"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 407,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05127954",
+          "briefTitle": "Long-term Extension Study to Assess Safety and Tolerability of Oral Ubrogepant Tablets for the Acute Treatment of Migraine in Pediatric Participants (Ages 6-17)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Migraine"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01802294",
+          "briefTitle": "Sinovuyo Caring Families Project - Pilot Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2013-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Behavior", "Parenting", "Child Abuse"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01730170",
+          "briefTitle": "Maternal Outcomes and Neurodevelopmental Effects of Antiepileptic Drugs (MONEAD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 565,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "14 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03764956",
+          "briefTitle": "Comparison of Efficacy of LGIT and MAD Among Children With Drug Resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Drug Resistant Epilepsy", "Ketogenic Dieting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03790137",
+          "briefTitle": "Treatment of Sunflower Syndrome With ZX008 (Fenfluramine Hydrochloride) in Children and Young Adults (Ages 4-25)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Photosensitive Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03657940",
+          "briefTitle": "Impact of a Multicomponent Exercise Program on Functional Capacity in Frail Aged Participants With Cognitive Decline"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Frail Elderly Syndrome", "Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03441867",
+          "briefTitle": "Neuroimaging Biomarker for Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Seizure Disorder", "Seizure Disorder, Post Traumatic", "Traumatic Brain Injury", "Non-Epileptic Seizure", "Conversion Disorder", "Magnetic Resonance Imaging", "Head Injury", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 224,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06944171",
+          "briefTitle": "Effects of Associated Impairments on Activity and Participation in Children With Cerebral Palsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-27",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cerebral Palsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06007053",
+          "briefTitle": "Retraining and Control Therapy (ReACT) R33 Phase"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Convulsion, Non-Epileptic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05609084",
+          "briefTitle": "Intensive Preoperative Speech Rehabilitation in Drug-Resistant Temporal Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Anomia", "Temporal Lobe Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04279314",
+          "briefTitle": "Open-Label Extension Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rett Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "5 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04086992",
+          "briefTitle": "Decreasing Parental Stress of Caregivers of Infants With Infantile Spasms by Using Telemedicine Technology"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infantile Spasms, Non-Intractable"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "31 Days",
+          "maximumAge": "30 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06715436",
+          "briefTitle": "Multiple Sclerosis and the Effects of Ketogenic Diet Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 111,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05307536",
+          "briefTitle": "Autologous BMMNCs Combined With Educational Intervention for ASD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05951244",
+          "briefTitle": "Cathodal Transcranial Direct Current Stimulation in Patients With Drug-resistant Focal Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Resistant Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03632889",
+          "briefTitle": "A Computerized CBTi for Insomnia in Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Insomnia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06492720",
+          "briefTitle": "A Pilot Study to Evaluate the Efficacy and Safety of NaviFUS™ System Neuromodulating Treatment for Patients With Drug Resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Drug Resistant Epilepsy", "Epilepsy", "Epilepsy, Temporal Lobe"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05019404",
+          "briefTitle": "Minimally Invasive Surgical Epilepsy Trial for Temporal Lobe Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Temporal Lobe Epilepsy", "Open Surgery", "Minimally Invasive Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06273150",
+          "briefTitle": "Dentatorubral-pallidoluysian Atrophy Natural History and Biomarkers Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dentatorubral-Pallidoluysian Atrophy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 225,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05263674",
+          "briefTitle": "Fast Acute Sedation at Intensive Care vs. High-dose i.v. Anti-seizure Medication for Treatment of Non-convulsive Status Epilepticus (FAST-trial)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Convulsive Status Epilepticus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03878225",
+          "briefTitle": "Does a Ketogenic Dietary Supplement Reduce Alcohol Withdrawal Symptoms in Humans?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder", "Alcohol Withdrawal", "Ketosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01978470",
+          "briefTitle": "External Trigeminal Nerve Stimulation for Drug Resistent Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Seizure Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04337697",
+          "briefTitle": "Neonatal Seizure Registry - Developmental Functional EValuation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Seizure", "Hypoxic-Ischemic Encephalopathy", "Stroke", "Intracranial Hemorrhages", "Epilepsy", "Cerebral Palsy", "Intellectual Disability"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05524493",
+          "briefTitle": "High-field MR Imaging in Migraine, Visual Snow and Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Migraine", "Epilepsy", "Visual Snow Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05559749",
+          "briefTitle": "Collaborative Care for Anxiety and Depression in Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Anxiety", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03464370",
+          "briefTitle": "Evaluation of Stress Sensitivity and Hyperemotivity in Epilepsy Compared to and a Group of Healthy Volunteers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05241366",
+          "briefTitle": "TMS vs Conventional Therapy for the Treatment of Functional Neurological Non Epileptic Seizure Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psychogenic Non-Epileptic Seizure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04311151",
+          "briefTitle": "Impact of Self-visualization of Epileptic Seizures on Patients' Perception of the Disease and Risk Behavior"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Epilepsy; Seizure", "Risk Behavior", "Risk-Taking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01128712",
+          "briefTitle": "Effect on Anxiety in Partial Epilepsy Patients Treated With Pregabalin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Complex Partial"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07011732",
+          "briefTitle": "A Phase 3 Study to Evaluate the Safety and Efficacy of KarXT + KarX-EC for the Treatment of Agitation Associated With Alzheimer's Disease (ADAGIO-1)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 352,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05545540",
+          "briefTitle": "Music as an Adjunctive Epileptic Seizure Treatment Option"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Neurocognitive Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03808935",
+          "briefTitle": "Cannabis Extract in Refractory Epilepsy Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Resistant Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06501235",
+          "briefTitle": "Virtue-Based vs. Cognitive-Behavioral Interventions in Patients With Chronic Medical Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Well-Being, Psychological"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05586412",
+          "briefTitle": "Efficacy of Auricular Vagus Nerve Stimulation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Being in the 18-50 Age Population", "Being Diagnosed With Frozen Shoulder by a Specialist Physician", "Volunteer to Participate in the Study"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05818943",
+          "briefTitle": "Honeycomb: Evaluation of Radiprodil in Children with GRIN-related Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "GRIN-related Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07257978",
+          "briefTitle": "Efficacy and Safety of NTI164 in Children and Young Adults With Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["RETT Syndrome With Proven MECP2 Mutation", "Rett Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "4 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02568813",
+          "briefTitle": "Epilepsy and Mood Regulation Disorder in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04649450",
+          "briefTitle": "MusiC to Prevent deliriUm During neuroSurgerY"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 189,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06747884",
+          "briefTitle": "Trial Readiness and Endpoint Assessment in Pediatric Myotonic Dystrophy Extension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congenital Myotonic Dystrophy", "Childhood Myotonic Dystrophy", "Myotonic Dystrophy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04296097",
+          "briefTitle": "Evaluation of Deep Brain Stimulation (DBS) of the Right Operculum 3 (OP3) in Permanent Non-pulsatile Disabling Tinnitus (TINNOP3-DBS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Permanent Uni or Bilateral Non-pulsatile Tinnitus", "Without Associated Vestibular Pathology", "Resistant to Therapeutic Failure", "With or Without Hearing Loss"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07130786",
+          "briefTitle": "Prophylactic Anti-Seizure Medication vs No Anti-Seizure Medication for Patients With Primary Motor Cortex Brain Metastases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Seizures", "Primary Motor Cortex", "Brain Metastases From Non-small Cell Lung Cancer (NSCLC)", "Brain Metastases, Adult", "Brain Metastases From Extra-cranial Solid Tumors"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05096273",
+          "briefTitle": "Retraining and Control Therapy (ReACT): Sense of Control and Symptom Expectations as Targets of a Treatment for PNES"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Convulsion, Non-Epileptic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05057156",
+          "briefTitle": "Digital Solution to Improve Cognitive Function in Epilepsy: PRODDIGE Project"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cognitive Change"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02178995",
+          "briefTitle": "Methylphenidate Treatment of Attention Deficits in Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Cognitive Deficits", "Attention Deficits"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05660239",
+          "briefTitle": "Impact of a Community Based Engagement Program Focused on Adolescents With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06388707",
+          "briefTitle": "A Safety, Tolerability, and Preliminary Efficacy of Low-intensity Focused Ultrasound Neuromodulation in Patients With Drug-resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Drug Resistant Epilepsy", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05947656",
+          "briefTitle": "Evaluation of the NaviFUS System in Drug Resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy, Temporal Lobe", "Drug Resistant Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06719804",
+          "briefTitle": "Propranolol Adjuvant Treatment of Focal Refractory Epilepsy (PATFRE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Drug Resistant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04687904",
+          "briefTitle": "Mindfulness Meditation for Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03589755",
+          "briefTitle": "The Impact of Mindfulness Meditation in Veterans With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06940089",
+          "briefTitle": "Invasive Brain-Computer Interfaces for Attention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy in Children", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06145971",
+          "briefTitle": "Assessing the Impact of Brief CBTi on Dissociative Seizures: SCED"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dissociative Seizures", "Functional Seizures", "Psychogenic Nonepileptic Seizures", "Insomnia", "Dissociation", "Sleep Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07012148",
+          "briefTitle": "Optimizing Therapy in Epilepsy Using Seizure Forecasts Via EEG and Wearables"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Focal Epilepsy", "Generalized Seizure", "Drug Refractory Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04313686",
+          "briefTitle": "Mindfulness-based Intervention to Promote Psychological Wellbeing in People With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Brain Diseases", "Central Nervous System Diseases", "Nervous System Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06259201",
+          "briefTitle": "Vagus Nerve Stimulator for Autism and Other Developmental Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autism Spectrum Disorder", "Intellectual Disability", "Autonomic Nervous System", "Developmental Disability"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07274124",
+          "briefTitle": "Pain Neuroscience Education and Vagus Nerve Stimulation on Recovery in Individuals With Rheumatoid Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rheumatic Diseases", "Rheumatoid Arthritis (RA)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06754124",
+          "briefTitle": "Investigation of the Effects of Pilates Training in Patients With Drug-Resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Cognitive Dysfunction", "Seizures", "Quality of Life", "Sleep", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03879525",
+          "briefTitle": "EMR Outcomes: Anxiety and Depression in Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Quality of Life", "Anxiety", "Depression", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06609889",
+          "briefTitle": "A Safety and Efficacy of Intrathecally Administered ION283 in Patients With Lafora Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lafora Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01190098",
+          "briefTitle": "Randomized Controlled Trial to Assess Effects of Lacosamide on Sleep and Wake in Adults With Focal Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Partial Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06813612",
+          "briefTitle": "Effect of Cognitive Behavioral Play Intervention and Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Epilepsy in Children"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06782074",
+          "briefTitle": "Idiopathic Generalized Epilepsy Cognitive and Emotional Profile"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Quality of Life", "Neuropathology", "Emotional Problem", "Executive Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05819268",
+          "briefTitle": "A Multi-site Feasibility Clinical Trial of Retraining and Control Therapy (ReACT), a Mind and Body Treatment for Pediatric Functional Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Functional Seizures", "Convulsion, Non-Epileptic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05147571",
+          "briefTitle": "RNS System NAUTILUS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Idiopathic Generalized Epilepsy", "Generalized Tonic Clonic Seizure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00104416",
+          "briefTitle": "Study Evaluating LAMICTAL Extended-Release Therapy Added To Current Seizure Treatments In Patients With Primary Generalized Tonic-Clonic Seizures (PGTC) Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-12"
+          },
+          "completionDateStruct": {
+            "date": "2008-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Tonic-Clonic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04607317",
+          "briefTitle": "Exercise as Adjunctive Treatment for Refractory Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Refractory Epilepsy", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01713946",
+          "briefTitle": "A Placebo-controlled Study of Efficacy & Safety of 2 Trough-ranges of Everolimus as Adjunctive Therapy in Patients With Tuberous Sclerosis Complex (TSC) & Refractory Partial-onset Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tuberous Sclerosis Complex-associated Refractory Seizures"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 366,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05420805",
+          "briefTitle": "Protective Role of Pre-/ Post-biotics on Gut Inflammation, Dysbiosis, and Life Quality in Rett Syndrome (Biotics_RTT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rett Syndrome", "Dysbiosis", "Epilepsy", "Quality of Life"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04248920",
+          "briefTitle": "Clinic to Community© Program for Adults With Epilepsy Admitted to Emergency Departments"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Generalized"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06537986",
+          "briefTitle": "A Neuro-cognitive and Psychosocial Intervention Module in People With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Resistant Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00522418",
+          "briefTitle": "Study Comparing Best Medical Practice With or Without VNS Therapy in Pharmacoresistant Partial Epilepsy Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02"
+          },
+          "completionDateStruct": {
+            "date": "2008-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Partial Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06570954",
+          "briefTitle": "Retraining and Control Therapy (ReACT)- Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Convulsion, Non-Epileptic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06362161",
+          "briefTitle": "Establishment of an Interdisciplinary Functional Neurological Disorder (FND) Treatment Program and Development of a Clinical Care Pathway for FND"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Functional Neurological Disorder", "Convulsion, Non-Epileptic", "Functional Seizure"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02635633",
+          "briefTitle": "Continuous Thetaburst Stimulation for the Treatment of Refractory Epilepsy - Safety, Feasibility and Proof-of-concept"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsies, Partial"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05928598",
+          "briefTitle": "Goals for Epilepsy Clinic Visits Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Resistant Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01159431",
+          "briefTitle": "External Trigeminal Nerve Stimulation for Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Seizure Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04379128",
+          "briefTitle": "Attentional Impairment in People With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 272,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07165665",
+          "briefTitle": "The Effect of Nervus Vagus Stimulation on Spasticity, Autonomic Function, Motor Function and Quality of Life in Children With Spastic Cerebral Palsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Children With Cerebral Palsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03114657",
+          "briefTitle": "A Study of Crenezumab Versus Placebo to Evaluate the Efficacy and Safety in Participants With Prodromal to Mild Alzheimer's Disease (AD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 806,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05864846",
+          "briefTitle": "A Study to Investigate Behavioral and Other Co-Occurring Outcomes With Epidiolex as Add-On Therapy in Participants Aged 1 to 65 Years of Age With Tuberous Sclerosis Complex"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-26",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tuberous Sclerosis Complex Associated Neuropsychiatric Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 79,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04782869",
+          "briefTitle": "Transcranial Direct Current Electrical Stimulation (tDCS) in Drug-resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06210022",
+          "briefTitle": "Cognitive Impairment in Drug-resistant and Drug-responsive Focal Cryptogenic Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Focal Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06638970",
+          "briefTitle": "Clinical Utility and Safety of Human Umbilical Cord Mesenchymal Stem Cell Secretome in Drug Resistant Epilepsy Single Center, Non-randomized, Phase I Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Drugs Resistant Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03548779",
+          "briefTitle": "North Carolina Genomic Evaluation by Next-generation Exome Sequencing, 2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy; Seizure", "Neuromuscular Diseases", "Brain Malformation", "Intellectual Disability", "Autism Spectrum Disorder", "Hypotonia", "Inborn Errors of Metabolism", "Movement Disorders", "Genetic Disease", "Development Delay", "Chromosome Abnormality", "Hearing Loss", "Dysmorphic Features", "Skeletal Dysplasia", "Congenital Abnormality", "Microcephaly", "Macrocephaly"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 548,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04938427",
+          "briefTitle": "A Study of Soticlestat as an Add-on Therapy in Children, Teenagers, and Adults With Lennox-Gastaut Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lennox Gastaut Syndrome (LGS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 270,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05248269",
+          "briefTitle": "Thermocoagulation in Drug Resistant Focal Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Seizures, Focal", "Epilepsy Intractable", "Epilepsies, Partial"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04687501",
+          "briefTitle": "Effect of VR on Anxiety and Pain in Gynecological Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain, Postoperative", "Anxiety", "Pain Catastrophizing", "State Anxiety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00490035",
+          "briefTitle": "Double-blind, Randomized Study Evaluating the Efficacy and Safety of Brivaracetam in Adults With Partial Onset Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 399,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04897776",
+          "briefTitle": "Stimulation of the Thalamus for Arousal Restoral in Temporal Lobe Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Temporal Lobe"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04717388",
+          "briefTitle": "Pathophysiology, Psycho-emotional and Cognitive Functioning Associated With Tinnitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-04-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tinnitus", "Epilepsy, Temporal Lobe"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05321355",
+          "briefTitle": "Mainz Register of Patients With Sleep Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Disorder", "Sleep Disorder Parasomnia", "Narcolepsy", "Sleep Apnea", "Insomnia", "Somnambulism", "Idiopathic Hypersomnia", "Restless Legs Syndrome", "REM Behavior Disorder"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06500260",
+          "briefTitle": "CNKSR2 Natural History Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Developmental Dysphasia", "Epileptic Encephalopathy, Childhood-Onset", "X-Linked Intellectual Disability"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06930846",
+          "briefTitle": "HOBSCOTCH-CA (HOme-Based Self-management and COgnitive Training CHanges Lives in Brain CAncer)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Cancer", "Brain Tumor", "Brain Neoplasms", "Primary Brain Tumor", "Low-grade Glioma", "Oligodendroglioma", "Meningioma", "Low Grade Astrocytoma", "Cognitive Dysfunction", "Memory Impairment", "Memory Disorders", "Memory Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06797791",
+          "briefTitle": "Assessment of Multifocal Continuous Theta Burst Transcranial Magnetic Stimulation (cTBS) Effects in Generalized Epilepsy Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Generalized Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04264780",
+          "briefTitle": "Epilepsy Surgery and Cognitive Outcome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Temporal Lobe"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04004169",
+          "briefTitle": "Closed-Loop Deep Brain Stimulation for Major Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-06-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03084783",
+          "briefTitle": "Dexamethasone in Herpes Simplex Virus Encephalitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HSV Encephalitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04990687",
+          "briefTitle": "Vagal Nerve Stimulation for Treatment Resistant Major Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02325544",
+          "briefTitle": "Comparing Different Treatments in Reducing Dissociative Seizure Occurrence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Convulsion, Nonepileptic", "Conversion Disorder", "Dissociative Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02789176",
+          "briefTitle": "Continued Anticonvulsants After Resolution of Neonatal Seizures: a Patient-centered Comparative Effectiveness Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neonatal Seizures"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 303,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Weeks",
+          "maximumAge": "24 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00179517",
+          "briefTitle": "Treatment of Sexual Dysfunction in Hypogonadal Men With Epilepsy With Testosterone and Either Anastrozole or Placebo"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-06"
+          },
+          "completionDateStruct": {
+            "date": "2008-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Seizure Disorder", "Hypogonadism", "Erectile Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02705768",
+          "briefTitle": "Effect of Carbamazepine and Oxcarbazepine on Serum Neuron-specific Enolase and S100B in Focal Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Seizures, Focal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05859854",
+          "briefTitle": "Cenobamate in Adults With Focal-Onset Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Focal-Onset Seizure", "Neurological Disorder"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 936,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04519775",
+          "briefTitle": "HOBSCOTCH Phase III"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05530109",
+          "briefTitle": "Study of Attentional Disorders in Patients Suffering From Idiopathic Generalized Epilepsy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Idiopathic Generalized Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06682299",
+          "briefTitle": "Maintenance TMS in Treatment Resistant Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Treatment Resistant Depression (TRD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06593444",
+          "briefTitle": "Thalamic Ventral Intermediate Electrical Stimulation for Refractory Familial Cortical Myoclonus with Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy (treatment Refractory)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07127913",
+          "briefTitle": "Closed-Loop Deep Brain Stimulation for Treatment-Resistant Bipolar Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-06-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bipolar II Disorder", "Bipolar II Disorder, Most Recent Episode Major Depressive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03498274",
+          "briefTitle": "A Comparison of a Currently Marketed Hearing Aid Programmed With Two Different Fitting Methods"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hearing Loss"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00159965",
+          "briefTitle": "Treatments for Psychogenic Nonepileptic Seizures (NES)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Convulsion, Non-Epileptic", "Conversion Disorder", "Depression", "Stress Disorders, Post-Traumatic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "95 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05952674",
+          "briefTitle": "Treatment Resistant Depression and Vagus Nerve Stimulation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-08-19",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Treatment Resistant Depression (TRD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 166,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04447846",
+          "briefTitle": "Novel Cognitive Treatment Targets for Epidiolex in Sturge- Weber Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sturge-Weber Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01891890",
+          "briefTitle": "Cognitive AED Outcomes in Pediatric Localization Related Epilepsy (COPE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy, Partial", "Epilepsy, Localization Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03180502",
+          "briefTitle": "Proton Beam or Intensity-Modulated Radiation Therapy in Preserving Brain Function in Patients With IDH Mutant Grade II or III Glioma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anaplastic Astrocytoma", "Anaplastic Oligoastrocytoma", "Anaplastic Oligodendroglioma", "Diffuse Astrocytoma", "Glioma", "Oligoastrocytoma", "Oligodendroglioma", "WHO Grade 3 Glioma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03244345",
+          "briefTitle": "Depression, Stress and Vulnerability Factors in Drug Resistant Focal Epilepsies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression and Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03228472",
+          "briefTitle": "Noninvasive Brain Stimulation Training"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain Injuries"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05163314",
+          "briefTitle": "A Study of Soticlestat as an Add-on Therapy in Children and Adults With Dravet Syndrome or Lennox-Gastaut Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dravet Syndrome (DS)", "Lennox Gastaut Syndrome (LGS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 352,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "56 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04815278",
+          "briefTitle": "NC Works4Health: Reducing Chronic Disease Risks in Socioeconomically Disadvantaged, Unemployed Populations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Chronic Disease", "Psychological Distress"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 455,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05423522",
+          "briefTitle": "Clinical Safety and Efficacy Evaluation of NanoLithium® NP03 in Patients With Mild-to-severe Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00464269",
+          "briefTitle": "Double-blind, Randomized Study Evaluating the Efficacy and Safety of Brivaracetam in Adults With Partial Onset Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03800992",
+          "briefTitle": "Bad News- Diagnosis: Epilepsy in Childhood"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy in Children"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02950636",
+          "briefTitle": "Effect of Yoga on Mood and Quality of Life in Patients With Refractory Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06144957",
+          "briefTitle": "SLC13A5 Deficiency Natural History Study - United States Only"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Citrate Transporter Deficiency", "Epilepsy", "Rare Diseases", "Movement Disorders", "Genetic Disorder", "SLC13A5 Deficiency", "EIEE25", "Kohlschutter-Tonz Syndrome (Non-ROGDI)", "Citrate Transporter Disorder", "DEE25"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03939507",
+          "briefTitle": "Outcome Study in Refractory Epilepsy (SOPHIE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-07-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06300814",
+          "briefTitle": "The Effect of Exercise and Music on Sleep, Quality of Life and Emotional State in Children With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05437393",
+          "briefTitle": "Children's Adaptive Deep Brain Stimulation for Epilepsy Trial (CADET): Pilot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Lennox-Gastaut Syndrome, Intractable"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06432231",
+          "briefTitle": "Effects of Low Glycemic Index Diet in Children With Drug-resistant Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ketogenic Diet", "Drug Resistant Epilepsy", "Oxidative Stress", "Quality of Life", "Psychological Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07095933",
+          "briefTitle": "The Safety and Efficacy Evaluation of Everolimus as an Adjunctive Treatment for Focal Refractory Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Drug Resistant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01730209",
+          "briefTitle": "Efficacy of RAD001/Everolimus in Autism and NeuroPsychological Deficits in Children With Tuberous Sclerosis Complex"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2016-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tuberous Sclerosis Complex", "TSC Related Cognitive Disability", "TSC Related Autism", "TSC Related Learning Problems"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07230158",
+          "briefTitle": "Transcranial Alternating Current Stimulation for Patients With Mild Alzheimer's Disease II (TRANSFORM-AD II)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03441191",
+          "briefTitle": "Audio-visual Stimulation for Sleep Promotion in Older Adults With Osteoarthritis Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Insomnia Chronic", "Osteoarthritis", "Pain, Chronic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04126369",
+          "briefTitle": "Impact of Mindfulness Intervention on Quality of Life in Patients With Drug-resistant Epilepsy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Drug Resistant Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05577754",
+          "briefTitle": "Assessment of the Efficacy and Safety of Alpelisib (BYL719) in Pediatric and Adult Patients With Megalencephaly-CApillary Malformation Polymicrogyria Syndrome (MCAP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Megalencephaly-capillary Malformation Polymicrogyria Syndrome (MCAP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02682927",
+          "briefTitle": "A Trial of Two Fixed Doses of ZX008 (Fenfluramine HCl) in Children and Young Adults With Dravet Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dravet Syndrome", "Seizure Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 262,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05066308",
+          "briefTitle": "Cannabidiol for Reduction of Brain Neuroinflammation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Back Pain", "Depressive Symptoms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03655366",
+          "briefTitle": "Epidogs International Inventory of Seizure Alert Dogs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 227,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05267405",
+          "briefTitle": "Mainz Epilepsy Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Dissociative Seizures", "Status Epilepticus"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06028945",
+          "briefTitle": "Evaluating the Impact of Virtual Reality Exposure Therapy on Epilepsy/Seizure-Specific Interictal Anxiety"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Anxiety Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05558371",
+          "briefTitle": "International CDKL5 Clinical Research Network"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["CDKL5", "CDKL5 Deficiency Disorder", "CDD"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07205211",
+          "briefTitle": "Prevalence of ADHD in Children With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ADHD", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 185,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05393518",
+          "briefTitle": "Electroclinical Correlation of Anxiety"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anxiety Disorder", "Generalized Anxiety Disorder", "Drug Resistant Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05182437",
+          "briefTitle": "Precision Radiation Treatment for Epilepsy (PRECISION)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 94,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06351046",
+          "briefTitle": "Preventive Interventions for Chronic Pain Worsening"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Non-Cancer Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04940624",
+          "briefTitle": "A Study of Soticlestat as an Add-on Therapy in Children and Young Adults With Dravet Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dravet Syndrome (DS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06840496",
+          "briefTitle": "To Investigate the Efficacy of Treatment With Oral NA-921 (Bionetide) Versus Placebo in Females With Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rett Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "5 Years",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06936124",
+          "briefTitle": "Deep Brain Stimulation of the Pedunculopontine Nucleus for Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04020484",
+          "briefTitle": "Making Mindfulness Matter© in Children With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy in Children", "Mindfulness", "Quality of Life"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 73,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03806946",
+          "briefTitle": "Impact of Relationship of Epilepsy and Attention Deficit Hyperactive Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Attention-Deficit Hyperactivity Disorder", "Epilepsy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06951919",
+          "briefTitle": "HOBSCOTCH-MS-Efficacy Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Sclerosis", "Cognitive Dysfunction", "Memory Disorders", "Memory Impairment", "Memory Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05267158",
+          "briefTitle": "The Cohort for Patient-reported Outcomes, Imaging and Trial Inclusion in Metastatic BRAin Disease (COIMBRA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Metastases, Adult", "Brain Neoplasms, Adult, Malignant"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04007991",
+          "briefTitle": "Ecopipam Tablets to Study Tourette's Syndrome in Children and Adolescents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tourette Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06014541",
+          "briefTitle": "Observational Study to Characterize Biomarkers and Disease Progression in Participants With Methyl CpG Binding Protein 2 (MECP2) Duplication Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Methyl CpG Binding Protein 2 (MECP2) Duplication Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "1 Month",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03871842",
+          "briefTitle": "Effects of tDCS on Depressive Symptoms of Participants With Temporal Lobe Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depressive Symptoms", "Epilepsy, Temporal Lobe"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04681781",
+          "briefTitle": "SLC13A5 Deficiency Natural History Study - Remote Only"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Citrate Transporter Deficiency", "Epilepsy", "Rare Diseases", "Movement Disorders", "Genetic Disorder", "SLC13A5 Deficiency", "EIEE25", "Kohlschutter-Tonz Syndrome (non-ROGDI)", "17p13.1 Deletions Confined to SLC13A5 Gene", "Citrate Transporter Disorder"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04725409",
+          "briefTitle": "Neural Correlates of Psychiatric Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Psychiatric Disorder", "Memory Disorders"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03517423",
+          "briefTitle": "Brivaracetam: a Prospective and Multicentre Post-marketing Observational Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04257604",
+          "briefTitle": "A Study of Perampanel as Add-on Therapy in Adult and Adolescent Participants With Focal Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Partial Seizures"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 243,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05353452",
+          "briefTitle": "Collaborative Care in Posttraumatic Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy, Post-Traumatic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03873922",
+          "briefTitle": "Ketogenic Diet for Psychotic Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Psychosis; Acute", "Psychosis", "Psychotic Disorders", "Schizophrenia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04807933",
+          "briefTitle": "Neurovegetative Decoupling in Somatoform Disorders : Biofeedback Interest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Somatoform Disorders", "Irritable Bowel Syndrome", "Psychogenic Non-Epileptic Seizure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03004209",
+          "briefTitle": "Effect of Erythropoietin in Refractory Autoimmune Encephalitis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-02-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autoimmune Encephalitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04292093",
+          "briefTitle": "Efficacy Study of a Neuropsychological Rehabilitation Intervention for Children With Non-symptomatic Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01054599",
+          "briefTitle": "Does Memantine Improve Verbal Memory Task Performance in Subjects With Partial Epilepsy and Memory Dysfunction?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04144478",
+          "briefTitle": "Web-Based Epilepsy Education Program for Adolescents and Parents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "50 Years"
+        }
+      }
+    ]
+  }
+}

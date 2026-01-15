@@ -1,0 +1,701 @@
+{
+  "query": "term long medium percentile",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06975345",
+          "briefTitle": "Effects of a Protocol of Hip Flexor Stretching on Chronic Mechanical, Non-specific LBP."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Musculoskeletal Manipulations", "Low Back Pain, Mechanical"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05313971",
+          "briefTitle": "Impact of Self-awareness in Medical Students"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Burnout, Student", "Stress, Psychological", "Compassion", "Self-Perception"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03997396",
+          "briefTitle": "Effects of Gestational Diabetes Mellitus on Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus", "Children"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 510,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "72 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02944682",
+          "briefTitle": "Household Air Pollution and Health: A Multi-country LPG Intervention Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant, Low Birth Weight"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3640,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04661449",
+          "briefTitle": "Effects of Lifestyle Intervention on Childhood Outcomes in LGA Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Childhood Overweight"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 138,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "1 Month"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04552678",
+          "briefTitle": "Healthy Bodies Project to Prevent Childhood Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity, Childhood"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2480,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02292784",
+          "briefTitle": "Follow up Study to Assess Long Term Safety and Outcomes in Infants and Children Born to Mothers Participating in Retosiban Treatment Studies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Weeks",
+          "maximumAge": "20 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06052865",
+          "briefTitle": "Serial Brain MRI in Hospitalized Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Birth Complication"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Weeks",
+          "maximumAge": "33 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05908877",
+          "briefTitle": "Cardio-Metabolic Risk Evaluation in Overweight and Obese Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pediatric Obesity", "Metabolic Syndrome", "Nonalcoholic Fatty Liver", "Atherosclerosis", "Psychology", "Cardiometabolic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03325647",
+          "briefTitle": "TESTO: Testosterone Effects on Short-Term Outcomes in Infants With XXY"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Klinefelter Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "31 Days",
+          "maximumAge": "90 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01938950",
+          "briefTitle": "Resistance and Cardiorespiratory Time-matched Exercise in Youth: A Randomized Clinical Trial (RCT:RCT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10"
+          },
+          "completionDateStruct": {
+            "date": "2017-06-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Childhood Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05587634",
+          "briefTitle": "Virtual Peer Health Coaching for Adolescents With Disabilities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cerebral Palsy", "Spina Bifida"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04056377",
+          "briefTitle": "Exercise, Arterial Modulation and Nutrition in Youth South Africa Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Retinal Artery Stenosis", "Childhood Obesity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1065,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "62 Months",
+          "maximumAge": "129 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06409962",
+          "briefTitle": "A New Technological Intervention to Address Childhood Obesity:"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Body Weight", "Dyslipidemias", "Musculoskeletal Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 215,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04310371",
+          "briefTitle": "Exposure to CARDIovascular Risk Assessed by Cardiac Adiposity in oBese adOlescents Eligible to a Residential Long-term Lifestyle Intervention by Diet and eXercise (CARDIBOX)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Adolescent Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07281482",
+          "briefTitle": "Study Protocol: Cognitive, Emotional and Social Stimulation Programme for Low-SES Children."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-26",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Development", "Socioeconomic Factors"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02590341",
+          "briefTitle": "Myocarditis Registry for Children and Adolescents - MYKKE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2024-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myocarditis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06463561",
+          "briefTitle": "CPAP Effect on Lipid Profile and Hyperuricemia in Patients With Dyslipidemia and Moderate-severe Obstructive Sleep Apnea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Apnea", "Dyslipidemias", "Hyperuricemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03593356",
+          "briefTitle": "Baby's First Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Development", "Brain Development", "Household and Family Processes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05041855",
+          "briefTitle": "Childhood Obesity Treatment Designed for Low Income and Hispanic Families"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pediatric Obesity", "Healthy Eating", "Physical Activity", "Minority Health", "Mindfulness", "Family", "Counseling"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 554,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05500989",
+          "briefTitle": "PlacEntal Acute Atherosis RefLecting Subclinical Atherosclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia", "HELLP Syndrome", "Intrauterine Growth Restriction", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 226,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04166448",
+          "briefTitle": "LUMIERE on the PLACENTA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

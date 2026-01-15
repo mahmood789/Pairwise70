@@ -1,0 +1,6234 @@
+{
+  "query": "number nights children adverse",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06445946",
+          "briefTitle": "DECIDE: A Comparative Effectiveness Trial of Metformin Versus Insulin for the Treatment of Gestational Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus", "Pregnancy, High Risk"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1572,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00023452",
+          "briefTitle": "Three Months of Weekly Rifapentine and Isoniazid for M. Tuberculosis Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tuberculosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8053,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01563029",
+          "briefTitle": "A Dose-ranging Study of Fluticasone Furoate (FF)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-09-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 597,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01198145",
+          "briefTitle": "Sulfasalazine in Preventing Acute Diarrhea in Patients With Cancer Who Are Undergoing Pelvic Radiation Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diarrhea", "Gastrointestinal Complications", "Unspecified Adult Solid Tumor, Protocol Specific"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00566696",
+          "briefTitle": "Mismatched Family Member Donor Transplantation for Children and Young Adults With High Risk Hematological Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia, Acute Lymphocytic (ALL)", "Leukemia, Myeloid, Acute(AML)", "Leukemia, Myeloid, Chronic(CML)", "Juvenile Myelomonocytic Leukemia (JMML)", "Hemoglobinuria, Paroxysmal Nocturnal (PNH)", "Hodgkin Lymphoma", "Lymphoma, Non-Hodgkin (NHL)", "Myelodysplastic Syndrome (MDS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 73,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01898520",
+          "briefTitle": "A Safety, Efficacy and Tolerability Study of Sativex for the Treatment of Spasticity in Children Aged 8 to 18 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cerebral Palsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05199610",
+          "briefTitle": "An Open-Label, Single-Dose, Parallel-Group Study of the Pharmacokinetics and Safety of EQ143"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Hepatic Impairment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02127918",
+          "briefTitle": "Electrical Status Epilepticus in Sleep: Response of Neuropsychological Deficits and Epileptiform Activity to Clobazam Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Electrical Status Epilepticus in Sleep"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04051723",
+          "briefTitle": "Pre-emptive Scalp Infiltration With Dexamethasone Plus Ropivacaine for Post-Craniotomy Pain in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain, Postoperative", "Children"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06655610",
+          "briefTitle": "External Trigeminal Nerve Stimulation for Attention Deficit Hyperactivity Disorder - Feasibility Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ADHD - Attention Deficit Disorder with Hyperactivity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04527393",
+          "briefTitle": "Individualized Analgesia for Pediatric Adenotonsillectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adenotonsillectomy", "Analgesia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 542,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03460652",
+          "briefTitle": "KP415 Open-Label Safety Study in Children (6-12 Years of Age) With ADHD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ADHD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 282,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05621109",
+          "briefTitle": "PRE-Pregnancy Weight Loss And the Reducing Effect on CHILDhood Overweight - Copenhagen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2033-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight and Obesity", "Weight Loss", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "38 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04377451",
+          "briefTitle": "Metformin in Dengue With Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dengue", "Viral Infection", "Metformin", "Anti-inflammatory Agents", "Obesity", "Overweight"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01223131",
+          "briefTitle": "Efficacy and Safety of Insulin Glargine Versus. Neutral Protamine Hagedorn (NPH) Insulin in Children With Type 1 Diabetes Above 6 Years Old."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06907914",
+          "briefTitle": "Schroth and Scapular Muscle Activation in Hyperkyphosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hyperkyphosis, Adolescent", "Muscle Activation", "Scapula; Deformity, Acquired", "Exercise Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04295707",
+          "briefTitle": "Monthly Replacement Orthokeratology for Myopia Control in Existing Lens Wearers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myopic Progression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07171099",
+          "briefTitle": "Efficacy and Safety of Rengalin in the Treatment of ARVI Cough in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cough"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 264,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05337033",
+          "briefTitle": "Cannabis for Chronic Headaches in Adolescents: the CAN-CHA Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Migraine"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07000656",
+          "briefTitle": "Micturition Desire-Relaxation Training Device for Lower Urinary Tract Dysfunction in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Daytime Urinary Incontinence", "Urinary Frequency", "Lower Urinary Tract Dysfunction", "Primary Nocturnal Enuresis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03596762",
+          "briefTitle": "A Study of BAY3427080 (NT-814) in the Treatment of Moderate to Severe Post-menopausal Vasomotor Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Menopause", "Hot Flashes", "Night Waking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 199,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00449046",
+          "briefTitle": "Clinical Assessment Of GW815SF Salmeterol/Fluticasone Propionate(HFA MDI) In Pediatric Patients With Bronchial Asthma -A Long Term (24-week) Study-"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2007-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchial Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00962741",
+          "briefTitle": "Study Evaluating Etanercept in 3 Subtypes of Childhood Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Arthritis, Juvenile Idiopathic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 127,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02944682",
+          "briefTitle": "Household Air Pollution and Health: A Multi-country LPG Intervention Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant, Low Birth Weight"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3640,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01301989",
+          "briefTitle": "Reducing Sleep Disparities in Minority Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Months",
+          "maximumAge": "87 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06260163",
+          "briefTitle": "A Study of Guselkumab in Pediatric Participants With Moderately to Severely Active Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colitis, Ulcerative"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04725591",
+          "briefTitle": "Diabeloop for Teens"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Closed Loop", "Diabetes Mellitus, Type 1", "Adolescents (12 to 17 Years Old)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03784027",
+          "briefTitle": "The Artificial Pancreas in Very Young Children With T1D"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 81,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02125279",
+          "briefTitle": "Long Term Safety and Efficacy Study of Calcitriol 3 mcg/g Ointment in Pediatric Subjects With Plaque Psoriasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psoriasis Vulgaris"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04342559",
+          "briefTitle": "Acceptability, Under Use in Real Conditions Of Two Vaginal Moistures Indicated for Women With Vaginal Drying"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vaginal Dryness"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07169162",
+          "briefTitle": "ADZENYS XR-ODT™ in Children (4 to <6 Years) Diagnosed With Attention-deficit/Hyperactivity Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07262450",
+          "briefTitle": "Assessement of Effectiveness of Seawater Nasal Sprays on Sinonasal Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["URTI", "Bronchiolitis", "COVID - 19", "Allergic Rhinitis", "Chronic Rhinosinusitis (CRS)", "Post-surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1065,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03292588",
+          "briefTitle": "A Trial of Mepolizumab Adjunctive Therapy for the Prevention of Asthma Exacerbations in Urban Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 335,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04220086",
+          "briefTitle": "Pediatric Massage for Children With Autism Spectrum Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03541187",
+          "briefTitle": "Cockroach Immunotherapy in Children and Adolescents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Persistent Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01221467",
+          "briefTitle": "Closing the Loop in Youth With Type 1 Diabetes in the Home Setting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01150357",
+          "briefTitle": "Safety and Efficacy of Aliskiren in Pediatric Hypertensive Patients 6-17 Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 267,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07190053",
+          "briefTitle": "Long Term Treatment Strategies and Effectiveness of Secukinumab in Patient With JIA Subtypes of JPsA and ERA: Study From German BIKER Registry."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-09-18",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Enthesitis-related Arthritis (ERA)", "Juvenile Psoriatic Arthritis (JPsA)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01852045",
+          "briefTitle": "Study of OnabotulinumtoxinA (BOTOX®) for Urinary Incontinence Due to Neurogenic Detrusor Overactivity in Pediatric Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02751931",
+          "briefTitle": "Open-label Phase 3 Study With Mirabegron in Children From 3 to Less Than 18 Years of Age With Neurogenic Detrusor Overactivity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neurogenic Detrusor Overactivity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03560466",
+          "briefTitle": "Assessment of the Safety and Efficacy of Dupilumab in Children With Asthma (Liberty Asthma Excursion)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 378,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06569173",
+          "briefTitle": "Comparison of Stent-Related Symptoms Between Anti-Reflux Stents and Standard DJ Stents in Children With Urolithiasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urolithiasis", "Child, Only"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05413499",
+          "briefTitle": "Blood Biomarkers to Improve Management of Children With Traumatic Brain Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Traumatic Brain Injury"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2880,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06688370",
+          "briefTitle": "The Performance and Safety of Petit Drill in the French Paediatric Population: a Post-market Clinical Follow-up Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sore-throat", "Cough"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01618305",
+          "briefTitle": "Evaluating the Response to Two Antiretroviral Medication Regimens in HIV-Infected Pregnant Women, Who Begin Antiretroviral Therapy Between 20 and 36 Weeks of Pregnancy, for the Prevention of Mother-to-Child Transmission"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 408,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03830840",
+          "briefTitle": "Mil Familias Cohort Establishment: a Study to Understand Determinants of Diabetes and Its Complications Among US Latinos"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type2 Diabetes Mellitus", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 405,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02131272",
+          "briefTitle": "A Trial Investigating the Efficacy and Safety of Insulin Detemir Versus Insulin NPH in Combination With Metformin and Diet/Exercise in Children and Adolescents With Type 2 Diabetes Insufficiently Controlled on Metformin With or Without Other Oral Antidiabetic Drug(s) With or Without Basal Insulin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02651116",
+          "briefTitle": "Dextromethorphan Pediatric Acute Cough Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cough"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 131,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03327402",
+          "briefTitle": "Safety, Tolerability and Pharmacokinetics of SHP465 in Children Aged 4 to 5 Years With Attention-Deficit/Hyperactivity Disorder (ADHD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder (ADHD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07150013",
+          "briefTitle": "Rett REVOLUTION Trial: An Exploratory Evaluation of the Safety and Efficacy of Vorinostat in Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rett Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "6 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02523131",
+          "briefTitle": "Home Testing of Day and Night Closed Loop With Pump Suspend Feature"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05"
+          },
+          "completionDateStruct": {
+            "date": "2018-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetes Mellitus, Type 1", "Glucose Metabolism Disorders", "Endocrine System Diseases", "Autoimmune Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04641975",
+          "briefTitle": "A Study to Evaluate Mirabegron in Pediatric Participants From 5 to Less Than 18 Years of Age With Overactive Bladder (OAB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overactive Bladder (OAB)", "Pharmacokinetics of Mirabegron"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04279314",
+          "briefTitle": "Open-Label Extension Study of Trofinetide for the Treatment of Girls and Women With Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rett Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "5 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06870344",
+          "briefTitle": "IGHID 12334 - After the Flood: Optimal Strategies to Prevent Malaria Epidemics Caused by Severe Flooding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria Infection", "Malaria Falciparum"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01813071",
+          "briefTitle": "Safety Study of Live Attenuated Oral Shigella (WRSS1) Vaccine in Bangladeshi Adults and Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diarrhea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 103,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "39 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04549168",
+          "briefTitle": "A Study of Lemborexant in Chinese Participants With Insomnia Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep Initiation and Maintenance Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 194,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05437068",
+          "briefTitle": "Nutritional Supplementation in Children at Risk of Undernutrition"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malnutrition, Child"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02402166",
+          "briefTitle": "Safety, Tolerability, Pharmacokinetic, and Efficacy Study of SPD489 in Preschool Children With Attention-deficit/Hyperactivity Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder (ADHD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03503812",
+          "briefTitle": "Mitigating the Health Effects of Desert Dust Storms Using Exposure-Reduction Approaches"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma in Children", "Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01565694",
+          "briefTitle": "A Study to Assess the Long Term Effect, Safety and Metabolism of a Solifenacin Liquid Suspension in Participants 5 to 18 Years of Age With Neurogenic Detrusor Overactivity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-04-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neurogenic Detrusor Overactivity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07001254",
+          "briefTitle": "UI-Romi-02; Romiplostim Added to Standard of Care for Treatment Naive and Relapsed or Refractory Severe Aplastic Anemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-08-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aplastic Anemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02054130",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of MEDI9929 (AMG 157) in Adult Subjects With Inadequately Controlled, Severe Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 584,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02094235",
+          "briefTitle": "A Phase 1/2 Study of E6005 in Pediatric Subjects With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05312632",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Safinamide Mesilate as Add-on Therapy to Levodopa in Parkinson's Disease Participants With Motor Fluctuation in South Korea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 201,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06812754",
+          "briefTitle": "A Study to Confirm if Fezolinetant Helps Reduce Hot Flashes in Chinese Women Going Through Menopause"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hot Flashes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00920582",
+          "briefTitle": "Protege Encore Study- Clinical Trial of Teplizumab (MGA031) in Children and Adults With Recent-Onset Type 1 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 254,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03795506",
+          "briefTitle": "TLA in Children With Moderate to Severe Atopic Eczema (TLA4AE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis Eczema"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01155778",
+          "briefTitle": "Safety, Tolerability, Ascending Dose and Dose Frequency Study of rhHNS Via an IDDD in MPS IIIA Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-09-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mucopolysaccharidosis (MPS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04088734",
+          "briefTitle": "Gene Transfer Study of ABO-102 in Patients With Middle and Advanced Phases of MPS IIIA Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["MPS IIIA", "Sanfilippo Syndrome", "Sanfilippo A", "Mucopolysaccharidosis III"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02554383",
+          "briefTitle": "Efficacy of Antibiotics in Children With Acute Sinusitis: Which Subgroups Benefit?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sinusitis", "Respiratory Tract Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 515,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04255381",
+          "briefTitle": "Yale-Harvard Hotel-based Closed-Loop Studies in Children (HY-GRAID)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04932096",
+          "briefTitle": "Sleep Management And Recovery After Traumatic Brain Injury in Kids: Pilot Intervention of Melatonin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Traumatic Brain Injury", "Critical Illness", "Sleep"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04763369",
+          "briefTitle": "Investigation of Therapeutic Efficacy and Safety of UMSCs for the Management of Retinitis Pigmentosa (RP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Retinitis Pigmentosa (RP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01928862",
+          "briefTitle": "Efficacy and Safety of Prepopik® in Children for Overall Colon Cleansing in Preparation for Colonoscopy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Need for Bowel Preparation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00774774",
+          "briefTitle": "Face Masks for Preventing Influenza Transmission"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2009-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza Human"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 372,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03624556",
+          "briefTitle": "Pediatric Exploratory Research Study of EGCG Use and Safety (PERSEUS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Down Syndrome", "Fragile X Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01509846",
+          "briefTitle": "Safety Study of Inactivated Shigella Whole Cell Vaccine in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Shigellosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06191315",
+          "briefTitle": "Efficacy and Safety of Subcutaneous Dupilumab in Participants With Asthma/Asthmatic Wheeze Aged 2 to <6 Years (LIBERTY ASTHMA TREKIDS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-21",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Wheezing", "Asthma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03831880",
+          "briefTitle": "Patient Perception of Treatment Burden in Weekly Versus Daily Growth Hormone Injections in Children With GHD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth Hormone Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06225297",
+          "briefTitle": "Evaluation of Vector and Chemoprevention-based Interventions to Reduce Malaria Burden in Urban Daaras of Touba, Senegal"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06069336",
+          "briefTitle": "Nebulised 3% Hypertonic Saline Versus 0.9% Saline for Treating Patients Hospitalized With Acute Bronchiolitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiolitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Weeks",
+          "maximumAge": "24 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04327414",
+          "briefTitle": "The Effect of Standing Desks on Cognitive Performance in Adolescents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sedentary Behavior"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05614089",
+          "briefTitle": "Human Versus Analogue Insulin for Youth With Type 1 Diabetes in Low-Resource Settings"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 1", "Type 1 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07231991",
+          "briefTitle": "A Study to Learn How the Body Processes the Study Medicine Called Vepdegestrant in People With Loss of Liver Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Participants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03325894",
+          "briefTitle": "Safety and Tolerability Study of SHP465 in Children Aged 4 to 12 Years Diagnosed With Attention-deficit/Hyperactivity Disorder (ADHD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder (ADHD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 141,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06759896",
+          "briefTitle": "Comparison Between Protraction Facemask and Upper Braces for Underbite Correction in Growing Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anterior Crossbite", "Class III Malocclusion in Growing Patients"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06815081",
+          "briefTitle": "Capillary OGTT Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes (T1D)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02543203",
+          "briefTitle": "Essential Oils for Enhancing QOL in ASD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autism Spectrum Disorder", "Quality of Life", "Sleep", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06009458",
+          "briefTitle": "Acuity 200™ (Fluoroxyfocon A) Orthokeratology Contact Lens for Overnight Wear"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myopia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 387,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06397365",
+          "briefTitle": "Effect of Hypnosis on Adherence to Continuous Positive Airway Pressure."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Apnea Syndrome", "Apnea, Obstructive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01800994",
+          "briefTitle": "Prospective evAluatIon foR Inhalation Devices Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma", "COPD"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 750,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06175273",
+          "briefTitle": "Pediatric Oncology Nutrition Intervention Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pediatric Cancer", "Nutrition Related Cancer", "Nutrition Aspect of Cancer", "Muscle Loss", "Malnutrition, Child"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06701331",
+          "briefTitle": "Safety and Efficacy of Upadacitinib in Combination With Topical Corticosteroids in Children From 2 to Less Than 12 Years of Age in Japan With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04765033",
+          "briefTitle": "Trial on The Efficacy of Hypertonic Saline on Non-CF CSLD."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiectasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05754840",
+          "briefTitle": "CANnabinoids in Pediatric ONCology"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Childhood Cancer", "Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06194162",
+          "briefTitle": "Weighted Blankets for Sleep Disturbance Among Children With ADHD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Attention-deficit Hyperactivity", "Attention Deficit Hyperactivity Disorder", "Neurodevelopmental Disorders", "Sleep Disturbance", "Attention Deficit Disorder", "Hyperkinetic Conduct Disorder", "Attention-Deficit Hyperactivity Disorder, Unspecified Type"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 340,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04351698",
+          "briefTitle": "SMILES: Study of Montelukast in Sickle Cell Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anemia, Sickle Cell", "Sleep-Disordered Breathing"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00353873",
+          "briefTitle": "Seretide Versus Flixotide In Asthmatic Children Not Controlled By Inhaled Corticosteroids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-11-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2006-10-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 506,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03394924",
+          "briefTitle": "A Study to Assess the Safety, Tolerability, Pharmacokinetics and Efficacy of EDP-305 in Subjects With Primary Biliary Cholangitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Primary Biliary Cholangitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01739231",
+          "briefTitle": "Live Attenuated ETEC Vaccine ACE527 With and Without dmLT Adjuvant in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diarrhea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 81,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05812716",
+          "briefTitle": "\"resiLIR Healthcare Professionals\": A Psychological Online Intervention to Enhance Resilience in Healthcare Professionals"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Resilience"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 224,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02670915",
+          "briefTitle": "Efficacy and Safety of Faster-acting Insulin Aspart Compared to NovoRapid® Both in Combination With Insulin Degludec in Children and Adolescents With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 834,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00867932",
+          "briefTitle": "Eculizumab Pharmacokinetics/Pharmacodynamics Study in Pediatric/Adolescent Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-05-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemoglobinuria, Paroxysmal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06311682",
+          "briefTitle": "A Trial to Evaluate the Efficacy and Safety of Tralokinumab in Combination With Topical Corticosteroids in Children and Infants With Moderate-to-severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 195,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06268964",
+          "briefTitle": "Exploring Treatments for Children's Abdominal Pain: Comparing Trimebutine and Probiotics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Functional Abdominal Pain Syndrome", "Functional Gastrointestinal Disorders", "Irritable Bowel Syndrome Variant of Childhood"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06541886",
+          "briefTitle": "Adapted CBT-I for Adolescents With Insomnia : The DREAM-IT Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Insomnia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01849016",
+          "briefTitle": "N-Acetylcysteine in Patients With Sickle Cell Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sickle Cell Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04252586",
+          "briefTitle": "A Long-term Safety Study of Cannabidiol Oral Solution (GWP42003-P, CBD-OS) in Patients With Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rett Syndrome", "RTT"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06924827",
+          "briefTitle": "A Study to Investigate the Transition of Children From 'Artisanal\" Cannabidiol (CBD) to Epidiolex"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dravet Syndrome (DS)", "Lennox-Gastaut Syndrome (LGS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06169527",
+          "briefTitle": "A Long-term Data Collection Study of Participants in France Aged 6 Years Old or More With Atopic Dermatitis Receiving Dupilumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 303,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06911788",
+          "briefTitle": "A Study to Learn How a Tablet Compared With an IV Infusion of the Study Medicine Called Vepdegestrant is Taken up Into the Blood in Healthy Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Participants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00474045",
+          "briefTitle": "Efficacy and Safety of Insulin Detemir Versus Neutral Protamine Hagedorn (NPH) Insulin in Pregnant Women With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05"
+          },
+          "completionDateStruct": {
+            "date": "2010-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 470,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00675584",
+          "briefTitle": "CARE Network Maintenance Versus Intermittent Inhaled Steroids in Wheezing Toddlers (MIST)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08"
+          },
+          "completionDateStruct": {
+            "date": "2010-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 278,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Months",
+          "maximumAge": "53 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04048785",
+          "briefTitle": "Behavioral Sleep Intervention and Infant Sleep and Social-emotional Development"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant Sleep Problem"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "5 Months",
+          "maximumAge": "18 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03633058",
+          "briefTitle": "A Study to Evaluate Ketamine for the Treatment of Rett Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rett Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01421069",
+          "briefTitle": "Extension Study Evaluating Etanercept in 3 Subtypes of Childhood Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopahtic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 109,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02934191",
+          "briefTitle": "Celecoxib After Tonsillectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tonsillectomy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 172,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02930824",
+          "briefTitle": "Genotype-supported Versus Conventional Proton Pump Inhibitor Dosing"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastroesophageal Reflux Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 185,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05395546",
+          "briefTitle": "Digital Cognitive Behavioral Therapy (dCBT-I) for Maternal Insomnia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Digital Cognitive Behavioral Therapy for Insomnia (dCBT-I)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01565707",
+          "briefTitle": "A Study to Investigate How Effective and Safe Solifenacin Succinate Suspension is in Treating Children/Adolescents Aged 5 to Less Than 18 Years With Symptoms of Overactive Bladder (OAB) Compared to a Non-active Drug"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Bladder, Overactive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 189,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00079937",
+          "briefTitle": "Efficacy and Safety of Omalizumab in Children (6 - < 12 Years) With Moderate-severe, Inadequately Controlled Allergic Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-04"
+          },
+          "completionDateStruct": {
+            "date": "2008-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 628,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05477719",
+          "briefTitle": "Effect of Compression Stockings on the Number of Apneas/Hypopneas Per Hour of Sleep in Patients With Syndrome Obstructive Sleep Apnea/Hypopnea as Compared to no Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep Apnea Syndromes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03101865",
+          "briefTitle": "The Artificial Pancreas in Very Young Children With T1D - Pilot (KidsAP01)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01835431",
+          "briefTitle": "A Trial Investigating the Efficacy and Safety of Insulin Degludec/Insulin Aspart Once Daily Plus Insulin Aspart for the Remaining Meals Versus Insulin Detemir Once or Twice Daily Plus Meal Time Insulin Aspart in Children and Adolescents With Type 1 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-11-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 362,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05390918",
+          "briefTitle": "Targeting Adolescent Insomnia to Lessen Overall Risk of Suicidal Behavior"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Insomnia", "Suicidal Ideation", "Suicide, Attempted"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02638168",
+          "briefTitle": "Effects of Evening Dose of Immediate Release Methylphenidate on Sleep in Children With ADHD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Attention Deficit Disorder With Hyperactivity", "Behavioral Insomnia of Childhood"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00762073",
+          "briefTitle": "Dose-Ranging Study of Oral Viscous Budesonide in Pediatrics With Eosinophilic Esophagitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-04-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Eosinophilic Esophagitis (EoE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02632175",
+          "briefTitle": "Long-term Safety and Efficacy Study of Adalimumab in Pediatric Subjects With Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03842033",
+          "briefTitle": "Implementing a Guidelines-Based M-Health Intervention for High Risk Asthma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pediatric Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 370,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03181633",
+          "briefTitle": "A Long-Term Treatment Study of ACH-0144471 in Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05178641",
+          "briefTitle": "Overnight Pant Study for Children With Nocturnal Enuresis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nocturnal Enuresis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05367596",
+          "briefTitle": "OPTIMIzing muScle Preservation in paTients wIth Cirrhosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Compensated Cirrhosis", "Sarcopenia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04170023",
+          "briefTitle": "Study of the Oral Factor D (FD) Inhibitor ALXN2050 in PNH Patients as Monotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06285006",
+          "briefTitle": "Desmopressin Monotherapy for Monosymptomatic Nocturnal Enuresis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nocturnal Enuresis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04313998",
+          "briefTitle": "The Effect of Early-life Risk Factors on the Etiology of Diabetes in Children: a Birth Cohort"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Child Development"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05293743",
+          "briefTitle": "Novel Dynamic Foot Abduction Bar for Treatment of Clubfoot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Clubfoot"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02336906",
+          "briefTitle": "Urotherapy vs. Urotherapy With Constipation Treatment for Children With Lower Urinary Tract Dysfunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diurnal Enuresis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00163293",
+          "briefTitle": "Efficacy of Ciclesonide Inhaled Once Daily Versus Other Corticosteroids Used for Treatment of Mild Asthma in Children (4 to 11 Years) (BY9010/CA-101)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01513473",
+          "briefTitle": "A Trial Investigating the Efficacy and Safety of Insulin Degludec in Children and Adolescents With Type 1 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01573767",
+          "briefTitle": "Dose-ranging Study of Vilanterol (VI) Inhalation Powder in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 463,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02097121",
+          "briefTitle": "OnabotulinumtoxinA for the Treatment of Urinary Incontinence Due to Overactive Bladder in Pediatric Patients (12 to 17)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence", "Urinary Bladder", "Overactive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06378528",
+          "briefTitle": "Ketamine-assisted Psychotherapy for Adolescent PTSD (KAP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03372473",
+          "briefTitle": "Montelukast and Loratadine in Children With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06188026",
+          "briefTitle": "A Research Study Looking at How the Compound NNC0194-0499 Works With Birth Control Pills in Women Not Able to Bear Children."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Volunteers (Non-alcoholic Steatohepatitis)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06028113",
+          "briefTitle": "A Novel Obesity Prevention Program for High-Risk Infants in Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Obesity, Childhood", "Weight Gain", "Weight Gain Trajectory"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02948959",
+          "briefTitle": "Evaluation of Dupilumab in Children With Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 408,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00509028",
+          "briefTitle": "Safety and Efficacy Study of Budesonide (Pulmicort®) Turbuhaler® in Japanese Children With Bronchial Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-12"
+          },
+          "completionDateStruct": {
+            "date": "2008-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 241,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04313192",
+          "briefTitle": "TENS Treatment for Bedwetting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nocturnal Enuresis", "Bed Wetting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04584034",
+          "briefTitle": "Bronchodilators for Wheeze in Young Children Presenting to Primary Care: a Randomised, Placebo-controlled, Multicentre, Parallel Group Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Wheezing"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "24 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05219565",
+          "briefTitle": "Evaluating ATSBs for Malaria Reduction in Kenya"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2962,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02592434",
+          "briefTitle": "Efficacy Study Of Tofacitinib In Pediatric JIA Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopathic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 225,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01042145",
+          "briefTitle": "Community Care for Croup (RCT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Croup"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07195006",
+          "briefTitle": "Early Life Malnutrition, Environmental Enteric Dysfunction and Microbiome Trajectories"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malnutrition Pregnancy", "Malnutrition in Children", "Malnutrition (Calorie)", "Environmental Enteric Dysfunction", "Gut Dysbiosis", "Gut Permeability, Gut Inflammation", "Diarrhea Infectious", "Maternal Stress", "Child Mental Health", "Natural Killer Cell Mediated Immunity", "Mycotoxin Biomonitoring", "Environmental Exposures", "Cell-Mediated Immune Deficiency"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05347771",
+          "briefTitle": "Prevention of Asthma Exacerbations Using Dupilumab in Urban Children and Adolescents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04624230",
+          "briefTitle": "Evaluation of Oral Tofacitinib in Children Aged 2 to 17 Years Old Suffering From Moderate to Severe Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-05-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06713135",
+          "briefTitle": "A Study on Safety and Effectiveness of Long-term Treatment With Vamorolone in Boys With Duchenne Muscular Dystrophy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Duchenne Muscular Dystrophy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00315744",
+          "briefTitle": "Viapaed Study In Children And Adolescents With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-04-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 285,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06315465",
+          "briefTitle": "Efficacy of MAD as add-on Therapy in Comparison With Standard of Care in Children With ASD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Modified Atkins Diet", "Autism Spectrum Disorder", "Standard of Care"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01852058",
+          "briefTitle": "A Long-Term Extension Study of OnabotulinumtoxinA (BOTOX®) for Urinary Incontinence Due to Neurogenic Detrusor Overactivity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01236755",
+          "briefTitle": "Discontinuation of Lens Wear in New Ortho-k Children (DOEE2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myopia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06514573",
+          "briefTitle": "Butyrate Supplementation in Children With Autism Spectrum Disorder (ASD) and Functional Gastrointestinal Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Autism Spectrum Disorder (ASD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04280887",
+          "briefTitle": "MyPad - Intelligent Bladder Pre-void Alerting System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Enuresis, Nocturnal", "Enuresis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06049797",
+          "briefTitle": "A Study Following Women in Menopause Treated With a Non-hormonal Therapy for Hot Flashes and Night Sweats"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hot Flashes"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 998,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04394351",
+          "briefTitle": "Study to Investigate the Efficacy and Safety of Dupilumab in Pediatric Patients With Active Eosinophilic Esophagitis (EoE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Eosinophilic Esophagitis (EoE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06321354",
+          "briefTitle": "Pre-emptive Infiltration of the Scalp with Diprospan Plus Ropivacaine for Pain After Craniotomy in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Postoperative Children"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04293328",
+          "briefTitle": "Monthly Replacement Orthokeratology for Myopia Control in Young Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myopic Progression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01500551",
+          "briefTitle": "Long-Term Safety Study Of Tofacitinib In Patients With Juvenile Idiopathic Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopathic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 302,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01873066",
+          "briefTitle": "Closing the Loop 24/7 in Adolescents With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetes Mellitus, Type 1", "Glucose Metabolism Disorders", "Endocrine System Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04033367",
+          "briefTitle": "SAR231893-LPS15497- \"Dupilumab Effect on Sleep in AD Patients\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01993251",
+          "briefTitle": "Does Melatonin Restore Sleep Architecture in Autistic Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05843175",
+          "briefTitle": "Maternal ExeRcIse Timing to Optimise Postprandial Glucose in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy in Diabetic", "Type 1 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02871089",
+          "briefTitle": "Closed Loop From Onset in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Type 1 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03636165",
+          "briefTitle": "Scalp Infiltration With Methylprednisolone Plus Ropivacaine for Post-Craniotomy Pain in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain, Postoperative", "Post-Craniotomy Headache"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04310930",
+          "briefTitle": "Finding the Optimal Regimen for Mycobacterium Abscessus Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Disease Due to Mycobacteria (Diagnosis)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03248128",
+          "briefTitle": "Safety and Efficacy Study of Fluticasone Furoate/Vilanterol (FF/VI) Fixed Dose Combination (FDC) Compared to FF Alone in Subjects With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 906,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02571491",
+          "briefTitle": "Comparison of the Efficacy of Ketamine in Pediatric Patients With Idiopathic Scoliosis After Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Progressive Infantile Idiopathic Scoliosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06488274",
+          "briefTitle": "Evolution of Functional Gastrointestinal Disorders in Infants Fed With a New Infant Formula"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Functional Gastrointestinal Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 139,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "4 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05833958",
+          "briefTitle": "Polypill Versus Metformin in New Onset Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07018180",
+          "briefTitle": "Interventional Clinical Trial Evaluating COVER PATCH CAPTEUR PROTECT Support Solutions for Continuous Glucose Monitoring Sensors in Patients With Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 194,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01778348",
+          "briefTitle": "Closing the Loop in Children and Adolescents With Type 1 Diabetes in the Home Setting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Diabetes Mellitus, Type 1", "Glucose Metabolism Disorders", "Endocrine System Diseases", "Autoimmune Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03921411",
+          "briefTitle": "A Pharmacokinetics and Safety Study of Nemolizumab in Adolescent Participants With Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03472885",
+          "briefTitle": "Study of Danicopan in Participants With Paroxysmal Nocturnal Hemoglobinuria With Inadequate Response to Eculizumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05303077",
+          "briefTitle": "Study of the Effects of a New Infant Formula Supplemented With a Probiotic Over the Corporal Composition of Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "15 Days",
+          "maximumAge": "25 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03260205",
+          "briefTitle": "Safety and Efficacy Study in Preschool Children Aged 4-5 Years With Attention-deficit/Hyperactivity Disorder (ADHD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder (ADHD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 199,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00415727",
+          "briefTitle": "Prevention Of Morbidity In Sickle Cell Disease Pilot Phase"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-11"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Sickle Cell Anaemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01795794",
+          "briefTitle": "Evaluation of the Efficacy in Decreasing Iron Absorption in Patients With Congenital Dyserythropoietic Anemia Type I by Treatment With LOSEC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "CDA Type I"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05636397",
+          "briefTitle": "Safety and PK-PD Study of Oral L-CIT in Preterm Infants with BPD±PH and NEC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["BPD - Bronchopulmonary Dysplasia", "Pulmonary Hypertension", "NEC"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06812988",
+          "briefTitle": "Treatment of Type 1 Diabetes With Anti-OX40L Bispecific With Anti-TNF Activity In a Single Nanobody® Molecule"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02466386",
+          "briefTitle": "Safety and Tolerability Study of SPD489 in Preschool Children Aged 4-5 Years, Diagnosed With Attention-deficit/Hyperactivity Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder (ADHD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 113,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05689983",
+          "briefTitle": "Symptom-driven ICS/LABA Therapy for Adolescent Patients With Asthma Non-adherent to Daily Maintenance Inhalers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma in Children", "Nonadherence, Medication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02900495",
+          "briefTitle": "Transcutaneous Electric Nerve Stimulation (TENS) for the Treatment of Nocturnal Enuresis in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nocturnal Enuresis", "Bedwetting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 147,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05296733",
+          "briefTitle": "A Study to (1) Compare How BI 456906 is Taken up in the Body of Healthy People and People With Liver Problems and (2) Find Out How People With Overweight and Obesity, With and Without Liver Problems, Tolerate Different Doses of BI 456906"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Healthy", "Liver Diseases", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06737016",
+          "briefTitle": "Efficacy and Safety of Tamsulosin for Children with Posterior Urethral Valve."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posterior Urethral Valve"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01874847",
+          "briefTitle": "PLAY GAME: Post-concussion Syndrome in Youth - Assessing the GABAergic Effects of Melatonin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2019-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post-concussion Syndrome", "Post-concussive Symptoms", "Traumatic Brain Injury", "Concussion", "Children"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 99,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06794047",
+          "briefTitle": "The Effect of VitC on IVF Outcome of DOR Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diminished Ovarian Reserve", "IVF Outcomes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03325881",
+          "briefTitle": "Efficacy and Safety of SHP465 at 6.25 mg in the Treatment of Attention-Deficit/Hyperactivity Disorder (ADHD) in Children Aged 6-12 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Attention Deficit Hyperactivity Disorder (ADHD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 89,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04040192",
+          "briefTitle": "A Study to Evaluate Long-Term Maintenance Treatment With Once Daily Crisaborole Ointment 2% in Pediatric and Adult Participants With Mild-to-Moderate Atopic Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 620,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months"
+        }
+      }
+    ]
+  }
+}

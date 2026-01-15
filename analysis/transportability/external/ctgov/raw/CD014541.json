@@ -1,0 +1,5174 @@
+{
+  "query": "days term short fewer",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07204834",
+          "briefTitle": "A Physical Activity Program for People With Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02624388",
+          "briefTitle": "Study of Genistein in Pediatric Oncology Patients (UVA-Gen001)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2021-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lymphoma", "Childhood Lymphoma", "Solid Tumor", "Childhood Solid Tumor", "Neuroblastoma", "Ewing Sarcoma", "Hodgkin Lymphoma", "Non-Hodgkin Lymphoma", "Rhabdomyosarcoma", "Soft Tissue Sarcoma", "Medulloblastoma", "Germ Cell Tumor", "Wilms Tumor", "Brain Neoplasms", "Medulloblastoma, Childhood", "Neuroectodermal Tumors, Primitive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07022834",
+          "briefTitle": "Real-world Study of Darafenib or Trametinib and Clofarabine for High-risk/Recurrent/Refractory Langerhans Cell Histiocytosis in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Langerhans Cell Histiocytosis (LCH)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05046756",
+          "briefTitle": "Postoperative Prognosis Management Service Based mHealth for Colon Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colon Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01924442",
+          "briefTitle": "ROOBY Trial Follow-up Extension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["All Cause Mortality", "MACE"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2203,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05209464",
+          "briefTitle": "A Mobile Tai Chi Platform for Fall Prevention and Cognition in Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aging", "Fall"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04607902",
+          "briefTitle": "Harnessing Network Science to Personalize Scalable Interventions for Adolescent Depression (TRACK to TREAT Phase 2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 216,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03375749",
+          "briefTitle": "StandUP UBC: Reducing Workplace Sitting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sedentary Lifestyle"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04115748",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of Filgotinib in Participants With Active Psoriatic Arthritis Who Are Naive to Biologic DMARD Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Psoriatic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 67,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02345161",
+          "briefTitle": "A Comparison Study Between the Fixed Dose Triple Combination of Fluticasone Furoate/ Umeclidinium/ Vilanterol Trifenatate (FF/UMEC/VI) With Budesonide/Formoterol in Subjects With Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-23"
+          },
+          "completionDateStruct": {
+            "date": "2016-04-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Disease, Chronic Obstructive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1811,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01878617",
+          "briefTitle": "A Clinical and Molecular Risk-Directed Therapy for Newly Diagnosed Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 660,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "39 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01959113",
+          "briefTitle": "Validation of the Short-term Antimicrobial Action of Transplanted Bacteria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atopic Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06644144",
+          "briefTitle": "P4O2 ILD Extension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Interstitial Lung Disease", "Pulmonary Fibrosis", "Interstitial Lung Fibrosis", "IPF", "Pulmonary Fibrosis, Idiopathic", "Pulmonary Fibrosis Idiopathic Familial", "Chronic Hypersensitivity Pneumonitis", "Unclassifiable ILD", "Idiopathic NSIP", "CTD-ILD"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05956392",
+          "briefTitle": "Personalising Children's Screen Use Reduction for Better Sleep, Mental, and Brain Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Screen-use Reduction + Sleep Extension", "Free-living"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04737629",
+          "briefTitle": "Understanding the Effects of Water-related Appetite Expectancies on Caloric Intake in College Students"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Appetitive Behavior", "Weight Loss", "Water", "Energy Intake"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02422394",
+          "briefTitle": "Eltrombopag for Inherited Thrombocytopenias"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Inherited Platelet Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06472869",
+          "briefTitle": "Assessing E-Cigarettes for Tobacco Harm Reduction in the Context of Lung Cancer Screening"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Electronic Cigarette Use", "Smoking, Cigarette", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05082519",
+          "briefTitle": "Caloric Restriction and Activity to Reduce Chemoresistance in B-ALL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["B-cell Acute Lymphoblastic Leukemia", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05980286",
+          "briefTitle": "Impact of Music Improvisation Training on Cognitive Function in Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aging", "Cognitive Aging", "Cognitive Impairment", "Cognitive Training", "Cognitively Normal Older Adults", "Mild Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07221318",
+          "briefTitle": "Evaluating a Mat-Based Biometric Vibration System for Sleep and Daily Recovery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Adult Male and Female Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06917287",
+          "briefTitle": "A Clinical Study to Evaluate the Efficacy of Native CT-II® in Individuals With Knee Osteoarthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Knee Osteoarthritis (OA)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01090050",
+          "briefTitle": "Treximet in the Treatment of Chronic Migraine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Migraine"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01161537",
+          "briefTitle": "Study of the Effect of VX-770 on Hyperpolarized Helium-3 Magnetic Resonance Imaging in Subjects With Cystic Fibrosis and the G551D Mutation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03949387",
+          "briefTitle": "Functional Electrical Stimulation Cycling for Managing Mobility Disability in People with Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06224569",
+          "briefTitle": "Understanding the Effects of Daily Tea Consumption on Attention, Sleep, and Mood, in Healthy Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "The Focus of the Study is Healthy Volunteers"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06462131",
+          "briefTitle": "Culturally Adapted Group Cognitive Behavior Therapy (CaGCBT-SUDs) for Substance Use Disorders and Their Caregivers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Treatment", "Waitlist"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00137501",
+          "briefTitle": "Two Dose Regimens of Nifedipine for the Management of Preterm Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "17 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06614634",
+          "briefTitle": "Comparison of Conventional and Tele-cardiac Rehabilitation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Cardiac Rehabilitation", "Telecardiac Rehabilitation", "Aerobic Exercise"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02907463",
+          "briefTitle": "EDWARDS INTUITY Elite Valve System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aortic Valve Disease", "Aortic Stenosis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07252544",
+          "briefTitle": "Isosorbide Mononitrate and Butylphthalide to Reduce the Risk of Disability in Patients With Acute Lacunar Stroke (IMPACT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-02-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke, Lacunar", "Stroke, Acute Ischemic", "Cerebral Small Vessel Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3156,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02482233",
+          "briefTitle": "The END Perioperative Smoking Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Nicotine Addiction", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02834416",
+          "briefTitle": "ADT Exercise Trial and Economic Analysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04589988",
+          "briefTitle": "Aging With Long Term Physical Disabilities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Physical Disability"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07236229",
+          "briefTitle": "The Effects of Immersive Virtual Reality in Patients With Grade 1-2 Adhesive Capsulitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-28",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-27",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adhesive Capsulitis", "Virtual Reality", "Sleep", "Pain", "Cognition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06755437",
+          "briefTitle": "Self Treatment With an Electronic Device for Cognitive Rehabilitation in Patients With Subacute Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Cognitive Deficits", "Computerized Rehabilitation", "Computerized Device"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06765941",
+          "briefTitle": "PTeye vs Surgeons Eyes in Intraoperative Identification and Functional Preservation of Parathyroid Glands During Thyroid Surgery: A Parallel Randomized Controlled Clinical Trial."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thyroid Surgery", "Parathyroid Dysfunction", "Hypoparathyroidism Post-surgical"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06611462",
+          "briefTitle": "STRONG for Surgery & Strong for Life - Intensive Prehabilitation for Risk Reduction in Ventral Hernia Repair"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ventral Hernia", "Surgery", "Risk Reduction", "Lifestyle", "Postoperative Complications", "Prehabilitation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07030270",
+          "briefTitle": "Comparing Surfactant Administration Through Supraglottic Airway and Thin Catheter for Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Distress Syndrome (RDS)", "Surfactant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Hours",
+          "maximumAge": "72 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01646086",
+          "briefTitle": "Weight Tracking and Weight Loss Outcomes: Establishing the Standard of Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Weight Loss"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 339,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06093477",
+          "briefTitle": "Studying Melatonin and Recovery in Teens"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Juvenile; Scoliosis", "Scoliosis Idiopathic", "Scoliosis; Adolescence", "Scoliosis;Congenital", "Kyphosis", "Spondylolisthesis", "Pectus Surgery", "Hip Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06895863",
+          "briefTitle": "COpenhagen Magnetic Personalized Accelerated Brain Circuit Therapy for Treatment Resistant Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Treatment Resistant Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "95 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03335631",
+          "briefTitle": "Preference-Based Exercise RCT for Men With PC on ADT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04444648",
+          "briefTitle": "Fluctuation of Rhymicity to Predict Recovery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01739088",
+          "briefTitle": "Pediatric Remote Ischemic Pre-conditioning Prior to Complex Cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congenital Heart Disease", "Ischemia-reperfusion Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05354271",
+          "briefTitle": "High-intensity Interval Training in Patients With Atrial Fibrillation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-27",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04402021",
+          "briefTitle": "Exercise and Insomnia Study: The Effects of 1 Week of Exercise Training on Insomnia Severity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Insomnia Chronic", "Insomnia, Primary"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01066728",
+          "briefTitle": "CO2 Inhalation as a New Treatment Modality for Apnea of Prematurity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-08"
+          },
+          "completionDateStruct": {
+            "date": "2007-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Apnea of Prematurity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "27 Weeks",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07247370",
+          "briefTitle": "Ketamine-Enhanced Therapy for Individuals With Alcohol Use Disorder and Depression: A Pilot Study (KET-DUAL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alcohol Use Disorder (AUD)", "Major Depressive Disorder (MDD)", "Comorbidities and Coexisting Conditions"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06052865",
+          "briefTitle": "Serial Brain MRI in Hospitalized Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Birth Complication"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Weeks",
+          "maximumAge": "33 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06690008",
+          "briefTitle": "Fluoride Caries-control Effectiveness/Feasibility in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Caries,Dental"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 814,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05189795",
+          "briefTitle": "The Construction of Physical ACtivity Enhancement Scheme (PACES) in Hemodialysis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Dialysis", "Exercise"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07001111",
+          "briefTitle": "Investigation of the Effectiveness of Kinesiological Taping in Cubital Tunnel Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cubital Tunnel Syndrome", "Kinesio Taping", "Ulnar Neuropathies"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07003607",
+          "briefTitle": "Wearable Device and Self-Regulation Strategies to Promote Physical Activity Among Children With Cancer: A Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07255807",
+          "briefTitle": "Defining the Human Insulin Resistance Molecular Network; SIGNATURE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2038-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolic Health", "Insulin Sensitivity/Resistance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05183867",
+          "briefTitle": "Behavior, Biology and Well-Being Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Psychological Distress"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1157,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05249062",
+          "briefTitle": "SHAPES: Supporting Multimorbid Older People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Diabetes", "Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05718765",
+          "briefTitle": "The Effect of Physical ACtivity Enhancement Scheme (PACES) in Hemodialysis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Failure, Chronic", "Exercise", "Physical Activity", "Renal Dialysis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03480841",
+          "briefTitle": "Using the LENA System in Early Intervention - b"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03925844",
+          "briefTitle": "Cardiovascular Risk in People Older Than 55 Years and Cognitive Performance at 5 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Risk Factor, Cardiovascular", "Cognitive Decline"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 965,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06639945",
+          "briefTitle": "Clinical Trail of Transcranial MR-guided Focused Ultrasound in the Treatment of Motor Symptoms in Patients with Parkinson' Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-28",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson Disease, Idiopathic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05337722",
+          "briefTitle": "App for Pregnancy Smoking Cessation With Peer Support"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Tobacco Smoking"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 790,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01874964",
+          "briefTitle": "Trial of Methadone Maintenance Versus Methadone Detox in Jail"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Opioid-Related Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07082608",
+          "briefTitle": "Effect of Weight Loss From ESG Plus Lifestyle Changes vs. Lifestyle Changes Alone in Sleep Apnea Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-05-19",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "OSA - Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06871982",
+          "briefTitle": "Norms Re-education to Promote Engagement in Parent-based Interventions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Underage Drinking"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2040,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "17 Years",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01001832",
+          "briefTitle": "Efficacy, Pharmacokinetics, Safety, and Immunogenicity Study of Abatacept Administered Subcutaneously to Treat Rheumatoid Arthritis in Japanese Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-12"
+          },
+          "completionDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatoid Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04634903",
+          "briefTitle": "Testing Scalable, Single-Session Interventions for Adolescent Depression in the Context of COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2452,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03164642",
+          "briefTitle": "Using the LENA System in Early Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2018-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01796067",
+          "briefTitle": "Families Improving Together (FIT) for Weight Loss"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obese"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 241,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07005817",
+          "briefTitle": "Keep Social Study for Young Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Social Isolation", "Loneliness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1900,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "29 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01772823",
+          "briefTitle": "An Open Label Demonstration Project and Phase II Safety Study of Pre-Exposure Prophylaxis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04644250",
+          "briefTitle": "Combination of Toripalimab and Neoadjuvant Chemoradiotherapy for Locally Advanced Esophageal Squamous Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophageal Squamous Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02295540",
+          "briefTitle": "Hypofractionated Radiation Therapy Followed by Surgery in Treating Patients With Advanced Squamous Cell Carcinoma of the Oral Cavity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2020-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage III Squamous Cell Carcinoma of the Lip and Oral Cavity", "Stage III Verrucous Carcinoma of the Oral Cavity", "Stage IVA Squamous Cell Carcinoma of the Lip and Oral Cavity", "Stage IVA Verrucous Carcinoma of the Oral Cavity", "Stage IVB Squamous Cell Carcinoma of the Lip and Oral Cavity", "Stage IVB Verrucous Carcinoma of the Oral Cavity", "Tongue Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03919760",
+          "briefTitle": "Early Psychosis Intervention - Spreading Evidence-based Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["First Episode Psychosis", "Schizophrenia, Childhood", "Psychosis", "Schizophrenia", "Schizoaffective Disorder", "Schizophreniform Disorders", "Bipolar I Disorder", "Schizophrenia Spectrum and Other Psychotic Disorders", "Affective Disorders, Psychotic", "Psychotic Disorder Due to Unspecified Substance"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07012746",
+          "briefTitle": "A Clinical Trial of the Safety and Efficacy of TJ0113 Capsules in the Treatment of Patients With Age-related Hearing Loss"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Age Related Hearing Loss", "Deafness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05137925",
+          "briefTitle": "Mindful Moms: Mechanisms of Mindfulness-based Cognitive Therapy During Pregnancy and Postpartum"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Psychological Distress", "Pregnancy Related", "Postpartum Blues", "Postpartum Depression", "Postpartum Anxiety", "Postpartum Sadness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04683003",
+          "briefTitle": "A Study of TAK-755 in Participants With Congenital Thrombotic Thrombocytopenic Purpura"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Thrombotic Thrombocytopenic Purpura (TTP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 77,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02610166",
+          "briefTitle": "Jointly Managing JIA Online: An Internet-based Psycho-educational Game for Children With JIA and Their Parents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Juvenile Idiopathic Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01308567",
+          "briefTitle": "Cabazitaxel Versus Docetaxel Both With Prednisone in Patients With Metastatic Castration Resistant Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1168,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03727438",
+          "briefTitle": "Tele-Self CBTI Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Insomnia Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03346395",
+          "briefTitle": "A Problem Solving Based Intervention for Facilitating Return-to-work Among People Suffering From Common Mental Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Anxiety Disorders", "Adjustment Disorders", "Common Mental Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 197,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "59 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02046837",
+          "briefTitle": "An Exercise Trial and Economic Analysis in Men With Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03890029",
+          "briefTitle": "G.R.I.T. - Goal-directed Resilience Intervention Training"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Post-Traumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03896763",
+          "briefTitle": "PROSpect: Prone and Oscillation Pediatric Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Weeks",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06622629",
+          "briefTitle": "Nature Based Therapy With Mindful Walks in Urban Coastal Setting - Barcelona (Spain)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Participants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06341426",
+          "briefTitle": "Psilocybin-Assisted Psychotherapy for Treatment-Resistant Depression: Comparing One Versus Two Doses of Psilocybin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Major Depressive Disorder", "Depression", "Treatment-Resistant Depression", "Mood Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 92,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06873009",
+          "briefTitle": "Can Cognitive Behavioural Therapy Help Incarcerated Men Quit Smoking? Efficacy and Predictors of Treatment Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tobacco Use", "Smoking Cessation", "Cognitive Behavioral Therapy", "Prisoners"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 202,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04907591",
+          "briefTitle": "Postoperative Prognosis Management Service Based mHealth for Gastric Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastric Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07150884",
+          "briefTitle": "Lactase-Assisted Control Trial On Weight GAin in INfants."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Premature - Weight 1000g-2499g or Gestation of 28-37weeks", "Healthy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "4 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00609986",
+          "briefTitle": "IV Insulin Protocol in Diabetes and Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-07"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplantation", "Diabetes", "Hyperglycemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05537220",
+          "briefTitle": "Oral N-acetylcysteine for Retinitis Pigmentosa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Retinitis Pigmentosa"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 483,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05388708",
+          "briefTitle": "ARDS in Children and ECMO Initiation Strategies Impact on Neurodevelopment (ASCEND)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Respiratory Distress Syndrome", "Extracorporeal Membrane Oxygenation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 550,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Days",
+          "maximumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05311085",
+          "briefTitle": "Cytisine and E-cigarettes With Supportive Text-messaging for Smoking Cessation (Cess@Tion)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 807,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01616784",
+          "briefTitle": "The REPOSE (Relative Effectiveness of Pumps Over MDI and Structured Education) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 267,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06881043",
+          "briefTitle": "The Safety and Efficacy of Robotic Assisted Surgery Using Vessel Sealer Extend in Locally Advanced Gastric Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Locally Advanced Gastric Cancer", "Gastric Adenocarcinoma"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06368817",
+          "briefTitle": "A Study of Lower Radiotherapy Dose to Treat Children With CNS Germinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2033-11-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Basal Ganglia Germinoma", "Central Nervous System Germinoma", "Diabetes Insipidus", "Pineal Region Germinoma", "Suprasellar Germinoma", "Thalamic Germinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "29 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04936503",
+          "briefTitle": "Support for the Resumption of Training of High-level Athletes Post-epidemic COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Myocarditis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 984,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03760601",
+          "briefTitle": "A Brief Cognitive Intervention After Intrusive Memories of Trauma With Young Refugees: An Extension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intrusive Memories of Trauma, Symptom of Post Traumatic Stress Disorder (Criterion B1)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05365347",
+          "briefTitle": "Piloting of an Intervention to Reduce Problematic Alcohol Use in Early Phase Psychosis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Psychosis", "Alcohol Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01174290",
+          "briefTitle": "Preventing ICU Subsyndromal Delirium Conversion to Delirium With Haloperidol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Subsyndromal Delirium"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "84 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00288886",
+          "briefTitle": "Reinforcement of Abstinence and Continuing Care in Substance Abuse Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2011-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Substance Use Disorders", "Alcohol Abuse", "Alcoholism", "Substance Dependence", "Substance Abuse"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05233475",
+          "briefTitle": "Get Going After concussIonN Lite"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Concussion", "Mild Traumatic Brain Injury", "Commotio Cerebri"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00845026",
+          "briefTitle": "A Safety Study Comparing LY2140023 to Atypical Antipsychotic Standard Treatment in Schizophrenic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 261,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06030362",
+          "briefTitle": "Probiotic Intervention Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Food Addiction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07105787",
+          "briefTitle": "Steps Against the Burden of Parkinson's Disease - TelAviv/Bologna"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Parkinson Disease", "Falls"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00694161",
+          "briefTitle": "The Effects Of Fx-1006A On Transthyretin Stabilization And Clinical Outcome Measures In Patients With V122I Or Wild-Type TTR Amyloid Cardiomyopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08"
+          },
+          "completionDateStruct": {
+            "date": "2010-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiomyopathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07290244",
+          "briefTitle": "Evaluating ER-100 for Safety in People With Glaucoma or Non-Arteritic Anterior Ischemic Optic Neuropathy (Optic Nerve Conditions)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2032-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Open Angle Glaucoma (OAG)", "NAION( Non-arteritic Anterior Ischemic Optic Neuropathy)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00366080",
+          "briefTitle": "Effectiveness Of The Drug GSK189254 In Treating Patients With Narcolepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-11"
+          },
+          "completionDateStruct": {
+            "date": "2008-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Narcolepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03677427",
+          "briefTitle": "Comparing 5 and 15 Fractions for Whole Breast Irradiation After Breast Conserving Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 488,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06873256",
+          "briefTitle": "Evaluation of the Hospital Pathway for Frail Elderly Patients Hospitalised for Pathologies Leading to Medical Decompensation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Frail Elderly People Hospitalized"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04001803",
+          "briefTitle": "Study to Identify and Determine Best Implementation Practices for Injectable Cabotegravir+Rilpivirine in the United States (US)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 115,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01578967",
+          "briefTitle": "Induction Chemo w/ABVD Followed by Brentuximab Vedotin Consolidation in Newly Diagnosed, Non-Bulky Stage I/II Hodgkin Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hodgkin Lymphoma, Adult"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05931458",
+          "briefTitle": "AppenDectomy Vs ANti TNF-a in Inducing Clinical and EnDoscopic Remission in Left-sided Ulcerative Colitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ulcerative Colitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 94,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05716542",
+          "briefTitle": "Prehabilitation to Revolutionize Oncology: Telehealth Exercise for Cognitive Triumphs (The PROTECT Trial)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Cancer of the Breast"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04952857",
+          "briefTitle": "Short Term, High Dose Vitamin D Supplementation in Moderate to Severe COVID-19 Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Covid19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07029217",
+          "briefTitle": "A Study of Reduced Dose Radiation Therapy for People With B-Cell Lymphomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Follicular Lymphoma", "Marginal Zone Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 375,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03617185",
+          "briefTitle": "Effect of Exercise and Surgical Weight Loss on Polyneuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Polyneuropathies", "Obesity", "Bariatric Surgery Candidate"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01774448",
+          "briefTitle": "Mindfulness Research Program: Designed to Enhance Wellbeing in People Living With Dementia and Their Spouses"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03746925",
+          "briefTitle": "Comparing Short-term Outcomes After Direct Anterior and SuperPATH Hip Arthroplasty Approaches"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Arthroplasty, Replacement, Hip"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06828003",
+          "briefTitle": "Feasibility of a Remotely-Delivered Resistance Training Program for Cognitive Function in Men Living With and Beyond Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostate Cancer", "Resistance Training"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05710770",
+          "briefTitle": "Immunoadsorption in Patients With Chronic Fatigue Syndrome Including Patients With Post-COVID-19 CFS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ME/CFS", "Post-COVID ME/CFS"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04235374",
+          "briefTitle": "Implementation of Function Focused Care in Acute Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dementia", "Acute Medical Event", "Hospitalization"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 455,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00679627",
+          "briefTitle": "A Study of Galantamine Used to Treat Patients With Mild to Moderate Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2051,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06807229",
+          "briefTitle": "Core Stability vs. Traditional Physical Therapy: A Comparative Study on Alleviating Low Back Pain in Dysmenorrhea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dysmenorrhea", "Low Back Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01961687",
+          "briefTitle": "A Prospective, Multi-Center Study of Phasix™ Mesh for Ventral or Incisional Hernia Repair."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ventral Hernia", "Incisional Hernia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06281314",
+          "briefTitle": "The Efficacy of VESPA 2.0 for Cognitive Rehabilitation in Patients With Mild Cognitive Impairment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neurodegenerative Diseases", "Cognitive Decline", "Parkinson Disease Dementia", "Alzheimer Disease", "Multiple Sclerosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07039409",
+          "briefTitle": "Effectiveness of Self-administered Acupressure Intervention in Managing Constipation of Adult Psychiatric Out-patient"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Constipation", "Psychiatric Drug Induced Constipation", "Constipation Drug Induced"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00511680",
+          "briefTitle": "Beat the Blues: Treating Depression in African American Elders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-09"
+          },
+          "completionDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Stress Reduction", "Behavioral Activation Treatment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03492203",
+          "briefTitle": "Remote Cognitive Remediation for Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12"
+          },
+          "completionDateStruct": {
+            "date": "2020-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depression"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06097468",
+          "briefTitle": "Nisin in Oral Cavity Squamous Cell Carcinoma (OCSCC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oral Cavity Squamous Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07018960",
+          "briefTitle": "\"Multicenter Registry for Chest Wall Reconstruction Using Custom Dynamic Prostheses (PRODIPET)\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chest Wall Tumors", "Post-traumatic Syndrome", "Malignant Bone Tumor of Chest Wall"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05675410",
+          "briefTitle": "A Study to Compare Standard Therapy to Treat Hodgkin Lymphoma to the Use of Two Drugs, Brentuximab Vedotin and Nivolumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-04-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lugano Classification Limited Stage Hodgkin Lymphoma AJCC v8"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1875,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06552910",
+          "briefTitle": "Analyzing Anesthetic Techniques in Diabetic Foot Amputation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetic Foot", "Amputation, Surgical"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02026037",
+          "briefTitle": "Reducing PTSD in Hospitalized Burn Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Posttraumatic Stress Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02517216",
+          "briefTitle": "Parabolic Flight Induced Neuroplasticity Studied With Advanced Magnetic Resonance Imaging Methods"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02712398",
+          "briefTitle": "A Prospective Trial of a Bio-absorbable Mesh in Challenging Laparoscopic Ventral or Incisional Hernia Repair"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hernia, Ventral", "Incisional Hernia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05505045",
+          "briefTitle": "Metacognitive Strategy Training in Cancer-related Cognitive Impairment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer Female"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01934413",
+          "briefTitle": "Technology-enhanced Transitional Care for Rural Palliative Care Patients: A Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Palliative Care", "Transitional Care"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04236804",
+          "briefTitle": "VANISH for Chronic Low Back Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Low-back Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00122369",
+          "briefTitle": "Self Hypnotic Relaxation As An Adjunct To Local Anesthesia During Large Core Breast Biopsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-03"
+          },
+          "completionDateStruct": {
+            "date": "2004-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Anxiety", "Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01439269",
+          "briefTitle": "Family Nurture Intervention (FNI) in Neonatal Intensive Care Unit (NICU)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 394,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "26 Weeks",
+          "maximumAge": "34 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06927492",
+          "briefTitle": "Cognitive Sensorimotor Training With Whole Body Vibration for Cognitive Impairment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cognitive Impairment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06990256",
+          "briefTitle": "Evaluation of Urolithin A and Fisetin on Improving Sleep and Aging Biomarkers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Disorder", "Aging"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04570111",
+          "briefTitle": "MOD Diet in Gestational Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07024810",
+          "briefTitle": "Effect of Nurse-assessed Remote Ischemic Preconditioning on Improving Exercise Capacity, Endothelial Function, and Arterial Stiffness in Patients With Heart Failure With Preserved Ejection Fraction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HF - Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06315660",
+          "briefTitle": "VR Based Therapy to Treat Anxiety in Dual Diagnosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dual Diagnosis", "Psychosis", "Agoraphobia", "Social Anxiety Disorder", "Substance Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06640023",
+          "briefTitle": "The Study in Outpatient Medicine Using Nudges to Improve Sleep"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Inappropriate Prescribing"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 443,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03538756",
+          "briefTitle": "walk2Wellness: Long-term Effects of Walkasins® Wearable Sensory Prosthesis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sensory Peripheral Neuropathy", "Balance; Distorted", "Sensation Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04637802",
+          "briefTitle": "Digital Health Psychosocial Intervention for Adolescent Spine Surgery Preparation and Recovery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Juvenile; Scoliosis", "Scoliosis Idiopathic", "Scoliosis; Adolescence", "Scoliosis;Congenital", "Kyphosis", "Spondylolisthesis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 433,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06708871",
+          "briefTitle": "Thermal Ablation Versus Parathyroidectomy for Primary Hyperparathyroidism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-26",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-26",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cure Rate", "Complication Rate", "Efficacy and Safety"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 520,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07128784",
+          "briefTitle": "Aerobic Training and Cardiopulmonary Responses In Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Cardiopulmonary Exercise Test", "Aerobic Capacity", "Aerobic Exercise"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02674490",
+          "briefTitle": "Stimulating Language in Subacute StrokE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06853314",
+          "briefTitle": "An Effectiveness Trial of the PrEP for WINGS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Alcohol Use Disorder", "Violence, Gender-Based"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01154387",
+          "briefTitle": "Evaluating Safety and Efficacy of TOL101 Induction Versus Anti-Thymocyte Globulin to Prevent Kidney Transplant Rejection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2013-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Renal Disease", "Renal Transplant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05884658",
+          "briefTitle": "Hysterectomy by Transvaginal Natural Orifice Transluminal Endoscopic Surgery Versus or Laparoscopic Hysterectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hysterectomy, Vaginal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01419535",
+          "briefTitle": "Mifepristone Effects on Glucose Intolerance in Obese/Overweight Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-11-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Endocrine Disease", "Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03593356",
+          "briefTitle": "Baby's First Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Development", "Brain Development", "Household and Family Processes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07218757",
+          "briefTitle": "Phase 1 Pilot of a Pragmatic Trial of EAET for Veterans With Chronic Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Musculoskeletal Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04400630",
+          "briefTitle": "Functionality and Neurocognition in Patients With Bipolar Disorder After a Physical-exercise Program (FINEXT-BD Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bipolar Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07115836",
+          "briefTitle": "Standard Versus \"Single Loop\" Bypass After Parietal Gastrectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity, Morbid", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 63,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03902405",
+          "briefTitle": "Computerized Exercise to Alter Stimulant Approach Responses"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Amphetamine-Related Disorders", "Cocaine-Related Disorders", "Substance-Related Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03856229",
+          "briefTitle": "Short-term Steroid Therapy in Patients With P. Jirovecii Pneumonia Due to HIV / AIDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pneumocystis", "HIV/AIDS", "Steroid"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 196,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07058285",
+          "briefTitle": "Steps Against the Burden of Parkinson's Disease - RCT Kiel"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Parkinson Disease", "Fall"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02538913",
+          "briefTitle": "Exercise Training for Rectal Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01251614",
+          "briefTitle": "A Double Blind Study in Pediatric Subjects With Chronic Plaque Psoriasis, Studying Adalimumab vs. Methotrexate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Plaque Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01958476",
+          "briefTitle": "Improving Outcomes in Neonatal Abstinence Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Abstinence Syndrome", "Neonatal Opioid Withdrawal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 117,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      }
+    ]
+  }
+}

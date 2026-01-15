@@ -1,0 +1,1300 @@
+{
+  "query": "mmhg abpm mean adverse",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07191899",
+          "briefTitle": "To Evaluate the Efficacy and Safety of KN060 in Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01070030",
+          "briefTitle": "Efficacy and Safety of Combination Therapy of Aliskiren/Amlodipine or Aliskiren/Amlodipine/Hydrochlorothiazide in Patients With Stage II Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stage II Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05179343",
+          "briefTitle": "SCRATCH-HTN Study: Evaluating Autonomic Neuromodulation Using Trans-cutaneous Vagal Stimulation in Hypertensive Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Uncontrolled Hypertension", "High Blood Pressure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 63,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01570686",
+          "briefTitle": "8-week Randomized, Open-label Study to Evaluate Food Effect on Efficacy and Safety of Oral Aliskiren 300 mg in Patients With Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 589,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00758524",
+          "briefTitle": "A Study to Evaluate Efficacy and Safety of LCI699 in Participants With Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-09-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-07-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 628,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01150357",
+          "briefTitle": "Safety and Efficacy of Aliskiren in Pediatric Hypertensive Patients 6-17 Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 267,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07061054",
+          "briefTitle": "Netrod-Pilot Study of Renal Denervation With NetrodTM Sixelectrode Radiofrequency RDN System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Uncontrolled Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06868069",
+          "briefTitle": "Study on Blood Pressure Variability and Frailty in the Older People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Old Age"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02413515",
+          "briefTitle": "Blood Pressure Control of Nifedipine GITS 60mg Treatment in Chinese Hypertensive Subjects Uncontrolled on Starting-dose Mono-therapyo-therapy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-08-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 278,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01663233",
+          "briefTitle": "Efficacy and Safety of LCZ696 200 mg + Amlodipine 5 mg in Comparison With Amlodipine 5 mg in Hypertensive Patients Not Responding to Amlodipine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 266,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01756300",
+          "briefTitle": "RENABLATE Feasibility Study CS156 (EC12-02) Study of Catheter Based Renal Denervation to Treat Resistant Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension, Renal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "84 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00817635",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of LCI699 Compared to Placebo in Participants With Resistant Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-10-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 155,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00347360",
+          "briefTitle": "The COREG And Lisinopril Combination Therapy In Hypertensive Subjects (COSMOS) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-07"
+          },
+          "completionDateStruct": {
+            "date": "2008-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 654,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01281306",
+          "briefTitle": "An 8-week Study to Evaluate the Dose Response of AHU377 in Combination With Valsartan 320 mg in Patients With Mild-to-moderate Systolic Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Systolic Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 910,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02466490",
+          "briefTitle": "Efficacy and Safety of Fimasartan Alone or Combined With HCTZ in Mexican Patients With Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension, Essential"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 272,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01996085",
+          "briefTitle": "Non-invasive Haemodynamic Assessment in Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Arterial Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02242318",
+          "briefTitle": "Study to Evaluate Efficacy of Micardis® (Telmisartan) and Valsartan in Patients With Mild-to-moderate Hypertension After Missing One Dose Using Ambulatory Blood Pressure Monitoring"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-09"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 440,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02906579",
+          "briefTitle": "A Phase 2 Trial of IW-1973, A Stimulator of Soluble Guanylate Cyclase (sGC), in Patients With Stable Type 2 Diabetes and Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02177396",
+          "briefTitle": "MICARDIS® and Valsartan in Patients With Mild-to-Moderate Hypertension Using Ambulatory Blood Pressure Monitoring"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1998-04"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 426,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01195662",
+          "briefTitle": "A Study of BMS-512148 (Dapagliflozin) in Patients With Type 2 Diabetes With Inadequately Controlled Hypertension on an ACEI or ARB and an Additional Antihypertensive Medication"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2245,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01741922",
+          "briefTitle": "Effectiveness of Night Administration of Low Dose Aspirin in Hypertensive Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02910414",
+          "briefTitle": "TARGET BP I Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06344104",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Baxdrostat in Participants With Uncontrolled Hypertension on Two or More Medications Including Participants With Resistant Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Uncontrolled Hypertension", "Resistant Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 326,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01785472",
+          "briefTitle": "Efficacy and Safety of LCZ696 in Comparison to Olmesartan in Asian Patients With Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1438,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01373086",
+          "briefTitle": "LFF269 Compared to Placebo After Treatment in Subjects With Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01865188",
+          "briefTitle": "Study of the Efficacy and Safety of LCZ696 Alone and in Combination With Amlodipine in Patients With Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02721667",
+          "briefTitle": "Telemonitoring and Protocolized Case Management for Hypertensive Community Dwelling Seniors With Complex Care Needs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02827032",
+          "briefTitle": "Controlling and Lowering Blood Pressure With the MobiusHD™"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00281580",
+          "briefTitle": "Telmisartan (Micardis) and Amlodipine (Norvasc) - Factorial Design Study for the Treatment of Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-04"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1461,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01876368",
+          "briefTitle": "Efficacy and Safety of LCZ696 Compared to Olmesartan in Essential Hypertensive Patients Not Responsive to Olmesartan"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 376,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03091920",
+          "briefTitle": "Trial of IW-1973, A Stimulator of Soluble Guanylate Cyclase (sGC) in Patients With Stable Type 2 Diabetes and Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06722651",
+          "briefTitle": "EuroNetrod HTN OFF-Med Study of Renal Denervation With NetrodTM Six-electrode Radiofrequency RDN System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Uncontrolled Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01042392",
+          "briefTitle": "Efficacy of Aliskiren Compared to Ramipril in the Treatment of Moderate Systolic Hypertensive Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 506,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01615198",
+          "briefTitle": "Efficacy and Safety of LCZ696 in Comparison to Olmesartan in Elderly Patients With Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 588,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07030101",
+          "briefTitle": "A Study to Investigate Efficacy and Safety of a TCA108 in Participants ≥18 Years With Uncontrolled Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01523067",
+          "briefTitle": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Response of Vasomera (PB1046) Injection Following a Single Subcutaneous Dose in Subjects With Stage 1 or 2 Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06343298",
+          "briefTitle": "To Evaluate the Safety and Efficacy of MANP in Subjects With Difficult to Control/ Resistant Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Difficult to Control Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03054194",
+          "briefTitle": "Study to Assess the Safety, Tolerability, and Pharmacokinetics of E2730"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Participants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03928145",
+          "briefTitle": "Efficacy of Chlorthalidone and Hydrochlorothiazide Combined With Amiloride on Blood Pressure in Primary Hypertension."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01599104",
+          "briefTitle": "Efficacy and Safety of LCZ696 in Comparison to Olmesartan in Japanese Patients With Essential Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2013-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Essential Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1161,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03738761",
+          "briefTitle": "Management of Newly Diagnosed and Uncontrolled Hypertension With Fixed-Dose Combination of Perindopril/Amlodipine and Perindopril/Indapamide/Amlodipine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 471,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01728493",
+          "briefTitle": "Primary Aldosteronism in General Practice: Organ Damage, Epidemiology and Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Primary Aldosteronism", "Primary Hyperaldosteronism"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

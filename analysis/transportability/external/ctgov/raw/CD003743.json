@@ -1,0 +1,2826 @@
+{
+  "query": "discharge breastfeeding from home",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05231200",
+          "briefTitle": "Alberta Collaborative QI Strategies to Improve Outcomes of Moderate and Late Preterm Infants (ABC-QI Trial)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Length of Stay"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "32 Weeks",
+          "maximumAge": "36 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07306000",
+          "briefTitle": "Pilot Study: Effects of CCP Intervention on NICU Environment and Preterm Infants Development"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Infant Development", "Preterm Infant Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "7 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07170007",
+          "briefTitle": "Physiotherapeutic Protocol Compared to Usual Care in the Treatment of Primiparas After Perineal Trauma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-03-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Episiotomy", "Lacerations Perineal", "Obstetric Anal Sphincter Injury", "Perineal Injury", "Perineal Laceration, Tear, or Rupture During Delivery", "Perineal Pain", "Perineal Tear Resulting From Childbirth", "Perineal Tear and Episiotomy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02911727",
+          "briefTitle": "Fast-track Discharge After Elective Cesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postoperative Period"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 142,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06047470",
+          "briefTitle": "Macronutrients in Lactating NICU Parents - Impact of Kangaroo Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lactation Disorder With Baby Delivered", "Nutrition Disorder, Infant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07259486",
+          "briefTitle": "Comparison of Outcomes of Early Kangaroo Mother Care and Standard Method Care in Healthy Low Birth Weight Preterm Neonates at a Tertiary Care Hospital"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["To Compare the Outcomes of Early Kangaroo Mother Care and Standard Method Care in Healthy Low Birth Weight Preterm Neonates", "Premature"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "24 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04478162",
+          "briefTitle": "The Effect of Family Integrated Care on Preparing Parents With Premature Infants Hospitalized in the Neonatal Intensive Care Unit for Discharge"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Intensive Care Unit", "Parents"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05871853",
+          "briefTitle": "Get the Benefits From the Start. Improving Breastfeeding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breastfeeding"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02879799",
+          "briefTitle": "Family Integrated Care (FICare) in Level II NICUs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 765,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06770595",
+          "briefTitle": "Breastfeeding Education Through Clinical Demonstration for Primiparous Women to Prevent Sore Nipples and Engorgement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-26",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nipple Infection", "Nipple Discharge", "Engorgement"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06613386",
+          "briefTitle": "Effects of an Information-Based Discharge Service on Preterm Infants, Parents, and Hospitals"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Patient Discharge", "Infant, Premature"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "37 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04883866",
+          "briefTitle": "Phone Breastfeeding Support for Premature Babies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Breastfeeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06522529",
+          "briefTitle": "Sumamos Excelencia Project: Implementation of Best Practices in Clinical Practice (Thrid Edition)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Obesity, Childhood", "Breast Feeding", "Incontinence, Urinary", "Smoking Cessation", "Pressure Injury", "Fall"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04818112",
+          "briefTitle": "A Randomized Controlled Trial to Improve Mother-Infant Synchrony Among Women With Childhood Adversity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Parent-Child Relations", "Maternal Behavior", "Infant Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 262,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06252311",
+          "briefTitle": "The Effect of Mindfulness-Based Breastfeeding Programme in Mothers After Cesarean Delivery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breastfeeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03555981",
+          "briefTitle": "Early Kangaroo Mother Care in Gambian Hospitalised Unstable Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Infant", "Hypothermia, Newborn", "Death", "Kangaroo Mother Care", "Infection, Bacterial"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 279,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "24 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03725332",
+          "briefTitle": "The PATH Home Trial: A Comparative Effectiveness Study of Peripartum Opioid Use Disorder in Rural Kentucky"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neonatal Abstinence Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 269,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07073482",
+          "briefTitle": "Stress Ball Intervention for Anxiety, Pain, and Breastfeeding Following Elective Cesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Caesarean Section", "Anxiety", "Breast Milk"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 109,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00455468",
+          "briefTitle": "Randomized Controlled Trial (RCT) in Children With Severe Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Pneumonia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "59 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01123733",
+          "briefTitle": "Breastfeeding Practice Evaluation in Taiwan"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Women"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04540575",
+          "briefTitle": "Reducing Disparity in Receipt of Mother's Own Milk in Very Low Birth Weight Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pumping, Breast", "Milk, Human", "Infant, Very Low Birth Weight", "Preterm Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 611,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05609669",
+          "briefTitle": "Continuous And Data-drivEN CarE (CADENCE) Pilot"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Related", "Opioid Use Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04804280",
+          "briefTitle": "Epigenetics and Protective Factors in the Preterm Infant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Parent-Child Relations", "Epigenetics"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 94,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "30 Minutes"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04084275",
+          "briefTitle": "The Effect of Care Given Using Levine's Conservation Model on Postpartum Quality of Life in Primiparas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breastfeeding", "Quality of Life", "Nursing Caries", "Postpartum", "Nursing Model", "Levine Conservation Model"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 117,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01497509",
+          "briefTitle": "Intrapartum Epidural Fentanyl and Breastfeeding in the Immediate Postpartum Period: a Randomized, Controlled, Double-blinded Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-05"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Neurobehavior", "Breastfeeding Outcomes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02349464",
+          "briefTitle": "Promoting Lactation Education, Access, and Support Efforts for Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12"
+          },
+          "completionDateStruct": {
+            "date": "2018-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breastfeeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04872088",
+          "briefTitle": "Integrated Research on Acute Malnutrition in Mali (IRAM-MALI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Malnutrition in Childhood", "Wasting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9797,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "23 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05226624",
+          "briefTitle": "The Alberta Neonatal Abstinence Syndrome Mother-Baby Care ImprovEmeNT Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neonatal Abstinence Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06372418",
+          "briefTitle": "Providing Breastfeeding Support After Discharge From Hospital to Improve Growth and Development of Malnourished Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malnutrition, Infant", "Breastfeeding, Exclusive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Weeks",
+          "maximumAge": "12 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01806480",
+          "briefTitle": "The Effectiveness of Proactive Telephone Support Provided to Breastfeeding Mothers of Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breastfeeding", "Quality of Life", "Parental Stress", "Attachment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 493,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "36 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06307756",
+          "briefTitle": "The Effect of Music on Maternal Stress and Milk Amount"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Amount of Breast Milk", "Maternal Anxiety Level"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05399667",
+          "briefTitle": "Assessment of Body Composition in Premature Children Submitted to an Early Stimulation Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Very Low Birth Weight Infant", "Early Intervention", "Parent-Child Relations", "Nutrition, Healthy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05702203",
+          "briefTitle": "Creative Music Therapy in Newborns With Congenital Heart Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congenital Heart Disease", "Mother Child Interaction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 164,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Minute",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01115647",
+          "briefTitle": "Treating Moderate Malnutrition in 6-24 Months Old Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Moderate Acute Malnutrition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2088,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "24 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06545760",
+          "briefTitle": "Admission to Kangaroo Mother Care (KMC) Ward and Maternal Postpartum Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low Birth Weight", "Kangaroo Mother Care", "Postpartum Depression", "Neurodevelopmental Outcome", "Pre-Term"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1908,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04835935",
+          "briefTitle": "Microbiome, Atopic Disease, Prematurity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atopy", "Prematurity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "7 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06937580",
+          "briefTitle": "Enhancing the Survival of Low Birth Weight Infants in Low-Resource Settings"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low Birthweight", "Preterm", "Kangaroo Mother Care"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 328,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02631343",
+          "briefTitle": "Community Kangaroo Mother Care for Improving Child Survival and Brain Development in Low Birth Weight Newborns"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Low Birth Weight"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 550,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "3 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03013660",
+          "briefTitle": "Supporting Mothers of Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "PreTerm Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02372266",
+          "briefTitle": "Safety and Cost-Effectiveness of Early Maternal Newborn Infant Discharge"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-04"
+          },
+          "completionDateStruct": {
+            "date": "2001-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2223,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02298569",
+          "briefTitle": "Early Postnatal Discharge in a French Perinatal Network"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Complications Nos", "Labor/Delivery Problems Nos", "Vitality; Newborn"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02786225",
+          "briefTitle": "Collaboration for Antepartum Risk Evaluation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07"
+          },
+          "completionDateStruct": {
+            "date": "2020-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prenatal Care", "Maternal-child Health Services", "Maternal Health Services", "Perinatal Care", "Midwifery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 182,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06539858",
+          "briefTitle": "Investigation of the Effect of Massage Application on Functional Status and Depression in Postpartum Mothers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression, Post-Partum", "Massage", "Functional Status"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06544096",
+          "briefTitle": "Application Evaluation of Newborn Home Skin Care Management System Under the Service of \"WeChat Platform+Health Care\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 692,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "2 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04867694",
+          "briefTitle": "Integrated Research on Acute Malnutrition in Chad"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Malnutrition in Childhood", "Wasting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2089,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "23 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05729945",
+          "briefTitle": "Catholic Health Initiatives (CHI) St. Joseph's Children Home Visiting Longitudinal Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2038-12-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Development", "Child Behavior", "Child Abuse", "Child Neglect", "Parenting", "Delinquency", "Criminal Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 343,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "3 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06123143",
+          "briefTitle": "Flow and Grow - The Ideal Time to Wean CPAP Off In Extremely Low Birth Weight Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neonatal Respiratory Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "30 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06682520",
+          "briefTitle": "Evaluation of a Health System Integrated Model for Postpartum Education and Support in Rural Populations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Health Care Utilization"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05432700",
+          "briefTitle": "Evaluation of the Effectiveness of LactApp"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Feeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 270,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01776281",
+          "briefTitle": "Effects of Kangaroo Mother Care Among Low Birth Weight (LBW) and Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["LBW", "Preterm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "1 Week"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06380504",
+          "briefTitle": "Increasing the Coverage of Severe Acute Malnutrition (SAM) Treatment in Ethiopia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Malnutrition, Severe", "Malnutrition, Child", "Wasting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1080,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07136610",
+          "briefTitle": "Standardized Application of Feeding Evaluations Using SMART Tool"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infant and Young Child Feeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05543902",
+          "briefTitle": "The Effects of the Breastfeeding Problems Management Model on Breastfeeding Problems, Motivation and Success"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Counselling"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06993103",
+          "briefTitle": "Pasteurised Donor Human Milk Supplementation for Term Babies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Hypoglycemia", "Metabolic Complication", "Cows Milk Allergy", "Hospital Length of Stay", "Neonatal Intensive Care Unit", "Breastfeeding", "Mental Health Issue"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1444,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Hours",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01852695",
+          "briefTitle": "Family Integrated Care in the NICU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 720,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "33 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07159477",
+          "briefTitle": "Effect of Skin-to-Skin Contact on Father-Infant Bonding: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Newborn Basic Care Training", "Newborn Infant", "Attachment", "Bonding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 165,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06044636",
+          "briefTitle": "Early Digi-physical Support During Breastfeeding Initiation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breastfeeding", "Self Efficacy", "Breastfeeding Duration", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03903146",
+          "briefTitle": "Childhood Risk Reduction Program in Hispanics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Feeding, Exclusive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05595486",
+          "briefTitle": "Baby2Home (B2H) Mobile Health Application"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19 Pandemic", "Health Knowledge, Attitudes, Practice", "Perinatal Depression", "Mental Health Wellness", "Post Partum Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 642,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04462367",
+          "briefTitle": "Northeast COVID-19 and Pregnancy Study Group"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID19", "Coronavirus Infection", "Pregnancy Disease", "Severe Acute Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06958471",
+          "briefTitle": "The Effect of Individualized Developmental Care Education"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Premature", "Self Efficacy", "Attachment", "Maternal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04761419",
+          "briefTitle": "Family Centered Care Cohort Study 1 in Nagano Children's Hospital"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Family Centered Care"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "7 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00486863",
+          "briefTitle": "S. Japonicum and Pregnancy Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-08"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schistosomiasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 370,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05951868",
+          "briefTitle": "An Innovative Continuum of Care to Promote Exclusive Breastfeeding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breastfeeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06130488",
+          "briefTitle": "Implementation at Scale and Evaluation of KMC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Newborn Morbidity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Minutes",
+          "maximumAge": "42 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07293728",
+          "briefTitle": "A Randomized Feasibility Trial Comparing Drospirenone and Norethindrone for Postpartum Hypertension Management in Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01216098",
+          "briefTitle": "Impact of Doula Support on Childbirth Outcomes for Women Undergoing a Vaginal Birth After Cesarean (VBAC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06390943",
+          "briefTitle": "Low Birthweight and Preterm Infant Feeding Trial and Supportive Care Package: Implementation Research"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low Birthweight", "Preterm Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 695,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Minute"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00643253",
+          "briefTitle": "Provider Approaches to Improved Rates of Infant Nutrition and Growth Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-03"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breastfeeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 299,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02076204",
+          "briefTitle": "Mother and Infant Home Visiting Program Evaluation-Strong Start"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Postpartum Care", "Infant Development"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1059,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05119062",
+          "briefTitle": "The Feasibility of an Online Intergenerational Co-parenting Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intergenerational Relations", "Perinatal Depression", "Parenting"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05789381",
+          "briefTitle": "Patient Satisfaction With Abbreviated Postpartum Magnesium Sulfate for Severe Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Patient Satisfaction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03460496",
+          "briefTitle": "Transition to Home (TtH) After Preterm Birth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "35 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05510284",
+          "briefTitle": "Post-partum Care in the NICU"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Period"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05486624",
+          "briefTitle": "The Effect of Reiki Application on Episiotomy and Perineal Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Episiotomy", "Birth", "Perineal Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02999165",
+          "briefTitle": "Breastfeeding Infants Receiving Respiratory Support Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intensive Care, Neonatal", "Neonatal Respiratory Distress Syndrome", "Continuous Positive Airway Pressure", "Breast Feeding", "Infant, Premature"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04648787",
+          "briefTitle": "A Study of Family-integrated Care for Reducing Uncertainty"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Infant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "2 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02581800",
+          "briefTitle": "Effect and Experience of PreHomeCare of Preterm Infants Using Telecommunication and Smartphone Application"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infants, Premature", "Breastfeeding", "Telecommunication", "Patient Discharge", "Nursing"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 186,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02415530",
+          "briefTitle": "Early Family Based Intervention in Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Very Low Birth Weight Infants"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04906122",
+          "briefTitle": "Breastfeeding Counseling Approach Involving Grandmothers (BAKED)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breastfeeding, Exclusive", "Grandmother"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05466656",
+          "briefTitle": "Sumamos Excelencia 2022"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Incontinence, Urinary", "Obesity, Childhood", "Breastfeeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 115,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04741425",
+          "briefTitle": "Online Theory-based Educational Programme for Primiparous Women on Improving Breastfeeding Related Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breastfeeding, Exclusive", "Self Efficacy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04692480",
+          "briefTitle": "A Pilot Study Assessing the Feasibility and Effectiveness of a Breastfeeding Educational Video on Breastfeeding Rates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breastfeeding, Exclusive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06841614",
+          "briefTitle": "EBOla Post-Exposure Prophylaxis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ebola Virus Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05322161",
+          "briefTitle": "Yoga in the NICU for Parents Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postpartum Depression", "Anxiety", "Depression", "Stress Disorder", "Prematurity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06653595",
+          "briefTitle": "Breastfeeding Support and Promotion Program to Improve the Health of Premature Babies (PAP-LM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prematurity; Extreme", "Prematurity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 162,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04414527",
+          "briefTitle": "Effects of Video-based Health Education on Maternal and Child Health in Ethiopia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anemia", "Antenatal Care", "Birth Outcomes", "Worm Infection", "Bacterial Vaginoses", "Exclusive Breastfeeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 675,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03098069",
+          "briefTitle": "Implementation Research on Scaling up Kangaroo Mother Care (KMC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low Birth Weight Babies", "Kangaroo Mother Care Scale up"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 911,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Minute",
+          "maximumAge": "28 Minutes"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03114930",
+          "briefTitle": "Study of the Prevalence of Complications Occurring in the Mother-newborn Couple During the First Month After Returning Home, Since the Introduction of Standard Outpatients (According to HAS 2014 Recommendations) at the Amiens-Picardie University Hospital"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mother-Child Relations", "Maternity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 177,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04325308",
+          "briefTitle": "Early Protein Supplementation in Extremely Preterm Infants Fed Human Milk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prematurity; Extreme", "Feeding Disorder Neonatal", "Breast Milk Expression", "Growth Failure", "Microbial Colonization"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "4 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05438004",
+          "briefTitle": "Ambulatory Childbirth Pathway Pilot Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Related"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

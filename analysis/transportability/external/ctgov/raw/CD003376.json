@@ -1,0 +1,630 @@
+{
+  "query": "fractures adverse vertebral reference",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03417531",
+          "briefTitle": "Sarcopenia Prevention With a Targeted Exercise and Protein Supplementation Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sarcopenia", "Frailty", "Malnutrition; Protein", "Fall"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 801,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03293108",
+          "briefTitle": "Comparing Efficacy and Safety of AryoGen Pharmed Biosimilar Denosumab 60 mg (Arylia) Versus Prolia® in Improvement of Bone Mineral Densitometry (BMD) Among Osteoporotic Postmenopausal Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteoporosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "45 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02396368",
+          "briefTitle": "A Study of Radium-223 in Combination With Tasquinimod in Bone-only Metastatic Castration-Resistant Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03"
+          },
+          "completionDateStruct": {
+            "date": "2017-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostate Cancer", "Bone-only Metastatic Castration-Resistant Prostate Cancer (CRPC)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06450639",
+          "briefTitle": "A Study to Assess the Efficacy and Safety of Satralizumab in Duchenne Muscular Dystrophy (DMD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Duchenne Muscular Dystrophy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "8 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06741956",
+          "briefTitle": "Development of a Wearable Device for Osteoporosis Prevention and Fracture Risk Reduction in Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteoporosis in Post-menopausal Women", "Prevention", "Exercise", "Physical Activity", "Wearable Devices"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00817063",
+          "briefTitle": "Efficacy and Safety of a Retinoid in the Treatment of Severe Chronic Hand Eczema"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-04-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Eczema"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 599,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06567054",
+          "briefTitle": "Clinical Study to Predict the Risk of Bone Fractures With the POROUS Ultrasound Device"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Healthy", "Osteopenia", "Osteoporosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "56 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03410459",
+          "briefTitle": "Long-term Adverse Effects After Bariatric Surgery on Bone Density"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Morbid Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01417091",
+          "briefTitle": "Safety, Pharmacokinetics and Pharmacodynamics of BPS804 in Osteogenesis Imperfecta"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06"
+          },
+          "completionDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteogenesis Imperfecta"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07027306",
+          "briefTitle": "The Osteoporotic Fracture Classification-based Scoring System for Treatment Decision in Thoracolumbar Osteoporotic Fractures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteoporotic Fractures", "Osteoporosis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 648,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04507698",
+          "briefTitle": "INTERVAL - Intense Exercise Trial for Men With Metastatic Castrate-Resistant Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06826664",
+          "briefTitle": "Institution of an Italian Multicenter Database of Patients Affected by Diseases of Phosphate Metabolism"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2035-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Phosphate Deficiency", "Phosphate Overload"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06620666",
+          "briefTitle": "NEUROmuscular Training for Enhanced AGE Longevity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aging", "Physical Activity", "Training"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 390,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00048061",
+          "briefTitle": "MOBILE Study - A Study of Bonviva (Ibandronate) Regimens in Women With Post-Menopausal Osteoporosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-04"
+          },
+          "completionDateStruct": {
+            "date": "2004-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post Menopausal Osteoporosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1609,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "55 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04196153",
+          "briefTitle": "Pedicle Screws Placement Accuracy in Thoracolumbar Spine Using O-arm Navigation VS Standard Cervical Distractor Screws"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pedicle Screws", "Surgery, Computer-Assisted/Adverse Effects", "Bone Screws", "Imaging, Three-Dimensional/Methods"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01801397",
+          "briefTitle": "A Pilot Study to Evaluate the Effect of Forsteo (Teriparatide, 1-34-rh-PTH) in Anorexia Nervosa Patients With Low Bone Mineral Density and Increased Bone Fagility (FAN-Trial)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Low Bone Mass in Anorexia Nervosa Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01847898",
+          "briefTitle": "Study on the Treatment of Osteoporotic Vertebral Fractures Using Vertebral Body Stenting"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vertebral Body Fractures"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05559801",
+          "briefTitle": "Mesenchymal Cell Therapy in Osteogenesis Imperfecta (OI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteogenesis Imperfecta", "Osteogenesis Imperfecta Type III"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03072238",
+          "briefTitle": "Ipatasertib Plus Abiraterone Plus Prednisone/Prednisolone, Relative to Placebo Plus Abiraterone Plus Prednisone/Prednisolone in Adult Male Patients With Metastatic Castrate-Resistant Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1101,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00922974",
+          "briefTitle": "Image-Guided Radiosurgery or Stereotactic Body Radiation Therapy in Treating Patients With Localized Spine Metastasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metastatic Cancer", "Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 399,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      }
+    ]
+  }
+}

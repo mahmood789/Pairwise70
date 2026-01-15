@@ -1,0 +1,162 @@
+{
+  "query": "during endotracheal suctioning behaviours",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT01744717",
+          "briefTitle": "Validation of \"Escala de Conductas Indicadoras de Dolor\" ESCID Scale for Measuring Pain in Critically Ill Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 286,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01070082",
+          "briefTitle": "Europain®: A Study of Procedural Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5150,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05339737",
+          "briefTitle": "The Nociception Level (NOL) Index for Pain Assessment in the Adult Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain, Acute", "Nociceptive Pain", "Behavior", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 411,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05095285",
+          "briefTitle": "Pain and Comfort During Endotracheal Suction in Premature Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "5 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06230211",
+          "briefTitle": "Effect of Maternal Voice and Music Therapy on Pain and Physiological Parameters During in Intubated Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Music Therapy", "Pain", "Physiological Parameters", "Mother's Voice"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "36 Months"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "query": "fluorosis",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06381414",
+          "briefTitle": "Childhood Early Oral Aging Syndrome: Prevalence, Etiological Factors, and Consequences on Occlusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aging"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05204277",
+          "briefTitle": "Clinical Evaluation of Dental Fluororsis Treatment Modalities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Fluorosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04704089",
+          "briefTitle": "Colorimetric, Ultra-structural and Elemental Comparison of Dental Enamel Defects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-18",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Amelogenesis Imperfecta", "Dental Fluoroses", "Hypomineralization Molar Incisor"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07083414",
+          "briefTitle": "Impact of Digital Oral Health Educational Program on a Group of Geriatrics Oral Health and Quality of Life Compared to Standard Oral Health Educational Program in Egypt"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Oral Health Self-efficacy", "Healthy Participants Study"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01049503",
+          "briefTitle": "Effect of pH and Fluoride Concentration of Dentifrices on Caries Control"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "completionDateStruct": {
+            "date": "2012-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Fluorosis", "Dental Caries"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 315,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07138456",
+          "briefTitle": "Clinical Severity of Dental Fluorosis and Associated Risk Factors Among a Group of Children in Rural Region, Dendera Center in Egypt"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Fluorosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 231,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05442320",
+          "briefTitle": "Nails and Teeth as Biomarkers of Fluoride Exposure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fluorosis, Dental"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 342,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06949878",
+          "briefTitle": "21% Hydrochloric Acid Based Versus 6.6 % Hydrochloric Based Micro Abrasive Kit in Management of Patients With Mild to Moderate Fluorosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Enamel Discoloration", "Fluorosis, Dental"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01589991",
+          "briefTitle": "Anticaries Potential and Fluorosis Risk From Different Fluoride Toothpastes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Caries", "Dental Fluorosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05051748",
+          "briefTitle": "Clinical Evaluation of Different Minimal Invasive Treatment Modalities of Mild to Moderate Dental Fluorosis Using A Visual Analog Scale"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Fluorosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03761485",
+          "briefTitle": "Dental Fluorosis Risk by the Use of Acidulated Fluoride Dentifrice"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Caries, Dental", "Fluorosis, Dental"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 452,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03547128",
+          "briefTitle": "Iowa Fluoride Study/Iowa Bone Development Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1992-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Caries", "Dental Fluoroses", "Bone Density"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1882,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05339503",
+          "briefTitle": "This is the Comparison of Clinical Effectiveness of Hydrochloric Acid-pumice Compound and Sodium Hypochlorite-pumice Compound Used in Microabrasion Technique for the Treatment of Dental Fluorosis. Change in Tooth Shade Was Checked Before and After the Procedure."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Fluoroses"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05600517",
+          "briefTitle": "Evaluation of Caries Prevention Based on Genetic Etiology and Risk."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Caries,Dental"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 520,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "23 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06343766",
+          "briefTitle": "Polymorphisms in ENAM, AMBN, and KLK4 Contribute to DCS."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Caries Secondary to Polymorphisms", "Polymorphisms in Enamel Encoding Genes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 204,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01733888",
+          "briefTitle": "Resin Infiltration and Resin Infiltration With Bleaching in Improving the Esthetics for Fluorosis Stains"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Caries Infiltration", "Fluorosis", "Dental Care"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01802255",
+          "briefTitle": "Sevoflurane- Safety in Long-term Sedation Procedures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Poisoning by Inhaled Anaesthetic", "Fluoride Poisoning", "Recovery From Sedation", "Renal Function", "Hepatic Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03237793",
+          "briefTitle": "Treatment of Hypersensitivity Using Diode Laser and Desensitising Agent on Fluorosed and Non-fluorosed Teeth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fluorosis, Dental", "Non-Fluoride Enamel Opacities", "Dentin Sensitivity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06378385",
+          "briefTitle": "Development and Content Validation of the Childhood Early Oral Aging Syndrome (CEOAS) Index for the Deciduous Dentition"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aging"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01568541",
+          "briefTitle": "Fluoride Intake From Toothbrushig With Children's or Regular Toothpastes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10"
+          },
+          "completionDateStruct": {
+            "date": "2009-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Individuals"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 208,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "48 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02925780",
+          "briefTitle": "12 Month Follow up in Vivo Icon Study on Fluorotic Teeth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fluorosis", "Oral Deseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02958891",
+          "briefTitle": "Dental Health Epidemiology Among Israel Defense Forces (IDF) Recruits"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Caries, Dental", "Gingivitis", "Fluorosis", "Dental Trauma"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01571050",
+          "briefTitle": "Systemic Fluoride Bioavailability From Toothpastes Containing Calcium Carbonate or Silica as Abrasives"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Fluorosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03355222",
+          "briefTitle": "Using Eggshell Calcium to Mitigate Fluorosis in Ethiopia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fluoride Poisoning", "Hemoglobin", "Underweight", "Stunting", "Development; Delayed, Mental", "Fluorosis, Dental", "Fluorosis; Skeletal", "Zinc Deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 270,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "18 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01978041",
+          "briefTitle": "Fluoride Bioavailability After Ingestion of Water or Foods Prepared With Fluoridated Water"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Caries", "Dental Fluorosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07232888",
+          "briefTitle": "Design of a Multicomponent Intervention to Reduce the Risk of Exposure Fluorine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fluorosis, Dental", "Fluorosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03746990",
+          "briefTitle": "Presence of Enamel Fluorosis in Libyan Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dental Fluorosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1935,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06829550",
+          "briefTitle": "3D Scanning as an Advanced Tool for Identifying Tooth Lesions in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Caries in Children", "Tooth Erosion", "Fluorosis, Dental", "Dental Caries"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05187507",
+          "briefTitle": "Effectiveness of Theobromine Toothpaste"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dental Plaque", "Dental Care"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "9 Years"
+        }
+      }
+    ]
+  }
+}

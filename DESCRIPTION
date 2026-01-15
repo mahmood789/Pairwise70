@@ -1,7 +1,7 @@
 Package: Pairwise70
 Type: Package
 Title: Comprehensive Cochrane Pairwise Meta-Analysis Dataset Collection
-Version: 1.0.0
+Version: 1.1.0
 Date: 2025-01-22
 Author: Mahmood Arai
 Maintainer: Mahmood Arai <mahmood726@gmail.com>
@@ -11,12 +11,14 @@ Description: Collection of 501 pairwise meta-analysis datasets systematically ex
     along with metadata (study identifiers, comparison/outcome descriptions, review DOIs).
     Contains approximately 50,000+ individual randomized controlled trials across diverse
     medical specialties. Designed for meta-research, methodological studies, education,
-    and software validation in meta-analysis.
+    and software validation in meta-analysis. Includes novel advanced pooling methods
+    (MWM, SIT, ARP) validated through simulation studies for improved coverage and robustness.
 License: MIT
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 4.0.0)
-Suggests: metafor
+Imports: metafor, stats
+Suggests: testthat
 RoxygenNote: 7.3.3
 URL: https://github.com/mahmood789/Pairwise70
 BugReports: https://github.com/mahmood789/Pairwise70/issues

@@ -1,0 +1,4062 @@
+{
+  "query": "analysis chemotherapy subgroup radiotherapy",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02849171",
+          "briefTitle": "Assessing 11C-Choline (11C-CH) PET to Distinguish True Tumor Progression From Pseudoprogression in High-grade Gliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03741244",
+          "briefTitle": "TMZ Plus Apatinib in Newly Diagnosed High-grade Glioma：RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 211,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01939483",
+          "briefTitle": "A Pilot Study of Irinotecan in Patients With Breast Cancer and CNS Metastases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2018-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Central Nervous System Metastases", "Male Breast Cancer", "Recurrent Breast Cancer", "Stage IV Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00502177",
+          "briefTitle": "Quality of Life Study for Pediatric and Adult Patients Undergoing Hyperthermic Peritoneal Perfusion With Cisplatin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-06-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Peritoneal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05985577",
+          "briefTitle": "Mechanism of Gastric Signet Ring Cell Carcinoma Based on Microproteomics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gastric Cancer", "Signet Ring Cell Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04921995",
+          "briefTitle": "Immunotherapy and Chemotherapy in Unresectable Recurrent Loco-regionally Advanced Nasopharyngeal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Recurrent Nasopharyngeal Carcinoma", "Unresectable Nasopharyngeal Carcinoma", "Chemotherapy Effect", "Immunotherapy", "Stereotactic Body Radiation Therapy (SBRT)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03965325",
+          "briefTitle": "FOcUs on Colorectal CAncer oUtcomes: Long-Term Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 133,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06263530",
+          "briefTitle": "Prognostic Significance of ctDNA in HL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prognostic Cancer Model"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04595565",
+          "briefTitle": "Sacituzumab Govitecan in Primary HER2-negative Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HER2-negative Breast Cancer", "Triple Negative Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1332,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03255252",
+          "briefTitle": "Assessment Study to Evaluate Specific Immune Response in Locally Advanced Cervix Cancer After Radio-chemotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cervical Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03959085",
+          "briefTitle": "Inotuzumab Ozogamicin and Post-Induction Chemotherapy in Treating Patients With High-Risk B-ALL, Mixed Phenotype Acute Leukemia, and B-LLy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["B Acute Lymphoblastic Leukemia", "B Lymphoblastic Lymphoma", "Central Nervous System Leukemia", "Mixed Phenotype Acute Leukemia", "Testicular Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4997,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00339859",
+          "briefTitle": "DNA Repair, p53 and Apoptosis Phenotypes in Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1995-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Neoplasms"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5625,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01728155",
+          "briefTitle": "European Low and Intermediate Risk Neuroblastoma Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "LOW AND INTERMEDIATE PAEDIATRIC NEUROBLASTOMA AND NEONATAL SUPRARENAL MASSES"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 685,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "90 Days",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01878617",
+          "briefTitle": "A Clinical and Molecular Risk-Directed Therapy for Newly Diagnosed Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 660,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "39 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01477229",
+          "briefTitle": "Quality of Life in RECTal Cancer - a Prospective Multicenter Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rectal Cancer", "Quality of Life", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03553238",
+          "briefTitle": "Precision Diagnosis Directing HDACi Chidamide Target Therapy for Adult ETP-ALL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia, Acute", "Leukemia, T Cell", "Leukemia, Lymphoblastic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02408016",
+          "briefTitle": "Genetically Modified T Cells in Treating Patients With Stage III-IV Non-small Cell Lung Cancer or Mesothelioma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Pleural Malignant Mesothelioma", "HLA-A*0201 Positive Cells Present", "Recurrent Non-Small Cell Lung Carcinoma", "Recurrent Pleural Malignant Mesothelioma", "Stage III Non-Small Cell Lung Cancer AJCC v7", "Stage III Pleural Malignant Mesothelioma AJCC v7", "Stage IIIA Non-Small Cell Lung Cancer AJCC v7", "Stage IIIB Non-Small Cell Lung Cancer AJCC v7", "Stage IV Non-Small Cell Lung Cancer AJCC v7", "Stage IV Pleural Malignant Mesothelioma AJCC v7", "WT1 Positive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03691441",
+          "briefTitle": "Comparative Effectiveness Trial of Transoral Head and Neck Surgery Followed by Adjuvant Radio(Chemo)Therapy Versus Primary Radiochemotherapy for Oropharyngeal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oropharyngeal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03554473",
+          "briefTitle": "M7824 and Topotecan or Temozolomide in Relapsed Small Cell Lung Cancers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Carcinoma, Small Cell", "Lung Cancer", "Small Cell Lung Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01750073",
+          "briefTitle": "Paclitaxel & Cyclophosphamide With or Without Trastuzumab Before Surgery in Treating Previously Untreated Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Estrogen Receptor Negative", "Estrogen Receptor Positive", "HER2/Neu Negative", "HER2/Neu Positive", "Invasive Breast Carcinoma", "Progesterone Receptor Negative", "Progesterone Receptor Positive", "Stage IA Breast Cancer", "Stage II Breast Cancer", "Stage IIA Breast Cancer", "Stage IIB Breast Cancer", "Stage III Breast Cancer", "Stage IIIA Breast Cancer", "Stage IIIB Breast Cancer", "Stage IIIC Breast Cancer", "Triple-Negative Breast Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 92,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04402788",
+          "briefTitle": "Testing the Addition of Radiation Therapy to the Usual Immune Therapy Treatment (Atezolizumab) for Extensive Stage Small Cell Lung Cancer, The RAPTOR Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Extensive Stage Lung Small Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 138,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06444776",
+          "briefTitle": "Therapy-Associated Saliva and Taste Change Evaluation (TASTE) in Head & Neck Cancer Patients Undergoing Radiotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Head and Neck Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01858740",
+          "briefTitle": "Selective Depletion of CD45RA+ T Cells From Allogeneic Peripheral Blood Stem Cell Grafts in Preventing GVHD in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Accelerated Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive", "Acute Biphenotypic Leukemia", "Acute Leukemia of Ambiguous Lineage", "Acute Undifferentiated Leukemia", "Adult Acute Lymphoblastic Leukemia in Remission", "Adult Acute Myeloid Leukemia in Remission", "Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive", "Childhood Acute Lymphoblastic Leukemia in Remission", "Childhood Acute Myeloid Leukemia in Remission", "Chronic Myelogenous Leukemia, BCR-ABL1 Positive", "Myelodysplastic Syndrome With Excess Blasts-1", "Myelodysplastic Syndrome With Excess Blasts-2", "Recurrent Adult Acute Lymphoblastic Leukemia", "Recurrent Adult Acute Myeloid Leukemia", "Recurrent Childhood Acute Lymphoblastic Leukemia", "Recurrent Childhood Acute Myeloid Leukemia", "Refractory Adult Acute Lymphoblastic Leukemia", "Refractory Childhood Acute Lymphoblastic Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02954874",
+          "briefTitle": "Testing MK-3475 (Pembrolizumab) as Adjuvant Therapy for Triple Receptor-Negative Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Invasive Breast Carcinoma", "Stage 0 Breast Cancer AJCC v6 and v7", "Stage I Breast Cancer AJCC v7", "Stage II Breast Cancer AJCC v6 and v7", "Stage III Breast Cancer AJCC v7", "Triple-Negative Breast Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1155,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00634816",
+          "briefTitle": "Bone Mineral Density in Adult Survivors of Solid Pediatric Cancers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-04"
+          },
+          "completionDateStruct": {
+            "date": "2006-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Regional Osteoporosis as a Result of Chemotherapy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06470243",
+          "briefTitle": "Testing Whether the Addition of Carboplatin Chemotherapy to Cabazitaxel Chemotherapy Will Improve Outcomes Compared to Cabazitaxel Alone in People With Castrate-Resistant Prostate Cancer That Has Spread Beyond the Prostate to Other Parts of the Body"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Castration-Resistant Prostate Carcinoma", "Stage IVB Prostate Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 528,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00085735",
+          "briefTitle": "Comparison of Radiation Therapy Regimens in Combination With Chemotherapy in Treating Young Patients With Newly Diagnosed Standard-Risk Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 549,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02724579",
+          "briefTitle": "Reduced Craniospinal Radiation Therapy and Chemotherapy in Treating Younger Patients With Newly Diagnosed WNT-Driven Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01709396",
+          "briefTitle": "ED-TBI Followed By Allogeneic Stem Cell Transplantation For The Treatment Of Refractory AML And Advanced MDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Leukemia", "Myelodysplastic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00066742",
+          "briefTitle": "Tirapazamine Combined With Chemo and RT in Limited-Stage Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Limited Stage Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05318716",
+          "briefTitle": "The Fat Analysis Trial (FAT) - Assessing the Impact of Lipo-aspirate Processing"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Asymmetry", "Fat Atrophy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07236320",
+          "briefTitle": "Neoadjuvant Immunochemotherapy vs Chemoradiotherapy in ESCC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophageal Squamous Cell Carcinoma (ESCC)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02265770",
+          "briefTitle": "An International Clinical Program for the Diagnosis and Treatment of Children With Ependymoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Childhood Ependymoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 536,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00103285",
+          "briefTitle": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed Acute Lymphoblastic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-04-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Lymphoblastic Leukemia", "Childhood B Acute Lymphoblastic Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5377,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04546399",
+          "briefTitle": "A Study to Compare Blinatumomab Alone to Blinatumomab With Nivolumab in Patients Diagnosed With First Relapse B-Cell Acute Lymphoblastic Leukemia (B-ALL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Down Syndrome", "Recurrent B Acute Lymphoblastic Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 461,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05535166",
+          "briefTitle": "Molecular and Clinical Risk-Directed Therapy for Infants and Young Children With Newly Diagnosed Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "59 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00932893",
+          "briefTitle": "An Investigational Drug, PF-02341066 Is Being Studied Versus Standard Of Care In Patients With Advanced Non-Small Cell Lung Cancer With A Specific Gene Profile Involving The Anaplastic Lymphoma Kinase (ALK) Gene"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 347,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03213925",
+          "briefTitle": "Neoadjuvant Chemotherapy Followed by Radiotherapy Alone in Patients With Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Radiation Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02921256",
+          "briefTitle": "Veliparib, Pembrolizumab, and Combination Chemotherapy in Treating Patient With Locally Advanced Rectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rectal Adenocarcinoma", "Stage II Rectal Cancer AJCC v7", "Stage III Rectal Cancer AJCC v7"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 363,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06793137",
+          "briefTitle": "Intestinal Microbiome Modulation With Antibiotics in the Neoadjuvant Treatment of Locally Advanced Rectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer, Adenocarcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04105374",
+          "briefTitle": "Testing the Addition of an Anti-cancer Viral Gene Therapy, Toca 511/Toca FC, to the Usual Treatment (Temozolomide and Radiation Therapy) for Newly Diagnosed Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anaplastic Astrocytoma", "Glioblastoma", "Oligodendroglioma", "Supratentorial Glioblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05608395",
+          "briefTitle": "11C-methionine in Diagnostics and Management of Glioblastoma Multiforme Patients (GlioMET)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma Multiforme"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06275035",
+          "briefTitle": "Evaluation of Memantine in the Preservation of Memory and Neurocognition Following CSI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neurocognitive Dysfunction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 101,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "39 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06749899",
+          "briefTitle": "QL1706 (PD-1/CTLA-4 Bi-specific Antibody) and Chemoradiotherapy in Locoregionally-advanced Nasopharyngeal Carcinoma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nasopharyngeal Cancinoma (NPC)", "Nasopharyngeal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 580,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03664843",
+          "briefTitle": "Circulating Tumor DNA Longitudinal Monitoring in Stage III-IV Lung Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Carcinoma", "Non-small Cell Lung Cancer", "Lung Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05006664",
+          "briefTitle": "Brentuximab Vedotin in Combination With CHEP in Patient With PTCL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lymphoma, T-Cell, Peripheral"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03737994",
+          "briefTitle": "Targeted Treatment for ALK Positive Patients Who Have Previously Been Treated for Non-squamous Non-small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Non-Squamous Non-Small Cell Carcinoma", "Stage IV Lung Cancer AJCC v8", "Stage IVA Lung Cancer AJCC v8", "Stage IVB Lung Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04134260",
+          "briefTitle": "Testing the Addition of the Drug Apalutamide to the Usual Hormone Therapy and Radiation Therapy After Surgery for Prostate Cancer, INNOVATE Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostate Adenocarcinoma", "Stage I Prostate Cancer AJCC v8", "Stage II Prostate Cancer AJCC v8", "Stage III Prostate Cancer AJCC v8", "Stage IVA Prostate Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 586,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06120374",
+          "briefTitle": "Adjuvant Radioimmunotherapy Compared With Adjuvant Chemotherapy for UTUC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urothelial Carcinoma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05313191",
+          "briefTitle": "Prospective Evaluation of Pencil Beam Scanning Proton Therapy for Previously Irradiated Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["CNS Cancer", "Head and Neck Cancer", "GI Cancer", "Gynecologic Cancer", "Prostate Cancer", "Thoracic Cancer", "Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04661982",
+          "briefTitle": "Long Term Follow-Up in Patients With Stage 0-IIIC Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04698252",
+          "briefTitle": "Local Therapy for ER/PR-positive Oligometastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01013285",
+          "briefTitle": "Bevacizumab, Temozolomide, and External Beam Radiation Therapy as First-Line Therapy in Treating Patients With Newly Diagnosed Glioblastoma Multiforme or Gliosarcoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain and Central Nervous System Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00769067",
+          "briefTitle": "A Randomized Trial Of PF-00299804 Taken Orally Versus Erlotinib Taken Orally For Treatment Of Advanced Non-Small Cell Lung Cancer That Has Progressed After One Or Two Prior Chemotherapy Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-11"
+          },
+          "completionDateStruct": {
+            "date": "2014-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00600821",
+          "briefTitle": "A Study Of AG-013736 (Axitinib) Or Bevacizumab (Avastin) In Combination With Paclitaxel And Carboplatin In Patients With Advanced Lung Cancer."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "completionDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non-Small-Cell Lung Carcinoma", "Adenocarcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05587374",
+          "briefTitle": "Cadonilimab (PD-1/CTLA-4 Bispecific Blockade) and Chemoradiotherapy in Nasopharyngeal Carcinoma (GEMSTONE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nasopharyngeal Carcinoma", "Nasopharyngeal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 490,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04843085",
+          "briefTitle": "Proteomic Characterization of Aggressive Oligodendrogliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oligodendroglioma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06959979",
+          "briefTitle": "Novel Molecular Targets and Innovative Therapeutic Perspective in Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma, Childhood"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04995120",
+          "briefTitle": "Induction Chemotherapy and Toripalimab for Larynx Preservation in Resectable Laryngeal/Hypopharyngeal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Laryngeal Cancer", "Hypopharynx Cancer", "Laryngeal Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00392327",
+          "briefTitle": "Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anaplastic Medulloblastoma", "Medulloblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 379,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "22 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03485105",
+          "briefTitle": "Prediction of Benefit From Adjuvant Chemotherapy for pT1N1 Gastric Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastric Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04402073",
+          "briefTitle": "Personalized Risk-Adapted Therapy in Post-Pubertal Patients With Newly-Diagnosed Medulloblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07088861",
+          "briefTitle": "Validation of the 9th AJCC Staging System for NPC in Non-High-Incidence Areas in China"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nasopharyngeal Carcinoma (NPC)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1401,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06102837",
+          "briefTitle": "Tumor Vaccines for Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Glioma", "Solid Tumor"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 340,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01597778",
+          "briefTitle": "Double Cord Versus Haploidentical (BMT CTN 1101)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Lymphocytic Leukemia", "Acute Myelogenous Leukemia", "Burkitt's Lymphoma", "Follicular Lymphoma", "Hodgkin Lymphoma", "Mantle Cell Lymphoma", "Non-Hodgkin Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04132895",
+          "briefTitle": "ICONIC: Improving Outcomes Through Collaboration in OsteosarComa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osteosarcoma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05998122",
+          "briefTitle": "Total Neoadjuvant Chemoradiotherapy Plus Anti-PD-1 in Subperitoneal Patients With Locally Advanced Rectal CancerPatients With Locally Advanced Rectal Cancer: A Prospective, Single Arm, Exploratory Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Locally Advanced Rectal Cancer", "Total Neoadjuvant Treatment", "Anti-PD-1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00257335",
+          "briefTitle": "Intensity-Modulated Radiotherapy for Recurrent Head and Neck Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-10-14"
+          },
+          "completionDateStruct": {
+            "date": "2007-06-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma of the Head and Neck"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07077616",
+          "briefTitle": "Clinical Study for the Safety and Therapeutic Efficacy of the AI-QMMM Designed TamavaqTM Personalised Vaccine in Patients With Newly Diagnosed Glioma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06374745",
+          "briefTitle": "An Integrated Algorithm for Surgical Intervention in Chronic Lymphedema After Breast Cancer Treatment: The Basel Lymphedema Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lymphedema", "Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01868906",
+          "briefTitle": "FMISO-PET in Brain Tumors and SCS Effect"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-09-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02793544",
+          "briefTitle": "HLA-Mismatched Unrelated Donor Bone Marrow Transplantation With Post-Transplantation Cyclophosphamide"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myelodysplastic Syndrome (MDS)", "Chronic Lymphocytic Leukemia (CLL)", "Chemotherapy-sensitive Lymphoma", "Acute Lymphoblastic Leukemia (ALL)/T Lymphoblastic Lymphoma", "Acute Myelogenous Leukemia (AML)", "Acute Biphenotypic Leukemia (ABL)", "Acute Undifferentiated Leukemia (AUL)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06445114",
+          "briefTitle": "Using CircuLating Tumor DNA to Risk Adapt Post-Operative Therapy for HPV-associated Oropharyngeal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Oropharyngeal Cancer", "Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04539808",
+          "briefTitle": "NeoOPTIMIZE: Early Switching of mFOLFIRINOX or Gemcitabine/Nab-Paclitaxel Before Surgery for the Treatment of Resectable, Borderline Resectable, or Locally-Advanced Unresectable Pancreatic Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pancreatic Adenocarcinoma", "Stage 0 Pancreatic Cancer AJCC v8", "Stage I Pancreatic Cancer AJCC v8", "Stage III Pancreatic Cancer AJCC v8", "Stage IV Pancreatic Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04907370",
+          "briefTitle": "PD-1 Blockade Combined With De-intensified Chemoradiotherapy Sparing Concurrent Cisplatin in Nasopharyngeal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nasopharyngeal Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 532,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01639001",
+          "briefTitle": "A Study Of Crizotinib Versus Chemotherapy In Previously Untreated ALK Positive East Asian Non-Small Cell Lung Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "NSCLC (Non-small Cell Lung Cancer)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 207,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02845232",
+          "briefTitle": "Economic Analysis of Blood Product Transfusions According to the Treatment of Acute Myeloid Leukaemia in the Elderly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Myeloid Leukemia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03617133",
+          "briefTitle": "Image Guided IMRT, Radiochemotherapy and MRI-based IGABT in Locally Advanced Cervical Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Uterine Cervical Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03775265",
+          "briefTitle": "Chemoradiotherapy With or Without Atezolizumab in Treating Patients With Localized Muscle Invasive Bladder Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bladder Urothelial Carcinoma", "Muscle Invasive Bladder Carcinoma", "Stage II Bladder Cancer AJCC v8", "Stage IIIA Bladder Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 475,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02101853",
+          "briefTitle": "Blinatumomab in Treating Younger Patients With Relapsed B-cell Acute Lymphoblastic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Recurrent B Acute Lymphoblastic Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 669,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "31 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01244789",
+          "briefTitle": "Chemotherapy or Observation in Stage I-II Intermediate or High Risk Endometrial Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Endometrial Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 244,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06156150",
+          "briefTitle": "The Role of B7-H4 in Tumor Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-26",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00186888",
+          "briefTitle": "Study of Treatment for Patients With Cancer of the Eye -Retinoblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Retinoblastoma", "Retinal Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07059494",
+          "briefTitle": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatocellular Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00879866",
+          "briefTitle": "EMD 521873 Plus Radiotherapy in Non Small Cell Lung Cancer (NSCLC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "completionDateStruct": {
+            "date": "2012-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Cancer", "Non Small Cell Lung Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02008227",
+          "briefTitle": "A Study of Atezolizumab Compared With Docetaxel in Participants With Locally Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Failed Platinum-Containing Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-Squamous Non-Small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1225,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02515110",
+          "briefTitle": "Hypofractionated Regional Nodal Irradiation Clinical Trial for Women With Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Node-positive Breast Cancer", "Breast Adenocarcinoma", "Invasive Breast Carcinoma", "Lobular Breast Carcinoma In Situ"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 137,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01868490",
+          "briefTitle": "The Adoptive Immunotherapy for Solid Tumors Using Modified Autologous CIK Cells"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cholangiocarcinoma", "Neuroblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07238569",
+          "briefTitle": "Phase III Trial of EBV-DNA-Guided Adaptive Immunotherapy for Advanced Nasopharyngeal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-05-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nasopharyngeal Cancinoma (NPC)", "Nasopharangeal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 516,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05627635",
+          "briefTitle": "FOLFOX and Bevacizumab in Combination With Botensilimab and Balstilimab (3B-FOLFOX) for the Treatment of Microsatellite Stable (MSS) Metastatic Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metastatic Colon Adenocarcinoma", "Metastatic Colorectal Adenocarcinoma", "Metastatic Microsatellite Stable Colorectal Carcinoma", "Metastatic Rectal Adenocarcinoma", "Stage IV Colon Cancer AJCC v8", "Stage IV Colorectal Cancer AJCC v8", "Stage IV Rectal Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06875648",
+          "briefTitle": "Intestinal Flora Differences Between Colorectal Cancer Patients and Healthy Individuals"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer; Gut Microbiota Dysbiosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02505750",
+          "briefTitle": "Safety of a Boost (CXB or EBRT) in Combination With Neoadjuvant Chemoradiotherapy for Early Rectal Adenocarcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05581121",
+          "briefTitle": "PARa-aOrtic LymphAdenectomy in Locally Advanced Cervical Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2033-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Carcinoma", "Adenocarcinoma", "Adenosquamous Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 510,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04090398",
+          "briefTitle": "Testing the Addition of Radium Therapy (Radium-223 Dichloride) to the Usual Chemotherapy Treatment (Paclitaxel) for Advanced Breast Cancer That Has Spread to the Bones"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anatomic Stage IV Breast Cancer AJCC v8", "Metastatic HER2-Negative Breast Carcinoma", "Metastatic Malignant Neoplasm in the Bone"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04848493",
+          "briefTitle": "National Project on Vaccines, COVID-19 and Frail Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Solid Tumor", "Hematologic Diseases", "Neurologic Disorder", "Rheumatic Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 747,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05501665",
+          "briefTitle": "Split Course Adaptive Radiation Therapy With Pembrolizumab With/Without Chemotherapy for Treating Stage IV Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Non-Small Cell Carcinoma", "Stage IV Lung Cancer AJCC v8", "Stage III Lung Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05294900",
+          "briefTitle": "Trial of Neoadjuvant Therapy With Paclitaxel and Carboplatin in Operable Locally Advanced Head and Neck Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Head and Neck Squamous Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 79,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01740427",
+          "briefTitle": "A Study of Palbociclib (PD-0332991) + Letrozole vs. Letrozole For 1st Line Treatment Of Postmenopausal Women With ER+/HER2- Advanced Breast Cancer (PALOMA-2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 666,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01265901",
+          "briefTitle": "IMA901 in Patients Receiving Sunitinib for Advanced/Metastatic Renal Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Renal Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 339,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03914625",
+          "briefTitle": "A Study to Investigate Blinatumomab in Combination With Chemotherapy in Patients With Newly Diagnosed B-Lymphoblastic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["B Acute Lymphoblastic Leukemia", "B Lymphoblastic Lymphoma", "Down Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6720,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "365 Days",
+          "maximumAge": "31 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03786783",
+          "briefTitle": "Dinutuximab, Sargramostim, and Combination Chemotherapy in Treating Patients With Newly Diagnosed High-Risk Neuroblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-19",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ganglioneuroblastoma", "High Risk Neuroblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06102057",
+          "briefTitle": "PACCELIO - FDG-PET Based Small Volume Accelerated Immuno Chemoradiotherapy in Locally Advanced NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage III Non-small Cell Lung Cancer", "Locally Advanced", "Unresectable"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05627115",
+          "briefTitle": "Response Adapted Incorporation of Tislelizumab Into the Front-line Treatment of Older Patients With Hodgkin lYmphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hodgkin Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07085325",
+          "briefTitle": "CSIMEMPHIS: Long-term Follow-up of Medulloblastoma Survivors That Received Craniospinal Irradiation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medulloblastoma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 184,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05713838",
+          "briefTitle": "Organ Preservation With Durvalumab-based Immunotherapy in Combination With Chemoradiation as Definitive Therapy for Early Stage Esophageal Adenocarcinoma With Indication for Radical Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophagus Adenocarcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02979522",
+          "briefTitle": "A Study of Brentuximab Vedotin + Adriamycin, Vinblastine, and Dacarbazine in Pediatric Participants With Advanced Stage Newly Diagnosed Hodgkin Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-09-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hodgkin Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "17 Years",
+          "minimumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00553254",
+          "briefTitle": "Trial Of PF-00299804 In Patients With Advanced Refractory Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-07-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non Small Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05646511",
+          "briefTitle": "TNT of SCRT+CAPOX vs SCRT+CAPOXIRI for Locally Advanced Rectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Locally Advanced Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 608,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01941979",
+          "briefTitle": "A Study Comparing Adjuvant Chemotherapy Versus Observation for Patients With Rectal Adenocarcinoma After Neoadjuvant Chemo-Radiotherapy Treatment."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 309,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01252667",
+          "briefTitle": "Clofarabine and Low-Dose Total-Body Irradiation in Treating Patients With Acute Myeloid Leukemia Undergoing Donor Peripheral Blood Stem Cell Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Myeloid Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00878995",
+          "briefTitle": "Testosterone for Treating Cachexia in Patients With Squamous Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cachexia", "Squamous Cell Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06645015",
+          "briefTitle": "The AIDPRO-CRC Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colo-rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00602667",
+          "briefTitle": "Risk-Adapted Therapy for Young Children With Embryonal Brain Tumors, Choroid Plexus Carcinoma, High Grade Glioma or Ependymoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-12-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain and Central Nervous System Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 293,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01446809",
+          "briefTitle": "Pazopanib Hydrochloride Followed by Chemotherapy and Surgery in Treating Patients With Soft Tissue Sarcoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage IIA Adult Soft Tissue Sarcoma", "Stage III Adult Soft Tissue Sarcoma", "Stage IV Adult Soft Tissue Sarcoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06043999",
+          "briefTitle": "Salvage Chemotherapy Versus Total Mesorectal Resection for Local Resection Rectal Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chemotherapy Effect", "Rectal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 392,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06752382",
+          "briefTitle": "Sintilimab Combined With Bevacizumab and TP Chemotherapy in the Treatment of High Risk Locally-advanced NPC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Locally Advanced Nasopharyngeal Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01516866",
+          "briefTitle": "Sodium Fluoride (NaF) Positron Emission Tomography/Computed Tomography (PET/CT) in Patients With Metastatic Castrate-resistant Prostate Cancer (CRPC) With Microtubule Directed Chemo or AR-directed Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06341842",
+          "briefTitle": "Potential Protective Role of SGLT-2 Inhibitors for Chemotherapy-induced Cardiotoxicity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-19",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 316,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "maximumAge": "70 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02981628",
+          "briefTitle": "Inotuzumab Ozogamicin in Treating Younger Patients With B-Lymphoblastic Lymphoma or Relapsed or Refractory CD22 Positive B Acute Lymphoblastic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Recurrent B Acute Lymphoblastic Leukemia", "Recurrent B Lymphoblastic Lymphoma", "Refractory B Acute Lymphoblastic Leukemia", "Refractory B Lymphoblastic Lymphoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "21 Years",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01359592",
+          "briefTitle": "S1001 PET-Directed Therapy in Treating Patients With Limited-Stage Diffuse Large B-Cell Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 159,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03984357",
+          "briefTitle": "Nivolumab Combined With Chemoradiotherapy Sparing Concurrent Cisplatin in Nasopharyngeal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nasopharyngeal Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "65 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04682847",
+          "briefTitle": "Radiotherapy With Iron Oxide Nanoparticles (SPION) on MR-Linac for Primary & Metastatic Hepatic Cancers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Neoplasms", "Hepatic Cirrhosis", "Hepatic Carcinoma", "Liver Cancer", "Liver Metastases", "Liver Carcinoma", "Hepatocellular Carcinoma", "Hepatocellular Cancer", "Hepatic Atrophy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "89 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01650428",
+          "briefTitle": "Bevacizumab And Combination Chemotherapy in Rectal Cancer Until Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01602666",
+          "briefTitle": "Chemotherapy Followed by Radiation Therapy in Treating Younger Patients With Newly Diagnosed Localized Central Nervous System Germ Cell Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Central Nervous System Nongerminomatous Germ Cell Tumor", "Childhood Germinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 262,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "21 Years",
+          "minimumAge": "3 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04151940",
+          "briefTitle": "PET/CT Changes During Chemoimmunotherapy and Radiation Therapy in Patients With Stage IV Non-small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metastatic Lung Non-Small Cell Carcinoma", "Recurrent Lung Non-Small Cell Carcinoma", "Stage IV Lung Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03978624",
+          "briefTitle": "Window of Opportunity Study of Pembrolizumab Alone and in Combinations in Bladder Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bladder Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "99 Years",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05326334",
+          "briefTitle": "THERApeutic Outcomes Related to Gut microBIOME in Glioblastoma (GBM) Patients Receiving Chemo-radiation (THERABIOME-GBM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma, IDH-wildtype"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06876714",
+          "briefTitle": "ShortStop-HER2: 12 Months vs. 6 Months of HER2-targeted Medications for People With HER2+ Breast Cancer Who Had a Pathologic Complete Response After Chemotherapy Plus Trastuzumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2037-03-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anatomic Stage I Breast Cancer AJCC v8", "Anatomic Stage II Breast Cancer AJCC v8", "Early Stage Breast Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1524,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04911998",
+          "briefTitle": "A Prospective Observational Study on Targeted Therapy for Unresectable or Metastatic BRAFV600E Mutant Melanoma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Melanoma (Skin)", "Metastatic Melanoma", "BRAF V600 Mutation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04193007",
+          "briefTitle": "The Role of Brain Radiotherapy in Patients With Asymptomatic Brain Metastasis in the Era of Targeted Therapy for NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non Small Cell Lung Cancer", "Brain Metastases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "80 Years",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

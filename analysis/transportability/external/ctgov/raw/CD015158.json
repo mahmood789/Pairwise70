@@ -1,0 +1,686 @@
+{
+  "query": "score aeruginosa participant year",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06977165",
+          "briefTitle": "Investigating the Impact of Sepsis Phenotypes on Antibiotic Treatment in Patients With Severe Pneumonia and Sepsis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiration Disorders", "Respiratory Failure", "Sepsis", "Infection in ICU", "Pneumonia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 119,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06093191",
+          "briefTitle": "Tobramycin Inhalation Solution for Pseudomonas Aeruginosa Eradication in Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchiectasis Adult", "Pseudomonas Aeruginosa Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 364,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01180634",
+          "briefTitle": "MP-376 (Aeroquin™, Levofloxacin for Inhalation) in Patients With Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-05-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 330,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01641822",
+          "briefTitle": "Phase 3 Study of Aztreonam for Inhalation Solution (AZLI) in a Continuous Alternating Therapy Regimen for the Treatment of Chronic Pseudomonas Aeruginosa Infection in Patients With CF"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03696290",
+          "briefTitle": "Value of Inhaled Treatment With Aztreonam Lysine in Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiectasis Adult"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 77,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01375049",
+          "briefTitle": "Aztreonam Lysine for Pseudomonas Infection Eradication Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-08"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Months",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01315678",
+          "briefTitle": "Study to Evaluate Arikayce™ in CF Patients With Chronic Pseudomonas Aeruginosa Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-09-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pseudomonas Aeruginosa Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 302,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01619657",
+          "briefTitle": "Preventive Inhalation of Hypertonic Saline in Infants With Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis Lung Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "4 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07245407",
+          "briefTitle": "A Translational Study for Phenotyping and Endotyping Chinese Patients With NCFBE"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-cystic Fibrosis Bronchiectasis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04899336",
+          "briefTitle": "A Study of Vaccination With 9-valent Extraintestinal Pathogenic Escherichia Coli Vaccine (ExPEC9V) in the Prevention of Invasive Extraintestinal Pathogenic Escherichia Coli Disease in Adults Aged 60 Years And Older With a History of Urinary Tract Infection in the Past 2 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Invasive Extraintestinal Pathogenic Escherichia Coli Disease (IED) Prevention"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17935,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07313904",
+          "briefTitle": "Effects of Environmental Fungal Exposure on Bronchial Asthma, ABPA and Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Environmental Exposure", "Asthma", "Bronchiectasis", "ABPA"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03125395",
+          "briefTitle": "A Rollover Safety Study of Lumacaftor/Ivacaftor in Subjects Aged 2 Years and Older With Cystic Fibrosis, Homozygous for the F508del-CFTR Mutation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01404234",
+          "briefTitle": "Safety of AZLI in Children With Cystic Fibrosis (CF) and Chronic Pseudomonas Aeruginosa in the Lower Airways"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12"
+          },
+          "completionDateStruct": {
+            "date": "2013-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cystic Fibrosis", "Pseudomonas Aeruginosa"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02797132",
+          "briefTitle": "Safety and Pharmacokinetic Study of Lumacaftor/Ivacaftor in Subjects Aged 2 Through 5 Years With Cystic Fibrosis, Homozygous for F508del"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07088926",
+          "briefTitle": "A Study to Evaluate the Efficacy, Safety, and PK of AZD0292 Administered IV in Participants 12 Years of Age and Older With Bronchiectasis and Chronic Pseudomonas Aeruginosa Colonization"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiectasis With Pseudomonas Aeruginosa Colonization"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 435,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03905642",
+          "briefTitle": "Study of Dose Escalation of Liposomal Amikacin for Inhalation (ARIKAYCE™) - Extension Phase"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-11-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07291167",
+          "briefTitle": "Study on the Correlation Between Metabolomics and Anxiety and Depression in Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiectasis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06938022",
+          "briefTitle": "Respiratory Microbiota, Infection Characteristics and Imaging Manifestations in Patients With Chronic Airway Inflammation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Airway Inflammation", "Asthma", "Chronic Obstructive Pulmonary Disease", "Bronchiectasis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02507843",
+          "briefTitle": "Vitamin D as an Adjunctive Treatment in Patients With Non-Cystic Fibrosis Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiectasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03737617",
+          "briefTitle": "Immunoglobulin Replacement Therapy for Immunoglobulin G Subclass 2 Deficient Patients With Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchiectasis", "Immunoglobulin Subclass Deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01270347",
+          "briefTitle": "Trial of Aeroquin Versus Tobramycin Inhalation Solution (TIS) in Cystic Fibrosis (CF) Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 282,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00712166",
+          "briefTitle": "Safety and Efficacy Study of Aztreonam for Inhalation Solution (AZLI) in Patients With Cystic Fibrosis, Mild Lung Disease, and P. Aeruginosa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cystic Fibrosis", "Lung Infection", "Pseudomonas Aeruginosa"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      }
+    ]
+  }
+}

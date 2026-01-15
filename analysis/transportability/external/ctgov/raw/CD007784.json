@@ -1,0 +1,2349 @@
+{
+  "query": "analysis subgroup cholesterol cardiovascular",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06611228",
+          "briefTitle": "Optimizing Prevention of Hospital-Acquired Disability Through Multidomain Interventions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Frailty Syndrome", "Aging"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 288,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07087561",
+          "briefTitle": "Short-Term Nutritional Enhancement Combined With Health Education in Postoperative Colorectal Cancer Patients: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-10-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer (Diagnosis)", "Malnutrition or Risk of Malnutrition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00924937",
+          "briefTitle": "CORonary Diet Intervention With Olive Oil and Cardiovascular PREVention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myocardial Infarction", "Unstable Angina", "Malignancy", "Cognitive Decline", "Diabetes Mellitus", "Metabolic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1002,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04762251",
+          "briefTitle": "What Or When to Eat to Reduce the Risk of Type 2 Diabetes (WOW)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Time-restricted Eating", "Diet Quality"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 247,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02642159",
+          "briefTitle": "Efficacy and Safety of Alirocumab Versus Usual Care on Top of Maximally Tolerated Statin Therapy in Patients With Type 2 Diabetes and Mixed Dyslipidemia (ODYSSEY DM-Dyslipidemia)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-15"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dyslipidemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 413,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02551835",
+          "briefTitle": "Vitamin D Supplements on Markers for Cardiovascular Disease and Diabetes: an Individual Participant Data Meta-analysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vitamin D Deficiency", "Vitamin; Excess Vitamin D (Nutritional)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2945,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00998062",
+          "briefTitle": "Dyslipaemia, Atherosclerosis Risk and Increased hsCRP and Inflammatory and Oxidative Status in the Spanish Population. Database Analysis of Previous Studies Performed in Spain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "completionDateStruct": {
+            "date": "2011-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dyslipaemia", "Atherosclerosis Risk", "Increased hsCRP", "Inflammatory and Oxidative Status in the Spanish Population"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30181,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05778656",
+          "briefTitle": "Cardiovascular Risk Prevention With a Mediterranean Dietary Pattern Reduced in Saturated Fat"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "LDL Cholesterol"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 157,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07085923",
+          "briefTitle": "Norwegian Mental Illness Heart Health Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardio Vascular Disease", "Metabolic Syndrome (MetS)", "Severe Mental Disorder", "Schizophrenia and Schizophrenia Spectrum Psychosis", "Bipolar Disease Type I", "Overweight and/or Obesity", "CVD Risk Factors", "Severe Mental Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06593704",
+          "briefTitle": "Proactive Population Health Management of Cardiovascular Disease in Primary Care Using the PROSPERA-program."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 848,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02992106",
+          "briefTitle": "Evolution of Maternal Weight During Pregnancy and Influence on the Endothelial Function in Her Offspring"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Endothelial Dysfunction", "Childhood Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 143,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06347094",
+          "briefTitle": "Precision Nutrition to Improve Cardiometabolic Health With Dietary (Poly)Phenols"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Individual Variability in (Poly)Phenol Metabolism", "Cardiometabolic Health", "Personalized Dietary Intervention", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 330,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02576067",
+          "briefTitle": "Cardiovascular Inflammation Reduction Trial - Inflammation Imaging Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vascular Inflammation", "Atherosclerotic Cardiovascular Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 123,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02029833",
+          "briefTitle": "Canola Oil Multi-Centre Intervention Trial II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Disease", "Diabetes", "Metabolic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07220213",
+          "briefTitle": "FELLAShip to Better Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["High Blood Glucose", "High Cholesterol", "High Cholesterol/Hyperlipidemia", "Diabete Type 2", "Blood Sugar; High", "Obesity & Overweight"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06753591",
+          "briefTitle": "PRemature Acute Myocardial Infarction Register of Serbia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Coronary Syndromes"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05749874",
+          "briefTitle": "Effects of Berberine on Preventing Cardiovascular Disease and Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["PreDiabetes", "Abdominal Obesity", "Hypertension", "Dyslipidemias", "Atherosclerotic Cardiovascular Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2024,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04302727",
+          "briefTitle": "Delicious Eating for Life in Southern Homes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Weight Loss", "Diet, Healthy", "Cardiovascular Risk Factor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05214872",
+          "briefTitle": "The Impact of Selected Factors on the Cardiovascular System in Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atherosclerosis of Artery", "Inflammation", "Chronic Kidney Diseases", "Dialysis; Complications", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04295889",
+          "briefTitle": "Towards HOMe-based Albuminuria Screening: an Implementation Study Testing Two Approaches"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Albuminuria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15032,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03590158",
+          "briefTitle": "Time RestrIcted Feeding For Improving Diabetes Risk (TRIFFID)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type2 Diabetes", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04958980",
+          "briefTitle": "Multiprofessional Approach in Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02673424",
+          "briefTitle": "Fractional FLow Reserve And IVUS for Clinical OUtcomes in Patients With InteRmediate Stenosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stable Angina"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1700,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04657003",
+          "briefTitle": "A Study of Tirzepatide (LY3298176) in Participants With Type 2 Diabetes Who Have Obesity or Are Overweight"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Overweight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 938,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06219083",
+          "briefTitle": "Nutritional Status and Clinical Outcomes in Patients With Common Malignancies(NCOM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Chemoradiotherapy", "Nutrition, Healthy", "Oncology", "Clinical Outcomes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1538,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03283774",
+          "briefTitle": "Multifactorial Control of Type 2 Diabetes and Treatment Intensity in Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "31 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06444620",
+          "briefTitle": "B/F/TAF to DTG/3TC Switch Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-22",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV-1-infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02344290",
+          "briefTitle": "Evaluating the Use of Pitavastatin to Reduce the Risk of Cardiovascular Disease in HIV-Infected Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7769,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03071692",
+          "briefTitle": "Pemafibrate to Reduce Cardiovascular OutcoMes by Reducing Triglycerides IN patiENts With diabeTes (PROMINENT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type2 Diabetes", "Dyslipidemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10544,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05414084",
+          "briefTitle": "Aggregate Metabolic Phenotypes for (Poly)Phenols: Development of an Oral (Poly)Phenol Challenge Test (OPCT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Individual Variability in (Poly)Phenol Metabolism", "Cardiometabolic Health"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05164718",
+          "briefTitle": "The Norwegian Exercise in Atrial Fibrillation Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atrial Fibrillation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03340298",
+          "briefTitle": "Fiber and Cardiovascular Risk Factors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Risk Factor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00404599",
+          "briefTitle": "Oxidative Stress Lowering Effect of Simvastatin and Atorvastatin."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01642680",
+          "briefTitle": "Optimal Timing of Physical Activity in Cancer Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolic Syndrome", "Vascular Disorders", "Cardiovascular Risk Factors", "Fatigue"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 266,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06454045",
+          "briefTitle": "Evaluation of Platelet Aggregability in Patients With Previous Acute Myocardial Infarction or Concomitant Lower Extremity Peripheral Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-13",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Peripheral Arterial Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01906281",
+          "briefTitle": "Influence of Adipocytokines in Osteoarthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteoarthritis, Knee", "Endocrine System Diseases", "Cardiovascular Risk Factors"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04530825",
+          "briefTitle": "PREVENT Tool Study: Late Effects Clinic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Disease", "Childhood Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04184622",
+          "briefTitle": "A Study of Tirzepatide (LY3298176) in Participants With Obesity or Overweight"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2539,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02670915",
+          "briefTitle": "Efficacy and Safety of Faster-acting Insulin Aspart Compared to NovoRapid® Both in Combination With Insulin Degludec in Children and Adolescents With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 834,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02443155",
+          "briefTitle": "A Clinical Proof-of-principle Trial in Adult Subjects With Newly Diagnosed Type 1 Diabetes Mellitus Investigating the Effect of NNC0114-0006 and Liraglutide on Preservation of Beta-cell Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 308,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03632785",
+          "briefTitle": "Laboratory Implications of Non Obstructive Atherosclerotic Plaques Identified by Multiple Detector Coronary Angiotomography"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Discrete Coronary Artery Stenosis", "Coronary Angiography of Multiple Detectors", "Platelet Aggregation, Spontaneous", "Cardiovascular Risk Factor"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06478173",
+          "briefTitle": "Exercise Training and Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type2diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05660798",
+          "briefTitle": "Effects of Switching From Cigarettes to Tobacco Heating System on Coronary Atherosclerosis Progression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Coronary Atherosclerosis", "Nicotine Dependence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01754012",
+          "briefTitle": "European Project on Nutrition in Elderly People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aging"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03039205",
+          "briefTitle": "Platelet Aggregation in Patients With Coronary Artery Disease and Kidney Dysfunction Taking Clopidogrel or Ticagrelor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Platelet Aggregation", "Adenosine", "Coronary Artery Disease", "Kidney Dysfunction", "Antiplatelet Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02106208",
+          "briefTitle": "Study of the Impact of Dairy Fat on Cardiovascular Health."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 103,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01672840",
+          "briefTitle": "Effects of Cocoa on Ambulatory Blood Pressure and Vascular Function in Patients With Stage I Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07"
+          },
+          "completionDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02635373",
+          "briefTitle": "European Calciphylaxis Registry Network"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12"
+          },
+          "completionDateStruct": {
+            "date": "2020-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Calcific Uremic Arteriolopathy (CUA)", "Calciphylaxis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04954313",
+          "briefTitle": "Baseline Oral Health Study: UnCoVer the Connections to General Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Diseases", "Diabetes Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 186,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04036006",
+          "briefTitle": "Enhanced Lifestyles for Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 618,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02105987",
+          "briefTitle": "A Phase IIIb Study of the Safety, Efficacy, and Tolerability of Switching to a Fixed-dose Combination of Abacavir/Dolutegravir/ Lamivudine From Current Antiretroviral Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infection, Human Immunodeficiency Virus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 555,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07036770",
+          "briefTitle": "Coronary Evaluation And Guided Lesion Exploration Using Photon-counting CT and Intracoronary Imaging Techniques"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-16",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "OCT Angiography", "CT"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03896295",
+          "briefTitle": "An Extension Study of MOM-M281-004 to Evaluate the Safety, Tolerability, and Efficacy of M281 Administered to Patients With Generalized Myasthenia Gravis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Generalized Myasthenia Gravis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03031821",
+          "briefTitle": "Metformin in Patients Initiating ADT as Prevention and Intervention of Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostate Cancer", "Metabolic Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04965142",
+          "briefTitle": "Feasibility of a Home Exercise Program to Manage Post-transplant Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00996645",
+          "briefTitle": "Optimizing Audit and Feedback for Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Coronary Artery Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01276678",
+          "briefTitle": "Multi-Analyte, Genetic, and Thrombogenic Markers of Atherosclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07273513",
+          "briefTitle": "\"Smart Family Doctor\" Assisted Comprehensive Management of Secondary Prevention Among Post Revascularization Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Diabete Mellitus", "Hyperlipidemia", "Post PCI", "Post CABG"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 951,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04929249",
+          "briefTitle": "A Randomized Study to Evaluate the Effect of an \"Inclisiran First\" Implementation Strategy Compared to Usual Care in Patients With Atherosclerotic Cardiovascular Disease and Elevated LDL-C Despite Receiving Maximally Tolerated Statin Therapy (VICTORION-INITIATE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Atherosclerotic Cardiovascular Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06055036",
+          "briefTitle": "Black Impact: The Mechanisms Underlying Psychosocial Stress Reduction in a Cardiovascular Health Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiometabolic Syndrome", "Physical Inactivity", "Hypertension", "Type 2 Diabetes", "PreDiabetes", "Obesity", "Cardiovascular Diseases", "Smoking", "Sleep", "Hyperlipidemias", "Diet, Healthy", "Blood Pressure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 340,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03524742",
+          "briefTitle": "Effects of an Avocado Based meDiterranean Diet on Serum Lipids for Secondary Prevention After Ischemic StrokE Trial. Study Protocol."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke, Acute", "Stroke, Ischemic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06848491",
+          "briefTitle": "Using Tailored mHealth Strategies to Promote Weight Management Among Adolescent and Young Adult Cancer Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Cancer", "Physical Activity", "Cancer Survivorship", "Diet"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "39 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03869112",
+          "briefTitle": "Physical Activity Intervention and Cardiovascular Risk Markers in COPD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Diseases", "Cardiovascular Risk Factor", "COPD"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02615704",
+          "briefTitle": "\"Me and My Heart\" Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Coronary Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 677,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "130 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05777746",
+          "briefTitle": "The Effect of an Online Plant-Based Dietary Program on Cardiovascular Risk Factors in Persons With Type 2 Diabetes Mellitus: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Diet, Vegetarian", "Diet, Vegan", "Cardiometabolic Risk Factors", "Cholesterol, LDL", "Blood Pressure", "Glycemic Control", "Diet Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01735357",
+          "briefTitle": "Differential Effects of Eicosapentaenoic Acid (EPA) and Docosahexaenoic Acid (DHA) on Platelet, Endothelial and Vascular Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2010-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00567489",
+          "briefTitle": "IMPENDIA- PEN VS Dianeal Only Improved Metabolic Control In Diabetic CAPD and APD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ESRD", "Diabetes", "CAPD", "APD"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 137,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06150508",
+          "briefTitle": "Randomized Controlled Trial of the Smart O2O Model Development for Chronic Diseases Management Through Digital Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Diabete Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01290250",
+          "briefTitle": "Evaluation of a New Orange-Based Beverage Enriched With Polyphenols in Adult Humans"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02"
+          },
+          "completionDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02907684",
+          "briefTitle": "The Impact of Almond Nut Consumption on Markers of CVD & Metabolic Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06807788",
+          "briefTitle": "Evaluation of Platelet Aggregability in Patients with Takayasu's Arteritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-10-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Takayasu Arteritis (TAK)", "Vasculitis, Systemic"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00869466",
+          "briefTitle": "Weight Control Programs in Women Who Have Undergone Surgery for Early Stage Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Weight Changes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 409,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03983603",
+          "briefTitle": "Plant Stanol Esters and Preventing Asthma Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Asthma, Allergic", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06871384",
+          "briefTitle": "Dietary Strategy to Tackle Cognitive and Locomotor Abilities in Early Elderly Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cognitive Disorders", "Muscular Disorders, Atrophic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00567398",
+          "briefTitle": "IMPENDIA- PEN VS Dianeal Only Improved Metabolic Control In Diabetic CAPD and APD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ESRD", "Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

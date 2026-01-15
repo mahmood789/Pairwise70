@@ -1,0 +1,352 @@
+{
+  "query": "adverse apnea coding during",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03796026",
+          "briefTitle": "A Study to Assess the Effect of Seltorexant Compared to Placebo on Respiration During Sleep in Adult Participants With Obstructive Sleep Apnea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep Apnea, Obstructive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02927873",
+          "briefTitle": "A Study to Evaluate Safety, Reactogenicity and Immunogenicity of GSK Biologicals' RSV Investigational Vaccine Based on Viral Proteins Encoded by Chimpanzee-derived Adenovector (ChAd155-RSV) (GSK3389245A) in RSV-seropositive Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Months",
+          "maximumAge": "23 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03281408",
+          "briefTitle": "Perioperative Complications and Myocardial Injury Risk in Arthoplasty Patients Suspected of Having Obstructive Sleep Apnea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07301567",
+          "briefTitle": "Pilot Study of Negative Pressure Neck Therapy (NPNT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obstructive Apnea", "Sleep Apnea Syndrome, Obstructive", "Sleep Disorder (Disorder)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05986604",
+          "briefTitle": "NIA_Improving Function and Well-being by Improving Patient Memory: Transdiagnostic Sleep and Circadian Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Disorder", "Circadian Dysregulation", "Memory Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04227093",
+          "briefTitle": "Acetazolamide Add-On Therapy to OSA Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04726982",
+          "briefTitle": "Optimal Dosage of Acetazolamide for OSA Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02622724",
+          "briefTitle": "Efficacy and Safety of FP-1201-lyo (Interferon Beta-1a) in Patients Having Acute Respiratory Distress Syndrome (ARDS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Distress Syndrome, Adult"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 301,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02912962",
+          "briefTitle": "Self-Regulation in Adolescents With FASD: The Efficacy of a Targeted Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Self-regulation", "Adolescents", "Fetal Alcohol Spectrum Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03148899",
+          "briefTitle": "Impact of Oxytocin on Obstructive Sleep Apnea Induced Changes in Sleep"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep Apnea, Obstructive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04211350",
+          "briefTitle": "SLEEP ON Your SIDE (SOS) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

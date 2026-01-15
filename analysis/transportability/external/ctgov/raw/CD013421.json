@@ -1,0 +1,2391 @@
+{
+  "query": "combining indications multiple surgery",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07021235",
+          "briefTitle": "Proof of Concept of the Aiinane Preoperative Risk Assessment Tool."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Neoplasms", "Surgery Scheduled", "Surgery Related Complications Rate", "Preanesthetic Medication", "Preoperative Patients", "Preoperative Planning", "Risk Assesment"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03117426",
+          "briefTitle": "A Randomised Evaluation of Visual Function After Bilateral Implantation of Two Types of Presbyopia-correcting IOLs"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cataract", "Presbyopia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003401",
+          "briefTitle": "Peripheral Stem Cell Transplantation Plus Combination Chemotherapy in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2002-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003957",
+          "briefTitle": "Combination Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Relapsed Non-Hodgkin's Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1998-12"
+          },
+          "completionDateStruct": {
+            "date": "2001-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003944",
+          "briefTitle": "Combination Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Stage III or Stage IV Ovarian, Fallopian Tube, or Primary Peritoneal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1998-08"
+          },
+          "completionDateStruct": {
+            "date": "2003-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fallopian Tube Cancer", "Ovarian Cancer", "Peritoneal Cavity Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00014508",
+          "briefTitle": "Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-05-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06915376",
+          "briefTitle": "\"AI-Based Noninvasive Blood Pressure Monitoring Compared to Invasive Arterial Measurement\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Blood Pressure Measurement"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06356753",
+          "briefTitle": "EndoxOmics : Exposome, Endometriosis and Fertility"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Endometriosis", "Infertility, Female"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02576080",
+          "briefTitle": "Efficacy of Imatinib in Patients With Intermediate-risk Gastrointestinal Stromal Tumor With a High-risk Genomic Grade Index"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2020-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastrointestinal Stromal Tumor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00064337",
+          "briefTitle": "S0115, High-Dose Melphalan and Autologous Peripheral Stem Cell Transplantation in Treating Patients With Multiple Myeloma or Primary Systemic Amyloidosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Myeloma", "Plasma Cell Myeloma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00007995",
+          "briefTitle": "Chemotherapy Plus Peripheral Stem Cell Transplant in Treating Patients Who Have Multiple Myeloma or Primary Systemic Amyloidosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-07"
+          },
+          "completionDateStruct": {
+            "date": "2008-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06625203",
+          "briefTitle": "A Non-interventional, International, Multicentre Clinical Research Study to Build the Largest Collection of Multimodal Data (Including Clinical Data, Imaging Data and Omics Data) in Oncology"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diffuse Large B Cell Lymphoma", "Solid Tumor Cancer"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 7000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07063329",
+          "briefTitle": "Phase I/II Study of PLB1004 Combined With Platinum-based Doublet Chemotherapy in Patients With EGFR Mutation-positive"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "NSCLC (Non-small Cell Lung Cancer)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05323916",
+          "briefTitle": "Comprehensive Intensive Stroke Rehabilitation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Rehabilitation", "Physical Therapy Modalities"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003406",
+          "briefTitle": "Combination Chemotherapy Followed by Peripheral Stem Cell Transplantation in Treating Patients With Refractory Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-10"
+          },
+          "completionDateStruct": {
+            "date": "2000-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Myeloproliferative Disorders", "Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes", "Precancerous/Nonmalignant Condition", "Unspecified Adult Solid Tumor, Protocol Specific"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06416722",
+          "briefTitle": "Telerehabilitation Dual-Task Training for Parkinson's: A Multidimensional Evaluation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00045136",
+          "briefTitle": "Chemotherapy, Holmium Ho 166 DOTMP, and Peripheral Stem Cell Transplantation in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-01"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00001332",
+          "briefTitle": "Phase I Study of Continuous Hyperthermic Peritoneal Perfusion (CHPP) With Escalating Dose I.P. Platinum for Gastrointestinal Peritoneal Carcinomatosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1992-12"
+          },
+          "completionDateStruct": {
+            "date": "2000-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Peritoneal Neoplasms", "Stomach Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06440174",
+          "briefTitle": "Understanding the Variation of Modern Endoscopic Ultrasound Use in Patients with Oesophageal Cancer (VALUE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oesophageal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00052468",
+          "briefTitle": "Carboplatin/Paclitaxel +/-Gemcitabine in Treating Patients With Ovarian Epithelial or Fallopian Tube Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fallopian Tube Cancer", "Ovarian Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1742,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00068523",
+          "briefTitle": "Ultraviolet-B Light Therapy and Allogeneic Stem Cell Transplantation in Treating Patients With Hematologic Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-06"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Myeloproliferative Disorders", "Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes", "Myelodysplastic/Myeloproliferative Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06076538",
+          "briefTitle": "PET/MR for Characterization of Renal Masses (RMs)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Renal Tumor", "Renal Cell Carcinoma", "Renal Tumor, Benign"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01999972",
+          "briefTitle": "A Phase 1b Study Of Axitinib In Combination With Crizotinib In Patients With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Solid Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02074683",
+          "briefTitle": "Fat Grafting for Pedal Fat Pad Atrophy in Diabetics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pedal Pad Atrophy", "Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04317248",
+          "briefTitle": "\"Cocktail\" Therapy for Hepatitis B Related Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatocellular Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04747782",
+          "briefTitle": "COVID-19 Longitudinal Biomarkers in Lung Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Respiratory Disease", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00046852",
+          "briefTitle": "Chemotherapy and Peripheral Stem Cell Transplantation Followed By Immunotherapy in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-12"
+          },
+          "completionDateStruct": {
+            "date": "2008-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infection", "Multiple Myeloma and Plasma Cell Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05379660",
+          "briefTitle": "Effects of TEAS on Postoperative Recovery of Intestinal Function in Children Undergoing Laparoscopic Appendectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transcutaneous Electrical Acupoint Stimulation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00040937",
+          "briefTitle": "S0204 Thalidomide, Chemotherapy, and Peripheral Stem Cell Transplant in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 147,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00002870",
+          "briefTitle": "High Dose Chemotherapy Plus Peripheral Stem Cell Transplantation Compared With Standard Therapy in Treating Women With Locally Recurrent or Metastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1994-12"
+          },
+          "completionDateStruct": {
+            "date": "2002-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "59 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00032058",
+          "briefTitle": "Magnetic Resonance Imaging and Magnetic Resonance Spectroscopic Imaging in Diagnosing the Extent of Disease in Patients With Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-06"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00002552",
+          "briefTitle": "Chemotherapy Plus Bone Marrow Transplantation in Treating Patients With Refractory Non-Hodgkin's Lymphoma, Hodgkin's Disease, or Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1993-10"
+          },
+          "completionDateStruct": {
+            "date": "2003-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00060255",
+          "briefTitle": "High-Dose Chemotherapy, Total-Body Irradiation, and Autologous Stem Cell Transplantation or Bone Marrow Transplantation in Treating Patients With Hematologic Cancer or Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1991-12"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Testicular Germ Cell Tumor", "Unspecified Adult Solid Tumor, Protocol Specific", "Unspecified Childhood Solid Tumor, Protocol Specific"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 451,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06049446",
+          "briefTitle": "Combining CEM and Magnetic Seed Localization of Non-Palpable Breast Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00002548",
+          "briefTitle": "SWOG-9321 Melphalan, TBI, and Transplant vs Combo Chemo in Untreated Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1994-01"
+          },
+          "completionDateStruct": {
+            "date": "2006-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 899,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03675035",
+          "briefTitle": "Endomina Post RYGB"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00708877",
+          "briefTitle": "Liver Transplantation for Cholangiocarcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Cholangiocarcinoma", "Liver"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00040872",
+          "briefTitle": "Multiple Therapies in Treating Patients With Advanced Neuroblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2000-06"
+          },
+          "completionDateStruct": {
+            "date": "2007-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neuroblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06021873",
+          "briefTitle": "Evaluation of the Non-inferiority of the Robotic Approach Over the Laparoscopic Approach in Patients Who Are Candidates for Single Anastomosis Duodeno-ileal Bypass With Sleeve Gastrectomy (SADI-S)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity, Morbid"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03313505",
+          "briefTitle": "PROtein S100B for Mild Trauma of the HEad in Emergency Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mild Traumatic Brain Injury"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 787,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02663908",
+          "briefTitle": "A Trial Comparing Cardiovascular Safety of Degarelix Versus Leuprolide in Patients With Advanced Prostate Cancer and Cardiovascular Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 545,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00002842",
+          "briefTitle": "Liver Resection and Floxuridine Plus Fluorouracil and Leucovorin in Treating Patients With Liver Metastases From Colorectal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1994-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Metastatic Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00004221",
+          "briefTitle": "Combination Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Stage III Ovarian Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-11"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Malignant Ovarian Mixed Epithelial Tumor", "Ovarian Clear Cell Cystadenocarcinoma", "Ovarian Endometrioid Adenocarcinoma", "Ovarian Mucinous Cystadenocarcinoma", "Ovarian Serous Cystadenocarcinoma", "Primary Peritoneal Carcinoma", "Stage III Ovarian Cancer", "Undifferentiated Ovarian Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02275104",
+          "briefTitle": "Multimodal Image Processing Software to Guide Cardiac Ablation Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-07-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ventricular Arrhythmias", "Persistent Atrial Fibrillation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05947058",
+          "briefTitle": "Minimally Displaced Femoral Neck Fracture Pilot Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Femoral Neck Fractures"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003425",
+          "briefTitle": "Phase I/II Study of Escalating-Dose Melphalan w/Autologous SCS & Amifostine Cytoprotect"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-12"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Leukemia", "Lymphoma", "Neuroblastoma", "Ovarian Cancer", "Sarcoma", "Unspecified Adult Solid Tumor, Protocol Specific"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00004145",
+          "briefTitle": "Chemotherapy Plus Biological Therapy Followed By Peripheral Stem Cell Transplantation in Treating Patients With Hematologic Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1998-11"
+          },
+          "completionDateStruct": {
+            "date": "2011-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05178680",
+          "briefTitle": "Combination of Music and Relaxing Light on the Patient's Anxiety After Cardiac Surgery in the Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart; Surgery, Heart, Functional Disturbance as Result", "Anxiety", "Pain, Postoperative", "Delirium"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00089193",
+          "briefTitle": "Vaccine Therapy With or Without Sargramostim in Treating Patients With Stage IIB, Stage IIC, Stage III, or Stage IV Melanoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-09"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Melanoma (Skin)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00080795",
+          "briefTitle": "Neoadjuvant Ifosfamide, Doxorubicin, Gemcitabine, and Cisplatin in Treating Patients Who Are Undergoing Radical Cystectomy for Locally Advanced Carcinoma (Cancer) of the Urothelium"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-07"
+          },
+          "completionDateStruct": {
+            "date": "2006-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bladder Cancer", "Transitional Cell Cancer of the Renal Pelvis and Ureter", "Urethral Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03221257",
+          "briefTitle": "Scleroderma Lung Study III - Combining Pirfenidone With Mycophenolate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Scleroderma, Systemic", "Interstitial Lung Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07141732",
+          "briefTitle": "Combined Treatment of Patients With Newly Diagnosed Glioblastoma Using the Xoft® Axxent® Electronic Brachytherapy (eBx®) System for Intraoperative Balloon Electronic Brachytherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02914067",
+          "briefTitle": "Cognitive Biomarkers in Pediatric Brain Tumor Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Childhood Brain Tumor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00069953",
+          "briefTitle": "Combination Chemotherapy Followed By Chemoradiotherapy, With or Without Surgery, in Treating Patients With Resectable Locally Advanced Cancer of the Esophagus or Gastroesophageal Junction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophageal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06388005",
+          "briefTitle": "The Application of Emotion Release Technology in Anxiety Patients Before Daytime Thyroid Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anxiety", "Day Surgery", "Preoperative Nursing Care", "Emotional Freedom Technique"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 237,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05122585",
+          "briefTitle": "Magnetic Tracer in the Sentinel Node Procedure in Breast Cancer: the Non-radioactive Alternative for Radio-isotopes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00027560",
+          "briefTitle": "Melphalan, Fludarabine, and Alemtuzumab Followed by Peripheral Stem Cell Transplant in Treating Patients With Hematologic Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-07"
+          },
+          "completionDateStruct": {
+            "date": "2009-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes", "Myelodysplastic/Myeloproliferative Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00024466",
+          "briefTitle": "Chemotherapy, Vaccine Therapy, and Stem Cell Transplantation in Patients With Newly Diagnosed Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003146",
+          "briefTitle": "Combination Chemotherapy Followed by Bone Marrow or Peripheral Stem Cell Transplantation in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-11"
+          },
+          "completionDateStruct": {
+            "date": "2001-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00004906",
+          "briefTitle": "Combination Chemotherapy and Peripheral Stem Cell Transplantation in Treating Women With Metastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-10"
+          },
+          "completionDateStruct": {
+            "date": "2001-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02876016",
+          "briefTitle": "Cerebral Bases Bodily Representations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glial Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04068740",
+          "briefTitle": "Personalised Decision Support for Heart Valve Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Valve Diseases"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 169,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00004903",
+          "briefTitle": "Combination Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-10"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03817736",
+          "briefTitle": "Sequential TACE and SBRT Followed by ImmunoTherapy for Downstaging HCC for Hepatectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HCC"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00002630",
+          "briefTitle": "High-Dose Melphalan, Total-Body Irradiation, and Peripheral Stem Cell Transplantation in Treating Patients With Multiple Myeloma in First Relapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1993-06"
+          },
+          "completionDateStruct": {
+            "date": "2001-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma and Plasma Cell Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04075604",
+          "briefTitle": "A Study of Neoadjuvant Nivolumab + Palbociclib + Anastrozole in Post-Menopausal Women and Men With Primary Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003392",
+          "briefTitle": "High-Dose Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Recurrent or Refractory Metastatic Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-09"
+          },
+          "completionDateStruct": {
+            "date": "2003-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01442519",
+          "briefTitle": "Sequential Bacillus Calmette-Guérin (BCG) and Electromotive Mitomycin-C Versus Bacillus Calmette-Guérin (BCG) Alone for High Risk Superficial Bladder Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1994-01"
+          },
+          "completionDateStruct": {
+            "date": "2002-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bladder Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 212,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06524648",
+          "briefTitle": "International Pilot Study for Dual Non-invasive Assesment of Embryo Development"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infertility"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "42 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06418438",
+          "briefTitle": "A Randomized Controlled Trail of Uterosacral Ligament Suspension in the Treatment of Pelvic Organ Prolapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 314,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05097898",
+          "briefTitle": "Chronic Heart Failure With Preserved Ejection Fraction - COngestion eValuation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Heart Failure", "Preserved Ejection Fraction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06373783",
+          "briefTitle": "Ultrasonographic Evaluation of the Connective Tissue Grafts Obtained With Two Different Methods in Root Coverage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gingival Recession, Localized"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00044954",
+          "briefTitle": "Total-Body Irradiation, Fludarabine, and Peripheral Stem Cell Transplantation in Treating Patients With Hematologic Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2006-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes", "Myelodysplastic/Myeloproliferative Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05011149",
+          "briefTitle": "Selective Early Medical Treatment of Patent Ductus Arteriosus in Extremely Low Gestational Age Infants: A Pilot RCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Patent Ductus Arteriosus After Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "72 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003215",
+          "briefTitle": "Combination Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Newly Diagnosed Aggressive Non-Hodgkin's Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-04"
+          },
+          "completionDateStruct": {
+            "date": "2004-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00047008",
+          "briefTitle": "Chemotherapy and Radiation Therapy With or Without Surgery in Treating Patients With Head and Neck Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Head and Neck Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 743,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07106632",
+          "briefTitle": "Optimising Adjuvant Chemotherapy Prescription in Young Patients With Hormone-dependent Breast Cancer Using Genomic Tests"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2038-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Early Breast Cancer", "Premenopausal Breast Cancer", "HR+/HER2- Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3380,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "35 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003876",
+          "briefTitle": "Internal Radiation Therapy Plus Carmustine Implants in Treating Patients With Recurrent or Refractory Malignant Glioma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-04"
+          },
+          "completionDateStruct": {
+            "date": "2004-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain and Central Nervous System Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00003116",
+          "briefTitle": "High-Dose Chemotherapy Plus Peripheral Stem Cell Transplantation in Treating Patients With Hematologic Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia", "Lymphoma", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes", "Myelodysplastic/Myeloproliferative Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "55 Years"
+        }
+      }
+    ]
+  }
+}

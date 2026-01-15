@@ -1,0 +1,71 @@
+{
+  "query": "according biochemical normalisation remission",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04970446",
+          "briefTitle": "Microbial Restoration in Inflammatory Bowel Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fecal Microbiota Transplantation", "Crohn Disease", "Inflammatory Bowel Diseases", "Microbiome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05387031",
+          "briefTitle": "Efficacy of Ustekinumab Therapy in Patients With Symptomatic Stricturing Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Crohn Disease", "Stricture; Bowel", "Intestinal Stricture"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 239,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3336 @@
+{
+  "query": "adverse maternal hours morbidity",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00185900",
+          "briefTitle": "Magnesium Sulfate Versus Nifedipine for the Acute Tocolysis of Preterm Labor: A Prospective, Randomized Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-04"
+          },
+          "completionDateStruct": {
+            "date": "2007-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labor, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02838030",
+          "briefTitle": "Efficacy of Aspirin and L-arginine in High Risk Preeclamptic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "High Risk Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "44 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00000563",
+          "briefTitle": "Prevention of Neonatal Respiratory Distress Syndrome With Antenatal Steroid Administration"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1976-06"
+          },
+          "completionDateStruct": {
+            "date": "1983-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Diseases", "Respiratory Distress Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07199803",
+          "briefTitle": "OBS-QoR-10 in Patients With and Without Postpartum Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Hemorrhage (Primary)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04354441",
+          "briefTitle": "Effect of Hydroxychloroquine in COVID-19 Positive Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "SARS-CoV-2", "Pregnant Women", "Hydroxychloroquine"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06442995",
+          "briefTitle": "Evaluation of the Efficacy of the Addition of Magnesium Sulfate to Morphine on the Occurrence of Acute Urinary Retention Following Epidural Anesthesia for Cesarean Section."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Retention"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 290,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07119398",
+          "briefTitle": "Oxytocin/Foley vs. Oxytocin for Induction in Patients With PPROM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm PROM (Pregnancy)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05621109",
+          "briefTitle": "PRE-Pregnancy Weight Loss And the Reducing Effect on CHILDhood Overweight - Copenhagen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2033-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight and Obesity", "Weight Loss", "Pregnancy Related"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "38 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05851222",
+          "briefTitle": "A Big Data Approach to Predict NEOnatal Acute Kidney Injury in Newborns expoSed to nephroTOxic Drugs (NeoAKI STOP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Kidney Injury", "Drug Use", "Drug Interaction", "Drug Toxicity", "Drug-Induced Nephropathy", "Machine Learning", "Newborn Morbidity", "Premature Birth"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 4200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06401629",
+          "briefTitle": "Outcomes After Unified Versus Standard GDM Diagnosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes", "Diagnosis", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2650,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03651531",
+          "briefTitle": "Comparison of Insulin Alone to Insulin With Metformin to Treat Gestational Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04189744",
+          "briefTitle": "The ASPIRE Trial - Aiming for Safe Pregnancies by Reducing Malaria and Infections of the Reproductive Tract"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Malaria", "Bacterial Vaginoses", "Trichomonas Vaginitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5436,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07145775",
+          "briefTitle": "Dexmedetomidine-esketamine-ropivacaine Versus Sufentanil-ropivacaine for Epidural Labor Analgesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epidural Analgesia", "Labor Pain", "Sufentanil", "Dexmedetomidine", "Esketamine", "Ropivacaine"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05290467",
+          "briefTitle": "Reduced-visit Antenatal Care Model"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Antenatal Care", "Telehealth Services"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1762,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "34 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05521776",
+          "briefTitle": "Impact of First-trimester Preeclampsia Screening on Perinatal and Maternal Morbidity (RANSPRE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia (PE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00293735",
+          "briefTitle": "Labetalol Versus Magnesium Sulfate (MgSO4) for the Prevention of Eclampsia Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Pregnancy Induced Hypertension", "Gestational Hypertension", "Chronic Hypertension", "Superimposed Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02450773",
+          "briefTitle": "Prevention of Severe Postpartum Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2022-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04519502",
+          "briefTitle": "Maternal Morbidity and Mortality During the COVID-19 Pandemic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 25604,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06278415",
+          "briefTitle": "Physiologically Based Cord Clamping To Improve Neonatal Outcomes After Elective Cesarean Delivery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Transient Tachypnea of the Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "37 Weeks",
+          "maximumAge": "42 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06280872",
+          "briefTitle": "Physiologically Based Cord Clamping To Improve Neonatal Outcomes In Moderate And Late Preterm Newborns"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Premature Birth", "Respiratory Distress Syndrome in Premature Infant", "Sepsis", "Intraventricular Hemorrhage of Prematurity", "Bronchodysplasia", "Jaundice"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "32 Weeks",
+          "maximumAge": "36 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06569251",
+          "briefTitle": "Adverse Neonatal Outcomes with a Shortened Clinical Regimen of Dexamethasone."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Distress Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01429545",
+          "briefTitle": "Single Versus Combination Therapy in Acute Tocolysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-04"
+          },
+          "completionDateStruct": {
+            "date": "2011-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Labour"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00137501",
+          "briefTitle": "Two Dose Regimens of Nifedipine for the Management of Preterm Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "17 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03858595",
+          "briefTitle": "Optimizing Gestational Weight Gain, Birth Weight and Other Perinatal Outcomes Among Pregnant Women at Risk of Hypertension in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension, Pregnancy-Induced", "Hypertension, Essential Hypertension", "Hypertension; Pre-Eclampsia", "Hypertension in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04799912",
+          "briefTitle": "Labor Induction in Low-risk Nulliparous Women at 39 Weeks of Gestation to Reduce Cesarean: A Randomized Trial of Induction Versus Expectant Management in France (FRENCH-ARRIVE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean Section"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01180023",
+          "briefTitle": "Membrane Sweeping in Group B Streptococcus (GBS) Positive Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "completionDateStruct": {
+            "date": "2011-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Group B Streptococcus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06957769",
+          "briefTitle": "Biological Impacts of Rising Temperatures on Maternal, Fetal, and Newborn Health: A Cohort Study (BIRTH Cohort)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Low Birth Weight Baby", "Small for Gestational Age (SGA)", "Preterm Birth", "Pregnancy Complications", "Birth Outcome, Adverse", "Heat Strain", "Infant Morbidity", "Infant Mortality", "Neonatal Mortality"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 6000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01911494",
+          "briefTitle": "Community Level Interventions for Pre-eclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-eclampsia", "Hypertension, Pregnancy Induced"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06264973",
+          "briefTitle": "Maternal and Fetal/Neonatal Pharmacokinetics and - Dynamics of Corticosteroids During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Birth"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03637062",
+          "briefTitle": "Verify the Safety and Effectiveness of the Cerclage Pessary in Prevention and Treatment of High-risk Preterm Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "High Risk Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01827995",
+          "briefTitle": "Simplified Medical Abortion in Rural India"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 731,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02101515",
+          "briefTitle": "Randomized Control Trial of Second Stage of Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor Complications"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02377466",
+          "briefTitle": "A Phase III Efficacy and Safety Study of Intravenous Retosiban Versus Placebo for Women in Spontaneous Preterm Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02606526",
+          "briefTitle": "Early Versus Late BCG Vaccination in HIV-1 Exposed Infants in Uganda in Uganda"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Illness", "Septicaemia", "Diarrhoea", "Lower Respiratory Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "1 Day"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00340899",
+          "briefTitle": "Biological Markers of Disease in the Prediction of Preterm Delivery, Preeclampsia and Intra-Uterine Growth Retardation: A Longtitudinal Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1997-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prenatal Care", "Premature Birth"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 19134,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06191458",
+          "briefTitle": "Postpartum Primaquine in Breast Milk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Women"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03724838",
+          "briefTitle": "Esomeprazole With Sildenafil Citrate in Women With Early-onset Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06915428",
+          "briefTitle": "Personalized Care for Prenatal Stress Reduction & Prevention of Preterm Birth (PTB) Disparities"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth Complication", "Preterm Birth", "Preterm Birth Recurrence", "Preeclampsia", "Preeclampsia (PE)", "Hypertensive Disorders of Pregnancy", "Support Program", "Stress", "Resilience, Psychological", "Empowerment, Patient", "Emotional Stress", "Pregnancy", "Pregnancy Complications", "Pregnancy Induced Hypertension", "Neonates and Preterm Infants", "Cervical Insufficiency", "Social Determinants of Health (SDOH)", "Cervical Shortening", "Disparities in Pregnancy Complications", "Disparities", "Prenatal Care", "Care Coordination"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1228,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01192412",
+          "briefTitle": "The CHIPS Trial (Control of Hypertension In Pregnancy Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 987,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05479214",
+          "briefTitle": "Effect of Adding Metformin to Insulin in Uncontrolled Diabetic Patients During the 3rd Trimester of Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06803992",
+          "briefTitle": "Induction of Labor - Comparison Propess With Prostaglandin E2 Vaginal Gel and Balloon Catheter"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Induction of Labor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02492347",
+          "briefTitle": "Effect of Antenatal SSRI Exposure on the QT Interval of Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Qt Interval, Variation in", "Adverse Effect of Selective Serotonin Reuptake Inhibitors"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Days",
+          "maximumAge": "3 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06915467",
+          "briefTitle": "Efficacy of Direct CAtheterisation of the OMbilical Vein in Emergency Through Wharton's Jelly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Newborn Morbidity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02762669",
+          "briefTitle": "Recovery of Oxytocin Responsiveness in Pregnant Human Myometrial Explants After Oxytocin-Induced Desensitization: an In-vitro Analysis of Oxytocin Receptor Expression and Signaling"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Postpartum Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06702670",
+          "briefTitle": "Anticholinergics for Cervical Edema in Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor Dystocia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01355159",
+          "briefTitle": "High Dose Folic Acid Supplementation Throughout Pregnancy for Preeclampsia Prevention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Complications", "Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2464,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04501289",
+          "briefTitle": "Low Dose Magnesium Sulphate Versus Standard Pritchard Regimen In Management Of Severe Preeclampsia/Eclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia/Eclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05693688",
+          "briefTitle": "Atosiban Versus Placebo in the Treatment of Late Threatened Pre-term Birth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 760,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06813183",
+          "briefTitle": "The Effect of Palmar Grip Reflex Stimulation on Pain During Heel Blood Collection in Newborns"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05037526",
+          "briefTitle": "Utility of Real Time Continuous Glucose Monitoring in the Care of Gestational Diabetes Versus Standard Care in Pregnancy Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 302,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07183462",
+          "briefTitle": "Azithromycin and Ampicillin for Late PPROM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Complications, Infectious", "Premature Birth", "Neonatal Diseases and Abnormalities", "Antibiotic Prophylaxis", "Latency Period", "Prematurity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 311,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05079841",
+          "briefTitle": "The Stimulation To Induce Mothers Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Oxytocin", "Labor Pain", "Induction of Labor Affected Fetus / Newborn", "Physiologic Effects of Drugs"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 988,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06794723",
+          "briefTitle": "A Probiotic Based Intervention in Pregnancies Complicated by GDM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus (GDM)", "Microbiome, Human"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 173,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04608565",
+          "briefTitle": "Remote Biomonitoring (RBM) for Temperature Surveillance of Mothers and Newborns: Pre-clinical and Clinical Evaluation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Temperature Change, Body"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "7 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03418012",
+          "briefTitle": "Prevention of sPTB With Early Cervical Pessary Treatment in Women at High Risk for PTB"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Premature Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01459978",
+          "briefTitle": "Impact of Monitoring Quality Indicators in Maternity Departments on Mother and Infant Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obstetric; Injury", "Injury"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03724786",
+          "briefTitle": "Management of Suspected Preeclampsia Based on 6-hour Versus 24-hour Urine Protein Collection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pre-Eclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01334489",
+          "briefTitle": "The Trial of Pessary After Laser for TTTS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Premature Birth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 352,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03944512",
+          "briefTitle": "Pravastatin to Prevent Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Obstetric Labor Complications", "Hypertension in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05056467",
+          "briefTitle": "Labor Induction in Preeclampsia High-risk Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia", "Induction of Labor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 825,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06826859",
+          "briefTitle": "Daily Aspirin vs Split Dosing in High-risk Pregnancies (DASH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05547165",
+          "briefTitle": "Percutaneous Intervention Versus Observational Trial of Arterial Ductus in Low Weight Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ductus Arteriosus, Patent"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Days",
+          "maximumAge": "32 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04938557",
+          "briefTitle": "Automated Insulin Delivery Amongst Pregnant Women With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 124,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07243886",
+          "briefTitle": "Mobile-based Obstetric Monitoring for Pregnancies Complicated by Hypertension and/or Diabetes (MOM-HD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes", "Hypertensive Disorder of Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 864,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03069859",
+          "briefTitle": "Use of TXA to Prevent Postpartum Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post Partum Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04899960",
+          "briefTitle": "Drug-Related Problems in Neonatal Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Intensive Care Unit", "Medication Errors", "Drug-Related Problems", "Adverse Drug Event", "Drug-Drug Interaction", "Clinical Pharmacy", "Machine Learning"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 512,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Hour",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02050529",
+          "briefTitle": "Randomized Controlled Trial of Labetalol Versus Hydralazine for Severe Hypertension in Obstetric Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension, Pregnancy Induced", "Hydralazine Adverse Reaction", "Pre-eclampsia", "Pre-eclampsia Superimposed Pre-existing Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04766866",
+          "briefTitle": "sFlt1/PlGF and Planned Delivery to Prevent Preeclampsia at Term."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Intrauterine Growth Restriction", "Maternal Hypertension", "Neonatal Outcome", "Perinatal Death"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04225286",
+          "briefTitle": "Intranasal Human Milk for Intraventricular Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intraventricular Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "33 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06420453",
+          "briefTitle": "How Long Can Labor Last? Person Centred Care During Labor to Increase Safety for Women and Newborn"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Birth Outcome, Adverse", "Labor Long", "Labor Complication", "Maternal Injury", "Maternal Distress During Labor and Delivery", "Neonatal and Perinatal Conditions", "Labor Duration"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06481995",
+          "briefTitle": "SWIFT - SWIss Factor XIII Trial in PPH"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postpartum Hemorrhage", "Coagulation Disorder", "Coagulation Factor Deficiency", "Hemorrhage", "Postpartum Complication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 988,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01916681",
+          "briefTitle": "Foley OR MisO for the Management of Induction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Delivery; Prolonged"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 491,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05034861",
+          "briefTitle": "COmputerized CTG Self-MOnitoring Versus Standard Doppler Assessment in Late-onset FGR: COSMOS Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Restriction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01078519",
+          "briefTitle": "Combined Anesthesia for Labor and Maternal Temperature"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {
+            "date": "2010-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pyrexia", "Abdominal Delivery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01751256",
+          "briefTitle": "Additional Effect of Wound Infiltration After Cesarean Section With Optimal Standard Analgesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2011-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Pain", "Anesthesia, Local", "Breast Feeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03997266",
+          "briefTitle": "NICU Antibiotics and Outcomes Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Microbial Colonization", "Extreme Prematurity", "Early-Onset Neonatal Sepsis", "Late-Onset Neonatal Sepsis", "Necrotizing Enterocolitis of Newborn", "Death; Neonatal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 802,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "4 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05312658",
+          "briefTitle": "Aortic Compression Trial to Reduce Blood Loss at Cesarean Section"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Post Partum Hemorrhage", "Cesarean Section Complications", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2246,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04364646",
+          "briefTitle": "Personalized Integrated Chronotherapy for Perinatal Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression", "Postpartum Depression", "Prenatal Disorder", "Circadian Dysregulation", "Pregnancy Related", "Sleep Disturbance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02232035",
+          "briefTitle": "Diazepam at the Active Phase of Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pain", "Prolonged Labour"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00404768",
+          "briefTitle": "The Safety, Tolerability And Metabolism Of GSK221149A, In Pregnant Women (30-36 Weeks), In Pre-Term Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-07-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01177553",
+          "briefTitle": "Randomized Clinical Trial: Expectant Management vs Laser Treatment of Monochorionic Twins With Severe Selective Intrauterine Growth Retardation and Absent or Reverse Diastolic Flow in the Umbilical Artery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intrauterine Growth Retardation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01824940",
+          "briefTitle": "SHINE Sanitation, Hygiene, Infant Nutrition Efficacy Project"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Growth; Stunting, Nutritional", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5280,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00397735",
+          "briefTitle": "N-acetylcysteine in Intra-amniotic Infection/Inflammation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-10-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Labor, Premature", "Preterm Premature Rupture of the Membranes", "Infection", "Inflammation", "Chorioamnionitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04462367",
+          "briefTitle": "Northeast COVID-19 and Pregnancy Study Group"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID19", "Coronavirus Infection", "Pregnancy Disease", "Severe Acute Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00986765",
+          "briefTitle": "Prevention of Maternal and Perinatal Complications by Enoxaparin in Women With Previous Severe Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 257,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07195006",
+          "briefTitle": "Early Life Malnutrition, Environmental Enteric Dysfunction and Microbiome Trajectories"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malnutrition Pregnancy", "Malnutrition in Children", "Malnutrition (Calorie)", "Environmental Enteric Dysfunction", "Gut Dysbiosis", "Gut Permeability, Gut Inflammation", "Diarrhea Infectious", "Maternal Stress", "Child Mental Health", "Natural Killer Cell Mediated Immunity", "Mycotoxin Biomonitoring", "Environmental Exposures", "Cell-Mediated Immune Deficiency"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 368,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01990612",
+          "briefTitle": "A Randomized Trial of Induction Versus Expectant Management"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Labor and Delivery"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03957083",
+          "briefTitle": "Oxytocin at Elective Cesarean Deliveries: A Dose-finding Study in Women With BMI ≥ 40kg/m2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postpartum Hemorrhage", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02292771",
+          "briefTitle": "A Randomized Study Comparing the Efficacy and Safety of Retosiban Versus Atosiban for Women in Spontaneous Preterm Labour"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstetric Labour, Premature"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03187106",
+          "briefTitle": "Prophylactic Antibiotics After Cesarean"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Surgical Site Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 321,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03009526",
+          "briefTitle": "Efficacy and Safety of IPTp-DP Versus IPTp-SP in Malawi"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 602,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04739683",
+          "briefTitle": "Cervical Ripening With Foley Bulb Versus Dilapan-S at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Induced; Birth", "Induction of Labor Affected Fetus / Newborn"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05697822",
+          "briefTitle": "Using Advanced Data Systems to Improve Health in Early Life in Rural Nepal"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Maternal Health", "Infant Health", "Institutional Delivery", "Birth Preparedness and Complication Readiness", "Severe Maternal Morbidity", "Neonatal Adverse Outcome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01053325",
+          "briefTitle": "Establishing Effectiveness of Daily Co-trimoxazole Prophylaxis For Prevention of Malaria in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria in Pregnancy", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 848,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05348863",
+          "briefTitle": "SPARK- a Digital Platform to Improve Self-management of Gestational Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03607929",
+          "briefTitle": "HIDRATA Study: Efficacy of a Hydration Protocol in Nulliparous Women During Labor"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Labor Long", "Nulliparity", "Premature Rupture of Membrane", "Pregnancy, Prolonged", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "29 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06431997",
+          "briefTitle": "A Study of the Intervention of Time-restricted Eating in High-risk Populations of GDM"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus", "Dietary Habits", "Lifestyle Intervention", "Randomized Controlled Study"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06568406",
+          "briefTitle": "Impact of Early Physiotherapy on Pain, Quality of Life, Pelvic Floor Function, and Sexual Health Post-Episiotomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gynecological; Surgery (Previous), Causing Obstructed Labor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07191236",
+          "briefTitle": "Development of an International Remote Digital Care System for Accessible, Inclusive and Sustainable Pregnancy Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-02-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Telemedicine", "Digital Health", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04025658",
+          "briefTitle": "Oxytocin at Elective Cesarean Deliveries: A Dose-finding Study in Women With Twin Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postpartum Hemorrhage", "Twin"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04307069",
+          "briefTitle": "Management of Prelabor Rupture of the Membranes at Term"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fetal Infection", "Chorioamnionitis", "Endometritis", "Cesarean Section Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 524,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03418311",
+          "briefTitle": "Cervical Pessary Treatment for Prevention of s PTB in Twin Pregnancies on Children's Long-Term Outcome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Premature Birth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 672,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03475342",
+          "briefTitle": "World Maternal Antifibrinolytic Trial_2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intrapartum - Moderate and Severe Anaemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15068,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02326142",
+          "briefTitle": "A Phase 2 Study of OBE001 Versus Placebo in the Delay of Preterm Birth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03"
+          },
+          "completionDateStruct": {
+            "date": "2017-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Labor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03752073",
+          "briefTitle": "Comparison of Two Mechanical Methods of Outpatient Ripening of the Cervix"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Induction of Labor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 185,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05958953",
+          "briefTitle": "PeRinatal Outcomes With ACTive Versus Expectant Management of Women With Pre-labor Rupture Of Membranes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rupture of Membranes; Premature", "Distress; Fetal, Complicating Delivery", "Delayed Delivery After Spontaneous or Unspecified Rupture of Membranes", "Maternal Sepsis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03067298",
+          "briefTitle": "Prediction of Preeclampsia and Other Pregnancy Complications Following Combined Iterative Screening"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Preterm Birth", "Fetal Growth Restriction", "Intra Uterine Fetal Death"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 805,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

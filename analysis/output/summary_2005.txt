@@ -1,0 +1,52 @@
+Pre-2005 impact analysis (threshold 2005)
+Analyses with valid paired metrics: 9039 
+Proportion with higher I2 after excluding pre-2005: 0.07478703 
+Median delta I2: 0 
+Median delta tau2: 0 
+Wilcoxon test delta I2 p-value: 0.4185311 
+Wilcoxon test delta tau2 p-value: 3.752502e-06 
+
+Logistic model (I2 increase ~ frac_pre + log1p(k_all)):
+
+Call:
+glm(formula = i2_increase ~ frac_pre + log1p(k_all), family = binomial(), 
+    data = main)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  -4.89256    0.14037  -34.85   <2e-16 ***
+frac_pre      3.73152    0.16967   21.99   <2e-16 ***
+log1p(k_all)  0.78520    0.05646   13.91   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 4806.0  on 9038  degrees of freedom
+Residual deviance: 3943.6  on 9036  degrees of freedom
+AIC: 3949.6
+
+Number of Fisher Scoring iterations: 6
+
+
+Linear model (delta I2 ~ frac_pre + log1p(k_all)):
+
+Call:
+lm(formula = delta_i2 ~ frac_pre + log1p(k_all), data = main)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-93.393  -0.187  -0.082   0.050  83.289 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   -0.2791     0.2669  -1.046   0.2956    
+frac_pre      -5.2585     0.5253 -10.010   <2e-16 ***
+log1p(k_all)   0.2602     0.1418   1.835   0.0665 .  
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 8.978 on 9036 degrees of freedom
+Multiple R-squared:  0.01126,	Adjusted R-squared:  0.01104 
+F-statistic: 51.44 on 2 and 9036 DF,  p-value: < 2.2e-16
+

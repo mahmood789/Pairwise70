@@ -1,0 +1,348 @@
+{
+  "query": "copies creatinine load viraemia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02758288",
+          "briefTitle": "BK Virus Post-Kidney Transplant: New Practice Versus Traditional Approach"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2022-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["BK Virus Infection", "BK Virus Nephropathy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03945981",
+          "briefTitle": "Rapid Test and Treat Dolutegravir Plus Lamivudine Study in Newly Diagnosed Human Immunodeficiency Virus (HIV)-1 Infected Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 131,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00684372",
+          "briefTitle": "BK Viremia After Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Terminal Renal Failure", "BK Virus Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04293042",
+          "briefTitle": "Treatment of BK Virus Infection With CTL Cells in Immunocompromised Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "BK Polyomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Weeks",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02551523",
+          "briefTitle": "Early Simplified: A Trial to Compare the Efficacy of Standard of Care Combination Antiretroviral Therapy With a Simplified Dolutegravir Monotherapy in Patients With a Primary HIV-1 Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11"
+          },
+          "completionDateStruct": {
+            "date": "2021-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Monotherapy", "Dolutegravir", "Primary HIV Infection", "Treatment Efficacy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 101,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07194057",
+          "briefTitle": "\"A Privacy-protecting Environment for Child Transplants Health Related and Genomic Data Integration in the European Reference Network\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Transplant Complication", "Kidney Transplant", "Liver Transplant"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01376804",
+          "briefTitle": "A Study of Oral Valcyte (Valganciclovir) in Pediatric Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation, Cytomegalovirus Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 57,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Months",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05423496",
+          "briefTitle": "KidneyCare Immuno-optimization in Renal Allografts (KIRA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-23",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant", "Immunosuppression", "Allograft"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00372229",
+          "briefTitle": "A Study of Valcyte (Valganciclovir) CMV Prophylaxis After Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cytomegalovirus Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 299,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02542852",
+          "briefTitle": "A Study of a Nucleoside Sparing Regimen in HIV-1 Infected Patients With Detectable Viremia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2017-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV-1 Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03374202",
+          "briefTitle": "Safety and Tolerability of AAV8 Delivery of a Broadly Neutralizing Antibody in Adults Living With HIV: a Phase 1, Dose-escalation Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "HIV-1 Infected Adults With Controlled Viremia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

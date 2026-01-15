@@ -1,0 +1,798 @@
+{
+  "query": "creatinine adverse pmol weeks",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00077636",
+          "briefTitle": "ACCELERATE Study - A Study of PEGASYS (Peginterferon Alfa-2a (40KD)) in Combination With COPEGUS (Ribavirin) in Interferon-Naive Patients With Chronic Hepatitis C (CHC) Infection."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-12"
+          },
+          "completionDateStruct": {
+            "date": "2006-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatitis C, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1469,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00263328",
+          "briefTitle": "Extension Study Of Stage 1 Subjects Of Study A3921009 For The Prevention Of Acute Rejection In Kidney Transplant Patient"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02542605",
+          "briefTitle": "To Evaluate the Blockade of CGRP in Preventing PACAP-38 Induced Migraine-like Attacks With AMG 334 in Migraine Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-11-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Migraine"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02527200",
+          "briefTitle": "Effect of Liraglutide for Weight Management in Paediatric Subjects With Prader-Willi Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolism and Nutrition Disorder", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07262788",
+          "briefTitle": "A Feasibility Study of Optimal Non-Pharmacological Lifestyle Modifications in People With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01725126",
+          "briefTitle": "To Investigate the Safety, Tolerability and Pharmacodynamics of GSK2890457 in Healthy Volunteers and Subjects With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-09-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06309238",
+          "briefTitle": "Intensive Weight Loss Intervention Versus Bariatric Surgery for Adults With Severe and Complex Obesity: the LightBAR Randomised Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2048-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03061214",
+          "briefTitle": "Efficacy and Safety of Semaglutide Once-weekly Versus Sitagliptin Once-daily as add-on to Metformin in Subjects With Type 2 Diabetes (SUSTAIN - CHINA MRCT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 868,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02914314",
+          "briefTitle": "Pharmacokinetic Study With an Oral Suspension of Perampanel as Adjunctive Therapy in Pediatric Subjects With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05545059",
+          "briefTitle": "Effects and Safety of Sacubitril/Valsartan on Refractory Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-24",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Resistant Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 138,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03175120",
+          "briefTitle": "A Trial Comparing Insulin Degludec/Liraglutide and Insulin Degludec in Combination With Metformin in Chinese Subjects With Type 2 Diabetes Mellitus Inadequately Controlled With Basal Insulin Therapy and Metformin With or Without One Other Oral Antidiabetic Drug (OAD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-04-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 453,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04232969",
+          "briefTitle": "Exenatide Once Weekly Over 2 Years as a Potential Disease Modifying Treatment for Parkinson's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Parkinson's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 194,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04098432",
+          "briefTitle": "STR + Anti PD-1 Therapy in Patients with Locally Advanced Unresectable Pancreatic Adenocarcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Locally Advanced Unresectable Pancreatic Adenocarcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02501161",
+          "briefTitle": "A 104 Week Clinical Trial Comparing Long Term Glycaemic Control of Insulin Degludec/Liraglutide (IDegLira) Versus Insulin Glargine Therapy in Subjects With Type 2 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1012,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03172494",
+          "briefTitle": "A Trial Comparing Insulin Degludec/Liraglutide, Insulin Degludec, and Liraglutide in Chinese Subjects With Type 2 Diabetes Inadequately Controlled on Oral Antidiabetic Drugs (OADs)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 720,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05702931",
+          "briefTitle": "Semaglutide Treatment for Hyperglycaemia After Renal Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hyperglycemia", "Renal Transplant Complication Primary Non-Function", "Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05949281",
+          "briefTitle": "Repurposing Colchicine for Reduction of Residual Inflammatory Risk in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 1 Diabetes", "Cardiovascular Diseases", "Chronic Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04401384",
+          "briefTitle": "Effectiveness of Acupuncture and Doxylamine/Pyridoxine for Moderate to Severe Nausea and Vomiting in Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nausea and Vomiting of Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 352,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04773353",
+          "briefTitle": "Efficacy and Safety of FE 999049 in Controlled Ovarian Stimulation in Indian Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infertility"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05423522",
+          "briefTitle": "Clinical Safety and Efficacy Evaluation of NanoLithium® NP03 in Patients With Mild-to-severe Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alzheimer's Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04530630",
+          "briefTitle": "Switch to Bictegravir/Emtricitabine/Tenofovir Alafenamide (BIC/F/TAF) After Renal Transplant"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV Infections", "Renal Transplant Rejection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04846036",
+          "briefTitle": "The KHENERGYC Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mitochondrial Diseases", "Mitochondrial DNA tRNALeu(UUR) m.3243A<G Mutation", "MELAS", "Subacute Necrotizing Encephalomyelopathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06321458",
+          "briefTitle": "Intensive Weight Loss Intervention Versus Usual Care for Adults With Severe and Complex Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2048-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04676763",
+          "briefTitle": "Substance P Challenge in Healthy Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Skin Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06321432",
+          "briefTitle": "Intensive Weight Loss Intervention Versus Usual Care for Adults With Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2048-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      }
+    ]
+  }
+}

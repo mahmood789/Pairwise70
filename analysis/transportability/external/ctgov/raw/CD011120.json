@@ -1,0 +1,100 @@
+{
+  "query": "adverse attempts cause cessation",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03603353",
+          "briefTitle": "The ESTxENDS Trial- Substudy on the Effects of Using Electronic Nicotine Delivery Systems (ENDS) on Sleep Quality."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Sleep"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1246,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03603340",
+          "briefTitle": "The ESTxENDS Trial- Substudy on the Effects of Using Electronic Nicotine Delivery Systems (ENDS) on Depression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Depression"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1246,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06832098",
+          "briefTitle": "Nicotine Patch Plus Nicotine Mouth Spray Versus Nicotine Reduction for Vaping Cessation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vaping Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 774,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      }
+    ]
+  }
+}

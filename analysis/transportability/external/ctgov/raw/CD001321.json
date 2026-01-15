@@ -1,0 +1,191 @@
+{
+  "query": "culture symptomatic verified clinical",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06884176",
+          "briefTitle": "CVCs Versus Midline Catheters"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Central Venous Catheter", "Midline Catheter", "Complication of Catheter"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01302418",
+          "briefTitle": "Collection and Testing of Respiratory Samples"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["QIAGEN ResPlex II Advanced Panel", "Influenza A", "Respiratory Syncytial Virus Infections", "Infection Due to Human Parainfluenza Virus 1", "Parainfluenza Type 2", "Parainfluenza Type 3", "Parainfluenza Type 4", "Human Metapneumovirus A/B", "Rhinovirus", "Coxsackie Virus/Echovirus", "Adenovirus Types B/C/E", "Coronavirus Subtypes 229E", "Coronavirus Subtype NL63", "Coronavirus Subtype OC43", "Coronavirus Subtype HKU1", "Human Bocavirus", "Artus Influenza A/B RT-PCR Test", "Influenza B"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 272,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02204891",
+          "briefTitle": "Probiotics in Intestinal Bacterial Overgrowth"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Irritable Bowel Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04140916",
+          "briefTitle": "Comparison of Two Peripheral Inserted Intravenous Catheters"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Catheter-Related Infections", "Catheter Related Complication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 304,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04028115",
+          "briefTitle": "Bone Healing During Ninlaro Exposure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02679456",
+          "briefTitle": "Safety and Efficacy of Oral Ibrexafungerp (SCY-078) vs. Oral Fluconazole in Subjects With Vulvovaginal Candidiasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11"
+          },
+          "completionDateStruct": {
+            "date": "2016-08-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vulvovaginal Candidiasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

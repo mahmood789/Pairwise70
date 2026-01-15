@@ -1,0 +1,4086 @@
+{
+  "query": "adverse cause hospital hypoglycaemia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05900284",
+          "briefTitle": "Safety and Feasibility of Metformin for Sepsis Induced AKI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sepsis", "Septic Shock", "Acute Kidney Injury", "Metformin"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06013865",
+          "briefTitle": "Empagliflozin Treatment in Kidney Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Transplant", "Chronic Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 264,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07045298",
+          "briefTitle": "CGM Use in Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01060241",
+          "briefTitle": "Effect of Internet Therapeutic Intervention on A1C Levels in Type 2 Diabetes Mellitus (DM) on Combination Oral Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07307235",
+          "briefTitle": "Efficacy and Safety of iGlarLixi Versus Standard of Care in a Real-world Adult China Population With Uncontrolled Type 2 Diabetes on Oral Agents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1316,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01790594",
+          "briefTitle": "Optimization of NULOJIX® Usage Towards Minimizing CNI Exposure in Simultaneous Pancreas and Kidney Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Simultaneous Kidney and Pancreas Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02880371",
+          "briefTitle": "A Study of ARRY-382 in Combination With Pembrolizumab for the Treatment of Patients With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Solid Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03637491",
+          "briefTitle": "A Study of Avelumab, Binimetinib and Talazoparib in Patients With Locally Advanced or Metastatic RAS-mutant Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pancreatic Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07085455",
+          "briefTitle": "The Effect of the Timing of Supplemental Parenteral Nutrition on the Prognosis of Critically Ill Patients (T-SPN)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-07-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Organ Dysfunction", "Enteral Nutrition Intolerance", "Inadequate Nutritional Intake"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 946,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02442791",
+          "briefTitle": "GLP-1 Analogs for Neuroprotection After Cardiac Arrest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiac Arrest", "Coma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02534181",
+          "briefTitle": "Refeeding Syndrome in Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07"
+          },
+          "completionDateStruct": {
+            "date": "2017-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Refeeding Syndrome", "Cancer", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03817463",
+          "briefTitle": "A Study to Observe the Effectiveness of Empagliflozin, Other SGLT-2 Inhibitors, or DPP-4 Inhibitors in Patients With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 327624,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01576406",
+          "briefTitle": "Hepatic Impairment Study For Crizotinib In Advanced Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 88,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03240432",
+          "briefTitle": "Wireless Innovation for Seniors With Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01379898",
+          "briefTitle": "Phenoxybenzamine Versus Doxazosin in PCC Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pheochromocytoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 134,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05709392",
+          "briefTitle": "Preterm DElayed Cord Clamping and Early Skin-to-Skin Contact: PreDECESS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bonding", "Stress", "Breastfeeding", "Child Development", "Adverse Events"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Weeks",
+          "maximumAge": "34 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02673931",
+          "briefTitle": "GLP-1 and Hyperoxia for Organ Protection in Heart Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Disease", "Shock, Cardiogenic", "Renal Failure", "Stroke", "Brain Injury", "Aortic Valve Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02133742",
+          "briefTitle": "A Dose Finding Study To Evaluate Safety, Drug Interaction, Tumor Markers Of Axitinib In Combination With MK-3475 In Adult Patients With Previously Untreated Advanced Renal Cell Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03012529",
+          "briefTitle": "Investigation of Rifampin to Reduce Pedal Amputations for Osteomyelitis in Diabetics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Osteomyelitis", "Diabetes", "Amputation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 843,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00293735",
+          "briefTitle": "Labetalol Versus Magnesium Sulfate (MgSO4) for the Prevention of Eclampsia Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "completionDateStruct": {
+            "date": "2017-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Pregnancy Induced Hypertension", "Gestational Hypertension", "Chronic Hypertension", "Superimposed Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02499146",
+          "briefTitle": "Palbociclib Pharmacokinetics Study In Postmenopausal Chinese Women With ER (+), HER2 (-) Advanced Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00574405",
+          "briefTitle": "Preservation of Pancreatic Beta Cell Function Through Insulin Pump Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-04"
+          },
+          "completionDateStruct": {
+            "date": "2011-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06872372",
+          "briefTitle": "Role of N-Acetylcysteine in Non-Acetaminophen-Induced Acute Liver Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Liver Failure", "Drug-Induced Liver Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01162694",
+          "briefTitle": "Comparing Internet Blood Glucose Monitoring System and Continuous Glucose Monitoring System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06569251",
+          "briefTitle": "Adverse Neonatal Outcomes with a Shortened Clinical Regimen of Dexamethasone."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Distress Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04799912",
+          "briefTitle": "Labor Induction in Low-risk Nulliparous Women at 39 Weeks of Gestation to Reduce Cesarean: A Randomized Trial of Induction Versus Expectant Management in France (FRENCH-ARRIVE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cesarean Section"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01044368",
+          "briefTitle": "Effect of Internet Therapeutic Intervention on A1C Levels in Type 2 Diabetes Mellitus (DM) on Monotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06964620",
+          "briefTitle": "Efficacy and Safety of Sanggua Tablets in the Treatment of Patients With Impaired Glucose Tolerance and Mild Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-22",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Impaired Glucose Tolerance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01307267",
+          "briefTitle": "A Study Of PF-05082566 As A Single Agent And In Combination With Rituximab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lymphoma, Non-Hodgkin", "Lymphoma, Follicular", "Lymphoma, Large B-Cell, Diffuse", "Carcinoma, Non-Small-Cell Lung", "Carcinoma, Renal Cell", "Carcinoma, Squamous Cell of Head and Neck", "Malignant Melanoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02377388",
+          "briefTitle": "DPP-4 Inhibitors and Acute Myocardial Infarction:Effects on Platelet Function"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Platelet Aggregation During Acute Myocardial Infarction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06140147",
+          "briefTitle": "Protocolized Reduction of Non-resuscitation Fluids Versus Usual Care in Septic Shock Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Septic Shock"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1850,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02493751",
+          "briefTitle": "A Study Of Avelumab In Combination With Axitinib In Advanced Renal Cell Cancer (JAVELIN Renal 100)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Cell Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02325674",
+          "briefTitle": "MEASuRE: Metreleptin Effectiveness And Safety Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Generalised Lipodystrophy", "Partial Lipodystrophy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03148795",
+          "briefTitle": "A Study of Talazoparib in Men With DNA Repair Defects and Metastatic Castration-Resistant Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 128,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04012138",
+          "briefTitle": "Insulin Dextrose Infusion vs Nebulized Salbutamol vs Combination of Salbutamol and Insulin Dextrose in Acute Hyperkalemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hyperkalemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 525,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04851015",
+          "briefTitle": "Low Dose Trimethoprim-Sulfamethoxazole for the Treatment of Pneumocystis Jirovecii Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pneumocystis", "Pneumocystis Pneumonia", "Pneumocystis Jirovecii Infection", "Pneumocystis Infections", "Pneumocystis Carinii Infection", "Pneumocystosis; Pneumonia (Etiology)", "Pneumocystis Carinii; Infection, Resulting From HIV Disease", "Pneumocystosis Associated With AIDS"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04666818",
+          "briefTitle": "Efficacy of FGM in Pregestational Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus in Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06069375",
+          "briefTitle": "Study of Sodium Phenylbutyrate (ACER-001) for the Treatment of Patients With Medium Chain Acyl-CoA Dehydrogenase Deficiency (MCADD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Medium-chain Acyl-CoA Dehydrogenase Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03363464",
+          "briefTitle": "Comparative Effectiveness of Empagliflozin in the US"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 230000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01020916",
+          "briefTitle": "Target Temperature Management After Cardiac Arrest"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Out-of-hospital Cardiac Arrest"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 950,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02006342",
+          "briefTitle": "Effectiveness of Subcutaneous Glargine On The Time To Closure of The Anion Gap in Patients Presenting to the Emergency Department With Diabetic Keto-acidosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2013-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Ketoacidosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06742710",
+          "briefTitle": "Liraglutide Treatment in Obese Infertile PCOS Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["PCOS", "Obesity", "Infertility"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 890,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02038764",
+          "briefTitle": "A Study To Assess The Safety Of PF-06342674 In Adults With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02411253",
+          "briefTitle": "Low-dose rhIL-2 in Patients With Recently-diagnosed Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 141,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01999972",
+          "briefTitle": "A Phase 1b Study Of Axitinib In Combination With Crizotinib In Patients With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Solid Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05764057",
+          "briefTitle": "DAPAgliflozine to Attenuate Cardiac RemOdeling afTEr aCuTe myOcardial Infarction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["AMI", "STEMI", "NSTEMI", "Left Ventricular Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03416179",
+          "briefTitle": "A Study Evaluating Intensive Chemotherapy With or Without Glasdegib or Azacitidine With or Without Glasdegib In Patients With Previously Untreated Acute Myeloid Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukemia, Myeloid, Acute"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 730,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04841304",
+          "briefTitle": "Cardiac Arrhythmia in Patients with End-Stage Renal Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["End Stage Renal Disease on Dialysis", "Cardiac Arrhythmia", "Diabetes Mellitus", "Hypoglycemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04704830",
+          "briefTitle": "R21/Matrix-M in African Children Against Clinical Malaria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "5 Months",
+          "maximumAge": "36 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06287073",
+          "briefTitle": "JARDIANCE® Post Marketing Surveillance in Korean Patients With Chronic Kidney Disease (CKD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Disease, Chronic"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 299,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04876963",
+          "briefTitle": "HOLT-ED: Holter-monitoring in End-stage Renal Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Failure, Chronic", "Arrhythmias, Cardiac", "Heart Diseases", "Cardiovascular Diseases", "Kidney Diseases", "Renal Insufficiency, Chronic", "Renal Insufficiency"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 268,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02297438",
+          "briefTitle": "A Study Of Palbociclib (PD-0332991) + Letrozole VS. Placebo+ Letrozole For 1st Line Treatment Of Asian Postmenopausal Women With ER+/HER2- Advanced Breast Cancer [PALOMA-4]"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 340,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00678392",
+          "briefTitle": "Axitinib (AG 013736) As Second Line Therapy For Metastatic Renal Cell Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-09-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-02-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 723,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05626322",
+          "briefTitle": "Effects of Maplirpacept (PF-07901801),Tafasitamab, and Lenalidomide in People With Relapsed or Refractory Diffuse Large B-cell Lymphoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diffuse Large B-Cell Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00814190",
+          "briefTitle": "Effect of Internet Therapeutic Intervention on A1C Levels in Type 2 Diabetes Mellitus (DM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2009-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03677596",
+          "briefTitle": "A Study Of Two Inotuzumab Ozogamicin Doses in Relapsed/ Refractory Acute Lymphoblastic Leukemia Transplant Eligible Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Leukemia", "Precursor b-Cell Lymphoblastic Leukemia-Lymphoma", "ACUTE LYMPHOBLASTIC LEUKEMIA"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06855108",
+          "briefTitle": "Caffeine for Hypoxic Ischemic Encephalopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypoxic Ischemic Encephalopathy (HIE)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 830,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03665350",
+          "briefTitle": "Insulin Treatment in Diabetic Older People With Heart Failure."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Failure", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "70 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07041268",
+          "briefTitle": "Immunotherapy of the Recent-onset Type 1 Diabetes in Adolescents With Repeated Courses of Rituximab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 116,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03303378",
+          "briefTitle": "Effects of Melatonin on Reperfusion Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Reperfusion Injury, Myocardial"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04357782",
+          "briefTitle": "Administration of Intravenous Vitamin C in Novel Coronavirus Infection (COVID-19) and Decreased Oxygenation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Hypoxia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02947503",
+          "briefTitle": "Pregnancy Outcomes: Effects of Metformin Study (POEM Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2043-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes", "Insulin Resistance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06627322",
+          "briefTitle": "A Registry-based Randomized Controlled Trial in Type 2 Diabetes With Cardiovascular Risk Factors (REMATCH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5950,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03911869",
+          "briefTitle": "An Open-Label, Randomized, Multicenter Trial of Encorafenib + Binimetinib Evaluating a Standard-dose and a High-dose Regimen in Patients With BRAFV600-mutant Melanoma Brain Metastasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Brain Metastases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04992312",
+          "briefTitle": "A Study of Nasal Glucagon (LY900018) in Pediatric Participants With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06325202",
+          "briefTitle": "Closed Loop and Education for Hypoglycemia Awareness Restoration"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06309238",
+          "briefTitle": "Intensive Weight Loss Intervention Versus Bariatric Surgery for Adults With Severe and Complex Obesity: the LightBAR Randomised Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2048-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05161429",
+          "briefTitle": "BESTMED: Observational Evaluation of Second Line Therapy Medications in Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 550000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02963766",
+          "briefTitle": "A Study of Dulaglutide (LY2189265) in Children and Adolescents With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06127823",
+          "briefTitle": "Effect of Intensive Nutrition Training, Education, and Support in Gestational Diabetes - The INTENSE-GDM TRIAL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["GDM", "Gestational Diabetes", "Nutritional and Metabolic Diseases", "Nutrition Therapy", "Medical Nutrition Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04543188",
+          "briefTitle": "A FIH Study of PF-07284890 in Participants With BRAF V600 Mutant Solid Tumors With and Without Brain Involvement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malignant Melanoma", "Carcinoma, Non-Small-Cell Lung", "Brain Neoplasms, Primary", "Brain Neoplasms", "Malignant Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04035434",
+          "briefTitle": "A Safety and Efficacy Study Evaluating CTX110 in Subjects With Relapsed or Refractory B-Cell Malignancies (CARBON)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["B-cell Malignancy", "Non-Hodgkin Lymphoma", "B-cell Lymphoma", "Adult B Cell ALL"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06433414",
+          "briefTitle": "PAUSE: Sick Day Medication Management Mobile App Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Condition", "Adverse Event"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04531878",
+          "briefTitle": "BSEP Function Rescue During Childhood Inhereditary Cholestatic Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hereditary Diseases", "Cholestasis, Intrahepatic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03855995",
+          "briefTitle": "A Study Assessing the Safety, Efficacy, and Impact of GlaxoSmithKline Biologicals' RTS, S/AS01E Malaria Vaccine in Young Children Across Sub-Saharan Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malaria", "Malaria Vaccines"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 77969,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01945021",
+          "briefTitle": "Phase II Safety and Efficacy Study of Crizotinib in East Asian Patients With ROS1 Positive, ALK Negative Advanced NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non Small Cell Lung Cancer", "ROS1 Proto Oncogene", "Crizotinib"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 129,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03472560",
+          "briefTitle": "A Study of Avelumab in Combination With Axitinib In Non-Small Cell Lung Cancer (NSCLC) or Urothelial Cancer (Javelin Medley VEGF)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non-Small Cell Lung Cancer", "Urothelial Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02971631",
+          "briefTitle": "Gastrectomy, Eating Behaviour and GLP-1"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-08-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-09-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gastric Cancer", "Dumping Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06304857",
+          "briefTitle": "CardioPROTECTion with Dapagliflozin in Breast Cancer Patients Treated with AnthrAcycline - PROTECTAA TRIAL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Heart Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02501902",
+          "briefTitle": "Dose-Escalation Study Of Palbociclib + Nab-Paclitaxel In mPDAC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Pancreatic Ductal Adenocarcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 76,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03317496",
+          "briefTitle": "Safety And Efficacy Study Of Avelumab Plus Chemotherapy With Or Without Other Anti-Cancer Immunotherapy Agents In Patients With Advanced Malignancies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non-small Cell Lung Cancer", "Urothelial Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 67,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00566813",
+          "briefTitle": "Islet Transplantation in Type 1 Diabetic Patients Using the Edmonton Protocol of Steroid Free Immunosuppression"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-11"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03861039",
+          "briefTitle": "A Long-term Safety Study of Tirzepatide (LY3298176) in Participants With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 443,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06893939",
+          "briefTitle": "Limited Versus Extended Trophic Feeding (LET-FEED) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sepsis", "Length of Stay", "Mortality"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 350,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Hours",
+          "maximumAge": "36 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02185755",
+          "briefTitle": "Internet Monitoring vs Medication to Control Blood Sugar in Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03343054",
+          "briefTitle": "A Phase 1 Study Of Talazoparib, PARP Inhibitor, In Japanese Patients With Advanced Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neoplasms", "Breast Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02951156",
+          "briefTitle": "Avelumab In Combination Regimens That Include An Immune Agonist, Epigenetic Modulator, CD20 Antagonist and/or Conventional Chemotherapy in Patients With Relapsed or Refractory Diffuse Large B-cell Lymphoma (R/R DLBCL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diffuse Large B-Cell Lymphoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05307666",
+          "briefTitle": "MinMed: Do Older Adults do Better With Less Medication"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aging", "Adverse Drug Interaction", "Frailty"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00394303",
+          "briefTitle": "Tight Intra-Operative Glucose Control During Coronary Artery Bypass Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Bypass"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05641337",
+          "briefTitle": "Research on Optimal Strategy of Hypoglycemic Therapy for Cirrhosis With Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Liver Cirrhosis", "Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 184,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04307576",
+          "briefTitle": "A Treatment Study Protocol for Participants 0-45 Years With Acute Lymphoblastic Leukaemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2033-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukemia, Acute Lymphoblastic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6430,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03588104",
+          "briefTitle": "\"POWER2DM Evaluation Campaign\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type1 Diabetes Mellitus", "Type2 Diabetes Mellitus", "Diabetes Mellitus", "Health Behavior", "Self Efficacy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 222,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03727750",
+          "briefTitle": "Evaluating QTc, PK, Safety of Gemtuzumab Ozogamicin (GO) in Patients With CD33+ R/R AML"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ECG", "Pharmacokinetics", "Safety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06111443",
+          "briefTitle": "Effect of Dapagliflozin on the Recurrence of Atrial Tachyarrhythmia in Patients Undergoing Catheter Ablation of Atrial Fibrillation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation Recurrent", "Catheter Ablation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 196,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03184662",
+          "briefTitle": "Efficacy of a High-intensity Physical Activity Program on Renal Function in High Risk Patients With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type2 Diabetes", "Diabetic Kidney Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02228642",
+          "briefTitle": "Hypoglycemia in Hospitalized Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Hypoglycemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03062280",
+          "briefTitle": "A Study of the Efficacy, Safety and Tolerability of Chronocort in Treating CAH"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Congenital Adrenal Hyperplasia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04462367",
+          "briefTitle": "Northeast COVID-19 and Pregnancy Study Group"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID19", "Coronavirus Infection", "Pregnancy Disease", "Severe Acute Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00866619",
+          "briefTitle": "Efficacy of GSK Biologicals' Candidate Malaria Vaccine 257049 Against Malaria Disease in Infants and Children in Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15459,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Weeks",
+          "maximumAge": "17 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05659537",
+          "briefTitle": "A Study of Dulaglutide (LY2189265) in Participants With Type 2 Diabetes Mellitus in India"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 212,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05949281",
+          "briefTitle": "Repurposing Colchicine for Reduction of Residual Inflammatory Risk in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 1 Diabetes", "Cardiovascular Diseases", "Chronic Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "35 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07021495",
+          "briefTitle": "SKIN Disease Profiling by an Exploratory, pRospective, Biomarker Study in dermatoloGY Practice (SKINERGY)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Spontaneous Urticaria (CSU)", "Hidradenitis Suppurativa (HS)", "Psoriasis (PsO)", "Atopic Dermatitis (AD)", "CTCL/ Mycosis Fungoides"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 840,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06494683",
+          "briefTitle": "Efficacy and Safety of Pueraria Lobata Radix As an Adjuvant Treatment for Type 2 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02692326",
+          "briefTitle": "Impact of Cyclic Prolonged Parenteral Nutrition in Neonates"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cholestasis in Newborn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Days",
+          "maximumAge": "50 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05818826",
+          "briefTitle": "Early Versus Conventional Cessation of Hydrocortisone in Septic Shock"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Septic Shock", "Adverse Event", "Hydrocortisone", "Hyperglycemia", "Hypernatremia", "Muscle Weakness", "Superimposed Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05947916",
+          "briefTitle": "Real Time Continuous Glucose Monitoring System in T2DM With Pregnacy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type2diabetes", "Pregnancy Related", "Continuous Glucose Monitoring", "Time in Range", "Pregnancy Outcome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04251156",
+          "briefTitle": "Research Study of How Well Semaglutide Works in People Living With Overweight or Obesity."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obesity", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 375,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03914326",
+          "briefTitle": "A Heart Disease Study of Semaglutide in Patients With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9651,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04835233",
+          "briefTitle": "Management of Hypertension in the Early Postpartum: a Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy-Induced Hypertension in Postpartum", "Postpartum Pre-Eclampsia", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03819153",
+          "briefTitle": "A Research Study to See How Semaglutide Works Compared to Placebo in People With Type 2 Diabetes and Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3533,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03969719",
+          "briefTitle": "A Double-blind Study to Assess 2 Doses of an Investigational Product for 16 Weeks in Participants With Non-alcoholic Fatty Liver Disease and Type 2 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-alcoholic Steatohepatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 164,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04469855",
+          "briefTitle": "Post-Marketing Surveillance (Special Use-results Surveillance) on Long-term Use With Ozempic®"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3217,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04798586",
+          "briefTitle": "MAGNETISMM-2: Study of Elranatamab (PF-06863135) in Japanese Participants With Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsed or Refractory Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05585606",
+          "briefTitle": "Study of the Safety and Neuroprotective Capacity of Scp776 in Acute Ischemic Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke (AIS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01136746",
+          "briefTitle": "Hospital Management of Hyperglycemia Study of Insulin Glargine Plus Insulin Lispro Versus Human Regular Insulin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hyperglycemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07252401",
+          "briefTitle": "Terlipressin vs. Somatostatin in Cirrhotic Patients With Acute Gastrointestinal Bleeding and Acute Kidney Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Liver Cirrhosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02590822",
+          "briefTitle": "Diabetes Interventional Assessment of Slimming or Training to Lessen Inconspicuous Cardiovascular Dysfunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04369313",
+          "briefTitle": "Effect of DCC on Neonatal Jaundice and Blood Gas Analysis in Infants Born to GDM Mothers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes Mellitus", "Neonatal Hyperbilirubinemia", "Neonatal Asphyxia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03741530",
+          "briefTitle": "Glibenclamide Advantage in Treating Edema After Intracerebral Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intracerebral Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 220,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06165601",
+          "briefTitle": "Proteinuria in Renal Transplant Patients Treated with Dapagliflozin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Kidney Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02015130",
+          "briefTitle": "Individually Tailored Treatment of Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2246,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04183868",
+          "briefTitle": "Effects of empagliFlozin on myocardIal metabOlic Rate of glucosE Estimated Through 18FDG PET (FIORE Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Cardiovascular Risk Factor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03269136",
+          "briefTitle": "PF-06863135 As Single Agent And In Combination With Immunomodulatory Agents In Relapse/Refractory Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 101,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06959030",
+          "briefTitle": "An Observational Study on the Safety and Efficacy of Henagliflozin in Chinese Patients With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus (T2DM)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 10000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05431296",
+          "briefTitle": "Glucose Monitoring After Acute Myocardial Infarct in People With Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Acute Myocardial Infarction", "Acute Myocardial Infarction With ST Elevation", "Diabetes Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04585815",
+          "briefTitle": "Study of Immunotherapy (Sasanlimab) in Combination With Targeted Therapies in People With Advanced Non-small Cell Lung Cancer (NSCLC) (Landscape 1011 Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02971228",
+          "briefTitle": "Feasibility Trial Testing the Bionic Pancreas With ZP4207"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11"
+          },
+          "completionDateStruct": {
+            "date": "2017-06-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01154140",
+          "briefTitle": "A Clinical Trial Testing The Efficacy Of Crizotinib Versus Standard Chemotherapy Pemetrexed Plus Cisplatin Or Carboplatin In Patients With ALK Positive Non Squamous Cancer Of The Lung"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non Squamous Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 343,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05182970",
+          "briefTitle": "Metformin and Prevention of Cardiovascular Events in Patients With Acute Myocardial Infarction and Prediabetes (MIMET)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["PreDiabetes", "Acute Myocardial Infarction", "Non ST Elevation Myocardial Infarction", "ST Elevation Myocardial Infarction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01920061",
+          "briefTitle": "A Study Of PF-05212384 In Combination With Other Anti-Tumor Agents and in Combination With Cisplatin in Patients With Triple Negative Breast Cancer in an Expansion Arm (TNBC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05672836",
+          "briefTitle": "ENAVOgliflozin Outcome Trial in Patients With Severe Aortic Stenosis After Transcatheter Aortic Valve Replacement"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aortic Valve Stenosis", "Heart Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1040,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      }
+    ]
+  }
+}

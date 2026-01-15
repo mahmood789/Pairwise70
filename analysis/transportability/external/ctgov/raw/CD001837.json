@@ -1,0 +1,39 @@
+{
+  "query": "support behavioural bupropion combined",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06620562",
+          "briefTitle": "Improving Efficacity of Sleeve Gastrectomy With Naltrexone/Bupropion Extended-release Tablet"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity; Drug", "Obesity, Morbid"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

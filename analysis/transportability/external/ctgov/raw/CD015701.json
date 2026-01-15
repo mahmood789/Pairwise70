@@ -1,0 +1,71 @@
+{
+  "query": "acquisition activity adverse amenorrhoea",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03049735",
+          "briefTitle": "LIBERTY 1: Efficacy & Safety Study of Relugolix in Women With Heavy Menstrual Bleeding Associated With Uterine Fibroids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heavy Menstrual Bleeding", "Uterine Fibroid"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 388,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03103087",
+          "briefTitle": "LIBERTY 2: Efficacy & Safety Study of Relugolix in Women With Heavy Menstrual Bleeding Associated With Uterine Fibroids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heavy Menstrual Bleeding", "Uterine Fibroid"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 382,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      }
+    ]
+  }
+}

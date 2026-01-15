@@ -1,0 +1,719 @@
+{
+  "query": "hospital residents proportion analysis",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04271709",
+          "briefTitle": "Manhattan Vision Screening and Follow-Up Study (NYC-SIGHT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Glaucoma", "Vision Impairment and Blindness", "Cataract", "Diabetic Retinopathy", "Eye Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 749,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01774799",
+          "briefTitle": "Educational Video to Improve Nursing Home Care in End-stage Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2017-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 804,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01340222",
+          "briefTitle": "Monocyte Chemotactic Protein-1 (MCP-1) Expressing Monocytes to Predict Preterm Delivery: PhenoMAP Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preterm Labour"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04846907",
+          "briefTitle": "Mental Health of Professionals Working in Pediatric Intensive Care Units During the COVID-19 Pandemic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Burnout, Professional", "Stress Disorders, Post-Traumatic", "Anxiety", "Depression", "Compassion Fatigue"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06690684",
+          "briefTitle": "Identification and Functional Study of Novel Biomarkers for Cardiovascular Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Angiocardiography", "Heart Failure", "Ischemic Heart Disease", "Acute Myocardial Infarction (AMI)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05156073",
+          "briefTitle": "Shared Decision Making About Medication Use for People With Multiple Health Problems"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Polypharmacy", "Dementia", "Multiple Chronic Conditions", "Deprescribing", "Mild Cognitive Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04256395",
+          "briefTitle": "Efficacy of a Self-test and Self-alert Mobile Applet in Detecting Susceptible Infection of COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Susceptibility to Viral and Mycobacterial Infection"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 102456,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06331494",
+          "briefTitle": "Efficacy of Butylphthalide on Symptomatic Atherosclerotic Stenosis in Middle Cerebral Artery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemic Stroke, Acute", "Intracranial Atherosclerosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04679181",
+          "briefTitle": "Acceptability Assessment of an \"Organization of Care Integrating Artificial Intelligence and a Solution of Telemedicine\" on Care of the Nursing Home Residents Located in a Medical Desert: Pilot Study INTEL@MED-POC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Homes for the Aged"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 308,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02684188",
+          "briefTitle": "Rural Options At Discharge Model of Active Planning"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "All Causes Hospital Admissions"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 127,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03088501",
+          "briefTitle": "Participant Engagement and Retention Trial in a Public Hospital (PERTH): An RCT Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intervention Study"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 171,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04945681",
+          "briefTitle": "Evaluating the Effectiveness of a Pneumococcal Immunisation Campaign in a Camp for Internally Displaced People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pneumococcal Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2882,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Weeks",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05158790",
+          "briefTitle": "Impact of Covid-19 on Training for ENT and Cervico-Facial Surgery Residents in France"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervico-Facial Surgery ENT Academic Medical and Surgical Training in France", "Cervico-Facial Surgery ENT Medical Residency (Auvergne-Rhône-Alpes, Grand Est, Ile de France, Nouvelle Aquitaine and Provence-Alpes-Côte d'Azur Areas)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04762303",
+          "briefTitle": "Spread and Scale of a Polypharmacy App"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Polypharmacy", "Deprescribing", "Adverse Drug Event"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06420934",
+          "briefTitle": "Surgical Handwashing: Drying With One or Two Surgical Towels"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hand Hygiene", "Surgical Wound Infection", "Healthcare Associated Infection", "Medical Errors"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06400108",
+          "briefTitle": "Dementia Moves: Protocol for a Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Moderate to Severe Dementia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04297904",
+          "briefTitle": "Urinary Incontinence and Sedentary Behaviour in Nursing Homes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence in Old Age", "Sedentary Behavior"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01932632",
+          "briefTitle": "Medication Minimization for Long-term Care Residents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2016-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Polypharmacy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06641856",
+          "briefTitle": "Respiratory Virome Diversity and Baseline Immunity in Healthy Individuals in Shanghai"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Health Personnel"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03640845",
+          "briefTitle": "Impact of a Hospital Medication Expertise on Unplanned Hospitalizations at 3 Months of Nursing Homes Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Age Problem"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 364,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05561283",
+          "briefTitle": "Evaluation of the Satisfaction and Relevance of Leadership Training for Residents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Quality of Life", "Medical Residents"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01398761",
+          "briefTitle": "Development of a Sign-Out Tool to Improve Handoffs in Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Continuity of Patient Care", "Workflow", "Quality of Signout"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 295,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04207645",
+          "briefTitle": "Modification and Validation of the RIPASA Score for Diagnosis of Acute Appendicitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Appendicitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      }
+    ]
+  }
+}

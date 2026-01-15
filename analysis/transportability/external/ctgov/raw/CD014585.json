@@ -1,0 +1,103 @@
+{
+  "query": "dyspepsia global symptoms dichotomous",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04711993",
+          "briefTitle": "Investigation of the Effects of Different Exercise Programs in Patients With Restless Legs Syndrome."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Restless Legs Syndrome", "Anxiety", "Sleep"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04204421",
+          "briefTitle": "ESM in Functional Dyspepsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dyspepsia", "Dyspepsia and Other Specified Disorders of Function of Stomach"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02551029",
+          "briefTitle": "fMRI and Visceral Perception Upon Capsaicin Infusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Irritable Bowel Syndrome", "Colonic Diseases, Functional", "Dyspepsia", "Gastrointestinal Diseases", "Abdominal Pain", "Visceral Pain"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

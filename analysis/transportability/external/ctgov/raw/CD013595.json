@@ -1,0 +1,1376 @@
+{
+  "query": "month eortc adverse anaemia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07087561",
+          "briefTitle": "Short-Term Nutritional Enhancement Combined With Health Education in Postoperative Colorectal Cancer Patients: A Randomized Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-10-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer (Diagnosis)", "Malnutrition or Risk of Malnutrition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05764044",
+          "briefTitle": "Adjuvant Chemotherapy in cfHPV-DNA Plasma Positive Patients: A Biomarker In Locally Advanced Cervical Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Cancer", "Cervix Cancer", "Cervix Neoplasm"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 365,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04765098",
+          "briefTitle": "Tamoxifen Versus Etoposide After First Recurrence in GBM Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma Multiforme"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03611985",
+          "briefTitle": "Phase I/IIa Study of Pharmacokinetics and Safety of Epidiferphane™ and Taxanes in Breast Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03499353",
+          "briefTitle": "Talazoparib For Neoadjuvant Treatment Of Germline BRCA1/2 Mutation Patients With Early Human Epidermal Growth Factor Receptor 2 Negative Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Early Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03829449",
+          "briefTitle": "rVA576 (Coversin) Long Term Safety and Efficacy Surveillance Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05559827",
+          "briefTitle": "Efficacy of the antiCD38 Monoclonal Antibody Isatuximab in the Treatment of PCRA by Major ABO Mismatch After Allogeneic Hematopoietic Stem Cell Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Immunological Pure Red Cell Aplasia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04478266",
+          "briefTitle": "Amcenestrant (SAR439859) Plus Palbociclib as First Line Therapy for Patients With ER (+) HER2(-) Advanced Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1068,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00948389",
+          "briefTitle": "Study of CCNU (Lomustine) Plus Dasatinib in Recurrent Glioblastoma (GBM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10"
+          },
+          "completionDateStruct": {
+            "date": "2011-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07167329",
+          "briefTitle": "Real-World Effectiveness and Pharmacogenetics of Belzutifan in VHL Syndrome: The BELIEVE-VHL Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Von Hippel Lindau", "Von Hippel Lindau Disease", "Von Hippel Lindau-Deficient Clear Cell Renal Cell Carcinoma", "Hemangioblastoma (HB) of the Central Nervous System (CNS)", "PNET", "Retinal Angiomatous Proliferation", "Pheochromocytoma/Paraganglioma", "Endolymphatic Sac Tumor"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01774721",
+          "briefTitle": "ARCHER1050: A Study of Dacomitinib vs. Gefitinib in 1st-Line Treatment Of Advanced NSCLC."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-small Cell Lung Cancer With EGFR-Activating Mutations"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 452,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02320487",
+          "briefTitle": "A Study of Obinutuzumab + Bendamustine (BG) in Participants With Previously Untreated Chronic Lymphocytic Leukemia (CLL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Lymphocytic Leukemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02099669",
+          "briefTitle": "Red Blood Cell Transfusion Thresholds and QOL in MDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "completionDateStruct": {
+            "date": "2019-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myelodysplastic Syndromes (MDS)", "Quality of Life", "Red Blood Cell (RBC) Transfusions"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00824265",
+          "briefTitle": "Ofatumumab Added to Fludarabine-Cyclophosphamide vs Fludarabine-Cyclophosphamide Combination in Relapsed Subjects With Chronic Lymphocytic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-10-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukaemia, Lymphocytic, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 365,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05237713",
+          "briefTitle": "Efficacy and Safety of Canakinumab for the Treatment of Anemia in LR-MDS Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anemia", "Myelodysplastic Syndromes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03188536",
+          "briefTitle": "Clinical and Sociodemographic Characterization of Multiple Myeloma Participants With Symptomatic Relapse and/or Refractory Disease in Spain (CharisMMa Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 282,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04128943",
+          "briefTitle": "Electronic Patient-reported Outcome Monitoring in Aplastic Anemia and Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Aplastic Anemia", "Paroxysmal Nocturnal Hemoglobinuria"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03280303",
+          "briefTitle": "Palbociclib in Real World Practice"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Advanced Breast Cancer", "Metastatic Breast Cancer"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1285,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07075250",
+          "briefTitle": "Safety and Efficacy of RIF Combined With Anlotinib in the Treatment of Patients With Advanced Recurrent Platinum-Resistant Ovarian Cancer: A Prospective, Multicenter Clinical Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Platinum-resistant Ovarian Cancer (PROC)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04173533",
+          "briefTitle": "Randomised Study of Oral Azacitidine vs Placebo Maintenance in AML or MDS Patients After Allo-SCT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Myeloid Leukemia", "Myelodysplasia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 326,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02818426",
+          "briefTitle": "Universal Cancer Peptide-based Vaccination in Metastatic NSCLC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Non-small Cell Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "89 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04741945",
+          "briefTitle": "Repurposing Metformin As a Leukemia-preventive Drug in CCUS and LR-MDS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preleukemia", "Myelodysplastic Neoplasm", "Cytopenia", "Preleukemic Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03654534",
+          "briefTitle": "Oral Nutritional Supplements Compared With Standard Diet in Postoperative Gastric Cancer Patients With Adjuvant Chemotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastric Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 374,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06791018",
+          "briefTitle": "Cancer Exercise: Evaluation of a Mobile App in Breast Cancer Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Breast Cancer Early Stage Breast Cancer (Stage 1-3)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05074290",
+          "briefTitle": "Pharmacokinetics and Safety of Epidiferphane and Taxanes in Breast Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03301220",
+          "briefTitle": "A Study of Subcutaneous Daratumumab Versus Active Monitoring in Participants With High-Risk Smoldering Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoldering Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 390,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06648096",
+          "briefTitle": "Afatinib in Patients with Fanconi Anemia (FA) and Advanced Head and Neck Squamous Cell Carcinoma (HNSCC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fanconi Anemia", "Head and Neck Squamous Cell Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03157635",
+          "briefTitle": "Study to Assess Safety, Efficacy, Pharmacokinetics, and Pharmacodynamics of Crovalimab in Healthy Volunteers and Participants With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Paroxysmal Hemoglobinuria, Nocturnal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01484275",
+          "briefTitle": "A Study of Siltuximab (Anti- IL 6 Monoclonal Antibody) in Patients With High-risk Smoldering Multiple Myeloma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "High-risk Smoldering Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01942135",
+          "briefTitle": "Palbociclib (PD-0332991) Combined With Fulvestrant In Hormone Receptor+ HER2-Negative Metastatic Breast Cancer After Endocrine Failure (PALOMA-3)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 521,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07164534",
+          "briefTitle": "A Clinical Trial to Assess the Effectiveness of NRF2 Activator (Oral Sodium-copper- Chlophyllin ) in Locally Advanced Cervical Cancer to Reduce Late Radiotherapy Toxicity."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Uterine Cervical Neoplasm"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 316,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01241500",
+          "briefTitle": "Randomized Study of ON 01910.Na in Refractory Myelodysplastic Syndrome Patients With Excess Blasts"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myelodysplastic Syndromes", "MDS", "RAEB", "Chronic Myelomonocytic Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 299,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05201508",
+          "briefTitle": "Sutures Versus Polyglactin Mesh in Hiatal Hernia Repair"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2043-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Paraesophageal Hernia", "Hiatal Hernia", "Hiatal Hernia, Paraesophageal", "Recurrence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05351931",
+          "briefTitle": "Role of Antisecretory Factor in Curative Radiochemotherapy for Anal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anal Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04285567",
+          "briefTitle": "A Study to Compare the Efficacy and Safety of a Combined Regimen of Venetoclax and Obinutuzumab Versus Fludarabine, Cyclophosphamide, and Rituximab (FCR)/ Bendamustine And Rituximab (BR) in FIT Patients With Previously Untreated Chronic Lymphocytic Leukemia (CLL) Without DEL (17P) or TP53 Mutation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Lymphocytic Leukemia (CLL)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 166,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02296918",
+          "briefTitle": "Acalabrutinib in Combination With Anti-CD20 and Venetoclax in Relapsed/Refractory or Untreated CLL/SLL/PLL"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Lymphocytic Leukemia", "Small Lymphocytic Lymphoma", "Prolymphocytic Leukemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00748189",
+          "briefTitle": "Ofatumumab + Chlorambucil vs Chlorambucil Monotherapy in Previously Untreated Patients With Chronic Lymphocytic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukaemia, Lymphocytic, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 447,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05384691",
+          "briefTitle": "Efficacy of Luspatercept in ESA-naive LR-MDS Patients With or Without Ring Sideroblasts Who do Not Require Transfusions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myelodysplastic Syndromes", "Anemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 213,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04585815",
+          "briefTitle": "Study of Immunotherapy (Sasanlimab) in Combination With Targeted Therapies in People With Advanced Non-small Cell Lung Cancer (NSCLC) (Landscape 1011 Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Non-Small-Cell Lung"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00532129",
+          "briefTitle": "A Study of MabThera (Rituximab) Plus Chlorambucil in Participants With Chronic Lymphocytic Leukemia."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-11"
+          },
+          "completionDateStruct": {
+            "date": "2012-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lymphocytic Leukemia, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01224496",
+          "briefTitle": "Traditional Chinese Medicine in the Supportive Management of Anaemic and Cytopenic (Leukopenia, Thrombocytopenia) Haematological Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "completionDateStruct": {
+            "date": "2011-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Myelodysplastic Syndrome (MDS)", "Aplastic Anaemia (AA)", "Myelofibrosis (MF)", "Thalassemia Intermedia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01313689",
+          "briefTitle": "Ofatumumab vs Physician's Choice in Subjects With Bulky Fludarabine-Refractory Chronic Lymphocytic Leukemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukaemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01154140",
+          "briefTitle": "A Clinical Trial Testing The Efficacy Of Crizotinib Versus Standard Chemotherapy Pemetrexed Plus Cisplatin Or Carboplatin In Patients With ALK Positive Non Squamous Cancer Of The Lung"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-11-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non Squamous Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 343,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01039376",
+          "briefTitle": "Ofatumumab Maintenance Treatment vs No Further Treatment in Relapsed CLL Responding to Induction Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Leukaemia, Lymphocytic, Chronic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 480,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      }
+    ]
+  }
+}

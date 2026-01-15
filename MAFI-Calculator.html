@@ -1,0 +1,1771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAFI Calculator - Meta-Analysis Fragility Index</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --success: #16a34a;
+            --warning: #ca8a04;
+            --danger: #dc2626;
+            --info: #0891b2;
+            --bg: #f8fafc;
+            --card: #ffffff;
+            --text: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+            --robust: #22c55e;
+            --low: #84cc16;
+            --moderate: #f59e0b;
+            --high: #ef4444;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            opacity: 0.9;
+            font-size: 1.1rem;
+        }
+
+        .card {
+            background: var(--card);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border);
+        }
+
+        .card h2 {
+            color: var(--primary);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--border);
+            font-size: 1.4rem;
+        }
+
+        .card h3 {
+            color: var(--text);
+            margin: 20px 0 15px;
+            font-size: 1.1rem;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 24px;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+        }
+
+        .form-group {
+            margin-bottom: 16px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 500;
+            color: var(--text);
+        }
+
+        input, select, textarea {
+            width: 100%;
+            padding: 10px 14px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        input:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        textarea {
+            min-height: 150px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 13px;
+        }
+
+        button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+        }
+
+        .btn-secondary {
+            background: var(--border);
+            color: var(--text);
+        }
+
+        .btn-secondary:hover {
+            background: #cbd5e1;
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-danger {
+            background: var(--danger);
+            color: white;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--bg);
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        tr:hover {
+            background: var(--bg);
+        }
+
+        .study-row input {
+            width: 100%;
+            padding: 8px;
+        }
+
+        .remove-btn {
+            background: var(--danger);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+        }
+
+        .stat-box {
+            background: var(--bg);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .stat-box .value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .stat-box .label {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-top: 5px;
+        }
+
+        .mafi-score {
+            font-size: 4rem;
+            font-weight: 800;
+            text-align: center;
+            padding: 30px;
+            border-radius: 16px;
+            margin: 20px 0;
+        }
+
+        .mafi-robust { background: linear-gradient(135deg, #dcfce7, #bbf7d0); color: #166534; }
+        .mafi-low { background: linear-gradient(135deg, #fef9c3, #fef08a); color: #854d0e; }
+        .mafi-moderate { background: linear-gradient(135deg, #ffedd5, #fed7aa); color: #9a3412; }
+        .mafi-high { background: linear-gradient(135deg, #fee2e2, #fecaca); color: #991b1b; }
+
+        .classification-label {
+            font-size: 1.5rem;
+            font-weight: 600;
+            display: block;
+            margin-top: 10px;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .badge-robust { background: var(--robust); color: white; }
+        .badge-low { background: var(--low); color: white; }
+        .badge-moderate { background: var(--moderate); color: white; }
+        .badge-high { background: var(--high); color: white; }
+
+        .progress-bar {
+            height: 24px;
+            background: var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            transition: width 0.5s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            font-size: 12px;
+        }
+
+        .forest-plot {
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+
+        .forest-row {
+            display: flex;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .forest-label {
+            width: 150px;
+            font-weight: 500;
+            flex-shrink: 0;
+        }
+
+        .forest-plot-area {
+            flex: 1;
+            position: relative;
+            height: 30px;
+            margin: 0 20px;
+        }
+
+        .forest-line {
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .forest-null {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--text-muted);
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .forest-point {
+            position: absolute;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 12px;
+            height: 12px;
+            background: var(--primary);
+            border-radius: 50%;
+        }
+
+        .forest-ci {
+            position: absolute;
+            top: 50%;
+            height: 4px;
+            background: var(--primary);
+            transform: translateY(-50%);
+            border-radius: 2px;
+        }
+
+        .forest-effect {
+            width: 100px;
+            text-align: right;
+            font-family: monospace;
+            flex-shrink: 0;
+        }
+
+        .fragility-indicator {
+            width: 80px;
+            text-align: center;
+            flex-shrink: 0;
+        }
+
+        .tabs {
+            display: flex;
+            border-bottom: 2px solid var(--border);
+            margin-bottom: 20px;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            margin-bottom: -2px;
+            font-weight: 500;
+            color: var(--text-muted);
+            transition: all 0.2s;
+        }
+
+        .tab:hover {
+            color: var(--primary);
+        }
+
+        .tab.active {
+            color: var(--primary);
+            border-bottom-color: var(--primary);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .info-box {
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 16px 0;
+            color: #1e40af;
+        }
+
+        .warning-box {
+            background: #fef3c7;
+            border: 1px solid #fcd34d;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 16px 0;
+            color: #92400e;
+        }
+
+        .component-bar {
+            display: flex;
+            height: 40px;
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 15px 0;
+        }
+
+        .component-segment {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 11px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .component-segment:hover {
+            filter: brightness(1.1);
+        }
+
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-top: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .tooltip {
+            position: relative;
+            cursor: help;
+        }
+
+        .tooltip::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--text);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s;
+            z-index: 100;
+        }
+
+        .tooltip:hover::after {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        @media (max-width: 768px) {
+            .grid-2, .grid-3, .grid-4 {
+                grid-template-columns: 1fr;
+            }
+
+            header h1 {
+                font-size: 1.8rem;
+            }
+
+            .mafi-score {
+                font-size: 3rem;
+            }
+        }
+
+        .export-section {
+            background: var(--bg);
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        #exportText {
+            width: 100%;
+            height: 200px;
+            font-family: monospace;
+            font-size: 12px;
+        }
+
+        .variant-comparison {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        .variant-card {
+            background: var(--bg);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .variant-card h4 {
+            margin-bottom: 10px;
+            color: var(--text-muted);
+        }
+
+        .variant-card .score {
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+
+        .clinical-input {
+            background: #fef3c7;
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 16px;
+        }
+
+        .inline-inputs {
+            display: flex;
+            gap: 16px;
+            align-items: end;
+        }
+
+        .inline-inputs .form-group {
+            flex: 1;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>MAFI Calculator</h1>
+            <p>Meta-Analysis Fragility Index - Comprehensive Robustness Assessment</p>
+        </header>
+
+        <!-- Input Section -->
+        <div class="card">
+            <h2>Study Data Input</h2>
+
+            <div class="tabs">
+                <div class="tab active" onclick="switchInputTab('manual')">Manual Entry</div>
+                <div class="tab" onclick="switchInputTab('paste')">Paste Data</div>
+                <div class="tab" onclick="switchInputTab('example')">Load Example</div>
+            </div>
+
+            <div id="manualInput" class="tab-content active">
+                <div class="grid-2">
+                    <div>
+                        <div class="form-group">
+                            <label>Effect Measure</label>
+                            <select id="effectMeasure">
+                                <option value="SMD">Standardized Mean Difference (SMD)</option>
+                                <option value="MD">Mean Difference (MD)</option>
+                                <option value="OR">Odds Ratio (OR)</option>
+                                <option value="RR">Risk Ratio (RR)</option>
+                                <option value="HR">Hazard Ratio (HR)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="clinical-input">
+                        <div class="form-group">
+                            <label>Clinical Threshold (Optional)</label>
+                            <input type="number" id="clinicalThreshold" step="0.01" placeholder="e.g., 0.5 for SMD, 1.25 for OR">
+                            <small style="color: var(--text-muted);">Minimum clinically important difference</small>
+                        </div>
+                    </div>
+                </div>
+
+                <h3>Study Data</h3>
+                <div style="overflow-x: auto;">
+                    <table id="studyTable">
+                        <thead>
+                            <tr>
+                                <th style="width: 180px;">Study Name</th>
+                                <th style="width: 120px;">Effect Size</th>
+                                <th style="width: 120px;">Standard Error</th>
+                                <th style="width: 120px;">Weight (optional)</th>
+                                <th style="width: 80px;">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="studyTableBody">
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-secondary" onclick="addStudyRow()">+ Add Study</button>
+                    <button class="btn-secondary" onclick="addMultipleRows()">+ Add 5 Studies</button>
+                    <button class="btn-danger" onclick="clearAllStudies()">Clear All</button>
+                </div>
+            </div>
+
+            <div id="pasteInput" class="tab-content">
+                <div class="info-box">
+                    <strong>Paste Format:</strong> Tab or comma-separated values with columns: Study Name, Effect Size, SE (optional: Weight)<br>
+                    <strong>Example:</strong><br>
+                    Smith 2020, 0.45, 0.12<br>
+                    Jones 2021, 0.32, 0.15
+                </div>
+                <div class="form-group">
+                    <label>Paste your data here:</label>
+                    <textarea id="pasteData" placeholder="Study1&#9;0.45&#9;0.12&#10;Study2&#9;0.32&#9;0.15"></textarea>
+                </div>
+                <button class="btn-primary" onclick="parseData()">Parse Data</button>
+            </div>
+
+            <div id="exampleInput" class="tab-content">
+                <div class="grid-3">
+                    <div class="stat-box" style="cursor: pointer;" onclick="loadExample('depression')">
+                        <div class="value" style="font-size: 1.5rem;">Depression</div>
+                        <div class="label">8 RCTs, SMD outcome</div>
+                    </div>
+                    <div class="stat-box" style="cursor: pointer;" onclick="loadExample('mortality')">
+                        <div class="value" style="font-size: 1.5rem;">Mortality</div>
+                        <div class="label">12 RCTs, OR outcome</div>
+                    </div>
+                    <div class="stat-box" style="cursor: pointer;" onclick="loadExample('pain')">
+                        <div class="value" style="font-size: 1.5rem;">Pain Relief</div>
+                        <div class="label">6 RCTs, MD outcome</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Analysis Button -->
+        <div style="text-align: center; margin: 30px 0;">
+            <button class="btn-primary" style="font-size: 1.2rem; padding: 16px 48px;" onclick="runAnalysis()">
+                Run MAFI Analysis
+            </button>
+        </div>
+
+        <!-- Results Section -->
+        <div id="resultsSection" class="hidden">
+
+            <!-- Meta-Analysis Results -->
+            <div class="card">
+                <h2>Meta-Analysis Results</h2>
+                <div class="grid-4">
+                    <div class="stat-box">
+                        <div class="value" id="pooledEffect">--</div>
+                        <div class="label">Pooled Effect</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="value" id="pooledCI">--</div>
+                        <div class="label">95% CI</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="value" id="pValue">--</div>
+                        <div class="label">P-value</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="value" id="numStudies">--</div>
+                        <div class="label">Studies (k)</div>
+                    </div>
+                </div>
+                <div class="grid-3" style="margin-top: 20px;">
+                    <div class="stat-box">
+                        <div class="value" id="i2Value">--</div>
+                        <div class="label">I² Heterogeneity</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="value" id="tau2Value">--</div>
+                        <div class="label">τ² (Between-study variance)</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="value" id="qValue">--</div>
+                        <div class="label">Q statistic (p-value)</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- MAFI Score -->
+            <div class="card">
+                <h2>MAFI Score - Primary Result</h2>
+                <div id="mafiScoreDisplay" class="mafi-score mafi-robust">
+                    <span id="mafiValue">0.00</span>
+                    <span class="classification-label" id="mafiClassification">Robust</span>
+                </div>
+
+                <div class="info-box">
+                    <strong>Interpretation:</strong>
+                    <span id="mafiInterpretation">This meta-analysis shows robust conclusions that are unlikely to change with study exclusion.</span>
+                </div>
+
+                <!-- MAFI Component Breakdown -->
+                <h3>MAFI Component Breakdown</h3>
+                <div class="component-bar" id="componentBar"></div>
+                <div class="legend" id="componentLegend"></div>
+
+                <!-- Variant Comparison -->
+                <h3>MAFI Variants Comparison</h3>
+                <div class="variant-comparison">
+                    <div class="variant-card">
+                        <h4>5-Component (Primary)</h4>
+                        <div class="score" id="mafi5comp">--</div>
+                        <span class="badge" id="mafi5compBadge">--</span>
+                    </div>
+                    <div class="variant-card">
+                        <h4>3-Component</h4>
+                        <div class="score" id="mafi3comp">--</div>
+                        <span class="badge" id="mafi3compBadge">--</span>
+                    </div>
+                    <div class="variant-card">
+                        <h4>Simple (DFI+SFI)</h4>
+                        <div class="score" id="mafiSimple">--</div>
+                        <span class="badge" id="mafiSimpleBadge">--</span>
+                    </div>
+                    <div class="variant-card">
+                        <h4>Empirical Weights</h4>
+                        <div class="score" id="mafiEmpirical">--</div>
+                        <span class="badge" id="mafiEmpiricalBadge">--</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fragility Components -->
+            <div class="card">
+                <h2>Fragility Analysis Details</h2>
+                <div class="grid-2">
+                    <div>
+                        <h3>Direction Fragility Index (DFI)</h3>
+                        <div class="stat-box">
+                            <div class="value" id="dfiValue">--</div>
+                            <div class="label">Studies that change effect direction</div>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="dfiBar" style="width: 0%; background: var(--primary);">0%</div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Significance Fragility Index (SFI)</h3>
+                        <div class="stat-box">
+                            <div class="value" id="sfiValue">--</div>
+                            <div class="label">Studies that change significance</div>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="sfiBar" style="width: 0%; background: var(--info);">0%</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="grid-2" style="margin-top: 20px;">
+                    <div>
+                        <h3>Clinical Fragility Index (CFI)</h3>
+                        <div class="stat-box">
+                            <div class="value" id="cfiValue">--</div>
+                            <div class="label">Studies that change clinical interpretation</div>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="cfiBar" style="width: 0%; background: var(--warning);">0%</div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Effect Stability & CI Fragility</h3>
+                        <div class="stat-box">
+                            <div class="value" id="effectStability">--</div>
+                            <div class="label">Max effect change | Fragility quotient</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Leave-One-Out Analysis -->
+            <div class="card">
+                <h2>Leave-One-Out Analysis</h2>
+                <div id="forestPlot" class="forest-plot"></div>
+            </div>
+
+            <!-- Recommendations -->
+            <div class="card">
+                <h2>Recommendations</h2>
+                <div id="recommendations"></div>
+            </div>
+
+            <!-- Export -->
+            <div class="card">
+                <h2>Export Results</h2>
+                <div class="btn-group">
+                    <button class="btn-primary" onclick="exportCSV()">Export CSV</button>
+                    <button class="btn-secondary" onclick="exportJSON()">Export JSON</button>
+                    <button class="btn-secondary" onclick="copyReport()">Copy Report</button>
+                </div>
+                <div class="export-section">
+                    <label>Report Text:</label>
+                    <textarea id="exportText" readonly></textarea>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer style="text-align: center; padding: 30px; color: var(--text-muted);">
+            <p>MAFI Calculator v1.0 | Based on analysis of 4,424 Cochrane meta-analyses</p>
+            <p>For research and educational purposes</p>
+        </footer>
+    </div>
+
+    <script>
+        // ============================================================
+        // MAFI Calculator - Complete Implementation
+        // ============================================================
+
+        // Global state
+        let studies = [];
+        let analysisResults = null;
+
+        // Initialize with some empty rows
+        document.addEventListener('DOMContentLoaded', () => {
+            addStudyRow();
+            addStudyRow();
+            addStudyRow();
+        });
+
+        // ============================================================
+        // Input Tab Management
+        // ============================================================
+
+        function switchInputTab(tab) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+            event.target.classList.add('active');
+            document.getElementById(tab + 'Input').classList.add('active');
+        }
+
+        // ============================================================
+        // Study Data Management
+        // ============================================================
+
+        function addStudyRow(name = '', effect = '', se = '', weight = '') {
+            const tbody = document.getElementById('studyTableBody');
+            const row = document.createElement('tr');
+            row.className = 'study-row';
+            row.innerHTML = `
+                <td><input type="text" placeholder="Study name" value="${name}"></td>
+                <td><input type="number" step="0.001" placeholder="Effect size" value="${effect}"></td>
+                <td><input type="number" step="0.001" placeholder="SE" value="${se}"></td>
+                <td><input type="number" step="0.001" placeholder="Auto" value="${weight}"></td>
+                <td><button class="remove-btn" onclick="removeStudyRow(this)">Remove</button></td>
+            `;
+            tbody.appendChild(row);
+        }
+
+        function addMultipleRows() {
+            for (let i = 0; i < 5; i++) addStudyRow();
+        }
+
+        function removeStudyRow(btn) {
+            btn.closest('tr').remove();
+        }
+
+        function clearAllStudies() {
+            document.getElementById('studyTableBody').innerHTML = '';
+            addStudyRow();
+            addStudyRow();
+        }
+
+        function getStudiesFromTable() {
+            const rows = document.querySelectorAll('#studyTableBody tr');
+            const studies = [];
+
+            rows.forEach(row => {
+                const inputs = row.querySelectorAll('input');
+                const name = inputs[0].value.trim();
+                const effect = parseFloat(inputs[1].value);
+                const se = parseFloat(inputs[2].value);
+                const weight = parseFloat(inputs[3].value);
+
+                if (name && !isNaN(effect) && !isNaN(se) && se > 0) {
+                    studies.push({
+                        name: name,
+                        effect: effect,
+                        se: se,
+                        weight: isNaN(weight) ? null : weight,
+                        variance: se * se
+                    });
+                }
+            });
+
+            return studies;
+        }
+
+        function parseData() {
+            const text = document.getElementById('pasteData').value;
+            const lines = text.trim().split('\n');
+
+            clearAllStudies();
+            document.getElementById('studyTableBody').innerHTML = '';
+
+            lines.forEach(line => {
+                const parts = line.split(/[,\t]+/).map(p => p.trim());
+                if (parts.length >= 3) {
+                    addStudyRow(parts[0], parts[1], parts[2], parts[3] || '');
+                }
+            });
+
+            switchInputTab('manual');
+            document.querySelector('.tab').click();
+        }
+
+        // ============================================================
+        // Example Data
+        // ============================================================
+
+        function loadExample(type) {
+            const examples = {
+                depression: {
+                    measure: 'SMD',
+                    threshold: 0.5,
+                    studies: [
+                        ['Smith 2018', -0.45, 0.15],
+                        ['Johnson 2019', -0.62, 0.18],
+                        ['Williams 2019', -0.38, 0.12],
+                        ['Brown 2020', -0.51, 0.14],
+                        ['Davis 2020', -0.29, 0.16],
+                        ['Miller 2021', -0.55, 0.13],
+                        ['Wilson 2021', -0.42, 0.17],
+                        ['Taylor 2022', -0.48, 0.11]
+                    ]
+                },
+                mortality: {
+                    measure: 'OR',
+                    threshold: 1.25,
+                    studies: [
+                        ['TRIAL-A 2015', 0.72, 0.18],
+                        ['TRIAL-B 2016', 0.85, 0.15],
+                        ['TRIAL-C 2017', 0.68, 0.22],
+                        ['TRIAL-D 2018', 0.91, 0.12],
+                        ['TRIAL-E 2018', 0.78, 0.19],
+                        ['TRIAL-F 2019', 0.82, 0.14],
+                        ['TRIAL-G 2019', 0.75, 0.21],
+                        ['TRIAL-H 2020', 0.88, 0.16],
+                        ['TRIAL-I 2020', 0.79, 0.13],
+                        ['TRIAL-J 2021', 0.84, 0.17],
+                        ['TRIAL-K 2021', 0.71, 0.20],
+                        ['TRIAL-L 2022', 0.86, 0.11]
+                    ]
+                },
+                pain: {
+                    measure: 'MD',
+                    threshold: 10,
+                    studies: [
+                        ['Chen 2019', -12.5, 3.2],
+                        ['Park 2020', -8.7, 4.1],
+                        ['Kumar 2020', -15.2, 2.8],
+                        ['Garcia 2021', -11.3, 3.5],
+                        ['Lee 2021', -9.8, 3.9],
+                        ['Ahmed 2022', -13.1, 2.5]
+                    ]
+                }
+            };
+
+            const example = examples[type];
+            document.getElementById('effectMeasure').value = example.measure;
+            document.getElementById('clinicalThreshold').value = example.threshold;
+
+            clearAllStudies();
+            document.getElementById('studyTableBody').innerHTML = '';
+
+            example.studies.forEach(s => addStudyRow(s[0], s[1], s[2]));
+
+            switchInputTab('manual');
+            document.querySelector('.tab').click();
+        }
+
+        // ============================================================
+        // Statistical Functions
+        // ============================================================
+
+        // Normal distribution functions
+        function normalCDF(x) {
+            const a1 =  0.254829592;
+            const a2 = -0.284496736;
+            const a3 =  1.421413741;
+            const a4 = -1.453152027;
+            const a5 =  1.061405429;
+            const p  =  0.3275911;
+
+            const sign = x < 0 ? -1 : 1;
+            x = Math.abs(x) / Math.sqrt(2);
+
+            const t = 1.0 / (1.0 + p * x);
+            const y = 1.0 - (((((a5 * t + a4) * t) + a3) * t + a2) * t + a1) * t * Math.exp(-x * x);
+
+            return 0.5 * (1.0 + sign * y);
+        }
+
+        function pValueFromZ(z) {
+            return 2 * (1 - normalCDF(Math.abs(z)));
+        }
+
+        // Chi-square CDF approximation
+        function chiSquareCDF(x, df) {
+            if (x <= 0) return 0;
+            const k = df / 2;
+            let sum = 0;
+            let term = Math.exp(-x / 2);
+
+            for (let i = 0; i < 100; i++) {
+                if (i === 0) {
+                    sum += term * Math.pow(x / 2, k - 1) / gamma(k);
+                } else {
+                    term *= x / (2 * (k + i - 1));
+                    sum += term;
+                }
+                if (term < 1e-10) break;
+            }
+            return sum;
+        }
+
+        function gamma(n) {
+            if (n === 1) return 1;
+            if (n === 0.5) return Math.sqrt(Math.PI);
+            if (n < 1) return gamma(n + 1) / n;
+
+            // Stirling approximation for larger values
+            const g = 7;
+            const c = [0.99999999999980993, 676.5203681218851, -1259.1392167224028,
+                       771.32342877765313, -176.61502916214059, 12.507343278686905,
+                       -0.13857109526572012, 9.9843695780195716e-6, 1.5056327351493116e-7];
+
+            if (n < 0.5) {
+                return Math.PI / (Math.sin(Math.PI * n) * gamma(1 - n));
+            }
+
+            n -= 1;
+            let x = c[0];
+            for (let i = 1; i < g + 2; i++) {
+                x += c[i] / (n + i);
+            }
+            const t = n + g + 0.5;
+            return Math.sqrt(2 * Math.PI) * Math.pow(t, n + 0.5) * Math.exp(-t) * x;
+        }
+
+        // ============================================================
+        // Meta-Analysis Functions
+        // ============================================================
+
+        function runRandomEffectsMA(studies) {
+            const k = studies.length;
+            if (k < 2) return null;
+
+            // Calculate weights (inverse variance)
+            studies.forEach(s => {
+                s.variance = s.se * s.se;
+                s.weight = 1 / s.variance;
+            });
+
+            // Fixed effect estimate first
+            const sumW = studies.reduce((a, s) => a + s.weight, 0);
+            const sumWY = studies.reduce((a, s) => a + s.weight * s.effect, 0);
+            const fixedEffect = sumWY / sumW;
+
+            // Q statistic
+            const Q = studies.reduce((a, s) => a + s.weight * Math.pow(s.effect - fixedEffect, 2), 0);
+            const df = k - 1;
+            const pQ = 1 - chiSquareCDF(Q, df);
+
+            // Tau-squared (DerSimonian-Laird)
+            const C = sumW - studies.reduce((a, s) => a + s.weight * s.weight, 0) / sumW;
+            let tau2 = Math.max(0, (Q - df) / C);
+
+            // I-squared
+            const I2 = Math.max(0, (Q - df) / Q * 100);
+
+            // Random effects weights
+            studies.forEach(s => {
+                s.reWeight = 1 / (s.variance + tau2);
+            });
+
+            const sumREW = studies.reduce((a, s) => a + s.reWeight, 0);
+            const sumREWY = studies.reduce((a, s) => a + s.reWeight * s.effect, 0);
+            const pooledEffect = sumREWY / sumREW;
+            const pooledSE = Math.sqrt(1 / sumREW);
+            const pooledZ = pooledEffect / pooledSE;
+            const pValue = pValueFromZ(pooledZ);
+            const ci95Lower = pooledEffect - 1.96 * pooledSE;
+            const ci95Upper = pooledEffect + 1.96 * pooledSE;
+
+            return {
+                k: k,
+                pooledEffect: pooledEffect,
+                pooledSE: pooledSE,
+                ci95Lower: ci95Lower,
+                ci95Upper: ci95Upper,
+                zValue: pooledZ,
+                pValue: pValue,
+                Q: Q,
+                pQ: pQ,
+                I2: I2,
+                tau2: tau2,
+                significant: pValue < 0.05,
+                direction: pooledEffect >= 0 ? 'positive' : 'negative'
+            };
+        }
+
+        // ============================================================
+        // Leave-One-Out Analysis
+        // ============================================================
+
+        function leaveOneOutAnalysis(studies, fullResult, clinicalThreshold) {
+            const effectMeasure = document.getElementById('effectMeasure').value;
+            const isRatio = ['OR', 'RR', 'HR'].includes(effectMeasure);
+            const nullValue = isRatio ? 1 : 0;
+
+            // For ratio measures, work with log scale
+            let workingStudies = studies.map(s => ({
+                ...s,
+                effect: isRatio ? Math.log(s.effect) : s.effect
+            }));
+
+            const looResults = [];
+            let directionChanges = 0;
+            let significanceChanges = 0;
+            let clinicalChanges = 0;
+            let maxEffectChange = 0;
+            let maxCIChange = 0;
+
+            const originalEffect = isRatio ? Math.log(fullResult.pooledEffect) : fullResult.pooledEffect;
+            const originalSig = fullResult.significant;
+
+            // Determine original clinical status
+            let originalClinical = null;
+            if (clinicalThreshold) {
+                if (isRatio) {
+                    originalClinical = fullResult.pooledEffect < (1 / clinicalThreshold) ||
+                                       fullResult.pooledEffect > clinicalThreshold;
+                } else {
+                    originalClinical = Math.abs(fullResult.pooledEffect) >= clinicalThreshold;
+                }
+            }
+
+            studies.forEach((study, i) => {
+                // Create subset without this study
+                const subset = workingStudies.filter((_, j) => j !== i);
+                const looResult = runRandomEffectsMA(subset);
+
+                if (!looResult) return;
+
+                const looEffect = looResult.pooledEffect;
+                const backTransformed = isRatio ? Math.exp(looEffect) : looEffect;
+
+                // Check direction change
+                const directionChanged = (originalEffect >= 0) !== (looEffect >= 0);
+                if (directionChanged) directionChanges++;
+
+                // Check significance change
+                const sigChanged = originalSig !== looResult.significant;
+                if (sigChanged) significanceChanges++;
+
+                // Check clinical change
+                let clinicalChanged = false;
+                if (clinicalThreshold) {
+                    let looClinical;
+                    if (isRatio) {
+                        looClinical = backTransformed < (1 / clinicalThreshold) ||
+                                      backTransformed > clinicalThreshold;
+                    } else {
+                        looClinical = Math.abs(backTransformed) >= clinicalThreshold;
+                    }
+                    clinicalChanged = originalClinical !== looClinical;
+                    if (clinicalChanged) clinicalChanges++;
+                }
+
+                // Calculate effect change
+                const effectChange = Math.abs(looEffect - originalEffect);
+                maxEffectChange = Math.max(maxEffectChange, effectChange);
+
+                // Calculate CI width change
+                const originalCIWidth = fullResult.ci95Upper - fullResult.ci95Lower;
+                const looCIWidth = looResult.ci95Upper - looResult.ci95Lower;
+                const ciChange = Math.abs(looCIWidth - originalCIWidth) / originalCIWidth;
+                maxCIChange = Math.max(maxCIChange, ciChange);
+
+                looResults.push({
+                    studyName: study.name,
+                    originalEffect: study.effect,
+                    pooledWithout: backTransformed,
+                    ciLower: isRatio ? Math.exp(looResult.ci95Lower) : looResult.ci95Lower,
+                    ciUpper: isRatio ? Math.exp(looResult.ci95Upper) : looResult.ci95Upper,
+                    pValue: looResult.pValue,
+                    I2: looResult.I2,
+                    directionChanged: directionChanged,
+                    significanceChanged: sigChanged,
+                    clinicalChanged: clinicalChanged,
+                    effectChange: effectChange
+                });
+            });
+
+            return {
+                looResults: looResults,
+                directionFragilityIndex: directionChanges,
+                significanceFragilityIndex: significanceChanges,
+                clinicalFragilityIndex: clinicalChanges,
+                maxEffectChange: maxEffectChange,
+                maxCIChange: maxCIChange,
+                fragilityQuotient: maxCIChange
+            };
+        }
+
+        // ============================================================
+        // MAFI Calculation
+        // ============================================================
+
+        function calculateMAFI(fragility, maResult, weights = {
+            direction: 0.30,
+            significance: 0.25,
+            clinical: 0.20,
+            effect: 0.15,
+            ci: 0.10
+        }) {
+            const k = maResult.k;
+
+            // Component rates
+            const dfiRate = fragility.directionFragilityIndex / k;
+            const sfiRate = fragility.significanceFragilityIndex / k;
+            const cfiRate = fragility.clinicalFragilityIndex / k;
+            const effectRate = Math.min(1, fragility.maxEffectChange);
+            const ciRate = Math.min(1, fragility.fragilityQuotient);
+
+            // Normalize weights
+            const totalWeight = weights.direction + weights.significance + weights.clinical +
+                               weights.effect + weights.ci;
+            const w = {
+                direction: weights.direction / totalWeight,
+                significance: weights.significance / totalWeight,
+                clinical: weights.clinical / totalWeight,
+                effect: weights.effect / totalWeight,
+                ci: weights.ci / totalWeight
+            };
+
+            // Core MAFI
+            const coreMAFI = w.direction * dfiRate +
+                            w.significance * sfiRate +
+                            w.clinical * cfiRate +
+                            w.effect * effectRate +
+                            w.ci * ciRate;
+
+            // Penalties
+            const hetPenalty = (maResult.I2 / 100) * 0.20;
+            const kPenalty = Math.max(0, (1 - k / 20) * 0.30);
+
+            // Final MAFI
+            const mafi = Math.min(1, coreMAFI + hetPenalty + kPenalty);
+
+            return {
+                score: mafi,
+                components: {
+                    direction: dfiRate,
+                    significance: sfiRate,
+                    clinical: cfiRate,
+                    effect: effectRate,
+                    ci: ciRate
+                },
+                penalties: {
+                    heterogeneity: hetPenalty,
+                    sampleSize: kPenalty
+                },
+                core: coreMAFI,
+                weights: w
+            };
+        }
+
+        function classifyMAFI(score) {
+            if (score <= 0.15) return { label: 'Robust', class: 'robust', badge: 'badge-robust' };
+            if (score <= 0.30) return { label: 'Low Fragility', class: 'low', badge: 'badge-low' };
+            if (score <= 0.50) return { label: 'Moderate Fragility', class: 'moderate', badge: 'badge-moderate' };
+            return { label: 'High Fragility', class: 'high', badge: 'badge-high' };
+        }
+
+        // ============================================================
+        // Main Analysis Function
+        // ============================================================
+
+        function runAnalysis() {
+            // Get study data
+            studies = getStudiesFromTable();
+
+            if (studies.length < 3) {
+                alert('Please enter at least 3 studies to perform meta-analysis.');
+                return;
+            }
+
+            // Get settings
+            const effectMeasure = document.getElementById('effectMeasure').value;
+            const clinicalThreshold = parseFloat(document.getElementById('clinicalThreshold').value) || null;
+            const isRatio = ['OR', 'RR', 'HR'].includes(effectMeasure);
+
+            // Transform ratio measures to log scale for analysis
+            let analysisStudies = studies.map(s => ({
+                ...s,
+                effect: isRatio ? Math.log(s.effect) : s.effect
+            }));
+
+            // Run meta-analysis
+            const maResult = runRandomEffectsMA(analysisStudies);
+
+            if (!maResult) {
+                alert('Error running meta-analysis. Please check your data.');
+                return;
+            }
+
+            // Back-transform for display
+            const displayResult = {
+                ...maResult,
+                pooledEffect: isRatio ? Math.exp(maResult.pooledEffect) : maResult.pooledEffect,
+                ci95Lower: isRatio ? Math.exp(maResult.ci95Lower) : maResult.ci95Lower,
+                ci95Upper: isRatio ? Math.exp(maResult.ci95Upper) : maResult.ci95Upper
+            };
+
+            // Run leave-one-out analysis
+            const fragility = leaveOneOutAnalysis(studies, displayResult, clinicalThreshold);
+
+            // Calculate MAFI variants
+            const mafi5comp = calculateMAFI(fragility, maResult, {
+                direction: 0.30, significance: 0.25, clinical: 0.20, effect: 0.15, ci: 0.10
+            });
+
+            const mafi3comp = calculateMAFI(fragility, maResult, {
+                direction: 0.35, significance: 0.35, clinical: 0.00, effect: 0.00, ci: 0.30
+            });
+
+            const mafiSimple = calculateMAFI(fragility, maResult, {
+                direction: 0.50, significance: 0.50, clinical: 0.00, effect: 0.00, ci: 0.00
+            });
+
+            const mafiEmpirical = calculateMAFI(fragility, maResult, {
+                direction: 0.17, significance: 0.30, clinical: 0.00, effect: 0.00, ci: 0.52
+            });
+
+            // Store results
+            analysisResults = {
+                studies: studies,
+                metaAnalysis: displayResult,
+                fragility: fragility,
+                mafi: {
+                    primary: mafi5comp,
+                    threeComp: mafi3comp,
+                    simple: mafiSimple,
+                    empirical: mafiEmpirical
+                },
+                settings: {
+                    effectMeasure: effectMeasure,
+                    clinicalThreshold: clinicalThreshold,
+                    isRatio: isRatio
+                }
+            };
+
+            // Display results
+            displayResults();
+        }
+
+        // ============================================================
+        // Display Functions
+        // ============================================================
+
+        function displayResults() {
+            const r = analysisResults;
+            const ma = r.metaAnalysis;
+            const frag = r.fragility;
+            const mafi = r.mafi.primary;
+            const isRatio = r.settings.isRatio;
+
+            // Show results section
+            document.getElementById('resultsSection').classList.remove('hidden');
+
+            // Meta-analysis results
+            document.getElementById('pooledEffect').textContent = ma.pooledEffect.toFixed(3);
+            document.getElementById('pooledCI').textContent =
+                `[${ma.ci95Lower.toFixed(3)}, ${ma.ci95Upper.toFixed(3)}]`;
+            document.getElementById('pValue').textContent =
+                ma.pValue < 0.001 ? '< 0.001' : ma.pValue.toFixed(4);
+            document.getElementById('numStudies').textContent = ma.k;
+            document.getElementById('i2Value').textContent = ma.I2.toFixed(1) + '%';
+            document.getElementById('tau2Value').textContent = ma.tau2.toFixed(4);
+            document.getElementById('qValue').textContent =
+                `${ma.Q.toFixed(2)} (p=${ma.pQ < 0.001 ? '<0.001' : ma.pQ.toFixed(3)})`;
+
+            // MAFI Score
+            const classification = classifyMAFI(mafi.score);
+            document.getElementById('mafiValue').textContent = mafi.score.toFixed(3);
+            document.getElementById('mafiClassification').textContent = classification.label;
+
+            const scoreDisplay = document.getElementById('mafiScoreDisplay');
+            scoreDisplay.className = 'mafi-score mafi-' + classification.class;
+
+            // Interpretation
+            const interpretations = {
+                robust: 'This meta-analysis shows highly robust conclusions. Removing any single study is unlikely to change the overall findings.',
+                low: 'This meta-analysis shows minor sensitivity to individual studies. Results are generally stable but some caution is warranted.',
+                moderate: 'This meta-analysis shows moderate fragility. Conclusions should be interpreted with caution and may change with updated evidence.',
+                high: 'This meta-analysis shows high fragility. Conclusions are unstable and heavily dependent on individual studies.'
+            };
+            document.getElementById('mafiInterpretation').textContent = interpretations[classification.class];
+
+            // Component breakdown
+            displayComponentBar(mafi);
+
+            // MAFI variants
+            displayVariant('mafi5comp', r.mafi.primary.score);
+            displayVariant('mafi3comp', r.mafi.threeComp.score);
+            displayVariant('mafiSimple', r.mafi.simple.score);
+            displayVariant('mafiEmpirical', r.mafi.empirical.score);
+
+            // Fragility indices
+            document.getElementById('dfiValue').textContent =
+                `${frag.directionFragilityIndex} / ${ma.k}`;
+            document.getElementById('sfiValue').textContent =
+                `${frag.significanceFragilityIndex} / ${ma.k}`;
+            document.getElementById('cfiValue').textContent =
+                r.settings.clinicalThreshold ?
+                `${frag.clinicalFragilityIndex} / ${ma.k}` : 'N/A (no threshold set)';
+            document.getElementById('effectStability').textContent =
+                `${frag.maxEffectChange.toFixed(3)} | ${frag.fragilityQuotient.toFixed(3)}`;
+
+            // Progress bars
+            updateProgressBar('dfiBar', frag.directionFragilityIndex / ma.k * 100);
+            updateProgressBar('sfiBar', frag.significanceFragilityIndex / ma.k * 100);
+            updateProgressBar('cfiBar',
+                r.settings.clinicalThreshold ? frag.clinicalFragilityIndex / ma.k * 100 : 0);
+
+            // Forest plot
+            displayForestPlot(frag.looResults, ma, isRatio);
+
+            // Recommendations
+            displayRecommendations(mafi.score, ma, frag);
+
+            // Export text
+            generateReportText();
+
+            // Scroll to results
+            document.getElementById('resultsSection').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function displayComponentBar(mafi) {
+            const colors = {
+                direction: '#3b82f6',
+                significance: '#06b6d4',
+                clinical: '#f59e0b',
+                effect: '#8b5cf6',
+                ci: '#ec4899',
+                hetPenalty: '#ef4444',
+                kPenalty: '#64748b'
+            };
+
+            const components = [
+                { name: 'Direction', value: mafi.components.direction * mafi.weights.direction, color: colors.direction },
+                { name: 'Significance', value: mafi.components.significance * mafi.weights.significance, color: colors.significance },
+                { name: 'Clinical', value: mafi.components.clinical * mafi.weights.clinical, color: colors.clinical },
+                { name: 'Effect', value: mafi.components.effect * mafi.weights.effect, color: colors.effect },
+                { name: 'CI', value: mafi.components.ci * mafi.weights.ci, color: colors.ci },
+                { name: 'Het. Penalty', value: mafi.penalties.heterogeneity, color: colors.hetPenalty },
+                { name: 'k Penalty', value: mafi.penalties.sampleSize, color: colors.kPenalty }
+            ];
+
+            const total = components.reduce((a, c) => a + c.value, 0);
+
+            let barHTML = '';
+            let legendHTML = '';
+
+            components.forEach(c => {
+                const pct = (c.value / Math.max(total, 0.01)) * 100;
+                if (pct > 1) {
+                    barHTML += `<div class="component-segment" style="width: ${pct}%; background: ${c.color};"
+                                title="${c.name}: ${(c.value * 100).toFixed(1)}%">
+                                ${pct > 8 ? c.name.substring(0, 3) : ''}
+                               </div>`;
+                }
+                legendHTML += `<div class="legend-item">
+                    <div class="legend-color" style="background: ${c.color};"></div>
+                    <span>${c.name}: ${(c.value * 100).toFixed(1)}%</span>
+                </div>`;
+            });
+
+            document.getElementById('componentBar').innerHTML = barHTML;
+            document.getElementById('componentLegend').innerHTML = legendHTML;
+        }
+
+        function displayVariant(id, score) {
+            const classification = classifyMAFI(score);
+            document.getElementById(id).textContent = score.toFixed(3);
+            document.getElementById(id).style.color = `var(--${classification.class})`;
+
+            const badge = document.getElementById(id + 'Badge');
+            badge.textContent = classification.label;
+            badge.className = 'badge ' + classification.badge;
+        }
+
+        function updateProgressBar(id, pct) {
+            const bar = document.getElementById(id);
+            bar.style.width = Math.min(100, pct) + '%';
+            bar.textContent = pct.toFixed(1) + '%';
+        }
+
+        function displayForestPlot(looResults, ma, isRatio) {
+            const container = document.getElementById('forestPlot');
+            const nullValue = isRatio ? 1 : 0;
+
+            // Find range for scaling
+            let allValues = looResults.flatMap(r => [r.ciLower, r.ciUpper, r.pooledWithout]);
+            allValues.push(ma.pooledEffect, ma.ci95Lower, ma.ci95Upper);
+
+            const minVal = Math.min(...allValues);
+            const maxVal = Math.max(...allValues);
+            const range = maxVal - minVal;
+            const padding = range * 0.1;
+            const scaleMin = minVal - padding;
+            const scaleMax = maxVal + padding;
+
+            const scale = (val) => ((val - scaleMin) / (scaleMax - scaleMin)) * 100;
+
+            let html = `
+                <div class="forest-row" style="font-weight: 600; background: var(--bg);">
+                    <div class="forest-label">Study Removed</div>
+                    <div class="forest-plot-area">
+                        <div style="display: flex; justify-content: space-between; font-size: 11px; color: var(--text-muted);">
+                            <span>${scaleMin.toFixed(2)}</span>
+                            <span>Effect Scale</span>
+                            <span>${scaleMax.toFixed(2)}</span>
+                        </div>
+                    </div>
+                    <div class="forest-effect">Effect [95% CI]</div>
+                    <div class="fragility-indicator">Fragile?</div>
+                </div>
+            `;
+
+            // Overall result
+            html += `
+                <div class="forest-row" style="background: #eff6ff;">
+                    <div class="forest-label"><strong>Overall</strong></div>
+                    <div class="forest-plot-area">
+                        <div class="forest-line"></div>
+                        <div class="forest-null" style="left: ${scale(nullValue)}%;"></div>
+                        <div class="forest-ci" style="left: ${scale(ma.ci95Lower)}%; width: ${scale(ma.ci95Upper) - scale(ma.ci95Lower)}%; background: #1d4ed8;"></div>
+                        <div class="forest-point" style="left: ${scale(ma.pooledEffect)}%; background: #1d4ed8; width: 16px; height: 16px;"></div>
+                    </div>
+                    <div class="forest-effect"><strong>${ma.pooledEffect.toFixed(3)}</strong> [${ma.ci95Lower.toFixed(2)}, ${ma.ci95Upper.toFixed(2)}]</div>
+                    <div class="fragility-indicator">-</div>
+                </div>
+            `;
+
+            // Leave-one-out results
+            looResults.forEach(r => {
+                const isFragile = r.directionChanged || r.significanceChanged || r.clinicalChanged;
+                const fragileClass = isFragile ? 'color: var(--danger);' : '';
+                const rowBg = isFragile ? 'background: #fef2f2;' : '';
+
+                html += `
+                    <div class="forest-row" style="${rowBg}">
+                        <div class="forest-label" style="${fragileClass}">${r.studyName}</div>
+                        <div class="forest-plot-area">
+                            <div class="forest-line"></div>
+                            <div class="forest-null" style="left: ${scale(nullValue)}%;"></div>
+                            <div class="forest-ci" style="left: ${scale(r.ciLower)}%; width: ${scale(r.ciUpper) - scale(r.ciLower)}%;"></div>
+                            <div class="forest-point" style="left: ${scale(r.pooledWithout)}%;"></div>
+                        </div>
+                        <div class="forest-effect">${r.pooledWithout.toFixed(3)} [${r.ciLower.toFixed(2)}, ${r.ciUpper.toFixed(2)}]</div>
+                        <div class="fragility-indicator">
+                            ${r.directionChanged ? '<span class="badge badge-high">Dir</span>' : ''}
+                            ${r.significanceChanged ? '<span class="badge badge-moderate">Sig</span>' : ''}
+                            ${r.clinicalChanged ? '<span class="badge badge-low">Clin</span>' : ''}
+                            ${!isFragile ? '<span style="color: var(--success);">-</span>' : ''}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        function displayRecommendations(mafiScore, ma, frag) {
+            const container = document.getElementById('recommendations');
+            const classification = classifyMAFI(mafiScore);
+
+            let html = '<div class="grid-2">';
+
+            // GRADE suggestion
+            html += '<div class="info-box">';
+            html += '<h4>GRADE Certainty Consideration</h4>';
+
+            if (classification.class === 'robust') {
+                html += '<p>No downgrade for fragility suggested. Conclusions appear robust to study exclusion.</p>';
+            } else if (classification.class === 'low') {
+                html += '<p>Consider potential downgrade for imprecision if borderline effect size. Minor fragility detected.</p>';
+            } else if (classification.class === 'moderate') {
+                html += '<p><strong>Consider downgrade by 1 level</strong> for imprecision/fragility. Results show moderate sensitivity to individual studies.</p>';
+            } else {
+                html += '<p><strong>Consider downgrade by 1-2 levels</strong> for serious imprecision/fragility. Conclusions are unstable.</p>';
+            }
+            html += '</div>';
+
+            // Sample size guidance
+            html += '<div class="info-box">';
+            html += '<h4>Sample Size Assessment</h4>';
+
+            if (ma.k >= 20) {
+                html += `<p>With k=${ma.k} studies, this meta-analysis has good power. Expected fragility rate: ~25-30%.</p>`;
+            } else if (ma.k >= 10) {
+                html += `<p>With k=${ma.k} studies, moderate confidence. Expected fragility rate: ~35-40%.</p>`;
+            } else if (ma.k >= 5) {
+                html += `<p>With k=${ma.k} studies, caution advised. Expected fragility rate: ~45-50%.</p>`;
+            } else {
+                html += `<p><strong>Warning:</strong> With only k=${ma.k} studies, high fragility is expected. Consider this as preliminary evidence.</p>`;
+            }
+            html += '</div>';
+
+            html += '</div>';
+
+            // Specific recommendations
+            html += '<h3>Specific Recommendations</h3><ul style="margin-left: 20px; line-height: 2;">';
+
+            if (frag.directionFragilityIndex > 0) {
+                html += `<li><strong>Direction fragility:</strong> ${frag.directionFragilityIndex} studies can reverse effect direction. Report sensitivity analysis in publication.</li>`;
+            }
+
+            if (frag.significanceFragilityIndex > 0) {
+                html += `<li><strong>Significance fragility:</strong> ${frag.significanceFragilityIndex} studies can change statistical significance. P-value should not be over-interpreted.</li>`;
+            }
+
+            if (ma.I2 > 50) {
+                html += `<li><strong>High heterogeneity (I²=${ma.I2.toFixed(1)}%):</strong> Consider subgroup analysis or meta-regression to explore sources of variation.</li>`;
+            }
+
+            if (ma.k < 10) {
+                html += `<li><strong>Small number of studies:</strong> Publication bias tests have low power. Use caution when interpreting funnel plots.</li>`;
+            }
+
+            html += '</ul>';
+
+            container.innerHTML = html;
+        }
+
+        // ============================================================
+        // Export Functions
+        // ============================================================
+
+        function generateReportText() {
+            const r = analysisResults;
+            const ma = r.metaAnalysis;
+            const frag = r.fragility;
+            const mafi = r.mafi.primary;
+            const classification = classifyMAFI(mafi.score);
+
+            let report = `MAFI ANALYSIS REPORT
+${'='.repeat(50)}
+
+META-ANALYSIS SUMMARY
+---------------------
+Effect Measure: ${r.settings.effectMeasure}
+Number of Studies: ${ma.k}
+Pooled Effect: ${ma.pooledEffect.toFixed(4)} [95% CI: ${ma.ci95Lower.toFixed(4)}, ${ma.ci95Upper.toFixed(4)}]
+P-value: ${ma.pValue < 0.001 ? '< 0.001' : ma.pValue.toFixed(4)}
+I² Heterogeneity: ${ma.I2.toFixed(1)}%
+τ²: ${ma.tau2.toFixed(4)}
+
+MAFI RESULTS
+------------
+MAFI Score: ${mafi.score.toFixed(3)}
+Classification: ${classification.label}
+
+Component Breakdown:
+  - Direction Fragility Index: ${frag.directionFragilityIndex}/${ma.k} (${(frag.directionFragilityIndex/ma.k*100).toFixed(1)}%)
+  - Significance Fragility Index: ${frag.significanceFragilityIndex}/${ma.k} (${(frag.significanceFragilityIndex/ma.k*100).toFixed(1)}%)
+  - Clinical Fragility Index: ${r.settings.clinicalThreshold ? frag.clinicalFragilityIndex + '/' + ma.k : 'N/A'}
+  - Max Effect Change: ${frag.maxEffectChange.toFixed(4)}
+  - Fragility Quotient (CI): ${frag.fragilityQuotient.toFixed(4)}
+
+Penalties Applied:
+  - Heterogeneity Penalty: ${(mafi.penalties.heterogeneity * 100).toFixed(1)}%
+  - Sample Size Penalty: ${(mafi.penalties.sampleSize * 100).toFixed(1)}%
+
+MAFI VARIANTS
+-------------
+  - 5-Component (Primary): ${r.mafi.primary.score.toFixed(3)} (${classifyMAFI(r.mafi.primary.score).label})
+  - 3-Component: ${r.mafi.threeComp.score.toFixed(3)} (${classifyMAFI(r.mafi.threeComp.score).label})
+  - Simple (DFI+SFI): ${r.mafi.simple.score.toFixed(3)} (${classifyMAFI(r.mafi.simple.score).label})
+  - Empirical Weights: ${r.mafi.empirical.score.toFixed(3)} (${classifyMAFI(r.mafi.empirical.score).label})
+
+LEAVE-ONE-OUT RESULTS
+---------------------
+`;
+            frag.looResults.forEach(loo => {
+                const flags = [];
+                if (loo.directionChanged) flags.push('DIR');
+                if (loo.significanceChanged) flags.push('SIG');
+                if (loo.clinicalChanged) flags.push('CLIN');
+                report += `${loo.studyName}: ${loo.pooledWithout.toFixed(4)} [${loo.ciLower.toFixed(4)}, ${loo.ciUpper.toFixed(4)}] ${flags.length ? '** ' + flags.join(', ') : ''}\n`;
+            });
+
+            report += `
+${'='.repeat(50)}
+Generated by MAFI Calculator v1.0
+Based on methodology from analysis of 4,424 Cochrane meta-analyses
+`;
+
+            document.getElementById('exportText').value = report;
+        }
+
+        function exportCSV() {
+            const r = analysisResults;
+            const frag = r.fragility;
+
+            let csv = 'Study,Original_Effect,Pooled_Without,CI_Lower,CI_Upper,P_Value,Direction_Changed,Significance_Changed,Clinical_Changed\n';
+
+            frag.looResults.forEach(loo => {
+                csv += `"${loo.studyName}",${loo.originalEffect},${loo.pooledWithout},${loo.ciLower},${loo.ciUpper},${loo.pValue},${loo.directionChanged},${loo.significanceChanged},${loo.clinicalChanged}\n`;
+            });
+
+            downloadFile('mafi_results.csv', csv, 'text/csv');
+        }
+
+        function exportJSON() {
+            const json = JSON.stringify(analysisResults, null, 2);
+            downloadFile('mafi_results.json', json, 'application/json');
+        }
+
+        function copyReport() {
+            const text = document.getElementById('exportText');
+            text.select();
+            document.execCommand('copy');
+            alert('Report copied to clipboard!');
+        }
+
+        function downloadFile(filename, content, type) {
+            const blob = new Blob([content], { type: type });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

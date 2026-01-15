@@ -1,0 +1,287 @@
+{
+  "query": "adverse penicillin serious cefotaxime",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07207876",
+          "briefTitle": "Study of Ceftriaxone and Benzathine Penicillin G During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03477422",
+          "briefTitle": "CSE-1034 (Ceftriaxone+ Sulbactam+ EDTA) Compared to Meropenem in Complicated Urinary Tract Infections (cUTIs) Caused by ESBL Producing Gram Negative Bacteria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Tract Infection Complicated", "Acute Pyelonephritis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03932123",
+          "briefTitle": "Antibiotic Therapy for Early Onset Neonatal Sepsis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Early Onset Neonatal Sepsis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "3 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04041791",
+          "briefTitle": "A Study to Compare Different Antibiotics and Different Modes of Fluid Treatment for Children With Severe Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pneumonia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4392,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "59 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04141787",
+          "briefTitle": "Ceftriaxone as Home IV for Staph Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Staphylococcal Infections", "Osteomyelitis", "CNS Infection", "Septic Arthritis", "Diabetic Foot Infection", "Vertebral Osteomyelitis", "Abscess", "Coagulase Negative Staphylococcal Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 310,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02701595",
+          "briefTitle": "Oral Switch During Treatment of Left-sided Endocarditis Due to Multi-susceptible Streptococcus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infective Endocarditis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00189384",
+          "briefTitle": "Efficacy Study of Community-Based Treatment of Serious Bacterial Infections in Young Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-11"
+          },
+          "completionDateStruct": {
+            "date": "2005-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bacterial Infection", "Sepsis", "Infant, Newborn"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 426
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "59 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03174236",
+          "briefTitle": "First Line Antimicrobials in Children With Complicated Severe Acute Malnutrition"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Malnutrition Severe", "Antibiotic Resistance", "Antibiotic Toxicity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "13 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02605122",
+          "briefTitle": "Safety and Efficacy of Solithromycin in Adolescents and Children With Community-Acquired Bacterial Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Community-acquired Bacterial Pneumonia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "17 Years"
+        }
+      }
+    ]
+  }
+}

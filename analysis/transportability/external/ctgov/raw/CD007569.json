@@ -1,0 +1,131 @@
+{
+  "query": "return work life odds",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00240188",
+          "briefTitle": "A Study to Compare Ventral Incisional Hernia by Laparoscopic vs Open Repair With Mesh"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-02"
+          },
+          "completionDateStruct": {
+            "date": "2006-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hernia, Ventral"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02933047",
+          "briefTitle": "Laparoscopic Hysterectomy - Outpatient Versus Inpatient Regimen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Outpatient Hysterectomy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 204,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "56 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03417388",
+          "briefTitle": "Women's IschemiA TRial to Reduce Events In Non-ObstRuctive CAD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2476,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06227234",
+          "briefTitle": "Evaluation of Foreign Body Airway Obstruction Interventions Through Simulation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Choking", "Airway Obstruction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,999 @@
+{
+  "query": "pregnancy vasodilators clinical vasodilator",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03132428",
+          "briefTitle": "Registry to Evaluate INOmax in Newborn Babies With Pulmonary Hypertension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Hypertension of Newborn"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "27 Weeks",
+          "maximumAge": "40 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02951130",
+          "briefTitle": "Milrinone in Congenital Diaphragmatic Hernia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congenital Diaphragmatic Hernia", "Persistent Pulmonary Hypertension of the Newborn", "Hypoxemic Respiratory Failure", "Pulmonary Hypoplasia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Hours",
+          "maximumAge": "168 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00608491",
+          "briefTitle": "Effectiveness of Ultrafiltration in Treating People With Acute Decompensated Heart Failure and Cardiorenal Syndrome (The CARRESS Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01351428",
+          "briefTitle": "Goal-Directed Therapy in Pregnant Women at High Risk of Developing Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia", "Pregnancy", "Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03441711",
+          "briefTitle": "sFlt-1:PlGF Ratio in Diagnosing Superimposed Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "14 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05937841",
+          "briefTitle": "Sensitivity of Angiotensin II Type II Receptors in Women Following Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia Postpartum"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01276951",
+          "briefTitle": "Controlled Clinical Trial to Determine the Effective Dose of Cocoa in Lowering Blood Pressure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-12"
+          },
+          "completionDateStruct": {
+            "date": "2011-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06679855",
+          "briefTitle": "Milrinone for Prevention of Post-ligation Cardiac Syndrome Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post-ligation Cardiac Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 316,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "3 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04632589",
+          "briefTitle": "Losartan for Improved Vascular Endothelial Function After Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia Postpartum"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05241327",
+          "briefTitle": "Effects of Nitrate-rich Beetroot Juice in Pregnant Women With High Blood Pressure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Hypertension", "Endothelial Dysfunction", "Nitric Oxide", "Oxidative Stress", "Proteinuria", "Kidney Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06749418",
+          "briefTitle": "Vascular Effects of High-Salt After Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Preeclampsia Postpartum"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04978649",
+          "briefTitle": "Intervention for High-normal Blood Pressure in Adults With Type 2 Diabetes-----renal Substudy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Blood Pressure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03542812",
+          "briefTitle": "L-citrulline and Pulmonary Hypertension Associated With Bronchopulmonary Dysplasia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant,Premature", "Bronchopulmonary Dysplasia", "Pulmonary Hypertension"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Days",
+          "maximumAge": "3 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02363348",
+          "briefTitle": "Efficacy and Safety of L Arginine to Prevent Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 96,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00747331",
+          "briefTitle": "Fenoldopam and Splanchnic Perfusion During Cardiopulmonary Bypass"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiac Complications", "Cardiopulmonary Bypass"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04216706",
+          "briefTitle": "Early Vascular Adjustments to Prevent Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Small for Gestational Age at Delivery", "HELLP Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 314,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00859833",
+          "briefTitle": "Effects of Body Mass Index on the Hyperemic Response to Regadenoson"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02"
+          },
+          "completionDateStruct": {
+            "date": "2010-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Endothelial Dysfunction", "Decreased Vascular Flow"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "88 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01162772",
+          "briefTitle": "Influence of DPP-4 on Inflammatory Parameters in Diabetics: Gender Aspects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes Mellitus", "Cardiovascular Risk", "Endothelial Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06408597",
+          "briefTitle": "Mannitol Versus Nitroglycerin for Kidney Injury Prevention in Robotic-assisted Radical Prostatectomy or Cystectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostate Cancer", "Bladder Cancer", "Surgery", "Renal Impairment", "Renal Injury, Acute"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03958760",
+          "briefTitle": "Characteristics, Treatment, and Economic Burden of Patients With CVD,CKD or at High Cardiovascular Risk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiovascular Abnormalities", "Chronic Kidney Diseases", "Diabetes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00286403",
+          "briefTitle": "Vasodilators and Anti-Oxidant Therapy in Early ATN"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08"
+          },
+          "completionDateStruct": {
+            "date": "2008-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Renal Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00558142",
+          "briefTitle": "Mechanisms for the Effect of Acetylcysteine on Renal Function After Exposure to Radiographic Contrast Material"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Radiocontrast-induced Nephropathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06157580",
+          "briefTitle": "Balance of Angiotensin II Receptors in Vessel Function After Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Preeclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02539160",
+          "briefTitle": "Impact of Chronic Kidney Disease on the Effects of Ticagrelor in Patients With Diabetes and Coronary Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronary Artery Disease", "Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 101,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06065215",
+          "briefTitle": "Early-life MRI Biomarkers of Longer-term Respiratory Morbidity in Infants Born Extremely Preterm (EMBLEM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Function", "BPD - Bronchopulmonary Dysplasia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 319,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "35 Weeks",
+          "maximumAge": "21 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00808795",
+          "briefTitle": "Efficacy of N-Acetylcysteine in Prevention of Post-Catheterization Contrast-Induced Nephropathy in Diabetic Patients With Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-04"
+          },
+          "completionDateStruct": {
+            "date": "2006-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Radiocontrast-Induced Nephropathy", "Chronic Kidney Disease", "Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04283435",
+          "briefTitle": "Endometrial Effects of Sildenafil in Frozen-Thawed Cycles in Women With Thin Endometrium"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["IVF", "Endometrial Receptivity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "25 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06909786",
+          "briefTitle": "Hypotension Prediction Index and Intraoperative Hypotension Incidence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intraoperative Hypotension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02663830",
+          "briefTitle": "The Effect of Sildenafil Citrate on the Success Rate of Ovulation Induction Using Clomiphene"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anovulatory"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00338455",
+          "briefTitle": "Natrecor (Nesiritide) in Transplant-Eligible Management of Congestive Heart Failure-TMAC"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-09"
+          },
+          "completionDateStruct": {
+            "date": "2007-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Congestive Heart Failure", "Cardiac Transplantation", "Renal Insufficiency", "Renal Failure"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01206062",
+          "briefTitle": "Systolic Blood Pressure Intervention Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9361,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00157521",
+          "briefTitle": "L-Arginine in Pre-Eclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2002-09"
+          },
+          "completionDateStruct": {
+            "date": "2006-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pre-Eclampsia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      }
+    ]
+  }
+}

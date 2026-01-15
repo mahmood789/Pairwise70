@@ -1,0 +1,223 @@
+{
+  "query": "deposition lung adverse predicted",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04200664",
+          "briefTitle": "Audiovestibular Function in Infratentorial Superficial Siderosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Siderosis", "Neurological Disorder", "Rare Diseases", "Age Related Hearing Loss", "Presbycusis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00883129",
+          "briefTitle": "Comparison of Therapeutic Regimens for Scleroderma Interstitial Lung Disease (The Scleroderma Lung Study II)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Scleroderma", "Interstitial Lung Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 142,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01453023",
+          "briefTitle": "Inhaled Fluticasone Furoate/Vilanterol Safety and Tolerability, PK and PD Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10"
+          },
+          "completionDateStruct": {
+            "date": "2012-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01453296",
+          "briefTitle": "Pharmacokinetics and Pharacodynamics of GW642444 in Paedetric Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03905642",
+          "briefTitle": "Study of Dose Escalation of Liposomal Amikacin for Inhalation (ARIKAYCE™) - Extension Phase"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-11-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00849745",
+          "briefTitle": "Nonmyeloablative Allo Stem Cell Transplant for Severe Autoimmune Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Systemic Lupus Erythematosus", "Systemic Sclerosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "69 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01332292",
+          "briefTitle": "Pharmacokinetics and PharmacoDynamics of GW685698 in Paedeatric Asthmatic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-05"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "11 Years"
+        }
+      }
+    ]
+  }
+}

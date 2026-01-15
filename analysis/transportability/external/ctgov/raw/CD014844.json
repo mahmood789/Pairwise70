@@ -1,0 +1,606 @@
+{
+  "query": "infection uterine adverse subgroup",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05496231",
+          "briefTitle": "A Study on the Immune Response and Safety of an Adjuvanted Human Papillomavirus Vaccine When Given to Healthy Women 16 to 26 Years of Age"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cervical Intraepithelial Neoplasia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1080,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "26 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03931083",
+          "briefTitle": "Screening Test Accuracy of Gynocular™, HR-HPV Testing, VIA for Detection of Cervical Neoplastic Lesions, in Women Living With HIV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Uterine Cervical Neoplasms", "HIV/AIDS"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00122681",
+          "briefTitle": "Human Papilloma Virus (HPV) Vaccine Efficacy Trial Against Cervical Pre-cancer in Young Adults With GlaxoSmithKline (GSK) Biologicals HPV-16/18"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-05-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-11-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18729,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01190189",
+          "briefTitle": "Safety Evaluation of the GSK-580299 Vaccine in Women From the Control Group in the Primary NCT00294047 Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-11-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 137,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "26 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00543543",
+          "briefTitle": "Broad Spectrum HPV (Human Papillomavirus) Vaccine Study in 16-to 26-Year-Old Women (V503-001)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-07-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Cancer", "Vulvar Cancer", "Vaginal Cancer", "Genital Warts", "Human Papillomavirus Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14840,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "26 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01585428",
+          "briefTitle": "Immunotherapy Using Tumor Infiltrating Lymphocytes for Patients With Metastatic Human Papillomavirus-Associated Cancers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Cancer", "Oropharyngeal Cancer", "Vaginal Cancer", "Anal Cancer", "Penile Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00099359",
+          "briefTitle": "Trial of Three Neonatal Antiretroviral Regimens for Prevention of Intrapartum HIV Transmission"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-02"
+          },
+          "completionDateStruct": {
+            "date": "2011-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Disease Transmission, Vertical", "Vertical Human Immunodeficiency Virus Transmission", "HIV Infections"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1735,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "2 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05694728",
+          "briefTitle": "A Phase II Trial Evaluate the Immunogenicity and Safety Profile of HPV Vaccine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Human Papilloma Virus Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 780,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03935204",
+          "briefTitle": "Immunogenicity Study of Recombinant Human Papillomavirus Vaccine(6,11,16,18,31,33,45,52,58 Type)(E.Coli)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Condylomata Acuminata", "Cervical Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 627,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00128661",
+          "briefTitle": "Vaccine To Prevent Cervical Intraepithelial Neoplasia or Cervical Cancer in Younger Healthy Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cervical Cancer", "Precancerous Condition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7466,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00294047",
+          "briefTitle": "Study to Evaluate the Efficacy of the Human Papillomavirus Vaccine in Healthy Adult Women of 26 Years of Age and Older"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infections, Papillomavirus", "Papillomavirus Vaccines"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5752,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "26 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04188301",
+          "briefTitle": "Safety and Efficacy of IDA for Onchocerciasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Onchocerciasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 154,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02495753",
+          "briefTitle": "Vaginal Cleansing Before Cesarean Delivery to Reduce Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "completionDateStruct": {
+            "date": "2021-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complications; Cesarean Section"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 608,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00196937",
+          "briefTitle": "Human Papilloma Virus (HPV) Vaccine Immunogenicity and Safety Trial in Young and Adult Women With GSK Biologicals' HPV-16/18"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2004-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2005-12-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 667,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01381575",
+          "briefTitle": "Evaluation of Immunogenicity and Safety of Two 2-dose Human Papillomavirus (HPV) Vaccine Schedules in 9-14 Year Old Girls"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-11-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1447,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "9 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01031069",
+          "briefTitle": "Evaluation of Safety and Immunogenicity of a Human Papillomavirus (HPV) Vaccine in Human Immunodeficiency Virus (HIV) Infected Females"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infections, Papillomavirus", "Papillomavirus Vaccines"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 873,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "15 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03629886",
+          "briefTitle": "Safety and Protective Effect Study of GSK Biologicals' Human Papillomavirus (Types 16, 18) Vaccine, Adsorbed (GSK580299) in Healthy Female Subjects From the HPV-039 Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cervical Intraepithelial Neoplasia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6051,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "26 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00534638",
+          "briefTitle": "Effectiveness, Safety and Immunogenicity of GSK Biologicals' HPV Vaccine GSK580299 (Cervarix) Administered in Healthy Adolescents"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-10-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-12-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34412,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00937950",
+          "briefTitle": "Gynaecological Follow-up of a Subset of 580299/008 (NCT00122681) Study Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-08-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infections, Papillomavirus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2022,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

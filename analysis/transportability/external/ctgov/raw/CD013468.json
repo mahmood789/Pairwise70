@@ -1,0 +1,475 @@
+{
+  "query": "related burn pruritus adverse",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06980961",
+          "briefTitle": "Short and Ultra-short-pulse ND: YAG 1064nm Lasers (Omer Smart and Omer Premium) for Stasis Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stasis Dermatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01456858",
+          "briefTitle": "Insecticide Treated Polyethylene Sheeting for Prevention of Malaria in Emergencies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-12"
+          },
+          "completionDateStruct": {
+            "date": "2004-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 222,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "4 Months",
+          "maximumAge": "36 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05295732",
+          "briefTitle": "The ASCEND Study: Evaluating TMB-001 in the Treatment of RXLI or ARCI Ichthyosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Ichthyosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02573883",
+          "briefTitle": "Clobetasol Propionate Versus Fractionated Carbon Dioxide Laser for the Treatment of Lichen Sclerosus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2019-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vulvar Lichen Sclerosus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07186322",
+          "briefTitle": "Autologous Fat Grafting in Upper Limb Burns Scars"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autologous Fat Grafting", "Burn", "Corticosteroid Injection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04153032",
+          "briefTitle": "Comparative Evaluation of MEBO Ointment and Topical Diltiazem Ointment in the Treatment of Acute Anal Fissure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Anal Fissure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06987981",
+          "briefTitle": "Comparing How Burn Wounds and Scars Heal in Children Using Chitosan and Silver Dressings"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Burns Degree Second", "Pediatric"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03569267",
+          "briefTitle": "A Study to Evaluate Safety and PK Profiles of OLX10010 in Healthy Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cicatrix, Hypertrophic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03332524",
+          "briefTitle": "Clinical Trial of the Safety and Efficacy of SP160412 in the Temporary Relief of Mild to Moderate Sunburn"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sunburn"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06437912",
+          "briefTitle": "Effectiveness of Botulinum Toxin A in Preventing Scar Formation and Initial Exploration of \"Optimal Concentration\""
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Scar"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03713203",
+          "briefTitle": "PAGETEX® Photodynamic Therapy Device for the Treatment of Extra Mammary Paget's Disease of the Vulva (EMPV)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-27",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Paget Disease of the Vulva", "Paget Disease, Extramammary"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01655407",
+          "briefTitle": "Safety and Efficacy Study of Autologous Engineered Skin Substitute to Treat Partial- and Full-Thickness Burn Wounds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09"
+          },
+          "completionDateStruct": {
+            "date": "2020-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thermal Injury", "Deep Partial-Thickness Burn", "Full-Thickness Burn"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06170008",
+          "briefTitle": "Efficacy of a Transparent Silicone Membrane With Physical Microstructure for Second-degree Burn Wounds and Skin Graft Wounds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Second-degree Burn Wounds", "Skin Graft Wounds"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03598023",
+          "briefTitle": "A Study to Evaluate the Efficacy of Cytal® Burn Matrix in the Management of Partial-Thickness Burns to the Hand"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Partial Thickness Burn of Hand"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04235322",
+          "briefTitle": "Study of 2LHERP® in Genital Herpes Infections"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Herpes Simplex, Genital"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

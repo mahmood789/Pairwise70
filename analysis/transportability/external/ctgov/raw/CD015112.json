@@ -1,0 +1,287 @@
+{
+  "query": "infection positive sars absenteeism",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04483635",
+          "briefTitle": "PRevention of COVID-19 With Oral Vitamin D Supplemental Therapy in Essential healthCare Teams"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "69 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05394051",
+          "briefTitle": "Psychological Well-being and Burnout in Healthcare Workers During the COVID-19 (Coronavirus Disease 2019) Pandemic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Burnout", "Burnout, Professional", "Work-related Illness", "Work-Related Stress", "SARS-CoV-2 Infection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 555,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04318015",
+          "briefTitle": "Hydroxychloroquine Chemoprophylaxis in Healthcare Personnel in Contact With COVID-19 Patients (PHYDRA Trial)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Severe Acute Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 289,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04641858",
+          "briefTitle": "BCG to Reduce Absenteeism Among Health Care Workers During the COVID-19 Pandemic"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Morbidity", "Absenteeism"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 668,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04826718",
+          "briefTitle": "SARS-CoV-2/COVID-19 Infection Among Health Care Workers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["SARS-CoV-2", "BCG", "Health Care Worker", "COVID-19"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04384549",
+          "briefTitle": "Efficacy of BCG Vaccination in the Prevention of COVID19 Via the Strengthening of Innate Immunity in Health Care Workers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-02-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infection", "Viral, Agent as Cause of Disease Classified Elsewhere"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05298488",
+          "briefTitle": "The Effect of Working at Home to Reduce Risk of Respiratory Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Tract Infections", "COVID-19"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04363450",
+          "briefTitle": "Hydroxychloroquine as Prophylaxis for COVID-19 in Healthcare Workers (HCQPreP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Corona Virus Infection", "Wuhan Coronavirus", "Prophylaxis", "Healthcare Worker", "Sars-CoV2", "Hydroxychloroquine"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1700,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04327206",
+          "briefTitle": "BCG Vaccination to Protect Healthcare Workers Against COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronavirus Disease 2019 (COVID-19)", "Respiratory Illness", "Corona Virus Infection", "COVID-19"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6828,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "query": "cessation smoking comparator lozenge",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00482690",
+          "briefTitle": "Analysis of Aldehyde Biomarkers of Exposure and Host Response"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-08-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-09-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06290869",
+          "briefTitle": "Tobacco Education and Lung Health Study (TEAL)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Smoking Cessation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1188,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "query": "years seven disability hypoglycaemia",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05798494",
+          "briefTitle": "PRE-Pregnancy Weight Loss And the Reducing Effect on CHILDhood Overweight - Aarhus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-04-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight and Obesity", "Weight Loss", "Pregnancy Related", "Child Nutrition Sciences", "Body Composition"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "38 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04936360",
+          "briefTitle": "Evaluating the Care Burden of Caregivers of Patients With Brain Injury and Determining the Influencing Factors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Injuries", "Caregiver Burden"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01220856",
+          "briefTitle": "Reparixin in Pancreatic Islet Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pancreatic Islet Transplantation in Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

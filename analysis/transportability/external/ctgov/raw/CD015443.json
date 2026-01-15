@@ -1,0 +1,2841 @@
+{
+  "query": "months lesions weighted enhancing",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02619890",
+          "briefTitle": "Brain Glioma Registry Combining Clinical and Imaging Information"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2040-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adult Glioma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 9000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05415579",
+          "briefTitle": "Demyelinating Diseases of the Central Nervous System Registry for Patients With Traditional Chinese Medicine (DATE-TCM)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Demyelinating Diseases of the Central Nervous System (DDC)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01578785",
+          "briefTitle": "An Efficacy, Safety and Tolerability Study of Glatiramer Acetate (GA) 20 mg/0.5 ml New Formulation Administered Daily by Subcutaneous (SC) Injection in Subjects With Relapsing-Remitting Multiple Sclerosis (RRMS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-03"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing-Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01544166",
+          "briefTitle": "Gadobutrol Pharmacokinetic and Safety Study in Pediatric Subjects Aged <2 Years (Term Newborn Infants to Toddlers 23 Months of Age Inclusive)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-05-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-11-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Magnetic Resonance Imaging"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00360828",
+          "briefTitle": "Phase II Study of Irinotecan HCI for Recurrent Anaplastic Astrocytomas, Mixed Malignant Gliomas, and Oligodendrogliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-02"
+          },
+          "completionDateStruct": {
+            "date": "2010-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Astrocytoma", "Glioma", "Oligodendroglioma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02858895",
+          "briefTitle": "Convection-Enhanced Delivery (CED) of MDNA55 in Adults With Recurrent or Progressive Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Glioblastoma", "Grade IV Astrocytoma", "Glioblastoma Multiforme", "Grade IV Glioma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02166021",
+          "briefTitle": "Clinical Efficacy of Autologous Mesenchymal Bone Marrow Stem Cells in Active & Progressive Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis (MS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03713593",
+          "briefTitle": "Safety and Efficacy of Lenvatinib (E7080/MK-7902) in Combination With Pembrolizumab (MK-3475) Versus Lenvatinib as First-line Therapy in Participants With Advanced Hepatocellular Carcinoma (MK-7902-002/E7080-G000-311/LEAP-002)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Carcinoma, Hepatocellular"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 794,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00370071",
+          "briefTitle": "Open Label Study to Evaluate Effect, Safety and Tolerability of Betaferon Standard Dose of 250µg in Patients of Chinese Origin With Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-11"
+          },
+          "completionDateStruct": {
+            "date": "2008-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02587715",
+          "briefTitle": "A Study of Allogeneic Human UC-MSC and Liberation Therapy (When Associated With CCSVI) in Patients With RRMS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2017-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00930553",
+          "briefTitle": "An Extension Protocol for Multiple Sclerosis Patients Who Participated in Genzyme-Sponsored Studies of Alemtuzumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-08"
+          },
+          "completionDateStruct": {
+            "date": "2016-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1314,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00035529",
+          "briefTitle": "A Study to Evaluate the Preliminary Efficacy Pharmacokinetics and Immunogenicity of BMS-188667 Administered to Subjects With Relapsing-remitting Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-11"
+          },
+          "completionDateStruct": {
+            "date": "2003-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {}
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01457924",
+          "briefTitle": "Ofatumumab Subcutaneous Administration in Subjects With Relapsing-Remitting Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-06-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 232,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06169449",
+          "briefTitle": "Weight Management in Overweight Endometrial Cancer Patients Undergoing Fertility-sparing Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Endometrium Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00202982",
+          "briefTitle": "A Study to Test the Effectiveness and Safety of a New Higher 40mg Dose of Copaxone® Compared to Copaxone® 20mg, the Currently Approved Dose"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2003-08"
+          },
+          "completionDateStruct": {
+            "date": "2005-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapse-Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01464905",
+          "briefTitle": "Phase 3 Study to Evaluate Efficacy and Safety of NU100 in Patients With Relapsing Remitting Multiple Sclerosis (RRMS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-10"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00094172",
+          "briefTitle": "Atorvastatin (Lipitor) Therapy in Patients With Clinically Isolated Syndrome (CIS) at Risk for Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00942591",
+          "briefTitle": "Atorvastatin 40 mg in Patients With Relapsing-Remitting Multiple Sclerosis Treated With Interferon-Beta-1b"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 77,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02419378",
+          "briefTitle": "Alemtuzumab in Autoimmune Inflammatory Neurodegeneration: Mechanisms of Action and Neuroprotective Potential"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01411514",
+          "briefTitle": "Oral Prednisone Taper Versus Placebo for the Treatment of Acute Relapses in Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-08"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04925557",
+          "briefTitle": "Study to Assess the Efficacy of Mayzent on Microglia in Secondary Progressive Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Secondary-progressive Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01606215",
+          "briefTitle": "Stem Cells in Rapidly Evolving Active Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00147446",
+          "briefTitle": "Stress Management for Patients With Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01144052",
+          "briefTitle": "Natalizumab De-escalation With Interferon Beta-1b"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06"
+          },
+          "completionDateStruct": {
+            "date": "2011-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing-remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01181115",
+          "briefTitle": "Avonex Safety and Tolerability in Chinese Subjects With Relapsing Multiple Sclerosis (MS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2011-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03296696",
+          "briefTitle": "Study of AMG 596 in Patients With EGFRvIII Positive Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma or Malignant Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01067521",
+          "briefTitle": "A Study in Subjects With Relapsing-Remitting Multiple Sclerosis (RRMS) to Assess the Efficacy, Safety and Tolerability of Glatiramer Acetate (GA) Injection 40 mg Administered Three Times a Week Compared to Placebo"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-05-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1404,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07168694",
+          "briefTitle": "A Real-world Study About the Impact of Siponimod Treatment on Secondary Progressive Multiple Sclerosis Patients in Russia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Secondary Progressive Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 606,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01332019",
+          "briefTitle": "Long-Term Safety and Efficacy Study of Peginterferon Beta-1a"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1077,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02775110",
+          "briefTitle": "Natalizumab Temporary Discontinuation Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01767701",
+          "briefTitle": "Raltegravir (Isentress) Pilot Study in Relapsing Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00473213",
+          "briefTitle": "Optimizing IFN Beta - 1B Dose"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "1999-09"
+          },
+          "completionDateStruct": {
+            "date": "2004-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 217,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01111656",
+          "briefTitle": "Efficacy, Safety and Tolerability of Atorvastatin 40 mg in Patients With Relapsing-remitting Multiple Sclerosis Treated With Interferon-beta-1b"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2010-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing-remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "67 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02536339",
+          "briefTitle": "A Study of Pertuzumab With High-Dose Trastuzumab for the Treatment of Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Metastatic Breast Cancer (MBC) With Central Nervous System (CNS) Progression Post-Radiotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Breast Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02739542",
+          "briefTitle": "Assessment of Tecfidera® in Radiologically Isolated Syndrome (RIS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis (MS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01892722",
+          "briefTitle": "Safety and Efficacy of Fingolimod in Pediatric Patients With Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-02-18",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03010722",
+          "briefTitle": "Prospective Translational Study Investigating Molecular Predictors of Resistance and Response to Regorafenib Monotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic Colorectal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04971005",
+          "briefTitle": "Ocrelizumab or Alemtuzumab Compared With Autologous Hematopoietic Stem Cell Transplantation in Multiple Sclerosis - a Phase-2 Randomised Controlled Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing-Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02336165",
+          "briefTitle": "Phase 2 Study of Durvalumab (MEDI4736) in Patients With Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 159,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05081700",
+          "briefTitle": "A Systems Approach to Understanding Disease Processes in Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-11-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05349006",
+          "briefTitle": "Azathioprine in MOGAD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Central Nervous System Inflammation", "MOG-IgG Associated Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01874340",
+          "briefTitle": "Efficacy and Safety of AIN457 (Secukinumab) in Patients With Relapsing Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2014-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07077616",
+          "briefTitle": "Clinical Study for the Safety and Therapeutic Efficacy of the AI-QMMM Designed TamavaqTM Personalised Vaccine in Patients With Newly Diagnosed Glioma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 29,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06843382",
+          "briefTitle": "Real-world Experience of Oral Agents On Fatigability in Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02047734",
+          "briefTitle": "Efficacy and Safety Study of Ozanimod in Relapsing Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04410991",
+          "briefTitle": "Relapsing Forms of Multiple Sclerosis (RMS) Study of Bruton's Tyrosine Kinase (BTK) Inhibitor Tolebrutinib (SAR442168) (GEMINI 2)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 899,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02587806",
+          "briefTitle": "A Study of Autologous Bone Marrow-Derived Mononuclear Stem Cells (BM-MNC) and Liberation Therapy (When Associated With CCSVI) in Patients With RRMS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2017-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02942264",
+          "briefTitle": "Zotiraciclib (TG02) Plus Dose-Dense or Metronomic Temozolomide Followed by Randomized Phase II Trial of Zotiraciclib (TG02) Plus Temozolomide Versus Temozolomide Alone in Adults With Recurrent Anaplastic Astrocytoma and Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Tumor", "Astrocytoma", "Astroglioma", "Glioblastoma", "Gliosarcoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 53,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01808885",
+          "briefTitle": "Safety Study of Olesoxime in Patients With Stable Relapsing Remitting Multiple Sclerosis Treated With Interferon Beta."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06719271",
+          "briefTitle": "Study Aims to Compare the Effect of Robotic-assisted Gait Training and Conventional Treadmill Training on Postural Stability in Ambulatory Children With Cerebral Palsy."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-10-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["CP (Cerebral Palsy)", "Robotic Exoskeleton", "Treadmill Locomotor-based Training", "Postural Stability"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03641326",
+          "briefTitle": "Sunitinib in Sarcomas of the Central Nervous System"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gliosarcoma", "Central Nervous System Sarcoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00870740",
+          "briefTitle": "Safety and Efficacy Extension Study of Daclizumab High Yield Process (DAC HYP) in Participants With Multiple Sclerosis Who Have Completed Study 205MS201 (NCT00390221) to Treat Relapsing-Remitting Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02"
+          },
+          "completionDateStruct": {
+            "date": "2012-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing-Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 517,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06735248",
+          "briefTitle": "A Study to Investigate Multiple Sclerosis Relapse Prevention With mRNA-1195 Compared With Placebo in Participants Aged 18 to ≤55 Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-01-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07169292",
+          "briefTitle": "Effects of Wet-Cupping on Polycystic Ovary Syndrome Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Polycystic Ovarian Syndrome (PCOS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04216329",
+          "briefTitle": "Selinexor (KPT-330) in Combination With Temozolomide and Radiation Therapy in Patients With Newly Diagnosed Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gliosarcoma", "Newly Diagnosed", "Glioblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04578639",
+          "briefTitle": "Ocrelizumab VErsus Rituximab Off-Label at the Onset of Relapsing MS Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-14",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Remitting Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02596659",
+          "briefTitle": "Effectiveness of Radial Extracorporeal Shockwave Therapy on Tennis Elbow"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2015-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lateral Epicondylosis", "Lateral Epicondylitis", "Tennis Elbow"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01164579",
+          "briefTitle": "Effects of Tofacitinib (CP-690,550) on Magnetic Resonance Imaging (MRI)- Assessed Joint Structure In Early Rheumatoid Arthritis (RA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2013-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatoid Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 109,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00537082",
+          "briefTitle": "Efficacy and Safety of FTY720 in Patients With Relapsing Multiple Sclerosis (MS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 171,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06940323",
+          "briefTitle": "Pregnancy Registry, Infants, Serum/Milk Analysis (PRISMA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2035-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Sclerosis", "Clinically Isolated Syndrome", "NMOSD", "Myasthenia Gravis"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03888924",
+          "briefTitle": "Bacille Calmette-Guérin (BCG) Vaccine In Radiologically Isolated Syndrome (RIS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01628393",
+          "briefTitle": "Efficacy and Safety Study of Ozanimod (RPC1063) in Relapsing Multiple Sclerosis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-09-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 258,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01062425",
+          "briefTitle": "Temozolomide and Radiation Therapy With or Without Cediranib Maleate in Treating Patients With Newly Diagnosed Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adult Glioblastoma", "Adult Gliosarcoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 261,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00605215",
+          "briefTitle": "BRAVO Study: Laquinimod Double-blind Placebo-controlled Study in Participants With Relapsing-Remitting Multiple Sclerosis (RRMS) With a Rater Blinded Reference Arm of Interferon β-1a (Avonex®)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-06-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1331,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04140305",
+          "briefTitle": "Study Describing Cognitive Processing Speed Changes in Relapsing Multiple Sclerosis Subjects Treated With Ozanimod (RPC-1063)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05113095",
+          "briefTitle": "A Survey of Darvadstrocel in People With Crohn's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Crohn's Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 275,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03216499",
+          "briefTitle": "HIF-2 Alpha Inhibitor PT2385 in Treating Patients With Recurrent Glioblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Recurrent Glioblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05730699",
+          "briefTitle": "Efficacy and Safety of Divozilimab in Patients With Neuromyelitis Optica Spectrum Disorders (AQUARELLE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neuromyelitis Optica Spectrum Disorders"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01514370",
+          "briefTitle": "Dietary Supplement of Curcumin in Subjects With Active Relapsing Multiple Sclerosis Treated With Subcutaneous Interferon Beta 1a"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-03-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03958877",
+          "briefTitle": "A Study to Evaluate the Safety, Tolerability, and Efficacy of BIIB017 (Peginterferon Beta-1a) in Pediatric Participants for the Treatment of Relapsing-Remitting Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-05-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04410978",
+          "briefTitle": "Relapsing Forms of Multiple Sclerosis (RMS) Study of Bruton's Tyrosine Kinase (BTK) Inhibitor Tolebrutinib (SAR442168) (GEMINI 1)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Relapsing Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 974,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01795872",
+          "briefTitle": "Follow-up Study After 11 Years of Patients Who Were Included in the BENEFIT Trial (304747) With a First Demyelinating Event Suggestive of Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-09"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 278,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02294058",
+          "briefTitle": "Study of Ozanimod (RPC1063) in Relapsing Multiple Sclerosis (MS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-12-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-12-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1346,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02669914",
+          "briefTitle": "MEDI4736 (Durvalumab) in Patients With Brain Metastasis From Epithelial-derived Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Non-Small Cell Lung Cancer", "Nonsmall Cell Lung Cancer", "Breast Cancer", "Cancer of Breast", "Cancer of the Breast", "Gastroesophageal Cancer", "Pancreatic Cancer", "Cancer of the Pancreas", "Colorectal Cancer", "Colorectal Carcinoma", "Renal Cancer", "Kidney Cancer", "Cancer of the Kidney", "Cancer of Kidney", "Ovarian Cancer", "Ovary Cancer", "Cancer of the Ovary", "Cancer of Ovary"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04979650",
+          "briefTitle": "Corticosteroid Effects on Asymptomatic Gadolinium-enhancing Lesions in Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Sclerosis, Relapsing-Remitting", "Magnetic Resonance Imaging", "Methylprednisolone"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05340985",
+          "briefTitle": "Investigating the Effects of Hydroxyvitamin D3 on Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Sclerosis, Relapsing-Remitting", "Adult ALL", "Vitamin D3 Deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04632992",
+          "briefTitle": "A Study Evaluating Targeted Therapies in Participants Who Have Advanced Solid Tumors With Genomic Alterations or Protein Expression Patterns Predictive of Response"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Advanced Unresectable or Metastatic Solid Malignancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03426423",
+          "briefTitle": "Diabetes and Smoking Cessation: a Gender-Oriented Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-03-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking Cessation", "Diabetes Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06295081",
+          "briefTitle": "TREAT Study - Improving the Interpretation of Troponin Concentrations Following Exercise and Their Clinical Significance"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2044-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1015,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01434602",
+          "briefTitle": "Phase I-II Everolimus and Sorafenib in Recurrent High-Grade Gliomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Brain Tumor", "Glioblastoma", "Anaplastic Glioma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01333501",
+          "briefTitle": "Fingolimod Versus Interferon Beta 1b in Cognitive Symptoms"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01567553",
+          "briefTitle": "The Inflammatory Process and the Medical Imaging in Patients With an Inflammatory Disease of the Central Nervous System."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Sclerosis (MS)", "Inflammatory Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 37,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03046251",
+          "briefTitle": "Natalizumab in Preventing Post-partum Relapses in Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01137604",
+          "briefTitle": "A Study in Subjects With Recurrent Malignant Glioma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-10-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 151,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05545384",
+          "briefTitle": "Immediate Versus Delayed Treatment With Azathioprine or Rituximab in Anti-MOG Antibodies Associated Acute Demyelinating Syndromes in Children: a Randomized Controlled Clinical Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Demyelinating Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02418325",
+          "briefTitle": "A Study of Allogeneic Human UC-MSC and Liberation Therapy (When Associated With CCSVI) in Patients With RRMS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2017-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00666887",
+          "briefTitle": "Minocycline in Clinically Isolated Syndromes (CIS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Clinically Isolated Syndromes", "Early Single Relapse of Multiple Sclerosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 142,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01991977",
+          "briefTitle": "18F-DOPA-PET in Finding Tumors in Patients With Newly Diagnosed Gliomas Undergoing Radiation Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Glioma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06292923",
+          "briefTitle": "A Study of Nasal Foralumab in Non-Active Secondary Progressive Multiple Sclerosis Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Secondary Progressive Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02613988",
+          "briefTitle": "Advanced MR Imaging as Predictor of Treatment Response in Newly Diagnosed Glioblastomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adult Glioblastoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07110233",
+          "briefTitle": "Yttrium-90 Radiation Segmentectomy for Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hepatocellular Carcinoma", "Unresectable Hepatocellular Carcinoma", "Hepatocellular Cancer", "Hepatocellular Carcinoma Non-resectable"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years"
+        }
+      }
+    ]
+  }
+}

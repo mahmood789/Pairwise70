@@ -1,0 +1,68 @@
+{
+  "query": "analysis anastomotic leakage subgroup",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06863389",
+          "briefTitle": "Comparison of Chen's U-suture Technique with Duct-to-Mucosa Anastomosis and Invagination Pancreaticojejunostomy After Pancreaticoduodenectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pancreaticoduodenectomy"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 5788,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05419882",
+          "briefTitle": "Perioperative Plasma Levels of Glycocalyx Markers in Colon Surgery."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Endothelial Dysfunction"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

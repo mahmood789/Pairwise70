@@ -1,0 +1,5580 @@
+{
+  "query": "weight growth mmol weeks",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07173036",
+          "briefTitle": "Evaluation of (Cardio)Metabolic and Auxological Outcomes of GHD Patients Under rhGH or LAGH With Stratification According to IGF-1 Levels"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2031-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth Hormone Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07204834",
+          "briefTitle": "A Physical Activity Program for People With Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06871839",
+          "briefTitle": "The Clinical Study of Synaptic Plasticity-based Lencanumab for the Treatment of Early Alzheimer's Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer&#39;s Disease", "Lecanemab", "Functional Magnetic Resonance Imaging"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06133530",
+          "briefTitle": "Human Milk Oligosaccharides (HMOs) and Gut Microbiota, Immune System in Antarctica"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Healthy Adults", "High Altitude", "Isolation, Social"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01312012",
+          "briefTitle": "The Antiviral Therapy in Pregnant Women to Reduce Mother-to-infant Transmission of Hepatitis B Virus-drug Test"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "completionDateStruct": {
+            "date": "2021-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hepatitis B Virus Infection, Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01762241",
+          "briefTitle": "Xbox Kinect Training in Men With Prostate Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Prostate Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01777893",
+          "briefTitle": "Effect of Diet and Physical Activity on Incidence of Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-diabetes", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03721497",
+          "briefTitle": "Testosterone in Bariatric Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bariatric Surgery Candidate", "Male Hypogonadism", "Muscle Loss"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05265026",
+          "briefTitle": "Aerobic Exercise Training in Patients With Chronic Hepatitis B and Hepatic Steatosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hepatitis B, Chronic", "Hepatic Steatosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 19,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05001815",
+          "briefTitle": "CSII Versus MDI in Pregnant Women With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Pregnancy in Diabetic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06641479",
+          "briefTitle": "JiAngSu Maternal and INfant HEalth Database"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnant Women", "Children"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1570360,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02542865",
+          "briefTitle": "A Study to Investigate the Impact of Fortified Malt Based on Immunity Outcomes in School Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth and Development"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 924,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04026776",
+          "briefTitle": "Uric Acid, Klotho and Salt Sensitivity in Young Adults Born Preterm"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Salt; Excess", "Blood Pressure Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "33 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04209634",
+          "briefTitle": "Open-Label Efficacy and Safety Study of Pozelimab in Patients With CD55-Deficient Protein-Losing Enteropathy (CHAPLE Disease)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["CD55-deficient Protein-losing Enteropathy", "CHAPLE"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04707443",
+          "briefTitle": "Enteral Nutrition in Infants With Ileostomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nutrition of Ileostomy Infants"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "6 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03254329",
+          "briefTitle": "Establishing Global Reference Values for Human Milk"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-11-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Human Milk Nutrient Reference Values"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04716764",
+          "briefTitle": "Dietary Advanced Glycation End Products, Inflammation and Oxidative Stress in Breast Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Breast Cancer", "Female"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06653907",
+          "briefTitle": "Levothyroxine Intervention in Pregnant Women with TSH （2.5 MIU/L-upper Limit of Reference Range） and Negative Thyroid Peroxidase Antibody"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-25",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thyroid Abnormalities", "Pregnant Woman", "Pregnancy Outcomes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04283799",
+          "briefTitle": "Using a New Human Milk Fortifier to Optimize Feeding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Infant", "Growth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 276,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "1 Day"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00263328",
+          "briefTitle": "Extension Study Of Stage 1 Subjects Of Study A3921009 For The Prevention Of Acute Rejection In Kidney Transplant Patient"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-12"
+          },
+          "completionDateStruct": {
+            "date": "2014-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06027567",
+          "briefTitle": "The Effect of an Anti-obesity Drug, Semaglutide, As Treatment in New-onset Idiopathic Intracranial Hypertension (IIH) Compared to Standard Weight Management (dietician) with Regards to Change in Weight and Intracranial Pressure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Idiopathic Intracranial Hypertension", "Intracranial Pressure", "Obesity", "Pseudotumor Cerebri Syndrome", "Papilledema", "Weight Loss"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01788527",
+          "briefTitle": "Continuous Glucose Monitoring in Women With Type 1 Diabetes in Pregnancy Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2016-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetics Who Are Pregnant or Planning Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 325,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02133742",
+          "briefTitle": "A Dose Finding Study To Evaluate Safety, Drug Interaction, Tumor Markers Of Axitinib In Combination With MK-3475 In Adult Patients With Previously Untreated Advanced Renal Cell Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-09-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Renal Cell Carcinoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01833559",
+          "briefTitle": "Impact of Blood Glucose at the First Trimester of Pregnant Women With Gestational Diabetes on Maternal and Fetal Outcomes and Metabolic Disorders: a Multi-central Prospective Cohort Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "completionDateStruct": {
+            "date": "2021-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03708068",
+          "briefTitle": "Early Exclusive Enteral Nutrition in Early Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Enteral Nutrition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 69,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02527200",
+          "briefTitle": "Effect of Liraglutide for Weight Management in Paediatric Subjects With Prader-Willi Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolism and Nutrition Disorder", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05683093",
+          "briefTitle": "Cardiovascular Longitudinal ALSPAC Research Investigations Following Hypertensive Pregnancy in Young Adulthood"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Young Adult", "Hypertension in Pregnancy", "Hypertension", "Cardiovascular Diseases", "Cerebrovascular Diseases", "Vascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06359613",
+          "briefTitle": "Efficacy Assessment of Gluten Free Cupcakes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Celiac Disease in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 75,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "8 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02304367",
+          "briefTitle": "Study of Burosumab (KRN23) in Adults With Tumor-Induced Osteomalacia (TIO) or Epidermal Nevus Syndrome (ENS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Tumor Induced Osteomalacia (TIO)", "Epidermal Nevus Syndrome (ENS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04541095",
+          "briefTitle": "Growth of Preterm Infants Fed a Infant Milk Formula Containing High Versus Low Amounts of Beta-palmitate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Weight Gain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "24 Weeks",
+          "maximumAge": "32 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04265729",
+          "briefTitle": "Neocate In Infants and Children With Complex Conditions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Complex Conditions, Including Impairment of the GI Tract"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "10 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07241221",
+          "briefTitle": "Antenatal Myo-inositol Supplementation in Pre-existing Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2029-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Perinatal and Neonatal Outcomes in Pregnancies With Type 2 Diabetes Mellitus (T2DM)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 182,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06668181",
+          "briefTitle": "An Open-label Study to Evaluate the Pharmacokinetics and Safety of Bimekizumab in Pediatric Study Participants With Active Juvenile Idiopathic Arthritis Subtypes Enthesitis-related Arthritis (Including Juvenile-onset Ankylosing Spondylitis) and Juvenile Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Enthesitis-related Arthritis", "Juvenile Psoriatic Arthritis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01828138",
+          "briefTitle": "Hypertension and Urine Protease Activity in Preeclampsia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05"
+          },
+          "completionDateStruct": {
+            "date": "2015-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Hypertension", "Proteinuria", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04109742",
+          "briefTitle": "Curcumin for Pediatric Nonalcoholic Fatty Liver Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["NAFLD - Nonalcoholic Fatty Liver Disease", "NASH - Nonalcoholic Steatohepatitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05214872",
+          "briefTitle": "The Impact of Selected Factors on the Cardiovascular System in Chronic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atherosclerosis of Artery", "Inflammation", "Chronic Kidney Diseases", "Dialysis; Complications", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05272657",
+          "briefTitle": "Low-Carb Versus Mediterranean Diet in PCOS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Polycystic Ovary Syndrome (PCOS)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 130,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "44 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02131272",
+          "briefTitle": "A Trial Investigating the Efficacy and Safety of Insulin Detemir Versus Insulin NPH in Combination With Metformin and Diet/Exercise in Children and Adolescents With Type 2 Diabetes Insufficiently Controlled on Metformin With or Without Other Oral Antidiabetic Drug(s) With or Without Basal Insulin"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04170660",
+          "briefTitle": "Interest of sFlt1/PlGF Ratio at Obstetric Emergencies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Suspected Placental Dysfunction, Ruled Out", "Pregnancy Complications", "Pre-Eclampsia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03708055",
+          "briefTitle": "Weight Bearing Exercise in Preventing Frailty in Stage I-IIIA Breast Cancer Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-07-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anatomic Stage I Breast Cancer AJCC v8", "Anatomic Stage IA Breast Cancer AJCC v8", "Anatomic Stage IB Breast Cancer AJCC v8", "Anatomic Stage II Breast Cancer AJCC v8", "Anatomic Stage IIA Breast Cancer AJCC v8", "Anatomic Stage IIB Breast Cancer AJCC v8", "Anatomic Stage IIIA Breast Cancer AJCC v8", "Cancer Survivor", "Overweight", "Postmenopausal", "Prognostic Stage I Breast Cancer AJCC v8", "Prognostic Stage IA Breast Cancer AJCC v8", "Prognostic Stage IB Breast Cancer AJCC v8", "Prognostic Stage II Breast Cancer AJCC v8", "Prognostic Stage IIA Breast Cancer AJCC v8", "Prognostic Stage IIB Breast Cancer AJCC v8", "Prognostic Stage IIIA Breast Cancer AJCC v8"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "37 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03765385",
+          "briefTitle": "The Umeå High-Intensity Training Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aged"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01541215",
+          "briefTitle": "Efficacy and Safety of Liraglutide in Combination With Metformin Compared to Metformin Alone, in Children and Adolescents With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 2"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 135,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04156321",
+          "briefTitle": "Moringa Oleifera (Drumstick Leaves) for Improving Haemoglobin, Vitamin A Status and Underweight Among Adolescent Girls in Rural Bangladesh: A Quasi-experimental Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Assess the Impact of Moringa Leaves on Serum Heamoglobin and Vitamin A Level Among the Adolescent Girls"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 226,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "12 Years",
+          "maximumAge": "14 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02004704",
+          "briefTitle": "A Long-Term Study of Olipudase Alfa in Patients With Acid Sphingomyelinase Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sphingomyelin Lipidosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05503849",
+          "briefTitle": "Born In Guangzhou Intervention Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Outcomes", "Child Development", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03075644",
+          "briefTitle": "A Trial to Evaluate the Safety of Once Weekly Dosing of Somapacitan (NNC0195-0092) and Daily Norditropin® FlexPro® for 52 Weeks in Previously Human Growth Hormone Treated Japanese Adults With Growth Hormone Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Growth Hormone Disorder", "Adult Growth Hormone Deficiency"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 62,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06250192",
+          "briefTitle": "Educational TOolS for Pregnant Women With Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 502,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05672433",
+          "briefTitle": "Long-term Metabolic Effects of Cafestol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity, Abdominal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04395326",
+          "briefTitle": "Monitoring of Metabolic Adverse Events of Second Generation Antipsychotics in a Naive Pediatric Population"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adverse Drug Event"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02226198",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Rosuvastatin in Children and Adolescents With Homozygous Familial Hypercholesterolemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Homozygous Familial Hypercholesterolemia (HoFH)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04102189",
+          "briefTitle": "A Research Study on How Well Semaglutide Works in Adolescents With Overweight or Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 201,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03667664",
+          "briefTitle": "PREPA PREvention of Loss of Autonomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mobility Limitation", "Physical Activity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 530,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04215107",
+          "briefTitle": "Fetal Distribution of Feto-placental Blood Flow Related to Placental Nutrient Transport and Maternal Food Intake"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Growth Restriction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years",
+          "maximumAge": "58 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04193371",
+          "briefTitle": "Effects of Acupuncture on Body Mass Index in Overweight and Obese Women With Polycystic Ovary Syndrome (PCOS )"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["PCOS", "Overweight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06372119",
+          "briefTitle": "Letrozole-stimulated Cycle Strategy Versus Artificial Cycle Strategy (LETSACT)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Embryo Transfer", "Irregular Menstruation", "Letrozole", "Hormone Replacement Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 790,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "42 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03206788",
+          "briefTitle": "Losartan and Inflammation in Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06486194",
+          "briefTitle": "Preemie Milk Analyser Validation Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Term", "Breast Milk Expression", "Nutrition Disorder, Infant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02918279",
+          "briefTitle": "Effect of Liraglutide for Weight Management in Pubertal Adolescent Subjects With Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-08-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolism and Nutrition Disorder", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 251,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06954142",
+          "briefTitle": "Restricted Versus Liberal Fluid Intake for Prevention of Bronchopulmonary Dysplasia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchopulmonary Dysplasia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05485402",
+          "briefTitle": "Dietary Strategy to Tackle Sarcopenia in Early Elderly Subjects (FOOP-Sarc)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sarcopenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01355159",
+          "briefTitle": "High Dose Folic Acid Supplementation Throughout Pregnancy for Preeclampsia Prevention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-04"
+          },
+          "completionDateStruct": {
+            "date": "2016-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Complications", "Preeclampsia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2464,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05123677",
+          "briefTitle": "Cardiac Output Monitoring to Predict Pre-Eclampsia and Restricted Growth (COMPaRE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fetal Growth Retardation", "Pre-Eclampsia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06879652",
+          "briefTitle": "The Effect of Dairy Intake on Body Weight and Composition and Metabolic Health in Adolescents and Seniors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dairy Consumption", "Metabolic Health", "Obesity Prevention"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "14 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01273584",
+          "briefTitle": "Metformin in Obese Non-diabetic Pregnant Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-10"
+          },
+          "completionDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Complications", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "19 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01353391",
+          "briefTitle": "Metformin in Women With Type 2 Diabetes in Pregnancy Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-05-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03811561",
+          "briefTitle": "A Research Study to Look at How Semaglutide Compared to Placebo Affects Diabetic Eye Disease in People With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-11-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07240012",
+          "briefTitle": "Automated Insulin Delivery Versus Usual Insulin Treatment Modality Before and During Pregnancy in Women With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabete Type 1", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 305,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05308927",
+          "briefTitle": "French Registry of Children Treated With Norditropin® for Short Stature Associated With Noonan Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-17",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Noonan Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05228925",
+          "briefTitle": "GraviD-child Follow-up of the Children´s Health, Growth and Development Within the GraviD-study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vitamin D Deficiency", "Body Composition", "Vascular Health", "Cardiometabolic Risk"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 172,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "7 Years",
+          "maximumAge": "9 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04580433",
+          "briefTitle": "Time-restricted Feeding for Treating Polycystic Ovary Syndrome (PCOS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Polycystic Ovary Syndrome", "Overweight", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03887117",
+          "briefTitle": "Effect of Switching From Cigarette Smoking to IQOS on Exercise Capacity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Smoking", "Exercise Capacity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 94,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04216446",
+          "briefTitle": "Mobile Health (m-Health) Coaching Program During Pregnancy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 306,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06689501",
+          "briefTitle": "12-Week Trial Investigating L-carnitine Tartrate, Dihydrocapsiate and Protein Yeast Hydrolysate on Energy Intake and Expenditure in Overweight Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Overweight and Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06422130",
+          "briefTitle": "Ningbo Maternity-Child Linked Database Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnant Women", "Children"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 325596,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04330339",
+          "briefTitle": "Prolonged Nightly Fasting in Breast Cancer Survivors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fasting", "Breast Cancer", "Survivorship", "Breast Cancer Recurrent"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05293353",
+          "briefTitle": "Neokare Safety and Tolerability Assessment in Neonates With GI Problems"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-06-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["NEC", "Gastroschisis", "Intestinal Perforation", "Atresia, Intestinal", "Hirschsprung Disease", "Exomphalos", "Volvulus", "Anorectal Malformations", "Meconium Ileus", "Cows Milk Allergy", "Preterm"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "maximumAge": "44 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07012629",
+          "briefTitle": "A EUROpean Randomized Study on Blood-thinners and Cholesterol-lowering Treatments to Prevent Future Vascular Events in People With Covert Brain Infarcts (CBI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2040-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Covert Brain Infarction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1652,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03537365",
+          "briefTitle": "Bovine Colostrum as a Fortifier Added to Human Milk for Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Growth", "Necrotizing Enterocolitis", "Late-Onset Sepsis", "Feeding Intolerance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 252,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Days",
+          "maximumAge": "3 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05720169",
+          "briefTitle": "Fetal, Obstetrics and Reproduction Genomics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preeclampsia", "Intrauterine Growth Restriction", "Placental Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05870878",
+          "briefTitle": "Generation R Next - Optimaal Opgroeien"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-11-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy Early", "Outcome, Adverse Birth", "Lifestyle Factors", "Preconception Care", "Pregnancy Outcome", "Pregnancy Complications", "Risk Reduction Behavior"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06425549",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Ustekinumab in Children and Adolescents From 6 Years to Less Than 18 Years of Age With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-11-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Moderate to Severe Plaque Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03644355",
+          "briefTitle": "Asthma and Obesity Diet Versus Exercise"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-05-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-08-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity, Childhood", "Asthma in Children", "Inflammatory Response", "Metabolic Syndrome", "Nutrition Poor", "Physical Activity", "Behavior, Eating", "Molecular Biology, Restriction Fragment Length Polymorphisms", "Maternal Exposure", "Genetic Change"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years",
+          "maximumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03883607",
+          "briefTitle": "Elafibranor, PK and Safety in Children and Adolescents 8 to 17 Years of Age With Non Alcoholic Steatohepatitis (NASH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non Alcoholic Steatohepatitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00542620",
+          "briefTitle": "Comparison of Insulin Detemir and Insulin Aspart in 2 Separate Injections Twice Daily to Extemporaneous Mixing Injection Regimen Twice Daily - The Paediatric Mixing Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "completionDateStruct": {
+            "date": "2009-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02670915",
+          "briefTitle": "Efficacy and Safety of Faster-acting Insulin Aspart Compared to NovoRapid® Both in Combination With Insulin Degludec in Children and Adolescents With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 834,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Year",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02914314",
+          "briefTitle": "Pharmacokinetic Study With an Oral Suspension of Perampanel as Adjunctive Therapy in Pediatric Subjects With Epilepsy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-04-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Epilepsy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04085484",
+          "briefTitle": "Effects of Two Different Parenteral Nutrition Regimes on Nutrient Intakes, Growth and Plasma Electrolytes in Very Low Birth Weight Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nutrition Disorder, Infant"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 134,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "28 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04614779",
+          "briefTitle": "Long-term Clinical Study of CN128 in Thalassemia Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Thalassemia", "Iron Overload"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 18,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04520490",
+          "briefTitle": "Brain Activation and Satiety in Children 2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Childhood Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 63,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01169103",
+          "briefTitle": "Effect of Recombinant Human Growth Hormone (rhGH) on Abdominal Fat and Cardiovascular Risk in Obese Girls"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "13 Years",
+          "maximumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04715204",
+          "briefTitle": "Gastrointestinal Tolerance of Under-five Children With Severe Acute Malnutrition to ONS Compared to F-75/F-100"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Acute Malnutrition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Months",
+          "maximumAge": "60 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06378268",
+          "briefTitle": "PPOS vs GnRH Antagonist in Ovarian Stimulation (ProGanOS Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Progestins Primed Ovarian Stimulation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 626,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06910475",
+          "briefTitle": "Physical Exercise and Biomolecular Analysis to Reduce Uremic Toxins in Chronic Kidney Disease: An Exploratory Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2035-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Kidney Disease, Chronic", "Kidney Failure Chronic"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01696279",
+          "briefTitle": "A Study to Assess the Pharmacokinetics of Lanthanum Carbonate, Investigate and Compare the Efficacy, Safety and Tolerability of Lanthanum Carbonate With Calcium Carbonate in Hyperphosphataemic Children and Adolescents With Chronic Kidney Disease on Dialysis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Kidney Disease", "Hyperphosphatemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 63,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02855268",
+          "briefTitle": "Study of Lademirsen (SAR339375) in Patients With Alport Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Alport Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03062761",
+          "briefTitle": "A Clinical Study to Investigate the Effects of an Infant Formula Containing Partially Hydrolysed Proteins on Growth, Safety and Tolerance in Healthy Term Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 380,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "14 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06676566",
+          "briefTitle": "Information, Follow-up and Early Diagnosis of Children at Risk for Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2034-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 1 Diabetes Mellitus", "Stage 2 Type 1 Diabetes", "Stage 1 Type 1 Diabetes", "Stage 3 Type 1 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02901496",
+          "briefTitle": "Ectopic Adipose Tissue, Exercise Training and IL-6"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "completionDateStruct": {
+            "date": "2018-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adiposity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 83,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03814694",
+          "briefTitle": "Cut Down on Carbohydrate Usage in the Diet of Type 2 Diabetes. The Hypo-energetic Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 2", "Overweight and Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02330549",
+          "briefTitle": "ORION: Effects of Cenicriviroc on Insulin Sensitivity in Subjects With Prediabetes or Type 2 Diabetes Mellitus (T2DM) and Suspected NAFLD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prediabetic State", "Non-alcoholic Fatty Liver Disease", "Type 2 Diabetes Mellitus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05940675",
+          "briefTitle": "Generation Healthy Kids: A Cluster-randomized Trial of a Multi-component, Multi-setting Intervention"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Childhood Obesity", "Well-Being, Psychological", "Physical Inactivity", "Sleep", "Screen Time", "Diet Habit"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1372,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04520971",
+          "briefTitle": "Closed-loop Insulin Delivery in Pregnant Women With Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type1 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06255782",
+          "briefTitle": "An Open-label Study to Investigate ECUR-506 in Male Babies Less Than 9 Months of Age With Neonatal Onset OTC Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ornithine Transcarbamylase Deficiency", "Ornithine Transcarbamylase Deficiency Disease", "Ornithine Carbamoyltransferase Deficiency (Disorder)", "Urea Cycle Disorders, Inborn"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "24 Hours",
+          "maximumAge": "7 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02713568",
+          "briefTitle": "Estimation of Fetal Weight by MR Imaging to PREdict Neonatal MACROsomia (PREMACRO Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-03-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fetal Macrosomia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2413,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04809350",
+          "briefTitle": "Human Milk Fortification With Adjustable Versus Targeted Method"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02773927",
+          "briefTitle": "Combination of Metformin/Inulin vs Inulin on Adiponectin in Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04627688",
+          "briefTitle": "Optimization of Diet Before Surgery (OptiSurg)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Surgery", "Time Restricted Feeding"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02883127",
+          "briefTitle": "Motivational Interviewing With Focus on Diet and Weight Gain in Pregnant Women With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type 2 Diabetes", "Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 189,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05726227",
+          "briefTitle": "A Research Study on How Well Semaglutide Helps Children and Teenagers With Excess Body Weight Lose Weight"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 210,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06030388",
+          "briefTitle": "Strength and Aerobic Training Against Hot Flushes in Postmenopausal Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postmenopausal Symptoms", "Hot Flashes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03165643",
+          "briefTitle": "The DNA Methylation of ARHGEF11 in Macrosomia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-10-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gestational Diabetes", "Diabetes", "Macrosomia, Fetal"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 239,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06187012",
+          "briefTitle": "Hypertension Explored in Long-term Postpartum Follow-up in Later Life"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2042-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertension", "Cardiovascular Diseases", "Cerebrovascular Disorders", "Vascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "30 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06081387",
+          "briefTitle": "The Effect of Aerobic and Resistance Training in Patients With Type 2 Diabetes on Vitamin D Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04891315",
+          "briefTitle": "Measuring sVAP-1 as a Predictor of Pregnancy Problems"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pregnancy Complications"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03257085",
+          "briefTitle": "CALIBER Phase 1: A Pilot Study in Normal-weight and Overweight Adults."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-03-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-12-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiometabolic Risk"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04718896",
+          "briefTitle": "A Study to Assess the Pharmacokinetics, Safety, and Efficacy of Two Doses of Bimekizumab in Adolescent Study Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-03-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Moderate to Severe Plaque Psoriasis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 41,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02970942",
+          "briefTitle": "Investigation of Efficacy and Safety of Three Dose Levels of Subcutaneous Semaglutide Once Daily Versus Placebo in Subjects With Non-alcoholic Steatohepatitis."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-03-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hepatobiliary Disorders", "Non-alcoholic Steatohepatitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 320,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07231341",
+          "briefTitle": "Insulin Resistance in Gestational Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes Mellitus (GDM)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03501082",
+          "briefTitle": "Rewilding the Human Gut: Reintroduction of the Species Limosilactobacillus Reuteri"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Microbial Colonization"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00630487",
+          "briefTitle": "Efficacy of Somatropin in Adult Patients With Isolated Growth Hormone Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-05"
+          },
+          "completionDateStruct": {
+            "date": "2008-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth Hormone Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06327191",
+          "briefTitle": "EMERGE Mothers and Kids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gestational Diabetes"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 321,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06304233",
+          "briefTitle": "The Protein Disrupted in Schizophrenia 1 (DISC1) as a Novel Biomarker for Cardiac Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2038-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Heart Diseases", "Heart; Functional Disturbance", "Schizophrenia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04456192",
+          "briefTitle": "Effects of an Indoor Cycling Program on Cardio-Metabolic Factors in Women With Obesity and Normal Body Weight"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Dyslipidemias", "Hypertension", "Type 2 Diabetes", "Endothelial Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "30 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00658359",
+          "briefTitle": "Extension Study Of Subjects From Study A3921030 For The Prevention Of Acute Rejection In Kidney Transplant Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Kidney Transplantation"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 178,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06993103",
+          "briefTitle": "Pasteurised Donor Human Milk Supplementation for Term Babies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Neonatal Hypoglycemia", "Metabolic Complication", "Cows Milk Allergy", "Hospital Length of Stay", "Neonatal Intensive Care Unit", "Breastfeeding", "Mental Health Issue"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1444,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Hours",
+          "maximumAge": "48 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03009695",
+          "briefTitle": "Transcranial Magnetic Stimulation (TMS) in Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2018-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity", "Food Craving", "Appetite and General Nutritional Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03761186",
+          "briefTitle": "Comparison of Low, Moderate and High Carbohydrate Diet on Insulin Requirements and Metabolic Control in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type1diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 103,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06152588",
+          "briefTitle": "Restricted Eating Time in the Treatment of Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03938727",
+          "briefTitle": "Cardiovascular Risk Factors, Aging and Dementia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dementia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 195,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04462367",
+          "briefTitle": "Northeast COVID-19 and Pregnancy Study Group"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-20",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID19", "Coronavirus Infection", "Pregnancy Disease", "Severe Acute Respiratory Syndrome"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00866619",
+          "briefTitle": "Efficacy of GSK Biologicals' Candidate Malaria Vaccine 257049 Against Malaria Disease in Infants and Children in Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15459,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Weeks",
+          "maximumAge": "17 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05459909",
+          "briefTitle": "The Effect of Synbiotic and Diet Modification Among Overweight or Obese Hong Kong Chinese"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "95 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05074836",
+          "briefTitle": "Milk Supplementation and Bone Health in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bone Density Increased", "Body Height"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 254,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "48 Months",
+          "maximumAge": "83 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04036331",
+          "briefTitle": "Dyad Plus Effectiveness/Feasibility"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Weight Loss", "Pediatric Obesity", "Overweight Adolescents", "Parent-Child Relations", "Family and Household"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02537431",
+          "briefTitle": "Open Label Study of KRN23 on Osteomalacia in Adults With X-linked Hypophosphatemia (XLH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "X-linked Hypophosphatemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 14,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06793930",
+          "briefTitle": "A Tailored, Optimised, and Person-centred Programme to Promote Lifestyle Modification in People with Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolic Syndrome", "Primary Prevention of Atherosclerotic Cardiovascular Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 152,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06266455",
+          "briefTitle": "Individualized Nutrition to Optimize Preterm Infant Growth and Neurodevelopment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2034-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Very Preterm Maturity of Infant", "Very Low Birth Weight Infant"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "4 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05947916",
+          "briefTitle": "Real Time Continuous Glucose Monitoring System in T2DM With Pregnacy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Type2diabetes", "Pregnancy Related", "Continuous Glucose Monitoring", "Time in Range", "Pregnancy Outcome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02688764",
+          "briefTitle": "A Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent Chronic Kidney Disease (CKD) Patients With Hyperphosphataemia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hyperphosphatemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 85,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03811743",
+          "briefTitle": "A Coordinated Parent/Child Dyad Weight Loss Intervention: Dyad Plus (Feasibility)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Weight Loss", "Pediatric Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04783714",
+          "briefTitle": "Investigating Effects of a Novel Nutraceutical on Hypercholesterolaemia in Australian Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hypercholesterolemia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03854656",
+          "briefTitle": "Effect of Time-restricted Eating on Behaviour and Metabolism in Overweight Individuals at High Risk of Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight and Obesity", "PreDiabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04596631",
+          "briefTitle": "A Research Study to Compare a New Medicine Oral Semaglutide to a Dummy Medicine in Children and Teenagers With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetes Mellitus, Type 2"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05223530",
+          "briefTitle": "Prenatal Programming of Childhood Obesity and Cardio Metabolic Disorders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cardiometabolic Diseases", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 750,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "11 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02527993",
+          "briefTitle": "Treatment of Hypoglycemia Following Gastric Bypass Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypoglycemia", "Obesity", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "25 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06422494",
+          "briefTitle": "The Role of the Adrenergic System in Hypoglycaemia Induced Inflammatory Response in People With Type 1 Diabetes and People Without Type 1 Diabetes-RAID-II"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus, Type 1", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02778776",
+          "briefTitle": "Combination of Metformine/Inulin Versus Metformin on Prostate Benign Hyperplasia in Metabolic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metabolic Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06252844",
+          "briefTitle": "The Impact of 6-months of Resistance Training on Brain and Muscle Health in Older Adults With MCI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mild Cognitive Impairment", "Older Adults at High Risk for MCI"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03811535",
+          "briefTitle": "A Research Study in Children With a Low Level of Hormone to Grow. Treatment is Somapacitan Once a Week Compared to Norditropin® Once a Day (REAL4)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth Hormone Deficiency in Children"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01187550",
+          "briefTitle": "Predictive Markers in Chinese Growth Hormone Deficiency (GHD) Children Treated With Saizen®"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-03"
+          },
+          "completionDateStruct": {
+            "date": "2009-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dwarfism, Pituitary"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 214,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03033121",
+          "briefTitle": "Three-times-weekly Versus Daily Growth Hormone (GH) Treatment in naïve GH-deficient Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-01"
+          },
+          "completionDateStruct": {
+            "date": "2017-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Growth Hormone Treatment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07221188",
+          "briefTitle": "A Clinical Study to Investigate the Safety and Tolerability of Efimosfermin Alfa Injection in Participants With Known or Suspected F2- or F3-stage MASH"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-10-31",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non-alcoholic Fatty Liver Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1250,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05009433",
+          "briefTitle": "HIIT vs MICT During Pregnancy and Health and Birth Outcomes in Mothers and Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy", "Postpartum", "Childbirth", "Health Status", "Physical Fitness", "Noncommunicable Diseases", "Metabolism", "Diabetes Mellitus, Gestational", "Pregnancy Induced Hypertension", "Body Composition", "Back Pain", "Pain Threshold", "Biomechanics", "Pelvic Floor Disorders", "Urinary Incontinence", "Cognitive Function", "Depression", "Anxiety"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03512665",
+          "briefTitle": "Evaluation of the Impact of a Nutritional Supplement Made of Vegetable Oils in People at Risk of Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Insulin Resistance"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02581813",
+          "briefTitle": "Does Dairy Benefit Bone & Body Composition in Overweight Girls Undergoing a Weight Management Program?"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05"
+          },
+          "completionDateStruct": {
+            "date": "2019-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Overweight", "Obesity", "Children"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06115122",
+          "briefTitle": "PEPPI Study: Identification of Women at Risk for Placental Dysfunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2041-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pre-Eclampsia", "Intrauterine Growth Restriction", "Polycystic Ovary Syndrome", "Iron-deficiency", "Cardiovascular Diseases", "Hypertensive Disorder of Pregnancy", "Proteinuria in Pregnancy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05917873",
+          "briefTitle": "Metabolic Effects of Four-week Lactate-ketone Ester Supplementation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-09-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06820281",
+          "briefTitle": "Acute Metabolic Effects of Tirzepatide in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 1 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05835596",
+          "briefTitle": "MumCare: Mum's Cardiovascular Health for Life"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypertensive Disorder of Pregnancy", "Preeclampsia", "Gestational Hypertension", "Gestational Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 400,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03865628",
+          "briefTitle": "Ultrasound Evaluation of Fetal Hemodynamics and Perinatal Complications"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intrauterine Growth Restriction", "Small-for-gestational Age"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04127994",
+          "briefTitle": "Glycemic Variability Comparing Two vs Six Meals in Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-08-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes Mellitus Type 2", "Overweight and Obesity", "Meal Time"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05843175",
+          "briefTitle": "Maternal ExeRcIse Timing to Optimise Postprandial Glucose in Type 1 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pregnancy in Diabetic", "Type 1 Diabetes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05114096",
+          "briefTitle": "Single Dose of Antenatal Corticosteroids for Pregnancies at Risk of Preterm Delivery (SNACS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Preterm Birth", "Premature Birth", "Complication of Prematurity", "Obstetric Labor, Premature", "Pregnancy Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3254,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06815978",
+          "briefTitle": "Validation of an Algorithm for the Diagnosis of Sarcopenic Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sarcopenic Obesity"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05999136",
+          "briefTitle": "Effects of Pulses Through the Gut Microbiome and Bioavailability of Bioactive Compounds"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-16",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lifestyle-related Condition"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04846036",
+          "briefTitle": "The KHENERGYC Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Mitochondrial Diseases", "Mitochondrial DNA tRNALeu(UUR) m.3243A<G Mutation", "MELAS", "Subacute Necrotizing Encephalomyelopathy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07045844",
+          "briefTitle": "Effects of Enteral Feeding Regimens on NEC, Mortality, and Neurodevelopment in Very Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Very Preterm Infant", "Necrotizing Enterocolitis (NEC)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2324,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Day",
+          "maximumAge": "14 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05744193",
+          "briefTitle": "Feeding Study in VLBW Premature Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "VLBW - Very Low Birth Weight Infant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "168 Days",
+          "maximumAge": "224 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06367985",
+          "briefTitle": "CAPA-IVM Culture With Low Oxygen Tension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "In Vitro Fertilization"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "42 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03764605",
+          "briefTitle": "Metformin vs Tolvaptan for Treatment of Autosomal Dominant Polycystic Kidney Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "ADPKD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03523728",
+          "briefTitle": "A Medical Research Study Designed to Determine if Venglustat Can be a Future Treatment for ADPKD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Polycystic Kidney, Autosomal Dominant"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 478,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06018077",
+          "briefTitle": "Chemerin in Colorectal Cancer and Its Relationship With Diet Quality"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Colorectal Cancer", "Diet, Healthy", "Diet Habit", "Nutrition Aspect of Cancer", "Inflammation"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 104,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06886048",
+          "briefTitle": "Effects of Barley Green on Visceral Fat Area in the Human Body and Investigation Into the Associated Mechanism of Intestinal Microbiota"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["People With High Body Fat Percentage", "People With High Visceral Fat Area"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06946004",
+          "briefTitle": "Normobaric Oxygen Therapy in Colorectal Cancer Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-11-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Colorectal Cancer (CRC)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 254,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03693287",
+          "briefTitle": "Personalized vs Standardized PN for Preterm Infants >1250g"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-10-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Infant,Premature", "Parenteral Nutrition", "Growth"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "189 Days",
+          "maximumAge": "258 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00623194",
+          "briefTitle": "Safety Follow-up on Children and Adolescents With Type 1 Diabetes Treated With Insulin Detemir. An Extension to Trial NN304-1689"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-02"
+          },
+          "completionDateStruct": {
+            "date": "2009-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Diabetes", "Diabetes Mellitus, Type 1"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 146,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "3 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05754645",
+          "briefTitle": "The Microbiome in (Non-) Obese Pregnancy and Pregnancy Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-21",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obesity, Maternal", "Pregnancy Complications", "Gut Microbiota"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 110,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      }
+    ]
+  }
+}

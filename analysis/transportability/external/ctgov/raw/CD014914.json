@@ -1,0 +1,6223 @@
+{
+  "query": "continuous severity analysis nasal",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03125421",
+          "briefTitle": "Prevention of Pressure Sores in the Prone Position in ARDS Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pressure Sores"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07065799",
+          "briefTitle": "Respiratory Strategies in COPD Patients With Persistent Hypercapnia Following Exacerbation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COPD", "Hypercapnia", "Exacerbation Copd"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01945593",
+          "briefTitle": "BAX 855 Continuation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemophilia A"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 218,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01140451",
+          "briefTitle": "Extension Study of Ataluren (PTC124) in Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-12-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 191,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06902181",
+          "briefTitle": "Observation of Inhalation of CXMCI-01 Essential Oil on Patients With Mild Cognitive Impairment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mild Cognitive Impairment"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02725411",
+          "briefTitle": "Long Term Safety and Efficacy Study of Tanezumab in Japanese Adult Subjects With Chronic Low Back Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-05-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Low Back Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 277,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02995837",
+          "briefTitle": "Cerebral Blood Flow and Childhood Obstructive Sleep Apnea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 47,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03381196",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Pimodivir in Combination With the Standard-of-Care Treatment in Adolescent, Adult, and Elderly Non-Hospitalized Participants With Influenza A Infection Who Are at Risk of Developing Complications"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza A"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 553,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05986370",
+          "briefTitle": "The METRIC Study Protocol"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Low-back Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04851561",
+          "briefTitle": "Post-coronavirus Disease-2019 Fatigue"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Covid19", "Post-COVID / Long-COVID"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 144,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03792880",
+          "briefTitle": "Global Self-management Telematic Support for Patients With Obstructive Sleep Apnea."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Obstructive Sleep Apnea", "Telemedicine", "Compliance, Patient"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02458300",
+          "briefTitle": "Clinical Evaluation of the Response to Chest Physiotherapy in Children With Acute Bronchiolitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-01"
+          },
+          "completionDateStruct": {
+            "date": "2015-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiolitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 77,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06474793",
+          "briefTitle": "Aromatherapy Applied to Intensive Care Nurses Effect on Fatigue and Sleep Quality"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aromatherapy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05131217",
+          "briefTitle": "Effects of Acute Exercise Intensity on Cerebral Blood Flow and Cognitive Function in Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-05-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aging Well"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 13,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03862950",
+          "briefTitle": "A Trial of Metformin in Individuals With Fragile X Syndrome (Met)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-05-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Fragile X Syndrome", "Fragile X Mental Retardation Syndrome", "Mental Retardation, X-Linked", "Genetic Diseases, X-Linked", "Trinucleotide Repeat Expansion", "Fra(X) Syndrome", "Intellectual Disability", "FXS", "Neurobehavioral Manifestations", "Sex Chromosome Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "35 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02509117",
+          "briefTitle": "First-In-Human Study Of Single And Multiple Ascending Doses Of PF-06751979"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy Subjects"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03359473",
+          "briefTitle": "Study to Evaluate the Safety and Efficacy of 13 Weeks of the Selective Androgen Receptor Modulator (SARM) GSK2881078 in Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-11-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cachexia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 97,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05265273",
+          "briefTitle": "A Study of Nipocalimab in Children Aged 2 to Less Than 18 Years With Generalized Myasthenia Gravis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06-26",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Myasthenia Gravis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 12,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00359073",
+          "briefTitle": "Effect of Montelukast on Experimentally-Induced RV16 Infection in Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06548802",
+          "briefTitle": "Efficacy and Safety of Baricitinib in the Post-intracerebral Hemorrhage Pulmonary Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pulmonary Injury After Intracerebral Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02351856",
+          "briefTitle": "A Rollover Study of ARRY-371797 in Patients With LMNA-Related Dilated Cardiomyopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "LMNA-Related Dilated Cardiomyopathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04508257",
+          "briefTitle": "The Effect of a New Infant Formula on Growth and Cognition in Healthy Term Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Child Development"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "30 Days",
+          "maximumAge": "30 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06644144",
+          "briefTitle": "P4O2 ILD Extension"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Interstitial Lung Disease", "Pulmonary Fibrosis", "Interstitial Lung Fibrosis", "IPF", "Pulmonary Fibrosis, Idiopathic", "Pulmonary Fibrosis Idiopathic Familial", "Chronic Hypersensitivity Pneumonitis", "Unclassifiable ILD", "Idiopathic NSIP", "CTD-ILD"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07249996",
+          "briefTitle": "Respiratory Infections in Young Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-05-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Tract Infections (RTI)", "Lower Respiratory Tract Infection (LRTI)", "Viral Infections", "Cohort Study"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1088,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "29 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01231620",
+          "briefTitle": "A Study of Intravenous Zanamivir Versus Oral Oseltamivir in Adults and Adolescents Hospitalized With Influenza"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-03-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza, Human"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 626,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05941923",
+          "briefTitle": "Respiratory Critical Care Nurse Training Program"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Morality", "Treatment Compliance"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "95 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05625620",
+          "briefTitle": "Cerebellar-spinal Transcranial Pulsed Current Stimulation (tPCS) for Treatment of Neurodegenerative Ataxia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cerebellar Ataxia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01969344",
+          "briefTitle": "Study of COPD Subgroups and Biomarkers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11"
+          },
+          "completionDateStruct": {
+            "date": "2031-06-17",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COPD", "Chronic Obstructive Pulmonary Disease", "Chronic Bronchitis", "Emphysema"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 2981,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06703515",
+          "briefTitle": "Awake Transnasal Laser-assisted Surgery (TNLS) and Microlaryngeal Surgery for Vocal Cord Cyst"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vocal Cord Cyst"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01805037",
+          "briefTitle": "Brentuximab Vedotin + Rituximab as Frontline Therapy for Pts w/ CD30+ and/or EBV+ Lymphomas"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adult Grade III Lymphomatoid Granulomatosis", "Adult Nasal Type Extranodal NK/T-cell Lymphoma", "Anaplastic Large Cell Lymphoma", "Angioimmunoblastic T-cell Lymphoma", "Contiguous Stage II Adult Burkitt Lymphoma", "Contiguous Stage II Adult Diffuse Large Cell Lymphoma", "Contiguous Stage II Adult Diffuse Mixed Cell Lymphoma", "Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma", "Contiguous Stage II Adult Immunoblastic Large Cell Lymphoma", "Contiguous Stage II Adult Lymphoblastic Lymphoma", "Contiguous Stage II Grade 1 Follicular Lymphoma", "Contiguous Stage II Grade 2 Follicular Lymphoma", "Contiguous Stage II Grade 3 Follicular Lymphoma", "Contiguous Stage II Mantle Cell Lymphoma", "Contiguous Stage II Marginal Zone Lymphoma", "Contiguous Stage II Small Lymphocytic Lymphoma", "Cutaneous B-cell Non-Hodgkin Lymphoma", "Epstein-Barr Virus Infection", "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue", "Hepatosplenic T-cell Lymphoma", "Intraocular Lymphoma", "Nodal Marginal Zone B-cell Lymphoma", "Noncontiguous Stage II Adult Burkitt Lymphoma", "Noncontiguous Stage II Adult Diffuse Large Cell Lymphoma", "Noncontiguous Stage II Adult Diffuse Mixed Cell Lymphoma", "Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma", "Noncontiguous Stage II Adult Immunoblastic Large Cell Lymphoma", "Noncontiguous Stage II Adult Lymphoblastic Lymphoma", "Noncontiguous Stage II Grade 1 Follicular Lymphoma", "Noncontiguous Stage II Grade 2 Follicular Lymphoma", "Noncontiguous Stage II Grade 3 Follicular Lymphoma", "Noncontiguous Stage II Mantle Cell Lymphoma", "Noncontiguous Stage II Marginal Zone Lymphoma", "Noncontiguous Stage II Small Lymphocytic Lymphoma", "Noncutaneous Extranodal Lymphoma", "Peripheral T-cell Lymphoma", "Post-transplant Lymphoproliferative Disorder", "Progressive Hairy Cell Leukemia, Initial Treatment", "Recurrent Adult Burkitt Lymphoma", "Recurrent Adult Diffuse Mixed Cell Lymphoma", "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma", "Recurrent Adult Grade III Lymphomatoid Granulomatosis", "Recurrent Adult Hodgkin Lymphoma", "Recurrent Adult Immunoblastic Large Cell Lymphoma", "Recurrent Adult Lymphoblastic Lymphoma", "Recurrent Adult T-cell Leukemia/Lymphoma", "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma", "Recurrent Grade 1 Follicular Lymphoma", "Recurrent Grade 2 Follicular Lymphoma", "Recurrent Grade 3 Follicular Lymphoma", "Recurrent Mantle Cell Lymphoma", "Recurrent Marginal Zone Lymphoma", "Recurrent Mycosis Fungoides/Sezary Syndrome", "Recurrent Small Lymphocytic Lymphoma", "Refractory Hairy Cell Leukemia", "Small Intestine Lymphoma", "Splenic Marginal Zone Lymphoma", "Stage I Adult Burkitt Lymphoma", "Stage I Adult Diffuse Large Cell Lymphoma", "Stage I Adult Diffuse Mixed Cell Lymphoma", "Stage I Adult Diffuse Small Cleaved Cell Lymphoma", "Stage I Adult Hodgkin Lymphoma", "Stage I Adult Immunoblastic Large Cell Lymphoma", "Stage I Adult Lymphoblastic Lymphoma", "Stage I Adult T-cell Leukemia/Lymphoma", "Stage I Cutaneous T-cell Non-Hodgkin Lymphoma", "Stage I Grade 1 Follicular Lymphoma", "Stage I Grade 2 Follicular Lymphoma", "Stage I Grade 3 Follicular Lymphoma", "Stage I Mantle Cell Lymphoma", "Stage I Marginal Zone Lymphoma", "Stage I Small Lymphocytic Lymphoma", "Stage IA Mycosis Fungoides/Sezary Syndrome", "Stage IB Mycosis Fungoides/Sezary Syndrome", "Stage II Adult Hodgkin Lymphoma", "Stage II Adult T-cell Leukemia/Lymphoma", "Stage II Cutaneous T-cell Non-Hodgkin Lymphoma", "Stage IIA Mycosis Fungoides/Sezary Syndrome", "Stage IIB Mycosis Fungoides/Sezary Syndrome", "Stage III Adult Burkitt Lymphoma", "Stage III Adult Diffuse Large Cell Lymphoma", "Stage III Adult Diffuse Mixed Cell Lymphoma", "Stage III Adult Diffuse Small Cleaved Cell Lymphoma", "Stage III Adult Hodgkin Lymphoma", "Stage III Adult Immunoblastic Large Cell Lymphoma", "Stage III Adult Lymphoblastic Lymphoma", "Stage III Adult T-cell Leukemia/Lymphoma", "Stage III Cutaneous T-cell Non-Hodgkin Lymphoma", "Stage III Grade 1 Follicular Lymphoma", "Stage III Grade 2 Follicular Lymphoma", "Stage III Grade 3 Follicular Lymphoma", "Stage III Mantle Cell Lymphoma", "Stage III Marginal Zone Lymphoma", "Stage III Small Lymphocytic Lymphoma", "Stage IIIA Mycosis Fungoides/Sezary Syndrome", "Stage IIIB Mycosis Fungoides/Sezary Syndrome", "Stage IV Adult Burkitt Lymphoma", "Stage IV Adult Diffuse Large Cell Lymphoma", "Stage IV Adult Diffuse Mixed Cell Lymphoma", "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma", "Stage IV Adult Hodgkin Lymphoma", "Stage IV Adult Immunoblastic Large Cell Lymphoma", "Stage IV Adult Lymphoblastic Lymphoma", "Stage IV Adult T-cell Leukemia/Lymphoma", "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma", "Stage IV Grade 1 Follicular Lymphoma", "Stage IV Grade 2 Follicular Lymphoma", "Stage IV Grade 3 Follicular Lymphoma", "Stage IV Mantle Cell Lymphoma", "Stage IV Marginal Zone Lymphoma", "Stage IV Small Lymphocytic Lymphoma", "Stage IVA Mycosis Fungoides/Sezary Syndrome", "Stage IVB Mycosis Fungoides/Sezary Syndrome", "T-cell Large Granular Lymphocyte Leukemia", "Testicular Lymphoma", "Untreated Hairy Cell Leukemia", "Waldenström Macroglobulinemia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05346302",
+          "briefTitle": "Persistent Readiness Through Early Prediction Immunization Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Inflammatory Response"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 249,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05011916",
+          "briefTitle": "The Safety and Efficacy of KDR2-2 Suspension Eye Drops in the Treatment of Corneal Neovascularization"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Corneal Neovascularization"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05111912",
+          "briefTitle": "Effects of XW003 Versus Liraglutide on Body Weight of Adult Participants With Obesity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 206,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03944447",
+          "briefTitle": "Outcomes Mandate National Integration With Cannabis as Medicine"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Pain", "Chronic Pain Syndrome", "Chronic Pain Due to Injury", "Chronic Pain Due to Trauma", "Fibromyalgia", "Seizures", "Hepatitis C", "Cancer", "Crohn Disease", "HIV/AIDS", "Multiple Sclerosis", "Traumatic Brain Injury", "Sickle Cell Disease", "Post Traumatic Stress Disorder", "Tourette Syndrome", "Ulcerative Colitis", "Glaucoma", "Epilepsy", "Inflammatory Bowel Diseases", "Parkinson Disease", "Amyotrophic Lateral Sclerosis", "Chronic Traumatic Encephalopathy", "Anxiety", "Depression", "Insomnia", "Autism", "Opioid-use Disorder", "Bipolar Disorder", "Covid19", "SARS-CoV Infection", "COVID-19", "Corona Virus Infection", "Coronavirus"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "7 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03353467",
+          "briefTitle": "Endoscopic Nasopharyngectomy for Newly Diagnosed Stage I Nasopharyngeal Carcinoma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nasopharyngeal Carcinoma", "Endoscopic Surgery", "Primary Napharyngeal Carcinama", "Stage I Nasopharyngeal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 228,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01479621",
+          "briefTitle": "A Study of the Effectiveness and Safety of Different Doses of Fluticasone Propionate Taken From a Dry Powder Inhaler in Adolescents and Adults Who Have Asthma That is Not Controlled by Asthma Medications Not Containing Steroids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 909,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06374446",
+          "briefTitle": "Effect of Virtual Reality in Patients With Long Covid-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-04-20",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 56,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02392624",
+          "briefTitle": "A Study of the Efficacy and Safety of Omalizumab Through 48 Weeks in Participants With Chronic Idiopathic Urticaria"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urticaria"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 206,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04816721",
+          "briefTitle": "A Study to Evaluate EDP 938 Regimens in Children With RSV"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-04-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus (RSV)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 99,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "28 Days",
+          "maximumAge": "36 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05694026",
+          "briefTitle": "Management of DE With IPL in Combination With DQS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01181323",
+          "briefTitle": "Post-Partum Immunization With Live Attenuated Influenza Vaccine (LAIV) or Trivalent Influenza Vaccine (TIV) in Post-Partum Breast Feeding Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "49 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00119015",
+          "briefTitle": "The Addition of Montelukast to Fluticasone in the Treatment of Perennial Allergic Rhinitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-07"
+          },
+          "completionDateStruct": {
+            "date": "2009-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rhinitis, Allergic, Perennial"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05886647",
+          "briefTitle": "Non-invasive Neustimulation and Respiratory Rehabilitation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Diseases"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00224406",
+          "briefTitle": "Repertaxin in Prevention of Primary Graft Dysfunction After Lung Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2007-09-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Ischemia-Reperfusion Injury", "Lung Transplantation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 114,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04878731",
+          "briefTitle": "Study to Evaluate Safety and Tolerability of a Single Dose of PF-06741086 in Chinese Adult Participants With Severe Hemophilia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-08-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Hemophilia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 6,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02004704",
+          "briefTitle": "A Long-Term Study of Olipudase Alfa in Patients With Acid Sphingomyelinase Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sphingomyelin Lipidosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03880474",
+          "briefTitle": "Efficacy of Candidate Influenza Vaccine MVA-NP+M1 in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-01-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2364,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06087900",
+          "briefTitle": "Effect of Different Exercise Modalities Training in Patients With Obstructive Sleep Apnea."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-07-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03232138",
+          "briefTitle": "Clinical Trial of Lung Cancer Chemoprevention With Sulforaphane in Former Smokers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-02-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lung Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 43,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03105297",
+          "briefTitle": "To Characterize the Performance of the Nasal Dilator Strip in Lowering Nasal Resistance During Sleep, Promoting Nasal Route Breathing and Reducing the Signs and Symptoms of Sleep Disordered Breathing in a Group of Chronic Nocturnal Nasal Congestion Sufferers Who Report Trouble With Their Sleep."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-08-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sleep Disordered Breathing", "Congestion, Nasal"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 91,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05559905",
+          "briefTitle": "Respiratory Syncytial Virus (RSV) Human Challenge Study of Molnupiravir in Healthy Participants (MK-4482-017)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 116,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03500939",
+          "briefTitle": "Penumbral Rescue by Normobaric O2 Administration in Patients With Ischemic Stroke and Target Mismatch ProFile"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Ischemic Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 223,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05870371",
+          "briefTitle": "The Effect of the Feldenkrais Method on Pain and Function in Patients With Chronic Neck Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-26",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neck Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06100601",
+          "briefTitle": "Autonomic Dysfunction in Functional Dysphonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Functional Voice Disorder", "Psychogenic Voice Disorder", "Muscle Tension Dysphonia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04642638",
+          "briefTitle": "Safety, Immunogenicity, and Efficacy of INO-4800 for COVID-19 in Adults at High Risk of SARS-CoV-2 Exposure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-09-13",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronavirus Infection", "Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)", "COVID-19 Disease"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1307,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01525550",
+          "briefTitle": "A Study Of The Efficacy And Safety Of Sunitinib In Patients With Advanced Well-Differentiated Pancreatic Neuroendocrine Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-07-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Well-differentiated Pancreatic Neuroendocrine Tumor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 106,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00635089",
+          "briefTitle": "Open-Label Extension Study of Reslizumab in Pediatric Subjects With Eosinophilic Esophagitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Eosinophilic Esophagitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 190,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04071366",
+          "briefTitle": "A Study of Itacitinib for the Prevention of Cytokine Release Syndrome Induced by Immune Effector Cell Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-08-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cytokine Release Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05094661",
+          "briefTitle": "Predictors of Non-invasive Respiratory Support Failure in COVID-19 Pneumonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-11-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Noninvasive Ventilation", "Covid19", "Distress; Respiratory Syndrome, Adult"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 135,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06210373",
+          "briefTitle": "Assessment of Efficacy and Safety of the Use of Two Eye Gel Products Containing 5% Dexpanthenol in Patients With Moderate to Severe Dry Eye Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-11-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 124,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06974006",
+          "briefTitle": "Life Monitoring for Rural Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aged 60 Years or Older"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 82,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07214636",
+          "briefTitle": "Development and Investigation of the ApneaTheraPlay"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Apnea, Obstructive", "Exercise Addiction", "Physiotherapy and Rehabilitation"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 54,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04647461",
+          "briefTitle": "Comparison of Efficacy and Ocular Surface Disease Assessment Between BRIDIN-T Eye Drops 0.15% and ALPHAGAN-P Eye Drops 0.15% in Glaucoma or Ocular Hypertensive Patients : Phase 4, Parallel Group Design, Investigator-blind, Active-control, Randomized, Multi-center Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-01-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Glaucoma", "Ocular Hypertensive"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06996951",
+          "briefTitle": "Sinonasal Therapies and Histologic Correlations of Patients With Cystic Fibrosis in the Era of Highly Effective Modulator Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cystic Fibrosis (CF)", "Chronic Rhinosinusitis (CRS)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01262677",
+          "briefTitle": "Once-A-Day Pregabalin For Partial Seizures"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-02-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2012-08-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Partial Seizures", "Epilepsies, Partial"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 325,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03614273",
+          "briefTitle": "Nebulized Hypertonic Saline (3%) Versus Nebulized Adrenaline for Treatment of Bronchiolitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-02-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiolitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "2 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07061444",
+          "briefTitle": "Effects of Different Inspiratory Muscle Training Protocols in Hematopoietic Stem Cell Transplant Recipients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hematopoietic Stem Cell Transplantation (HSCT)", "Pulmonary Rehabilitation", "Inspiratory Muscle Training"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07006064",
+          "briefTitle": "Preventing Hypoxia in Sedated TAVI: SuperNO₂VA vs. Conventional Oxygen"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-25",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Aortic Stenosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05208528",
+          "briefTitle": "Effect of the Probiotic ES1 and Its Inactivated Form (HT-ES1) Over Symptomatology Asociated With Allergic Rhinitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-03-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03525678",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Two Doses of GSK2857916 in Participants With Multiple Myeloma Who Have Failed Prior Treatment With an Anti-CD38 Antibody"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 221,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04621123",
+          "briefTitle": "Plasma for Early Treatment in Non-hospitalised Mild or Moderate COVID-19 Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["SARS-CoV-2 Infection", "Safety and Efficacy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 384,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07079527",
+          "briefTitle": "Effects of Manual Positive End Expiratory Pressure and Non-invasive Continuous Positive Air Pressure in COPD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-28",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COPD"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02280473",
+          "briefTitle": "A Safety and Efficacy Study of Refresh Optive® Gel Drops in Patients With Dry Eye Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-03-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye Syndromes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 188,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06827379",
+          "briefTitle": "Acute Effects of Inspiratory Muscle Training on Peripheral Muscle Metabolism and Autonomic Response in COPD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03170271",
+          "briefTitle": "A Study of the Safety and Effectiveness of Benralizumab to Treat Patients With Severe Uncontrolled Asthma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 660,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05878925",
+          "briefTitle": "Nasal Olfactory Stimulation and Its Effect on Respiratory Drive in Preterm Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Apnea of Prematurity", "Prematurity", "Infant, Premature, Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "72 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06110897",
+          "briefTitle": "RESISTance Exercise for Depression Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Major Depressive Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06506474",
+          "briefTitle": "Low-value Care, and Variation in Practice for Children Hospitalized With Bronchiolitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchiolitis"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "28 Days",
+          "maximumAge": "12 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03191071",
+          "briefTitle": "An Algorithm to Decide on Antibiotic Prescription in Lower Respiratory Tract Infection in Primary Care"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Lower Resp Tract Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 469,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03766269",
+          "briefTitle": "Dronabinol Opioid Sparing Evaluation (DOSE) Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 280,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02263482",
+          "briefTitle": "Inspiratory Muscle and Peripheral Muscle Training in Chronic Heart Failure"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-10"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Heart Failure"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06016946",
+          "briefTitle": "Friedreich Ataxia Global Clinical Consortium UNIFIED Natural History Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2048-01-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Friedreich Ataxia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 3000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02544373",
+          "briefTitle": "CPAP to Treat Cognitive Dysfunction in MS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-06-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 135,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05369143",
+          "briefTitle": "The Effects of Chiropractic Care and Children With Subclinical Spinal Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Subclinical Spinal Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 107,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03282019",
+          "briefTitle": "Study of Long-term HFNC for COPD Patients with HOT"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06269237",
+          "briefTitle": "Point of Care Test of LTA Level in Tear Fluid, Measured With a POCT Test, in DE Patients Following IPL Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-22",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00803205",
+          "briefTitle": "Study of Ataluren (PTC124™) in Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-11-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystic Fibrosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 238,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03010761",
+          "briefTitle": "Establishment of Cessation Therapy by Clinical Trials for Subjects With Betel-quid Dependence and Oral Pre-cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Addiction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "14 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07207772",
+          "briefTitle": "EIT-guided PEEP Titration Versus Standard Ventilation in Bariatric Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Electrical Impedance Tomography (EIT)", "Postoperative Pulmonary Complications (PPCs)", "Recruitment", "Mechanical Ventilation Complication", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 118,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00552032",
+          "briefTitle": "Efficacy and Safety of Mometasone Furoate Nasal Spray in Children With Adenoid Hypertrophy. SNORE Study (P05155)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Adenoids Hypertrophy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04128592",
+          "briefTitle": "Non-invasive Differential Diagnosis of Noisy Breathing Infants and Toddlers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-10-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Noisy Breathing Infants", "Noist Breathing Toddlers", "Wheezing", "Rattling"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Months",
+          "maximumAge": "18 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06292325",
+          "briefTitle": "Psychological Aspects in OSA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Osa Syndrome"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 246,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06735378",
+          "briefTitle": "Exercise Preconditioning to Protect Against Dialysis-induced Cardiac Injury"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hemodialysis", "Cardioprotection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02310763",
+          "briefTitle": "A Phase 2 Study to Evaluate the Safety, Efficacy, Pharmacokinetics and Pharmacodynamics of PF-06252616 in Duchenne Muscular Dystrophy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-11-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Duchenne Muscular Dystrophy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "6 Years",
+          "maximumAge": "15 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06949839",
+          "briefTitle": "Effectiveness of Therapeutic Exercise Combined With Respiratory Muscle Training in Patients With Subacute Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stroke"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04488081",
+          "briefTitle": "I-SPY COVID-19 TRIAL: An Adaptive Platform Trial for Critically Ill Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-31",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-07-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02556801",
+          "briefTitle": "Efficacy and Safety of SUBLIVAC Phleum for Immunotherapy of Grass Pollen-Allergy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Allergic Rhinitis", "Allergic Rhinoconjunctivitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05915806",
+          "briefTitle": "Enteral High-dose DHA Supplementation on Bronchopulmonary Dysplasia in Very Preterm Infants: a Collaborative Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchopulmonary Dysplasia", "Child Development", "Neonatal and Perinatal Conditions"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1801,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "14 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04165135",
+          "briefTitle": "An Observational Study to Evaluate Physical Activity, Bleeding Incidence and Health Related Quality of Life, in Participants With Haemophilia A Without Inhibitors Receiving Standard of Care Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Hereditary Factor VIII Deficiency Disease Without Inhibitor", "Moderate Hereditary Factor VIII Deficiency Disease Without Inhibitor", "Haemophilia A"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 103,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03656510",
+          "briefTitle": "Study to Evaluate Safety and Antiviral Activity of Doses of JNJ-53718678 in Children (>=28 Days to <=3 Years) With Respiratory Syncytial Virus Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus Infections"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 246,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "28 Days",
+          "maximumAge": "3 Years"
+        }
+      }
+    ],
+    "protocolSection.1": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04869033",
+          "briefTitle": "Effects of Farinelli's Breathing Exercise in COPD Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08-27",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COPD Patients"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "51 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04815018",
+          "briefTitle": "Shifts in the Respiratory Microbiome and Clinical Outcomes of SARS-CoV-2"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["SARS-CoV-2 Infection", "Bacterial Respiratory Tract Infection", "Viral Respiratory Tract Infection"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 185,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07119593",
+          "briefTitle": "Exercise Intensity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Dialysis", "Cardioprotection"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01261390",
+          "briefTitle": "Sleep Apnea Intervention for Cardiovascular Disease Reduction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "completionDateStruct": {
+            "date": "2014-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obstructive Sleep Apnea"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 169,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "45 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06030414",
+          "briefTitle": "A Study to Determine the Tolerability of Intranasal LMN-301"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-04-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05474079",
+          "briefTitle": "Exercise Training & Statins for Cardiovascular Health"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-07-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Risk Reduction", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00358527",
+          "briefTitle": "Mometasone Furoate on Sleep Disturbances in Subjects With Seasonal Allergic Rhinitis (Study P04608) (COMPLETED)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-05"
+          },
+          "completionDateStruct": {
+            "date": "2006-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Seasonal Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 401,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01087203",
+          "briefTitle": "A Study Of The Analgesic (Pain-Relief) Effects Of Tanezumab In Adult Patients With Diabetic Peripheral Neuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-03-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2011-07-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Diabetic Peripheral Neuropathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 73,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06163794",
+          "briefTitle": "Multidimensional Phenotyping Towards Personalized Preventive Nutritional Support for Elderly People"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Non Dependant 60 to 75 Year-old Men and Women"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00845026",
+          "briefTitle": "A Safety Study Comparing LY2140023 to Atypical Antipsychotic Standard Treatment in Schizophrenic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-03"
+          },
+          "completionDateStruct": {
+            "date": "2010-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 261,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03756766",
+          "briefTitle": "Understanding RSV: Severe Disease and the Long Term Consequences"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-11",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Virus (RSV)"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 315,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "maximumAge": "12 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01385748",
+          "briefTitle": "Efficacy and Safety Study of Clonidine Lauriad® to Treat Oral Mucositis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Oral Mucositis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 183,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03099304",
+          "briefTitle": "A Study of INCB018424 Phosphate Cream in Subjects With Vitiligo"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-06-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-09-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Vitiligo"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 157,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06248320",
+          "briefTitle": "Sigh Ventilation on Postoperative Hypoxemia in Cardiac Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Hypoxemia", "Postoperative Complications", "Cardiac Disease", "Acute Lung Injury"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 192,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07199179",
+          "briefTitle": "Link Between Reduction of Suicide Ideation by Esketamine in Add-On and Initial Levels of Psychological Pain and Anhedonia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-24",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Depression - Major Depressive Disorder", "Depression Disorder", "Suicide"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 456,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03333317",
+          "briefTitle": "A Study to Evaluate the Antiviral Activity, Clinical Outcomes, Safety, Tolerability, and Pharmacokinetics of Orally Administered Lumicitabine (JNJ-64041575) Regimens in Hospitalized Infants and Children Aged 28 Days to 36 Months Infected With Respiratory Syncytial Virus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Respiratory Syncytial Viruses"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "28 Days",
+          "maximumAge": "36 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03441815",
+          "briefTitle": "XC8 Safety, Tolerability and Pharmacokinetics in Healthy Volunteers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-07-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05369156",
+          "briefTitle": "The Effects of Chiropractic Care in Adults With Subclinical Spinal Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Subclinical Spinal Pain"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00621894",
+          "briefTitle": "Oral LGD-4665 Versus Placebo in Adults With Immune Thrombocytopenic Purpura (ITP) for 6 Weeks Plus Open Treatment Continuation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-03-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-05-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Immune Thrombocytopenic Purpura"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 23,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05923528",
+          "briefTitle": "Comparison of Non-pharmaceutical Treatments for Evaporative Dry Eye"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2023-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 116,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06421402",
+          "briefTitle": "K-HEALTH in AIR - Barcelona Pilot - Cohort"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Severe Asthma", "COPD"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04878770",
+          "briefTitle": "NMF-CsA-Dupi Trial"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dermatitis, Atopic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 318,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01049217",
+          "briefTitle": "Pregabalin Versus Placebo In The Treatment Of Neuropathic Pain Associated With HIV Neuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2012-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Neuropathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 377,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03745937",
+          "briefTitle": "A Study to Evaluate the Safety and Tolerability of MEDI0382 in Overweight and Obese Participants With Type 2 Diabetes Mellitus"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "74 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01096784",
+          "briefTitle": "IGF-1/IGFBP3 Prevention of Retinopathy of Prematurity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-06-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-03-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Retinopathy of Prematurity (ROP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "1 Day"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03049358",
+          "briefTitle": "Olfactory Training in Improving Sense of Smell After Radiation Therapy in Patients With Paranasal Sinus or Nasopharyngeal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stage 0 Nasopharyngeal Carcinoma", "Stage 0 Paranasal Sinus Cancer", "Stage I Nasopharyngeal Carcinoma", "Stage I Paranasal Sinus Cancer", "Stage II Nasopharyngeal Carcinoma", "Stage II Paranasal Sinus Cancer", "Stage IIA Nasopharyngeal Carcinoma", "Stage IIB Nasopharyngeal Carcinoma", "Stage III Nasopharyngeal Carcinoma", "Stage III Paranasal Sinus Cancer", "Stage IV Nasopharyngeal Carcinoma", "Stage IV Paranasal Sinus Cancer", "Stage IVA Nasopharyngeal Carcinoma", "Stage IVA Paranasal Sinus Cancer", "Stage IVB Nasopharyngeal Carcinoma", "Stage IVB Paranasal Sinus Cancer", "Stage IVC Nasopharyngeal Carcinoma", "Stage IVC Paranasal Sinus Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "19 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07253532",
+          "briefTitle": "Vibrotactile Balance Belt Effect on Improving Gait"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2030-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Vestibular Hypofunction", "Ataxia - Other", "Gait Impairment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07202780",
+          "briefTitle": "The Relationship Between Mechanical Properties of Respiratory and Lower Extremity Muscles and Other Parameters in Multiple Sclerosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Multiple Sclerosis", "Breath Tests", "MyotonPRO"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04100486",
+          "briefTitle": "Non-Invasive Bioelectronic Analytics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-29",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-09",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Autonomic Dysfunction", "Autonomic Imbalance", "Autonomic Nervous System Diseases", "Vagus Nerve Autonomic Disorder"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01238861",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of MEDI-563 in Adults With Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "completionDateStruct": {
+            "date": "2013-08",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 964,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05038202",
+          "briefTitle": "Study of Bencycloquidium Bromide Nasal Spray in the Treatment of Moderate-severe Persistent Allergic Rhinitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04258839",
+          "briefTitle": "Brexpiprazole in Treatment of Children and Adolescents With Irritability Associated With Autism Spectrum Disorder for Subjects That Have Completed Participation in 331-201-00148"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-03-16",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Irritability Associated With Autism Spectrum Disorder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 95,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06415890",
+          "briefTitle": "Effect of 4-7-8 Breathıng Technıque on Shoulder Paın and Respıratory Functıon Tests After Laparoscopıc Cholesectectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-07-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Laparoscopic Cholecystectomy", "Breathing Exercise", "Pulmonary Function Test", "Shoulder Pain", "Surgical Nursing", "4-7-8 Breathing Technique"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06236490",
+          "briefTitle": "Validation of Blood Oxygen Level Test in Well-trained Athletes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Athletic Performance"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01830946",
+          "briefTitle": "Nighttime Macronutrient Choice and Combined Resistance and High-intensity Interval Training"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-09"
+          },
+          "completionDateStruct": {
+            "date": "2012-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 59,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06683261",
+          "briefTitle": "Real-life Evaluation of the Efficacy of Biologicals in Chronic Rhinosinusitis With Nasal Polyposis (CRSwNP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-09-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Rhinosinusitis With Nasal Polyps (CRSwNP)", "Chronic Rhinosinusitis (CRS)"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04327388",
+          "briefTitle": "Sarilumab COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-09-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Corona Virus Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 420,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04111965",
+          "briefTitle": "Clinical Trial to Compare the Safety and Efficacy of Nanodrop®"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 126,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06970964",
+          "briefTitle": "Fermented Milk Drink With Lacticaseibacillus Paracasei Strain Shirota Helps Triathletes With Cold-Like Symptoms Before and After a Race"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-08-21",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Respiratory Tract Infections (RTI)", "Mucosal Immunity", "Systemic Inflammation", "Depressive Disorder", "Exercise-Induced Immunosuppression", "Athletic Performance", "Upper Respiratory Tract Symptoms", "Mental Health", "Cytokine Response", "Probiotic Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "25 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04368377",
+          "briefTitle": "Enhanced Platelet Inhibition in Critically Ill Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Pneumonia, Viral", "Corona Virus Infection", "Respiratory Failure", "Embolism and Thrombosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 5,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05704101",
+          "briefTitle": "NHFT Effects on Symptatheic Drive of Asthma Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07262177",
+          "briefTitle": "Dance-Mindfulness Intervention for Well-Being in Recreational Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Healthy Volunteers", "Health Promotion"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02935166",
+          "briefTitle": "Innovations in Respiratory Muscles Training in Patients With Chronic Obstructive Pulmonary Disease. (INNOTORIO)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COPD", "Respiratory Muscles", "Training"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01429051",
+          "briefTitle": "A Clinical Trial With Intranasal Fentanyl in Cancer Patients With Breakthrough Pain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-08"
+          },
+          "completionDateStruct": {
+            "date": "2013-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Break Through Pain", "Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 46,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03401229",
+          "briefTitle": "Efficacy and Safety Study of Benralizumab for Patients With Severe Nasal Polyposis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-07-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nasal Polyposis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 413,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00601484",
+          "briefTitle": "An Effectiveness and Safety Study of PF-04383119 for the Treatment of Pain in Interstitial Cystitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-03-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2009-04-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cystitis, Interstitial"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 65,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01951118",
+          "briefTitle": "Olfactory Deficits and Donepezil Treatment in Cognitively Impaired Elderly"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer Disease", "Mild Cognitive Impairment", "Delirium, Dementia, Amnestic, Cognitive Disorders"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "95 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01827358",
+          "briefTitle": "Safety and Efficacy of Mupirocin in Eradicating Colonization With S. Aureus in Critically Ill Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04-30"
+          },
+          "completionDateStruct": {
+            "date": "2016-06-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Staphylococcal Infection"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 155,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "24 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06897839",
+          "briefTitle": "Efficacy and Safety of Zelpultide Alfa in Preterm Neonates at High Risk of Developing Bronchopulmonary Dysplasia (BPD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Bronchopulmonary Dysplasia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 366,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "0 Minutes",
+          "maximumAge": "96 Hours"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07025694",
+          "briefTitle": "Exercise Training Among Children With Cerebral Palsy to Increase Health and Well-being - A Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Children With Cerebral Palsy Who Are Ambulant", "Cerebral Palsy GMFCS-ER I-II"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01609556",
+          "briefTitle": "First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Mirvetuximab Soravtansine in Adults With Ovarian Cancer and Other Folate Receptor 1 (FOLR1)-Positive Solid Tumors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-06-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-03-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Tumors"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 206,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02204371",
+          "briefTitle": "Evaluation of Pazopanib on Bleeding in Subjects With Hereditary Haemorrhagic Telangiectasia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-02-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Telangiectasia, Hereditary Hemorrhagic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04895085",
+          "briefTitle": "ReSET Aim 1a: Restarting Safe Education and Testing for Children With Medical Complexity - Feasibility of In-home Cohort COVID-19 Testing Strategies, and Associations With CMC Parent Perceptions About In-person School Attendance"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID-19", "Children With Medical Complexity (CMC)"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06282978",
+          "briefTitle": "Study of Elranatamab for Relapsed or Refractory Myeloma in Patients Previously Exposed to Three-drug Classes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Myeloma in Relapse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04402957",
+          "briefTitle": "LSALT Peptide vs. Placebo to Prevent ARDS and Acute Kidney Injury in Patients Infected With SARS-CoV-2 (COVID-19)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COVID", "Severe Acute Respiratory Syndrome", "Sars-CoV2", "Acute Kidney Injury", "Acute Respiratory Distress Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 61,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02908685",
+          "briefTitle": "A Study to Investigate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Efficacy of Risdiplam (RO7034067) in Type 2 and 3 Spinal Muscular Atrophy (SMA) Participants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-10-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Muscular Atrophy, Spinal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 231,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "2 Years",
+          "maximumAge": "25 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04041284",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Fremanezumab for Preventive Treatment of Migraine in Patients With Major Depressive Disorder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-08-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Migraine", "Major Depressive Disorder"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 353,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04156789",
+          "briefTitle": "Obstructive Sleep Apnoea in Sarcoidosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-10-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Sarcoidosis", "Obstructive Sleep Apnea", "Fatigue", "Sleepiness"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 149,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04614948",
+          "briefTitle": "A Study of Ad26.COV2.S for the Prevention of SARS-CoV-2-mediated COVID-19 in Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Participants With or Without Stable Co-morbidities Associated With Progression to Severe COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 31835,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01817582",
+          "briefTitle": "Lotemax® Gel 0.5% and Restasis 0.05% in Participants With Mild or Moderate Keratoconjunctivitis Sicca (Dry Eye Disease)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2014-01-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Keratoconjunctivitis Sicca"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06534359",
+          "briefTitle": "Transpyloric Versus Gastric Feeding in Bronchopulmonary Dysplasia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-06-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchopulmonary Dysplasia", "Gastroesophageal Reflux"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "12 Months"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06967363",
+          "briefTitle": "Multimodal Imaging and Biospecimen Collection for Low Back Pain (LBPB)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-15",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Low Back Pain (CLBP)", "Acute Low Back Pain", "Low Back Pain", "Chronic Pain", "Acute Pain", "Mental Disorders", "Sleep Disorder", "Fibromyalgia (FM)", "Nociplastic Pain", "Neuropathic Pain", "Nonspecific Low Back Pain"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02532283",
+          "briefTitle": "A Study to Evaluate the Pharmacokinetics, Safety, and Antiviral Activity of JNJ-63623872 in Combination With Oseltamivir in Adult, and Elderly Hospitalized Participants With Influenza A Infection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-12-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-03-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Influenza A Virus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 102,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00750165",
+          "briefTitle": "Auto Continuous Positive Airway Pressure (CPAP) Based Energy Spectrum Analysis of Flow for Treatment of Obstructive Sleep Apnea Hypopnea Syndrome (OSAHS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05"
+          },
+          "completionDateStruct": {
+            "date": "2008-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Sleep Apnea, Obstructive"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00663039",
+          "briefTitle": "Effects of Oxytocin Nasal Spray on Social Affiliation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Schizophrenia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 27,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "64 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05148793",
+          "briefTitle": "N95 Reuse During COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-04-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-31",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Emergency Medicine", "Frontline Providers", "Healthcare Worker"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 412,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02446132",
+          "briefTitle": "Long Term, Extension Study of the Safety and Efficacy of AVP-786 for the Treatment of Agitation in Patients With Dementia of the Alzheimer's Type"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Agitation in Patients With Dementia of the Alzheimer's Type"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1197,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "50 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06473415",
+          "briefTitle": "Electroencephalography and Sleep Quality With Lormetazepam in the Intensive Care Unit"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Critical Illness", "Delirium", "Sleep Disorders, Circadian Rhythm"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02269943",
+          "briefTitle": "Safety and Efficacy of CC-486 in Previously Treated Patients With Locally Advanced or Metastatic Nasopharyngeal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-04-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Nasopharyngeal Neoplasms"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 36,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07127861",
+          "briefTitle": "Effects of Treadmill-Based Gait Training in Patients With Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Gait", "Thermography", "Walking Speed, Mesh id D000072797", "Endurance", "Step Time and Length", "Gait Analysis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 24,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03137225",
+          "briefTitle": "Noninvasive NAVA Versus NIPPV in Low Birthweight Premature Infants"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-04-15",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Noninvasive Ventilation", "Low Birth Weight"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02738567",
+          "briefTitle": "Assessment of Adverse Cardiac Events Using Local Anesthesia With Adrenaline"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-04"
+          },
+          "completionDateStruct": {
+            "date": "2017-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Arrythmia"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06508385",
+          "briefTitle": "The Effect of Perception of Improvement in Patients With Fibromyalgia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Fibromyalgia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "25 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03726086",
+          "briefTitle": "Post-extubation Assessment of Laryngeal Symptoms and Severity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Intubation, Intratracheal", "Critical Illness", "Mechanical Ventilation Complication", "Complication of Ventilation Therapy"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 365,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04899245",
+          "briefTitle": "ReSET Aim 1b: Restarting Safe Education and Testing for Children With Medical Complexity - COVID-19 Testing in School With Children and Staff"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-09-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Children With Medical Complexity (CMC)", "COVID-19"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05064683",
+          "briefTitle": "The Effect of Facilitated Tucking and White Noise on Stress and Sleep of Newborns in Nasal CPAP"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-09-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-02-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Newborn", "Newborn Sleep", "Newborn Stress"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "1 Month"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04382651",
+          "briefTitle": "Study of Efficacy and Safety of MAS825 in Patients With COVID-19"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-06-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-04-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19 Pneumonia, Impaired Respiratory Function"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01763164",
+          "briefTitle": "Study Comparing the Efficacy of MEK162 Versus Dacarbazine in Unresectable or Metastatic NRAS Mutation-positive Melanoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-06-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Metastatic or Unresectable Cutaneous Melanoma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 402,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06956742",
+          "briefTitle": "Intermittent Intrapulmonary Deflation and Dyspnea Following Exercise in People With Chronic Obstructive Pulmonary Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06526910",
+          "briefTitle": "Your Mind Can Exercise Too: Swallowing Motor Imagery Practice"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-08",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dysphagia"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07101640",
+          "briefTitle": "PK, Safety and Preliminary Efficacy Study of Montelukast in Critically Ill Infants With Developing Bronchopulmonary Dysplasia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bronchopulmonary Dysplasia (BPD)", "Premature Births", "Critical Illness"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 28,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "28 Weeks"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01808560",
+          "briefTitle": "Treatment of Meibomian Gland Dysfunction Prior to Cataract Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "completionDateStruct": {
+            "date": "2015-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Blepharitis", "Dry Eye Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 34,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "55 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03347188",
+          "briefTitle": "A Study to Test if Fremanezumab Reduces Headache in Participants With Posttraumatic Headache (PTH)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-12-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Post-Traumatic Headache"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 87,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05552820",
+          "briefTitle": "Electroacupuncture for Mild-to-moderate Dry Eye"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 168,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04351724",
+          "briefTitle": "Austrian CoronaVirus Adaptive Clinical Trial (COVID-19)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-04-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "COVID-19"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03203564",
+          "briefTitle": "Study Evaluating ECG Effects, Safety, Tolerability and Pharmacokinetics of Single Doses of Modufolin (Arfolitixorin) in Healthy Volunteers Tetrahydrofolate in Healthy Male Volunteers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2017-08-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Phase I Study in Healthy Volunteers to Evaluate ECG Effect"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01285648",
+          "briefTitle": "Study of CPAP as Intervention After Lung Resection"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-11"
+          },
+          "completionDateStruct": {
+            "date": "2010-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Lung Cancer", "Pulmonary Complications"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02687191",
+          "briefTitle": "Safety and Tolerability of PF-05230907 in Intracerebral Hemorrhage"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Intracerebral Hemorrhage"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 21,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "79 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01674374",
+          "briefTitle": "Botanical Therapy in Treating Mucositis in Patients With Head and Neck Cancer Who Have Undergone Chemoradiation Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-05"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": ["Mucositis", "Recurrent Squamous Cell Carcinoma of the Hypopharynx", "Recurrent Squamous Cell Carcinoma of the Larynx", "Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity", "Recurrent Squamous Cell Carcinoma of the Nasopharynx", "Recurrent Squamous Cell Carcinoma of the Oropharynx", "Recurrent Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity", "Recurrent Verrucous Carcinoma of the Larynx", "Recurrent Verrucous Carcinoma of the Oral Cavity", "Stage III Squamous Cell Carcinoma of the Hypopharynx", "Stage III Squamous Cell Carcinoma of the Larynx", "Stage III Squamous Cell Carcinoma of the Lip and Oral Cavity", "Stage III Squamous Cell Carcinoma of the Nasopharynx", "Stage III Squamous Cell Carcinoma of the Oropharynx", "Stage III Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity", "Stage III Verrucous Carcinoma of the Larynx", "Stage III Verrucous Carcinoma of the Oral Cavity", "Stage IV Squamous Cell Carcinoma of the Hypopharynx", "Stage IV Squamous Cell Carcinoma of the Nasopharynx", "Stage IVA Squamous Cell Carcinoma of the Larynx", "Stage IVA Squamous Cell Carcinoma of the Lip and Oral Cavity", "Stage IVA Squamous Cell Carcinoma of the Oropharynx", "Stage IVA Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity", "Stage IVA Verrucous Carcinoma of the Larynx", "Stage IVA Verrucous Carcinoma of the Oral Cavity", "Stage IVB Squamous Cell Carcinoma of the Larynx", "Stage IVB Squamous Cell Carcinoma of the Lip and Oral Cavity", "Stage IVB Squamous Cell Carcinoma of the Oropharynx", "Stage IVB Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity", "Stage IVB Verrucous Carcinoma of the Larynx", "Stage IVB Verrucous Carcinoma of the Oral Cavity", "Tongue Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01400932",
+          "briefTitle": "Study STF115288, a Clinical Confirmation Study of GI148512 in the Treatment of Acne Vulgaris in Japanese Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "completionDateStruct": {
+            "date": "2012-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acne Vulgaris"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 360,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07249034",
+          "briefTitle": "Impact of Epilepsy on the Brainstem Adenosine Pathway and Its Relation With Arousal and Respiratory Reactivity"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-03-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Epilepsy", "Drug-resistant Focal Epilepsy", "Healthy Controls"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04502433",
+          "briefTitle": "Poractant Alfa (Curosurf®)) -- Effect in Adult Patients Diagnosed With 2019 Novel Coronavirus (SARS-COV-19; (Covid-19)) Acute Respiratory Distress Syndrome (ARDS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-17",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Acute Respiratory Distress Syndrome"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 22,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04378777",
+          "briefTitle": "Immunophenotyping Assessment in a COVID-19 Cohort"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Coronavirus Disease 2019 (COVID-19)", "SARS-CoV-2"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1227,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01116232",
+          "briefTitle": "Sirolimus, Tacrolimus, Thymoglobulin and Rituximab as Graft-versus-Host-Disease Prophylaxis in Patients Undergoing Haploidentical and HLA Partially Matched Donor Hematopoietic Cell Transplantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-08"
+          },
+          "completionDateStruct": {
+            "date": "2013-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Chronic Myeloproliferative Disorders", "Graft Versus Host Disease", "Leukemia", "Lymphoma", "Lymphoproliferative Disorder", "Multiple Myeloma and Plasma Cell Neoplasm", "Myelodysplastic Syndromes", "Myelodysplastic/Myeloproliferative Neoplasms"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 4,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01135511",
+          "briefTitle": "A Phase II, Dose Ranging Study Of CP-690,550 Eye Drops In Patients With Dry Eye Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2011-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye Syndromes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 285,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06736236",
+          "briefTitle": "The Effect of Respiratory Muscle Warm-up on Pulmonary Diffusion Capacity in Athletes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2025-01-15",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Healty Male Volunteers", "Athlete"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "24 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01664949",
+          "briefTitle": "A Study to Compare the Safety and Efficacy of A New Eye Drop Formulation With OPTIVE™ in Subjects With Dry Eye Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2014-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dry Eye Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 460,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06144476",
+          "briefTitle": "Study of Inflammatory and Physiological Profiles of Healthy and Diseased Lung"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["COPD", "Asthma", "Airway Disease"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

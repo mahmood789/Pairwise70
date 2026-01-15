@@ -1,0 +1,955 @@
+{
+  "query": "months cure improvement incontinence",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT00534365",
+          "briefTitle": "Study Comparing TVT With TVT-SECUR for the Treatment of Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-08"
+          },
+          "completionDateStruct": {
+            "date": "2011-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 281,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "21 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01753011",
+          "briefTitle": "Urethral Length and TOT (Transobturator Tape) Positioning"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-05"
+          },
+          "completionDateStruct": {
+            "date": "2009-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 123,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00136071",
+          "briefTitle": "Transvaginal Tension Free Vaginal Tape-Obturator (TVT-O) Versus Transobturator Tape-Mentor (TOT) in the Management of Urodynamic Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-05"
+          },
+          "completionDateStruct": {
+            "date": "2010-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Stress Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "0 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07000656",
+          "briefTitle": "Micturition Desire-Relaxation Training Device for Lower Urinary Tract Dysfunction in Children"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Daytime Urinary Incontinence", "Urinary Frequency", "Lower Urinary Tract Dysfunction", "Primary Nocturnal Enuresis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "5 Years",
+          "maximumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06924450",
+          "briefTitle": "Effect of Modified Mesh on Surgical Success in Transobturator Tape Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-05-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-11-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stress Urinary Incontinence", "Female Urinary Incontinence", "Pelvic Floor Dysfunction"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 106,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05042453",
+          "briefTitle": "Long-term Evaluation of the Efficacy and Safety of Splentis for the Treatment of Primary Apical Pelvic Organ Prolapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-07",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 140,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00688181",
+          "briefTitle": "The Prefyx PPS™ System eRegistry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-12"
+          },
+          "completionDateStruct": {
+            "date": "2009-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02606201",
+          "briefTitle": "Peri-sphincter Injection of Autologous Myofibres to Treat of Urinary Incontinence by Sphincter Deficiency"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-06",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence by Intrinsic Sphincter Deficiency"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00632138",
+          "briefTitle": "Pelvic Floor Muscle Training and Biofeedback or Standard Therapy in Men Who Have Undergone Radical Prostatectomy or Transurethral Resection of the Prostate"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2005-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Nonmalignant Neoplasm", "Prostate Cancer", "Psychosocial Effects of Cancer and Its Treatment", "Sexual Dysfunction", "Urinary Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 800,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00629083",
+          "briefTitle": "Bulking Agents for the Treatment of Stress Urinary Incontinence in Females"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2013-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 345,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04059653",
+          "briefTitle": "Evaluation of a New Technology for the Treatment of Bladder Leakage in Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence", "Urinary Incontinence, Stress", "Urinary Incontinence, Urge"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03644628",
+          "briefTitle": "Lateral Suspension Versus Sacral Colpopexy POP"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2024-09-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02107820",
+          "briefTitle": "Does Bladder Training Improve the Efficacy of Nerve Stimulation in Women With Refractory Overactive Bladders"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-07-24"
+          },
+          "completionDateStruct": {
+            "date": "2019-03-25",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Overactive Bladder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04658784",
+          "briefTitle": "Barbed Suture Versus Non-Barbed Suture for Posterior Colporrhaphy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-08-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-12-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rectocele"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 72,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04025047",
+          "briefTitle": "A Multi-center Registry Study: The Follow-up the Complications for Trans-vaginal Mesh Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 4147,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01029106",
+          "briefTitle": "Gynecare TVT Secur for the Management of Stress Urinary Incontinence (SUI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-09"
+          },
+          "completionDateStruct": {}
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01725984",
+          "briefTitle": "AMS AdVance and AdVance XP Male Sling Systems for the Treatment of Stress Urinary Incontinence Following Prostatectomy: Evaluation of Safety, Efficacy, and Quality of Life Through Retrospective Chart Review and Prospective Follow-up"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-08"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Urinary Incontinence, Stress", "Intrinsic Sphincter Deficiency"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "40 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01737411",
+          "briefTitle": "Surgical vs. Medical Treatment of Urge Urinary Incontinence in Women"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-01"
+          },
+          "completionDateStruct": {
+            "date": "2018-06",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urge Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01377142",
+          "briefTitle": "Vaginal Uphold Hysteropexy and Laparoscopic Sacral Hysteropexy for the Treatment of Uterovaginal Pelvic Organ Prolapse"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-06"
+          },
+          "completionDateStruct": {
+            "date": "2015-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 148,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01276340",
+          "briefTitle": "Prospective Evaluation of Keat Electrostimulator in the Auto-reeducation of Female Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "completionDateStruct": {
+            "date": "2012-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04734301",
+          "briefTitle": "Intravaginal Electrical Stimulation With Different Treatment Frequency in Women With Idiopathic Overactive Bladder"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-15",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Overactive Bladder"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 52,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03673488",
+          "briefTitle": "To Evaluate the Use of Bioresorbable Tephaflex™ Sling for Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-06-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-08",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01541748",
+          "briefTitle": "Axis™ Allograft Dermis for Female Pelvic Floor Repair: a Prospective Post Market Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-11"
+          },
+          "completionDateStruct": {
+            "date": "2018-11-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 74,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02049840",
+          "briefTitle": "The European Study of Altis Single Incision Sling System for Female Stress Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-12-16",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-07-21",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 153,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01493401",
+          "briefTitle": "Urinary Urinary Nerve Growth Factor (NGF) as a Biomarker for Mixed Urinary Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02"
+          },
+          "completionDateStruct": {
+            "date": "2016-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Mixed Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 137,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03821142",
+          "briefTitle": "Prospective Long-term Evaluation of the Efficacy and Safety of Calistar S for Transvaginal Pelvic Organ Prolapse Repair"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-10",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pelvic Organ Prolapse"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 180,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00856778",
+          "briefTitle": "Virtue® Male Incontinence Sling Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-01"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Stress Urinary Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 98,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03614611",
+          "briefTitle": "Canadian Experience With Contiform Intravaginal Device For The Treatment Of Stress Incontinence"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-14",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Incontinence, Stress"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 39,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00904618",
+          "briefTitle": "Safety and Efficacy Study on the Implantation of the Tension-Free Vaginal Tape (TVT-Secur) Under Local Anesthesia"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-01"
+          },
+          "completionDateStruct": {
+            "date": "2009-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Urinary Stress Incontinence"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05079139",
+          "briefTitle": "Musset's Surgical Technique: Evaluation of Long-term Results (LONGOMUSSET)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-24",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Rectovaginal Fistula", "Obstetric Complication"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 11,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06669468",
+          "briefTitle": "Comparison of the Efficacy of Perineal and Anal Electrical Stimulation in Patients with Urinary Incontinence After Radical Prostatectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-11-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-02-28",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Prostatectomy", "Urinary Incontinence"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 93,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

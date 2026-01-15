@@ -1,0 +1,663 @@
+{
+  "query": "analysis sensitivity excluding rescue",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02879305",
+          "briefTitle": "Anemia Studies in Chronic Kidney Disease: Erythropoiesis Via a Novel Prolyl Hydroxylase Inhibitor Daprodustat-Dialysis (ASCEND-D)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-09-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anaemia", "Aspergillosis, Allergic Bronchopulmonary"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2964,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00026312",
+          "briefTitle": "Isotretinoin With or Without Dinutuximab, Aldesleukin, and Sargramostim Following Stem Cell Transplant in Treating Patients With Neuroblastoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2001-10-18",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-19",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Localized Resectable Neuroblastoma", "Localized Unresectable Neuroblastoma", "Recurrent Neuroblastoma", "Regional Neuroblastoma", "Stage 4 Neuroblastoma", "Stage 4S Neuroblastoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1449,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "maximumAge": "30 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03755934",
+          "briefTitle": "Efficacy and Safety of MEDI7352 in Participants With Painful Diabetic Neuropathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Painful Diabetic Neuropathy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 112,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00599872",
+          "briefTitle": "Efficacy Study of Sublingual Immunotherapy to Treat Ragweed Allergies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-03"
+          },
+          "completionDateStruct": {
+            "date": "2008-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Allergic Rhinitis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 430,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02924688",
+          "briefTitle": "A Phase III Parallel Group Study, Comparing the Efficacy, Safety and Tolerability of the Fixed Dose Combination (FDC) of Fluticasone Furoate+Umeclidinium Bromide+Vilanterol (FF/UMEC/VI) With the FDC of FF/VI in Subjects With Inadequately Controlled Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-02-22",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 2436,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02113436",
+          "briefTitle": "Efficacy and Safety of Fluticasone Propionate(FP)/ Salmeterol Xinafoate (SLM) Hydro Fluoro Alkane (HFA) Metered Dose Inhaler (MDI) in Pediatric Patients With Bronchial Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05-01"
+          },
+          "completionDateStruct": {
+            "date": "2016-10-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Months",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01479621",
+          "briefTitle": "A Study of the Effectiveness and Safety of Different Doses of Fluticasone Propionate Taken From a Dry Powder Inhaler in Adolescents and Adults Who Have Asthma That is Not Controlled by Asthma Medications Not Containing Steroids"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-01"
+          },
+          "completionDateStruct": {
+            "date": "2013-07",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 909,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03012061",
+          "briefTitle": "Phase IIb Study of Umeclidinium (UMEC) Bromide Versus Placebo in Subjects With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-05-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 425,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07171125",
+          "briefTitle": "Liposomal Bupivacaine for Pain After Lumbar Fusion"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Postoperative Acute Pain", "Lumbar Degenerative Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 204,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02099110",
+          "briefTitle": "Ertugliflozin and Sitagliptin Co-administration Factorial Study (VERTIS FACTORAL, MK-8835-005)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04-22",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2016-05-26",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1233,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00441441",
+          "briefTitle": "A 12-Week Study To Assess The Safety Of Fluticasone Propionate/Salmeterol 100/50 Hydrofluoroalkane (HFA) Versus Fluticasone Propionate 100 HFA In Children With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2007-02"
+          },
+          "completionDateStruct": {
+            "date": "2008-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 351,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "4 Years",
+          "maximumAge": "11 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01013753",
+          "briefTitle": "A Study of the Safety and Efficacy of 4 Doses of BI 1744 CL Delivered Via the Respimat in Patients With Asthma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-02"
+          },
+          "completionDateStruct": {
+            "date": "2011-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 198,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05251402",
+          "briefTitle": "Addressing Quality of Life, Clinical Outcomes, and Mechanisms in Uncontrolled Asthma Following the DASH Dietary Pattern"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-09-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 323,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04163991",
+          "briefTitle": "A Study to Evaluate the Safety and Efficacy of VIB4920 in Participants With Rheumatoid Arthritis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-12-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Rheumatoid Arthritis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 78,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01110057",
+          "briefTitle": "Efficacy Study in Lumbosacral Radiculopathy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2010-08-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain, Neuropathic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 142,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01717313",
+          "briefTitle": "A Study to Assess the Safety and Efficacy of Omarigliptin (MK-3102) in Participants With Type 2 Diabetes Mellitus (T2DM) and Inadequate Glycemic Control (MK-3102-011)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-12-05",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-06-19",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes Mellitus"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 329,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01576718",
+          "briefTitle": "A Study of the Effectiveness and Safety of Different Doses of Fluticasone Propionate Taken From a Dry Powder Inhaler (Puffer) in Adolescents and Adults Who Have Asthma That is Not Controlled by High Dose Inhaled Corticosteroid Asthma Medications"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "completionDateStruct": {
+            "date": "2013-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 889,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02094937",
+          "briefTitle": "A Study to Compare the Efficacy and Safety of Fluticasone Furoate (FF) 100 mcg Once Daily With Fluticasone Propionate (FP) 250 mcg Twice Daily (BD) and FP 100 mcg BD in Well-controlled Asthmatic Japanese Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-03-27",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2015-08-28",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Asthma"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 430,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT00658021",
+          "briefTitle": "Safety and Efficacy of Exenatide as Monotherapy and Adjunctive Therapy to Oral Antidiabetic Agents in Adolescents With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-05-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 122,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT01554618",
+          "briefTitle": "Safety and Efficacy Study of Exenatide Once Weekly in Adolescents With Type 2 Diabetes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-12-02",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2021-05-05",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Children and Adolescent With Type 2 Diabetes"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 84,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "10 Years",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03345914",
+          "briefTitle": "Study to Investigate the Efficacy and Safety of Dupilumab Administered With Topical Corticosteroids (TCS) in Participants ≥6 to <12 Years With Severe Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-11-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-09-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dermatitis, Atopic"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 367,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "6 Years",
+          "maximumAge": "11 Years"
+        }
+      }
+    ]
+  }
+}

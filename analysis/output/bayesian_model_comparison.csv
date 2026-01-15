@@ -1,0 +1,9 @@
+Model,Predictors,BIC,LogML_approx,LogML_centered,Posterior_Prob
+M1,log_k,5664.2,-2832.1,-152.1,0
+M2,log_k + I2_scaled,5570.1,-2785.1,-105.1,0
+M3,log_k + tau2,5636.3,-2818.1,-138.1,0
+M4,log_k + effect_abs,5589.2,-2794.6,-114.6,0
+M5,log_k + I2_scaled + tau2,5578.4,-2789.2,-109.2,0
+M6,log_k + I2_scaled + effect_abs,5373.7,-2686.9,-6.90000000000009,0.001
+M7,log_k + tau2 + effect_abs,5453.4,-2726.7,-46.6999999999998,0
+M8,log_k + I2_scaled + tau2 + effect_abs,5359.9,-2680,0,0.999

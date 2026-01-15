@@ -1,0 +1,670 @@
+{
+  "query": "adverse anastomosis cause esophageal",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06013670",
+          "briefTitle": "Standard Therapy and TIPS for Moderate to High-risk Esophageal and Gastric Variceal Bleeding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Portal Hypertension"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07244978",
+          "briefTitle": "Neoadjuvant Ivonescimab（AK112） Combined With Chemotherapy in Patients With Resectable Esophageal Squamous Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2032-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Squamous Cell Carcinoma", "Neoadjuvant Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03587532",
+          "briefTitle": "Assessment of Graft Perfusion and Oxygenation for Improved Outcome in Esophageal Cancer Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-12-13",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Anastomotic Leak", "Esophageal Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03657914",
+          "briefTitle": "Radical Resection of Single-hole Inflatable Mediastinal Mirror Synchronization With Laparoscopic Esophageal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-12",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2019-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophagus Cancer"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 155,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06067438",
+          "briefTitle": "Amiodarone for the Prevention of Atrial Fibrillation After Minimally Invasive Esophagectomy in Patients With Esophageal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-06-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-08-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Atrial Fibrillation", "Esophageal Carcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05659251",
+          "briefTitle": "Serplulimab Combined With Chemotherapy in Patients With Resectable Esophageal Squamous Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Squamous Cell Carcinoma", "Neoadjuvant Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06728657",
+          "briefTitle": "Preoperative HFRT Verses PULSAR for Locally Advanced GEJ or Proximal Gastric Adenocarcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stomach Adenocarcinoma", "Gastro-esophageal Junction Cancer"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 68,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06810648",
+          "briefTitle": "Epidural Analgesia and Intraoperative Fluid Management in Colorectal Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-10-23",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["ERAS", "Colorectal Surgery", "Goal-directed Fluid Therapy", "Conventional Fluid Therapy", "Epidural Analgesia"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 121,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06121700",
+          "briefTitle": "Radiotherapy + Chemoimmunotherapy Followed by Surgery in Patients With Limited Metastatic Gastric or GEJ Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Adenocarcinoma", "Stomach Neoplasm", "Gastroesophageal-junction Cancer", "Oligometastatic Disease", "Metastatic Cancer", "Metastatic Gastric Cancer", "Adenocarcinoma of the Stomach", "Gastroesophageal Junction Adenocarcinoma", "Metastatic Adenocarcinoma"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 55,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02703142",
+          "briefTitle": "Endoscopic Evaluation After Esophagectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "completionDateStruct": {
+            "date": "2016-10",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Neoplasms", "Constriction", "Anastomotic Leak", "Ischemia"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 10,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "84 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06576973",
+          "briefTitle": "Adbelimumab Combined With Chemotherapy and Apatinib in Patients With Resectable Esophageal Squamous Cell Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-08-08",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2031-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Squamous Cell Carcinoma", "Neoadjuvant Treatment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 35,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05606822",
+          "briefTitle": "Endoscopic Vacuum Therapy for Transmural Defects in the Upper Gastrointestinal Tract"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2030-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Endoscopic Vacuum Therapy", "Anastomotic Leak", "Esophageal Perforation", "Esophageal Perforation, Traumatic", "EsoSponge", "VACStent"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02767505",
+          "briefTitle": "Bypass Equipoise Sleeve Trial (BEST)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "completionDateStruct": {
+            "date": "2031-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Severe Obesity"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1752,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06635122",
+          "briefTitle": "TIPS for Platinum-Related Porto-Sinusoidal Vascular Disease With Variceal Bleeding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Porto-Sinusoidal Vascular Disease", "Cirrhosis Due to Hepatitis B", "Esophageal Variceal Rebleeding", "Gastric Variceal Bleeding"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06060106",
+          "briefTitle": "Endoscopic Submucosal Dissection Versus Esophagectomy for Early Esophageal Carcinoma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2011-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2023-01-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Esophageal Cancer"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 191,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04145726",
+          "briefTitle": "Frailty In Thoracic Surgery for Esophageal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-25",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-04-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Frailty"
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "60 Years",
+          "maximumAge": "120 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06097078",
+          "briefTitle": "Endoluminal Vacuum Therapy to Prevent Anastomotic Leakage After Esophagectomy Due to Esophageal Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-10-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Cancer", "Esophagus Cancer", "Anastomotic Leak"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 44,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05055648",
+          "briefTitle": "PROton Versus Photon Therapy for Esophageal Cancer - a Trimodality Strategy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2032-12-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Cancer", "Radiotherapy", "Side Effect", "Proton Therapy"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 396,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05938439",
+          "briefTitle": "Evaluation of the Performance of MAgnetic Gastrointestinal Universal Septotome for Treatment of Candy Cane Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-08-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Blind Loop Syndrome Postoperative", "Candy Cane Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "85 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06374875",
+          "briefTitle": "Fibrosis Lessens After Metabolic Surgery"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Metabolic Dysfunction-associated Steatotic Liver Disease (MASLD)", "Non-Alcoholic Fatty Liver Disease", "Metabolic Dysfunction-Associated Steatohepatitis (MASH)", "Liver Fibrosis", "Obesity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06333665",
+          "briefTitle": "PPIO-007 Correlation Analysis of Type II Diabetes Mellitus on Short-term and Long-term Outcomes of Patients With Esophageal Squamous Cell Cancer Undergoing Minimally Invasive Esophagectomy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-20",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-05-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Esophageal Squamous Cell Carcinoma", "Surgery"]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 605,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

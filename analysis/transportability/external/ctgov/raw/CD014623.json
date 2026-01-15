@@ -1,0 +1,418 @@
+{
+  "query": "adverse nerve action amplitudes",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07221669",
+          "briefTitle": "A Study to Learn About Salanersen's (BIIB115) Effects on Movement and Its Safety When Given Before Symptoms Appear in Babies With Genetically Diagnosed Spinal Muscular Atrophy (SMA)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-01-30",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2032-05-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Muscular Atrophy, Spinal"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "0 Days",
+          "maximumAge": "42 Days"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06055569",
+          "briefTitle": "Efficacy of Rehabilitation Using Action Observation and Muscle Stimulation in Post-stroke Patients."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Stroke Sequelae"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05947578",
+          "briefTitle": "The Safety and Tolerability of CLZ-2002 in Patients With Charcot-Marie Tooth Disease."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-08-09",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Charcot Marie Tooth Disease, Type 1"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 9,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06069687",
+          "briefTitle": "Administration of MELPIDA to Determine the Safety and Efficacy for Patients With Spastic Paraplegia Type 50"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Spastic Paraplegia Type 50"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "0 Years",
+          "maximumAge": "4 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02419378",
+          "briefTitle": "Alemtuzumab in Autoimmune Inflammatory Neurodegeneration: Mechanisms of Action and Neuroprotective Potential"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-06",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2020-11",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Multiple Sclerosis, Relapsing-Remitting"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05859412",
+          "briefTitle": "Mechanisms of Neurodynamic Treatments"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-17",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Carpal Tunnel Syndrome", "Neurodynamic Treatment", "Nerve Mobilisation", "Diffusion MRI", "Physiotherapy", "Mechanistic Trial"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05676944",
+          "briefTitle": "Vestibular Implantation in Older Adults"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Other Disorders of Vestibular Function, Bilateral", "Bilateral Vestibular Deficiency (BVD)", "Gentamicin Ototoxicity", "Labyrinth Diseases", "Vestibular Diseases", "Sensation Disorders", "Bilateral Vestibular Hypofunction", "Bilateral Vestibulopathy", "Presbyvestibulopathy", "Aminoglycoside Ototoxicity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06607900",
+          "briefTitle": "hUC-MSC-sEV-001 Nasal Drops for Neurodegenerative Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alzheimer Disease", "Parkinson Disease", "Lewy Body Dementia", "Multiple System Atrophy", "Fronto-temporal Dementia", "Amyotrophic Lateral Sclerosis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06500975",
+          "briefTitle": "Long Term Outcomes After Vestibular Implantation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2029-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Bilateral Vestibular Hypofunction", "Bilateral Vestibular Deficiency", "Bilateral Vestibulopathy", "Gentamicin Ototoxicity", "Aminoglycoside Toxicity", "Vestibular Diseases", "Sensation Disorders", "Labyrinth Diseases", "Other Disorders of Vestibular Function"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02609165",
+          "briefTitle": "Nerve Growth Factor Eye Drops Treatment in Patients With Retinitis Pigmentosa and Cystoid Macular Edema"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-05"
+          },
+          "completionDateStruct": {
+            "date": "2017-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Retinitis Pigmentosa", "Cystoid Macular Edema"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06598202",
+          "briefTitle": "Exploring Nasal Drop Therapy With Small Extracellular Vesicles for ALS"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-12-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2026-05-30",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Amyotrophic Lateral Sclerosis"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 38,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "80 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05674786",
+          "briefTitle": "Vestibular Implantation to Treat Adult-Onset Bilateral Vestibular Hypofunction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-03-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Other Disorders of Vestibular Function, Bilateral", "Bilateral Vestibular Deficiency (BVD)", "Gentamicin Ototoxicity", "Labyrinth Diseases", "Vestibular Diseases", "Sensation Disorders", "Bilateral Vestibular Hypofunction", "Bilateral Vestibulopathy", "Aminoglycoside Ototoxicity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 8,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "22 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04512690",
+          "briefTitle": "Spinal Cord Stimulation for Restoration of Arm and Hand Function in People With Subcortical Stroke"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-24",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-06-30",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Stroke", "Brain Diseases", "Central Nervous System Diseases", "Nervous System Diseases", "Cardiovascular Diseases"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 7,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "maximumAge": "70 Years"
+        }
+      }
+    ]
+  }
+}

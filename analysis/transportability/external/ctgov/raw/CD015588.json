@@ -1,0 +1,70 @@
+{
+  "query": "hazard ratio nonfatal failure",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT05699915",
+          "briefTitle": "Extensive CArdioVAscular Characterization and Follow-up of Patients Receiving Immune Checkpoint Inhibitors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-07",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-07-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Cancer", "Immune-related Adverse Event", "Cardiac Abnormalities, Variable", "Immune Checkpoint Inhibitor-Related Myocarditis", "Diastolic Dysfunction", "Atherosclerosis", "Cardiotoxicity"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 105,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04329624",
+          "briefTitle": "Effect Levosimendan Administration on Postoperative NT-proBNP in Cardiac Risk Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-10",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-12-18",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Cardiovascular Risk Factor"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 230,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "65 Years",
+          "maximumAge": "85 Years"
+        }
+      }
+    ]
+  }
+}

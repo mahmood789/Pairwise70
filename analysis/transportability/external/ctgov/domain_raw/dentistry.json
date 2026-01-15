@@ -1,0 +1,39 @@
+{
+  "query": "oral prei",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT06408506",
+          "briefTitle": "In-patient Comparison of Immediately Loaded and Non-loaded Submerged and Transgingival Healed Implants Within 4 Months"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-28",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-10-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Jaw, Edentulous"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "20 Years",
+          "maximumAge": "80 Years"
+        }
+      }
+    ]
+  }
+}

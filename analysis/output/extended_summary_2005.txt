@@ -1,0 +1,52 @@
+Extended 2005 summary (significance changes, direction flips, pre vs post)
+
+  min_k_post n_analyses prop_delta_i2_gt0 prop_abs_delta_i2_le_5
+1          2       2957         0.2286101              0.7314846
+2          5       1601         0.2479700              0.7907558
+3         10        837         0.2473118              0.8458781
+  prop_abs_delta_i2_le_10 prop_delta_tau2_gt0 median_delta_i2 mean_delta_i2
+1               0.8038553           0.2343591               0    -1.1293223
+2               0.8713304           0.2517177               0    -0.1791242
+3               0.9199522           0.2616487               0    -0.1899520
+  median_delta_tau2 mean_delta_tau2 median_delta_effect_re
+1                 0      0.85117684           -0.001743821
+2                 0      0.55823523           -0.002557244
+3                 0      0.04070056           -0.003055489
+  median_delta_effect_fe prop_sig_change_all_post prop_sig_loss_all_post
+1           -0.001515460               0.09063240             0.06966520
+2           -0.002227756               0.04934416             0.03935041
+3           -0.002771637               0.04062127             0.03464755
+  prop_sig_gain_all_post prop_sign_flip_all_post n_pre_ok
+1            0.020967196              0.10517416     1943
+2            0.009993754              0.07307933     1167
+3            0.005973716              0.04898447      655
+  median_delta_i2_post_pre mean_delta_i2_post_pre median_delta_tau2_post_pre
+1                        0               1.454463                          0
+2                        0               3.647983                          0
+3                        0               3.798702                          0
+  mean_delta_tau2_post_pre median_delta_effect_post_pre
+1               -4.8087333                  -0.01543097
+2              -10.3745231                  -0.02211047
+3                0.1468394                  -0.03409036
+
+Group summaries (filtered to n >= 30):
+# A tibble: 15 × 8
+   group_type        group_value     min_k_post n_analyses prop_delta_i2_gt0
+   <chr>             <chr>                <dbl>      <int>             <dbl>
+ 1 data_type         binary                   2       2872             0.222
+ 2 data_type         continuous               2         74             0.392
+ 3 measure           MD                       2         74             0.392
+ 4 measure           RR                       2       2869             0.223
+ 5 data_type+measure binary | RR              2       2869             0.223
+ 6 data_type+measure continuous | MD          2         74             0.392
+ 7 k_all_bin         <=5                      2        817             0.201
+ 8 k_all_bin         6-10                     2        959             0.221
+ 9 k_all_bin         11-20                    2        698             0.261
+10 k_all_bin         21-50                    2        416             0.252
+11 k_all_bin         >50                      2         67             0.194
+12 frac_pre_bin      [0,0.25]                 2       1268             0.241
+13 frac_pre_bin      (0.25,0.5]               2       1187             0.226
+14 frac_pre_bin      (0.5,0.75]               2        443             0.194
+15 frac_pre_bin      (0.75,1]                 2         59             0.288
+# ℹ 3 more variables: median_delta_i2 <dbl>, prop_sig_change_all_post <dbl>,
+#   prop_sign_flip_all_post <dbl>

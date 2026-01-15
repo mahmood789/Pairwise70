@@ -1,0 +1,39 @@
+{
+  "query": "hair analysis regrowth sensitivity",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT04238091",
+          "briefTitle": "Clinical Trial to Evaluate the Efficacy of Fecal Microbiota Transplantation in Patients With Alopecia Areata"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-19",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03-02",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Alopecia Areata", "Alopecia Totalis", "Alopecia Universalis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 0,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "75 Years"
+        }
+      }
+    ]
+  }
+}

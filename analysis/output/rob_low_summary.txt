@@ -1,0 +1,17 @@
+Randomization bias filter summary (pre-2005 exclusion)
+
+# A tibble: 9 × 12
+  rob_type        min_k_post n_analyses prop_delta_i2_gt0 prop_abs_delta_i2_le_5
+  <chr>                <dbl>      <int>             <dbl>                  <dbl>
+1 low_only                 2        464             0.276                  0.733
+2 low_only_with_…          2        232             0.276                  0.733
+3 non_high                 2        856             0.236                  0.731
+4 low_only                 5        240             0.333                  0.758
+5 low_only_with_…          5        120             0.333                  0.758
+6 non_high                 5        512             0.227                  0.824
+7 low_only                10        120             0.25                   0.833
+8 low_only_with_…         10         60             0.25                   0.833
+9 non_high                10        332             0.235                  0.898
+# ℹ 7 more variables: prop_abs_delta_i2_le_10 <dbl>, median_delta_i2 <dbl>,
+#   mean_delta_i2 <dbl>, prop_sig_change <dbl>, prop_sig_loss <dbl>,
+#   prop_sig_gain <dbl>, prop_sign_flip <dbl>

@@ -1,0 +1,71 @@
+{
+  "query": "follow postintervention self harm",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT07237893",
+          "briefTitle": "Impact of a Physical Activity Intervention on Cardiometabolic Health, Mental Health, and Lifestyle Factors."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-11-24",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2027-01-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Healthy"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "65 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT07082777",
+          "briefTitle": "Recovery in Telling Life Stories"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-21",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-04-01",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Schizophrenia Disorders", "Personality Disorders", "Obsessive - Compulsive Disorder", "Anxiety Disorders", "Recurrent Depressive Disorder", "PTSD - Post Traumatic Stress Disorder", "Hyperkinetic Disorders", "Eating Disorders", "Bipolar Disorders", "Aspergers Syndrome"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years"
+        }
+      }
+    ]
+  }
+}

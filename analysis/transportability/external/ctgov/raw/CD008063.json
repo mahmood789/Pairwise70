@@ -1,0 +1,70 @@
+{
+  "query": "extent readiness retention substance",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT02733003",
+          "briefTitle": "Implementation Research for Vulnerable Women in South Africa"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2018-12-04",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["HIV", "Substance Abuse"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 564,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03593356",
+          "briefTitle": "Baby's First Years"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-09",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-08-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Child Development", "Brain Development", "Household and Family Processes"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1000,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years"
+        }
+      }
+    ]
+  }
+}

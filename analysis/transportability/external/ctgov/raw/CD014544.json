@@ -1,0 +1,352 @@
+{
+  "query": "hrqol bleeds proportion zero",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03020160",
+          "briefTitle": "A Study to Evaluate the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Emicizumab Given Every 4 Weeks in Participants With Hemophilia A"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-30",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-06-29",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Hemophilia A"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "12 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02319798",
+          "briefTitle": "Telephone Consultation as a Substitute for Routine Out-patient Face-to-face Consultation for Children With Inflammatory Bowel Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "completionDateStruct": {
+            "date": "2014-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Crohn's Disease", "Ulcerative Colitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 86,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "8 Years",
+          "maximumAge": "16 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05353933",
+          "briefTitle": "Efficacy and Safety of Thread Embedding Acupuncture in Treating Gastroesophageal Reflux Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-04",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-07-20",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Gastroesophageal Reflux"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 66,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02248194",
+          "briefTitle": "Tactile Electrosurgical Ablation in Cases of Dysfunctional Uterine Bleeding"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "completionDateStruct": {
+            "date": "2014-12",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Dysfunction Uterine Bleeding"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 108,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "50 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04810377",
+          "briefTitle": "Endoscopic Ultrasound-Guided Gastroenterostomy for Malignant Gastric Outlet Obstruction"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-01",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2025-04-01",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Malignant Gastric Outlet Obstruction"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06788626",
+          "briefTitle": "Glucagon-like Peptide 1 Receptor Agonist in Acute Large Vessel Occlusion Stroke After Endovascular Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-02",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2028-02",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Acute Ischemic Stroke", "Large Vessel Occlusion", "Neuroprotective Drugs", "Endovascular Treatment"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 390,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT04200690",
+          "briefTitle": "Effectiveness of Interdisciplinary Care Compared to Usual Care in Patients With Immune-Mediated Inflammatory Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-14",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2024-01-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": ["Psoriasis", "Psoriatic Arthritis", "Axial Spondyloarthritis", "Hidradenitis Suppurativa", "Crohn Disease", "Ulcerative Colitis"]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 300,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT03401398",
+          "briefTitle": "Stress Hydrocortisone In Pediatric Septic Shock"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-11",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2026-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Septic Shock"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "1 Month",
+          "maximumAge": "17 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT06819956",
+          "briefTitle": "Ketorolac at Lower Doses for Analgesic Pain Control in ICU: A Pilot Feasibility Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-06-23",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2027-12",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Pain Management"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT05653349",
+          "briefTitle": "Study of Ianalumab Versus Placebo in Addition to First-line Corticosteroids in Primary Immune Thrombocytopenia (ITP)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-02-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2028-09-29",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Primary Immune Thrombocytopenia (ITP)"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 226,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years"
+        }
+      },
+      {
+        "identificationModule": {
+          "nctId": "NCT02400229",
+          "briefTitle": "Diagnostic Imaging Strategies for Patients With Stable Chest Pain and Intermediate Risk of Coronary Artery Disease"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-10-03",
+            "type": "ACTUAL"
+          },
+          "completionDateStruct": {
+            "date": "2022-03",
+            "type": "ACTUAL"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Coronary Artery Disease"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 3546,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "30 Years"
+        }
+      }
+    ]
+  }
+}

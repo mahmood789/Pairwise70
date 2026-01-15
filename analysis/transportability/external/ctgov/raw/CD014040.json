@@ -1,0 +1,39 @@
+{
+  "query": "participant bias birth fertilization",
+  "studies": {
+    "protocolSection": [
+      {
+        "identificationModule": {
+          "nctId": "NCT03809221",
+          "briefTitle": "The Effectiveness and Safety of the Prolonged Down-regulation Protocol for Controlled Ovarian Hyperstimulation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-02-01",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2020-12-31",
+            "type": "ESTIMATED"
+          }
+        },
+        "conditionsModule": {
+          "conditions": "Infertility, Female"
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "enrollmentInfo": {
+            "count": 1892,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "20 Years",
+          "maximumAge": "35 Years"
+        }
+      }
+    ]
+  }
+}

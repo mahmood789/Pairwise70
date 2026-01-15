@@ -1,0 +1,29 @@
+
+================================================================================
+EMPIRICAL WEIGHT DERIVATION - COMPLETE
+================================================================================
+
+OPTIMAL WEIGHTS (Data-Driven):
+  Information Fraction: 20% (was 40%)
+  Het-Adjusted Power:   15% (was 30%)
+  Sequential Status:    35% (was 20%)
+  Stability:            30% (was 10%)
+
+VALIDATION:
+  Optimization AUC:     0.988
+  Original AUC:         0.945
+  5-Fold CV AUC:        0.988 (SD: 0.005)
+
+SENSITIVITY (±10% perturbation):
+  Maximum class change: 3.0%
+  Status: ROBUST
+
+KEY FINDING (with empirical weights):
+  Premature conclusions: 12.6% (95% CI: 8.2% - 16.8%)
+
+RECOMMENDATION:
+  Report BOTH original and empirical weights in manuscript.
+  Empirical weights provide data-driven justification.
+
+================================================================================
+
