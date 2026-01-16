@@ -415,14 +415,19 @@ run_comprehensive_simulation <- function(
 #' @param results Data frame from run_comprehensive_simulation()
 #' @return Data frame with aggregated metrics
 compute_performance_metrics <- function(results) {
+  # Convert to data.table if not already
+  if (!is.data.table(results)) {
+    results <- as.data.table(results)
+  }
+
   metrics <- results[, .(
-    bias = abs(mean(estimate, na.rm = TRUE) - true_effect[1]),
+    bias = abs(mean(estimate, na.rm = TRUE) - mean(true_effect[1], na.rm = TRUE)),
     rmse = sqrt(mean((estimate - true_effect)^2, na.rm = TRUE)),
     coverage = mean(covered == TRUE, na.rm = TRUE),
     ci_width = mean(ci_width, na.rm = TRUE),
     coverage_x_width = mean(covered == TRUE, na.rm = TRUE) * mean(ci_width, na.rm = TRUE),
-    type_i_error = if (unique(true_effect) == 0) mean(pvalue < 0.05, na.rm = TRUE) else NA,
-    power = if (unique(true_effect) != 0) mean(pvalue < 0.05, na.rm = TRUE) else NA,
+    type_i_error = if (mean(unique(true_effect)) == 0) mean(pvalue < 0.05, na.rm = TRUE) else NA_real_,
+    power = if (mean(unique(true_effect)) != 0) mean(pvalue < 0.05, na.rm = TRUE) else NA_real_,
     convergence_rate = mean(error == "", na.rm = TRUE),
     n_sim = .N
   ), by = .(scenario, method)]

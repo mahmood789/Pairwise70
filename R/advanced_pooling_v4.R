@@ -591,10 +591,10 @@ swa_meta <- function(yi, vi, selection_function = "step", p_cutoff = 0.05,
 #' @param yi Numeric vector of effect sizes
 #' @param vi Numeric vector of sampling variances
 #' @param trim_estimator Trim-and-fill estimator (default "R0")
-#' @param shrinkage_weight Weight for shrinkage (default 0.5)
+#' @param shrinkage_weight Weight for shrinkage (default 0.2, reduced from 0.5 for better coverage)
 #' @return List with estimate, se, ci_lb, ci_ub, and diagnostics
 #' @export
-tas_meta <- function(yi, vi, trim_estimator = "R0", shrinkage_weight = 0.5) {
+tas_meta <- function(yi, vi, trim_estimator = "R0", shrinkage_weight = 0.2) {
   k <- length(yi)
 
   # Minimum k check
@@ -621,7 +621,13 @@ tas_meta <- function(yi, vi, trim_estimator = "R0", shrinkage_weight = 0.5) {
   )
 
   # Get original and imputed studies
-  n_imputed <- tf_fit$fill$k - k
+  # Check if fill component exists (indicates imputation occurred)
+  if ("fill" %in% names(tf_fit) && !is.null(tf_fit$fill)) {
+    n_imputed <- tf_fit$k - k
+  } else {
+    # No studies were imputed
+    n_imputed <- 0
+  }
   tf_estimate <- as.numeric(coef(tf_fit))
 
   # Step 2: Compute empirical Bayes shrinkage factor
@@ -631,7 +637,9 @@ tas_meta <- function(yi, vi, trim_estimator = "R0", shrinkage_weight = 0.5) {
 
   # Shrinkage factor based on precision
   # More shrinkage when n_imputed is large relative to k
-  shrinkage_factor <- 1 - (n_imputed / (k + n_imputed))
+  # Cap shrinkage to at most 30% (keep at least 70% of TF estimate)
+  shrinkage_factor_raw <- 1 - (n_imputed / (k + n_imputed))
+  shrinkage_factor <- max(0.7, shrinkage_factor_raw)  # At least 70% of TF estimate
 
   # Step 3: Combine trim-and-fill with shrunk estimate
   shrunk_estimate <- shrinkage_factor * tf_estimate + (1 - shrinkage_factor) * orig_estimate
@@ -1118,13 +1126,14 @@ spe_meta <- function(yi, vi, n_samples = 10000, burnin = 1000,
 
   # Step 1: Get initial tau² estimate
   fit_init <- metafor::rma(yi, vi, method = "REML")
-  tau2_init <- fit_init$tau2
+  tau2_init <- max(0.01, fit_init$tau2)  # Ensure minimum
 
   # Step 2: Sample tau² from its posterior
   # Using Metropolis-Hastings
 
-  # Proposal distribution
-  prop_sd <- tau2_init * 0.5
+  # Proposal distribution - use adaptive proposal
+  # Ensure minimum SD for exploration
+  prop_sd <- max(0.02, tau2_init * 0.5)
 
   # Initialize
   tau2_current <- tau2_init
@@ -1157,13 +1166,18 @@ spe_meta <- function(yi, vi, n_samples = 10000, burnin = 1000,
   # Metropolis-Hastings
   accept_count <- 0
   for (i in 1:(n_samples + burnin)) {
-    # Propose new tau²
-    tau2_proposal <- rnorm(1, tau2_current, prop_sd)
-    tau2_proposal <- max(0.001, tau2_proposal)  # Ensure positive
+    # Propose new tau² using log-normal for better positive constraint
+    log_tau2_current <- log(tau2_current)
+    log_tau2_proposal <- rnorm(1, log_tau2_current, 0.3)  # Log-SD for exploration
+    tau2_proposal <- exp(log_tau2_proposal)
+
+    # Ensure positive and not too extreme
+    tau2_proposal <- max(0.001, min(10, tau2_proposal))
 
     # Acceptance probability
     log_alpha <- log_posterior(tau2_proposal, yi, vi, tau_prior) -
-                 log_posterior(tau2_current, yi, vi, tau_prior)
+                 log_posterior(tau2_current, yi, vi, tau_prior) +
+                 log(tau2_proposal) - log(tau2_current)  # Jacobian for log-transform
 
     if (log(runif(1)) < log_alpha) {
       tau2_current <- tau2_proposal
@@ -1187,15 +1201,32 @@ spe_meta <- function(yi, vi, n_samples = 10000, burnin = 1000,
   }
 
   # Step 4: Final estimate and uncertainty
-  estimate <- median(theta_samples)
-  se <- sd(theta_samples)
+  estimate <- mean(theta_samples)  # Use mean for better stability
 
-  # Quantile CI
-  ci_lb <- quantile(theta_samples, 0.025)
-  ci_ub <- quantile(theta_samples, 0.975)
+  # Compute SE that accounts for BOTH sampling uncertainty AND tau² uncertainty
+  # Method 1: Use posterior predictive standard deviation
+  # For each theta sample, compute what the observed yi would be
+  # This is complex, so we use a hybrid approach:
+
+  # Sampling SE (from standard REML)
+  sampling_se <- fit_init$se
+
+  # Parameter uncertainty SE (from theta_samples variation)
+  param_se <- sd(theta_samples)
+
+  # Combine: total SE = sqrt(sampling_se² + param_se²)
+  # This accounts for uncertainty in both the data and the parameter
+  se <- sqrt(sampling_se^2 + param_se^2)
+
+  # Use T-distribution CI
+  df <- max(1, k - 2)
+  t_crit <- qt(0.975, df)
+
+  ci_lb <- estimate - t_crit * se
+  ci_ub <- estimate + t_crit * se
 
   # P-value
-  pvalue <- 2 * (1 - pnorm(abs(estimate / se)))
+  pvalue <- 2 * (1 - pt(abs(estimate / se), df))
 
   list(
     estimate = estimate,
